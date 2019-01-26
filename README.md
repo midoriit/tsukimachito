@@ -1,5 +1,5 @@
 # tsukimachito
-Backup copy of 月待塔 opendata (http://linkdata.org/api/1/rdf1s4819i/tsukimachito.csv)
+月待塔オープンデータ by [月待ビンゴ](https://moon.midoriit.com)
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
