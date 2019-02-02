@@ -50395,5 +50395,819 @@
         <coordinates>140.0091400146,35.7120896100</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091509366568628224</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/iyPdVckRQl</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyXR8gLUUAIDq1N.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/DyXR-GzUYAAlN1b.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十六夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>群馬県館林市堀工町</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5312347412,36.2245983100</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091512619297497089</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/gGcaD6gGYf</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyXU6QwU8AADCxy.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文久2年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県館林市堀工町</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5377655029,36.2262305000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091519767687516160</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/NZiHYhpzj3</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyXbbs7U0AIjBzF.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>慶應2年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡明和町上江黒</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5522308350,36.2146383000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091525091102359552</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/kUNR2mfzyf</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyXgRhRVsAAB39I.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永2年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡明和町上江黒</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5673065186,36.2140300000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091529494911807488</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/LSWMh1o0ev</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyXkRbqV4AEvx2l.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治39年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡明和町下江黒</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5747070312,36.2164189000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091529791533047808</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Q7mpge7Xn7</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyXkidXUYAA-3lV.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政10年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡明和町下江黒</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5747070312,36.2164189000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091534313143689216</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/5gGe2cuHPD</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyXoqPvU8AAIJzh.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>弘化3年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡明和町下江黒</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5796203613,36.2146564000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091541869685657600</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/R1nPWyQjZ7</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyXviDyUwAAhsJZ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡板倉町籾谷</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5909423828,36.2300263000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091542176054431744</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/zVpoTTAklS</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyXvzouVsAAyiLB.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡板倉町籾谷</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5909271240,36.2300155000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091545121269501952</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/3efDEnLyaB</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyXyfa0V4AAbrQu.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡板倉町籾谷</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5846557617,36.2335104000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091547870245806081</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/w0LsdwtPLz</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyX0-5ZUYAAY8PU.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和2年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡板倉町大字岩田</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5817871094,36.2298561000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091548157773733893</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Md43fju96m</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyX1P0LV4AAkUar.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>嘉永7年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡板倉町大字岩田</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5817871094,36.2298561000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091548513840713728</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Yd7XQ3Dwk4</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyX1kykUYAAjMXb.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化8年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡板倉町岩田</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5817871094,36.2298561000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091551363559903232</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/m5U1jiDytt</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyX4IrPUUAAp3fB.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/DyX4J-mUYAAaqnR.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政8年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県館林市羽附旭町</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5808258057,36.2239524000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091555236710240256</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/I3Co6ECgb6</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyX7sODU8AAm9fs.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>享和元年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県館林市羽附町</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5715484619,36.2295093000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091557239456821253</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/yOwQMFJIZi</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyX9g_eU8AApGjx.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保12年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県館林市羽附旭町</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5751495361,36.2312655000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091561298351943681</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Ap05d3tiZe</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyYBNB8U0AAwU_P.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>昭和10年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県館林市楠町</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5709381104,36.2388549000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091568542879604736</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/rBhxiLKQQZ</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyYHwk2VsAAYaqu.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/DyYHyVVU0AAk4AO.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治17年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県館林市赤生田町</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5611724854,36.2255883000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091571274923397120</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/9Jqhz4yl32</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyYKPzVVYAE8q0t.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/DyYKRbcVAAAzD-h.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦5年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県館林市赤生田本町</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5583343506,36.2219441000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091574610972135424</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/1mx5iTzCAX</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyYNRNUV4AAdQiq.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/DyYNT72VAAE9bJz.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>群馬県館林市赤生田町</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5576171875,36.2297972000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091578294816845824</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/dYUYIqWswV</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyYQqZ-VYAAEeUC.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>群馬県館林市羽附町</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5495910645,36.2344032000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_ID">
+          <value>T1091583882246348801</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-02</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/3uXBxJCCEE</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DyYVvrgU0AAIqMM.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>大正11年</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県館林市緑町一丁目</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5326080322,36.2399515000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
