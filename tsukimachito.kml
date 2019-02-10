@@ -55681,5 +55681,325 @@
         <coordinates>139.2630310059,36.0532602000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1094422511649869824</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-10</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/DFUtXi6ElR</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DzArdtaU0AEljFs.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県柏市布施</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9925689697,35.8935162000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1094422631980326916</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-10</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/4Qd39kQb6M</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DzArkpKUUAA16Zy.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県柏市布施</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9925689697,35.8935162000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1094422963460292608</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-10</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/SmSd2iVmSK</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DzAr2iSVYAEdhAM.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/DzAr3v4VYAAQi5e.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県柏市布施</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9925689697,35.8935162000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1094434526518947842</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-10</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/ZWyH16nzCd</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DzA2XPjUYAAyqOq.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/DzA2YlnUwAA61L_.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県柏市布施</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0014495850,35.8969567000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1094436629089906688</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-10</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Qpk42goYVZ</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DzA4TKkUUAEb5Pu.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保9年</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県柏市布施</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0037994385,35.8989492000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1094436783662686208</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-10</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/95gUIDhIgc</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DzA4cQSU0AAHho_.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県柏市布施</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0037994385,35.8989492000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1094439428108443649</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-10</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Vy13qsJIB6</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DzA60rsVsAA0rcH.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/DzA614rVsAAhDzM.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県柏市布施下</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0064697266,35.8990589000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1094464811381882880</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-10</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/YhpVCUfZ6Z</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/DzBR5F_U0AEEHKq.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/DzBR67LU0AAAWR2.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>元禄16年</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県柏市北柏三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9870147705,35.8737350000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
