@@ -32275,6 +32275,75 @@
                 "address": "東京都西多摩郡檜原村",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1239013672,
+                    35.7053388
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1098052770353954816",
+                "tweet_date": "2019-02-20",
+                "tweet_url": "https:\/\/t.co\/ZCgaTiSDMN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Dz0REy3VsAEGd7G.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政9年",
+                "address": "東京都西多摩郡檜原村",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1259765625,
+                    35.7031717
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1098053843491811328",
+                "tweet_date": "2019-02-20",
+                "tweet_url": "https:\/\/t.co\/gUcBkg3W0P",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Dz0SJHpVYAIFUFj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "address": "東京都西多摩郡檜原村",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1395568848,
+                    35.7018052
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1098061475606945792",
+                "tweet_date": "2019-02-20",
+                "tweet_url": "https:\/\/t.co\/wqkCRupkn0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Dz0ZFFpV4AM27lX.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保10年",
+                "address": "東京都西多摩郡檜原村",
+                "poi": ""
+            }
         }
     ]
 }

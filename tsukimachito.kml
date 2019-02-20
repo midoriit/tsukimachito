@@ -56121,5 +56121,125 @@
         <coordinates>139.1118164062,35.7032145000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1098052770353954816</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-20</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/ZCgaTiSDMN</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/Dz0REy3VsAEGd7G.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政9年</value>
+        </Data>
+        <Data name="address">
+          <value>東京都西多摩郡檜原村</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1239013672,35.7053388000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1098053843491811328</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-20</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/gUcBkg3W0P</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/Dz0SJHpVYAIFUFj.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>東京都西多摩郡檜原村</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1259765625,35.7031717000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1098061475606945792</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-02-20</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/wqkCRupkn0</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/Dz0ZFFpV4AM27lX.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保10年</value>
+        </Data>
+        <Data name="address">
+          <value>東京都西多摩郡檜原村</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1395568848,35.7018052000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
