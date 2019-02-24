@@ -32344,6 +32344,305 @@
                 "address": "東京都西多摩郡檜原村",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1641845703,
+                    35.6366362
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1099484271784292352",
+                "tweet_date": "2019-02-24",
+                "tweet_url": "https:\/\/t.co\/RyZ1voblMl",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0InGbsUcAApIw2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化7年",
+                "address": "千葉県千葉市若葉区桜木北三丁目",
+                "poi": "大聖寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1641693115,
+                    35.6367981
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1099484446179319808",
+                "tweet_date": "2019-02-24",
+                "tweet_url": "https:\/\/t.co\/qLqgc4Sidt",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0InQueVAAAg4Gp.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政8年",
+                "address": "千葉県千葉市若葉区桜木北三丁目",
+                "poi": "大聖寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1293029785,
+                    35.6426004
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1099494330924814336",
+                "tweet_date": "2019-02-24",
+                "tweet_url": "https:\/\/t.co\/RH2UdonWgs",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0IwO76UwAAwCdF.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D0IwQOkVsAIcrXe.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "address": "千葉県千葉市若葉区源町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1219329834,
+                    35.6400537
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1099498839491338240",
+                "tweet_date": "2019-02-24",
+                "tweet_url": "https:\/\/t.co\/dhQ2eUTQ8S",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0I0WXpU0AIwxQb.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治10年",
+                "address": "千葉県千葉市稲毛区萩台町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1213684082,
+                    35.6398921
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1099499061105721344",
+                "tweet_date": "2019-02-24",
+                "tweet_url": "https:\/\/t.co\/4sXvmLSZz9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0I0jbQUwAI1vy1.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "address": "千葉県千葉市稲毛区萩台町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1213378906,
+                    35.6398986
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1099499347283083270",
+                "tweet_date": "2019-02-24",
+                "tweet_url": "https:\/\/t.co\/9MNv1iMtPm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0I0z-mVAAAVtJs.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天明8年",
+                "address": "千葉県千葉市稲毛区萩台町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1215820312,
+                    35.6399053
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1099499538279092229",
+                "tweet_date": "2019-02-24",
+                "tweet_url": "https:\/\/t.co\/XOKqvcDuvx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0I0_VWVsAAu5ZZ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "address": "千葉県千葉市稲毛区萩台町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1221160889,
+                    35.6401655
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1099499786418323456",
+                "tweet_date": "2019-02-24",
+                "tweet_url": "https:\/\/t.co\/r8xRKPlqG5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0I1NemUwAENBB7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保12年",
+                "address": "千葉県千葉市稲毛区萩台町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1213226318,
+                    35.6398978
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1099500085212147712",
+                "tweet_date": "2019-02-24",
+                "tweet_url": "https:\/\/t.co\/dFzAsOtdDW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0I1fB_VAAUF5jz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保14年",
+                "address": "千葉県千葉市稲毛区萩台町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1333465576,
+                    35.6298585
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1099506339816955906",
+                "tweet_date": "2019-02-24",
+                "tweet_url": "https:\/\/t.co\/BlznoGF0uI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0I7LMRUUAASWHI.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "address": "千葉県千葉市若葉区東寺山町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1335906982,
+                    35.6303369
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1099506919507554305",
+                "tweet_date": "2019-02-24",
+                "tweet_url": "https:\/\/t.co\/j1sorhYe7V",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0I7s-oVsAAFFDF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝永5年",
+                "address": "千葉県千葉市若葉区東寺山町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1325378418,
+                    35.6296299
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1099507381157867520",
+                "tweet_date": "2019-02-24",
+                "tweet_url": "https:\/\/t.co\/bp1npQx64e",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0I8Hi4UYAA0qZy.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政4年",
+                "address": "千葉県千葉市若葉区東寺山町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1330871582,
+                    35.6303782
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1099507880871440384",
+                "tweet_date": "2019-02-24",
+                "tweet_url": "https:\/\/t.co\/1jiIB0o2Js",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0I8k2BUcAAkCBq.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天和2年",
+                "address": "千葉県千葉市若葉区東寺山町",
+                "poi": ""
+            }
         }
     ]
 }
