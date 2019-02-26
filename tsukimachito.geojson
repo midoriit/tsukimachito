@@ -32419,8 +32419,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.1219329834,
-                    35.6400537
+                    140.1213378906,
+                    35.6398986
                 ]
             },
             "properties": {
@@ -32488,8 +32488,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.1215820312,
-                    35.6399053
+                    140.1213378906,
+                    35.6398986
                 ]
             },
             "properties": {
@@ -32511,8 +32511,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.1221160889,
-                    35.6401655
+                    140.1213378906,
+                    35.6398986
                 ]
             },
             "properties": {
@@ -32580,8 +32580,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.1335906982,
-                    35.6303369
+                    140.1333465576,
+                    35.6298585
                 ]
             },
             "properties": {
@@ -32603,8 +32603,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.1325378418,
-                    35.6296299
+                    140.1333465576,
+                    35.6298585
                 ]
             },
             "properties": {
@@ -32626,8 +32626,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.1330871582,
-                    35.6303782
+                    140.1333465576,
+                    35.6298585
                 ]
             },
             "properties": {
@@ -32641,6 +32641,29 @@
                 "type": "十九夜塔",
                 "year_built": "天和2年",
                 "address": "千葉県千葉市若葉区東寺山町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1722564697,
+                    38.39723333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1100182311146934273",
+                "tweet_date": "2019-02-26",
+                "tweet_url": "https:\/\/t.co\/jIzCG8hLOm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0Sh-ZJUcAAguPE.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D0Sh-ZIU0AAiRQf.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政十一年",
+                "address": "宮城県東松島市",
                 "poi": ""
             }
         }
