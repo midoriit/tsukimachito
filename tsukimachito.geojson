@@ -34110,6 +34110,366 @@
                 "address": "宮城県東松島市",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3229980469,
+                    36.1326822
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1101664989423689728",
+                "tweet_date": "2019-03-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/X1pUJL38El",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0nmcp9UYAAx6GV.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "address": "埼玉県熊谷市押切",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3229217529,
+                    36.1176011
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1101672987374178304",
+                "tweet_date": "2019-03-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/dWmx1Cfg3H",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0ntuImV4AAXfYl.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "address": "埼玉県熊谷市千代",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3224487305,
+                    36.1175979
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1101673408578805760",
+                "tweet_date": "2019-03-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/PL2TR93xoZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0nuElEUwAAqddd.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D0nuGsMVsAEJ0Oq.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "address": "埼玉県熊谷市千代",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3206176758,
+                    36.1037722
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1101684567260356608",
+                "tweet_date": "2019-03-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/u47drvUNG0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0n4PhOU4AE_Y-q.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D0n4QyjUwAA-RKl.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和4年",
+                "address": "埼玉県熊谷市塩",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3206176758,
+                    36.1037722
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1101684743660220417",
+                "tweet_date": "2019-03-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/J4Xo2QRp2A",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0n4bToU4AAi5pL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文化14年",
+                "address": "埼玉県熊谷市塩",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3332672119,
+                    36.10256375
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1101692780579966983",
+                "tweet_date": "2019-03-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/8mtfgffqcH",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0n_tbxVYAEzgzg.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D0n_urIV4AAB9Sw.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文化7年",
+                "address": "埼玉県熊谷市小江川",
+                "poi": "満讃寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3359222412,
+                    36.0976083
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1101696346275250178",
+                "tweet_date": "2019-03-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pkLVAjCdFW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0oC9mHUwAABbNE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "天明4年",
+                "address": "埼玉県熊谷市小江川",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3428039551,
+                    36.1047697
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1101702328405639169",
+                "tweet_date": "2019-03-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/FANTTXPeVP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0oIapDVYAA2fF6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "嘉永7年",
+                "address": "埼玉県熊谷市須賀広",
+                "poi": "釈迦寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3457489014,
+                    36.1242365
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1101712323499028480",
+                "tweet_date": "2019-03-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/kJ2CVcxSxu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0oRc6FUwAAcGuN.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D0oRfNHU8AEBsds.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "address": "埼玉県熊谷市成沢",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3364562988,
+                    36.1343617
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1101719194788196358",
+                "tweet_date": "2019-03-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ngV2C2yhel",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0oXr4cU8AACPpv.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D0oXtwGU8AAiSFZ.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "address": "埼玉県熊谷市押切",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3445129395,
+                    36.13399604
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1101722555323318272",
+                "tweet_date": "2019-03-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/zwYdt5Y5qa",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0oaxPHUwAAAVjV.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D0oazrKUYAYD9Ia.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "address": "埼玉県熊谷市押切",
+                "poi": "宝幢寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3491210938,
+                    36.1358417
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1101725184422117376",
+                "tweet_date": "2019-03-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/zVP2OqfDuf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0odKHnVAAA3fB3.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D0odMuBU4AAis9k.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "address": "埼玉県熊谷市樋春",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3482513428,
+                    36.13113064
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1101728757469962240",
+                "tweet_date": "2019-03-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/dPZqGFQn46",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0ogbJuVAAA8cUW.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D0ogcz_UcAA67WL.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "address": "埼玉県熊谷市樋春",
+                "poi": "真光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3524017334,
+                    36.1507562
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1101736294789525509",
+                "tweet_date": "2019-03-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/f4ZP2DGJbA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0onTnbUwAA95eW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "宝暦7年",
+                "address": "埼玉県熊谷市広瀬",
+                "poi": "円福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3613891602,
+                    36.1547458
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1101740966799503360",
+                "tweet_date": "2019-03-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/RMYtftFZtS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D0orjmfU8AAjdfw.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "address": "埼玉県熊谷市石原",
+                "poi": "東漸寺"
+            }
         }
     ]
 }
