@@ -61187,7 +61187,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.3229217529,36.1176011000</coordinates>
+        <coordinates>139.3226318359,36.1173460000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -61230,7 +61230,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.3224487305,36.1175979000</coordinates>
+        <coordinates>139.3226318359,36.1173460000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -61273,7 +61273,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.3206176758,36.1037722000</coordinates>
+        <coordinates>139.3204498291,36.1031880000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -61316,7 +61316,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.3206176758,36.1037722000</coordinates>
+        <coordinates>139.3204498291,36.1031880000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -61488,7 +61488,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.3457489014,36.1242365000</coordinates>
+        <coordinates>139.3453216553,36.1243430000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -61703,7 +61703,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.3524017334,36.1507562000</coordinates>
+        <coordinates>139.3522186279,36.1512080000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -61746,7 +61746,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.3613891602,36.1547458000</coordinates>
+        <coordinates>139.3612518311,36.1550020000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -62048,6 +62048,264 @@
       </ExtendedData>
       <Point>
         <coordinates>141.1421661377,38.4021633300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1102759091334574080</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-05</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/sorktplhdw</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D03Jhe9V4AAe9y1.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永8年</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県東松山市大字大谷</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.3865509033,36.0653461000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1102761952244187136</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-05</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/nEbJYxBV0k</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D03MJAbVYAAvWvz.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和6年</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県東松山市大字大谷</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.3941192627,36.0685809000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1102765592350666752</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-05</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/VyaOsimif2</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D03PctjU0AA7gox.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和9年</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県東松山市大字野田</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.3915100098,36.0588666000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1102774444089434113</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-05</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/1RpXRLsHF7</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D03Xf7vU0AAK0SP.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和元年</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県比企郡滑川町大字山田</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.3720703125,36.0725333000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1102777922924904448</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-05</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/ju5Wioh79K</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D03aqmCVYAAzz37.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永4年</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県東松山市大字大谷</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.3924407959,36.0860373000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1102783275938897926</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-05</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/3v9meh6VAe</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D03fgyOUcAE60VA.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D03fh9cU0AAyGdf.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永9年</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県東松山市大字東平</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4225158691,36.0712370000</coordinates>
       </Point>
     </Placemark>
   </Document>

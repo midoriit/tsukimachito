@@ -34140,8 +34140,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.3229217529,
-                    36.1176011
+                    139.3226318359,
+                    36.117346
                 ]
             },
             "properties": {
@@ -34164,8 +34164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.3224487305,
-                    36.1175979
+                    139.3226318359,
+                    36.117346
                 ]
             },
             "properties": {
@@ -34188,8 +34188,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.3206176758,
-                    36.1037722
+                    139.3204498291,
+                    36.103188
                 ]
             },
             "properties": {
@@ -34212,8 +34212,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.3206176758,
-                    36.1037722
+                    139.3204498291,
+                    36.103188
                 ]
             },
             "properties": {
@@ -34308,8 +34308,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.3457489014,
-                    36.1242365
+                    139.3453216553,
+                    36.124343
                 ]
             },
             "properties": {
@@ -34428,8 +34428,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.3524017334,
-                    36.1507562
+                    139.3522186279,
+                    36.151208
                 ]
             },
             "properties": {
@@ -34452,8 +34452,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.3613891602,
-                    36.1547458
+                    139.3612518311,
+                    36.155002
                 ]
             },
             "properties": {
@@ -34636,6 +34636,150 @@
                 "type": "十七夜塔",
                 "year_built": "明和九年",
                 "address": "宮城県東松島市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3865509033,
+                    36.0653461
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1102759091334574080",
+                "tweet_date": "2019-03-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/sorktplhdw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D03Jhe9V4AAe9y1.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安永8年",
+                "address": "埼玉県東松山市大字大谷",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3941192627,
+                    36.0685809
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1102761952244187136",
+                "tweet_date": "2019-03-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/nEbJYxBV0k",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D03MJAbVYAAvWvz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和6年",
+                "address": "埼玉県東松山市大字大谷",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3915100098,
+                    36.0588666
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1102765592350666752",
+                "tweet_date": "2019-03-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/VyaOsimif2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D03PctjU0AA7gox.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和9年",
+                "address": "埼玉県東松山市大字野田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3720703125,
+                    36.0725333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1102774444089434113",
+                "tweet_date": "2019-03-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/1RpXRLsHF7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D03Xf7vU0AAK0SP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和元年",
+                "address": "埼玉県比企郡滑川町大字山田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3924407959,
+                    36.0860373
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1102777922924904448",
+                "tweet_date": "2019-03-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ju5Wioh79K",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D03aqmCVYAAzz37.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安永4年",
+                "address": "埼玉県東松山市大字大谷",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4225158691,
+                    36.071237
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1102783275938897926",
+                "tweet_date": "2019-03-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/3v9meh6VAe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D03fgyOUcAE60VA.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D03fh9cU0AAyGdf.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安永9年",
+                "address": "埼玉県東松山市大字東平",
                 "poi": ""
             }
         }
