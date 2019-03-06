@@ -34782,6 +34782,54 @@
                 "address": "埼玉県東松山市大字東平",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9864196777,
+                    38.306675
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1103146690322739200",
+                "tweet_date": "2019-03-06",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/8gEagWs5Eu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D08qDoxV4AAwoqP.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D08qDo0VAAAHcmB.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D08qDoyU4AIwYju.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D08qDoyU8AA2P8D.jpg",
+                "type": "十八夜塔",
+                "year_built": "明和四年",
+                "address": "宮城県多賀城市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9930419922,
+                    38.31066333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1103148706440724482",
+                "tweet_date": "2019-03-06",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/FvxRUNP4F8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D08r5MIUwAAzVvW.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D08r5MQU4AAuEQH.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "寛政七年",
+                "address": "宮城県多賀城市",
+                "poi": ""
+            }
         }
     ]
 }
