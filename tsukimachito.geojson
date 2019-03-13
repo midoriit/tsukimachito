@@ -37106,6 +37106,56 @@
                 "address": "栃木県下都賀郡野木町大字野渡",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6156921387,
+                    35.7045672
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1105659580929839104",
+                "tweet_date": "2019-03-13",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/lnP6NFQIfh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D1gXfbvUcAAqOLk.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D1gXg0wUwAAhbxd.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "東京都杉並区上荻一丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5910339355,
+                    35.71819546
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1105673217786564613",
+                "tweet_date": "2019-03-13",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/UfC0StMFfe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D1gj5o8UkAAFO9K.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D1gj6uaVAAAJfTd.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "東京都杉並区善福寺四丁目",
+                "poi": "善福寺"
+            }
         }
     ]
 }
