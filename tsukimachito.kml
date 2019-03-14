@@ -68295,10 +68295,10 @@
           <value>十六夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄6年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1693</value>
         </Data>
         <Data name="address">
           <value>東京都杉並区上荻一丁目</value>
@@ -68341,10 +68341,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元文5年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1740</value>
         </Data>
         <Data name="address">
           <value>東京都杉並区善福寺四丁目</value>
@@ -68355,6 +68355,144 @@
       </ExtendedData>
       <Point>
         <coordinates>139.5910339355,35.7181954600</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1106051763574956032</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-14</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/YUbQdGTFCT</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D1l8MvEU0AIBP2f.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>神奈川県横浜市緑区三保町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5296936035,35.5175316000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1106057933484285952</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-14</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/LvxL5JQIqR</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D1mB0VuU8AEQpGK.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>神奈川県横浜市緑区十日市場町</value>
+        </Data>
+        <Data name="poi">
+          <value>宝タイ寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5207061768,35.5253419000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1106064885211779072</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-14</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/vlt7EomL5c</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D1mIIh4UwAA97l0.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>神奈川県横浜市緑区小山町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.5376434326,35.5207530000</coordinates>
       </Point>
     </Placemark>
   </Document>

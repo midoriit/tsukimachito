@@ -37126,8 +37126,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十六夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄6年",
+                "year_built_ce": 1693,
                 "address": "東京都杉並区上荻一丁目",
                 "poi": ""
             }
@@ -37151,10 +37151,85 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元文5年",
+                "year_built_ce": 1740,
                 "address": "東京都杉並区善福寺四丁目",
                 "poi": "善福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5296936035,
+                    35.5175316
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1106051763574956032",
+                "tweet_date": "2019-03-14",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/YUbQdGTFCT",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D1l8MvEU0AIBP2f.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県横浜市緑区三保町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5207061768,
+                    35.5253419
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1106057933484285952",
+                "tweet_date": "2019-03-14",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/LvxL5JQIqR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D1mB0VuU8AEQpGK.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県横浜市緑区十日市場町",
+                "poi": "宝タイ寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5376434326,
+                    35.520753
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1106064885211779072",
+                "tweet_date": "2019-03-14",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/vlt7EomL5c",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D1mIIh4UwAA97l0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県横浜市緑区小山町",
+                "poi": ""
             }
         }
     ]
