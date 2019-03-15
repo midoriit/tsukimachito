@@ -68387,10 +68387,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>慶應2年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1866</value>
         </Data>
         <Data name="address">
           <value>神奈川県横浜市緑区三保町</value>
@@ -68433,10 +68433,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛政12年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1800</value>
         </Data>
         <Data name="address">
           <value>神奈川県横浜市緑区十日市場町</value>
@@ -68479,10 +68479,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>弘化3年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1846</value>
         </Data>
         <Data name="address">
           <value>神奈川県横浜市緑区小山町</value>
@@ -68492,7 +68492,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.5376434326,35.5207530000</coordinates>
+        <coordinates>139.5376281738,35.5207830000</coordinates>
       </Point>
     </Placemark>
   </Document>

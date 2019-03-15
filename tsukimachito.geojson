@@ -37176,8 +37176,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "慶應2年",
+                "year_built_ce": 1866,
                 "address": "神奈川県横浜市緑区三保町",
                 "poi": ""
             }
@@ -37201,8 +37201,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛政12年",
+                "year_built_ce": 1800,
                 "address": "神奈川県横浜市緑区十日市場町",
                 "poi": "宝タイ寺"
             }
@@ -37212,8 +37212,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.5376434326,
-                    35.520753
+                    139.5376281738,
+                    35.520783
                 ]
             },
             "properties": {
@@ -37226,8 +37226,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "弘化3年",
+                "year_built_ce": 1846,
                 "address": "神奈川県横浜市緑区小山町",
                 "poi": ""
             }
