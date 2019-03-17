@@ -562,8 +562,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.5457763672,
-                    35.5351827
+                    139.5458984375,
+                    35.5353001
                 ]
             },
             "properties": {
@@ -37229,6 +37229,206 @@
                 "year_built": "弘化3年",
                 "year_built_ce": 1846,
                 "address": "神奈川県横浜市緑区小山町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5466461182,
+                    35.5190293
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1107083567392149504",
+                "tweet_date": "2019-03-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/zugjxQBQrb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D10mn4FVAAA3t74.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県横浜市緑区青砥町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5466461182,
+                    35.5190293
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1107083744655994880",
+                "tweet_date": "2019-03-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/qQRjPG7S0n",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D10myNNVAAAe_be.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保4年",
+                "year_built_ce": 1833,
+                "address": "神奈川県横浜市緑区青砥町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5506896973,
+                    35.5258782
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1107089533961560064",
+                "tweet_date": "2019-03-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/TVV4V4g9wf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D10sDGOUgAIMLEV.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化2年",
+                "year_built_ce": 1845,
+                "address": "神奈川県横浜市都筑区川和町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.547958374,
+                    35.5330487
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1107095125446922240",
+                "tweet_date": "2019-03-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/zLBkiJhQrQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D10xIgQVAAAHC09.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "元治元年",
+                "year_built_ce": 1864,
+                "address": "神奈川県横浜市都筑区川和町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5456237793,
+                    35.5350914
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1107097698346262529",
+                "tweet_date": "2019-03-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/aySgrYWrXM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D10zdanU8AAIEfu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政9年",
+                "year_built_ce": 1826,
+                "address": "神奈川県横浜市都筑区川和町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5458984375,
+                    35.5353001
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1107099736723460098",
+                "tweet_date": "2019-03-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/S4ThShip8D",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D101RiFUwAAYU4D.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保13年",
+                "year_built_ce": 1842,
+                "address": "神奈川県横浜市都筑区川和町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5464477539,
+                    35.5287486
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1107103141843988481",
+                "tweet_date": "2019-03-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/YEHt92fF2I",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D104ar_U0AA_0kz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治41年",
+                "year_built_ce": 1908,
+                "address": "神奈川県横浜市都筑区川和町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5406036377,
+                    35.527206
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1107106574022012928",
+                "tweet_date": "2019-03-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/sW4D7O3GDU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D107jDAUYAEQjsr.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化3年",
+                "year_built_ce": 1846,
+                "address": "神奈川県横浜市緑区北八朔町",
                 "poi": ""
             }
         }
