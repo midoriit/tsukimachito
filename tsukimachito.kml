@@ -832,98 +832,6 @@
     <Placemark>
       <ExtendedData>
         <Data name="tweet_id">
-          <value>T810306774003642369</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2016-12-18</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/dNo9mtJLpd</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/Cz7JsqwUsAA1DLn.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>二十三夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>平成7年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1995</value>
-        </Data>
-        <Data name="address">
-          <value>神奈川県川崎市宮前区馬絹</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.6014556885,35.5829240000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
-          <value>T810307108574928896</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2016-12-18</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/1KVDAZRwNv</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/Cz7J_9OVEAAKGii.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>二十三夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>慶應4年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1868</value>
-        </Data>
-        <Data name="address">
-          <value>神奈川県川崎市宮前区馬絹</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.6011047363,35.5830213000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
           <value>T811034171392958465</value>
         </Data>
         <Data name="tweet_date">
@@ -1200,52 +1108,6 @@
     <Placemark>
       <ExtendedData>
         <Data name="tweet_id">
-          <value>T812556065975828480</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2016-12-24</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/Oj7N0628dM</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/C0bHamvUQAAsrI4.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>二十六夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>文化七年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1810</value>
-        </Data>
-        <Data name="address">
-          <value>神奈川県川崎市高津区久末</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.6202545166,35.5661489000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
           <value>T813934756681240576</value>
         </Data>
         <Data name="tweet_date">
@@ -1517,52 +1379,6 @@
       </ExtendedData>
       <Point>
         <coordinates>139.4881134033,35.5526198000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
-          <value>T815447693426245632</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2017-01-01</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/oYaSVMoh1z</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/C1ENU2gVEAAZScy.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>十夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>天保十五年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1844</value>
-        </Data>
-        <Data name="address">
-          <value>東京都世田谷区奥沢七丁目</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.6624145508,35.6079873000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -4139,52 +3955,6 @@
       </ExtendedData>
       <Point>
         <coordinates>139.5203857422,35.3656330000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
-          <value>T843673415391236100</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2017-03-20</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/7dYIZfeZQb</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/C7VUeVsU4AQemLt.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>二十三夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>元治元年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1864</value>
-        </Data>
-        <Data name="address">
-          <value>神奈川県伊勢原市下糟屋</value>
-        </Data>
-        <Data name="poi">
-          <value>法眼寺</value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.3274536133,35.4056377000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -7037,52 +6807,6 @@
       </ExtendedData>
       <Point>
         <coordinates>140.1487884521,35.8568864000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
-          <value>T870841342099734531</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2017-06-03</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/RJSPaCmgCE</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/DBXZj79U0AIkCCo.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>二十三夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value/>
-        </Data>
-        <Data name="year_built_ce">
-          <value/>
-        </Data>
-        <Data name="address">
-          <value>千葉県流山市流山七丁目</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.8950347900,35.8493041000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -12838,52 +12562,6 @@
     <Placemark>
       <ExtendedData>
         <Data name="tweet_id">
-          <value>T904249375458656257</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2017-09-03</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/GLaYUWbA7a</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/DIyJ-qLVAAAC_l0.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>二十一夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>文化十年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1813</value>
-        </Data>
-        <Data name="address">
-          <value>東京都杉並区梅里一丁目</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.6497497559,35.6949963000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
           <value>T904872802037055488</value>
         </Data>
         <Data name="tweet_date">
@@ -15225,98 +14903,6 @@
       </ExtendedData>
       <Point>
         <coordinates>139.9154815674,35.7970730000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
-          <value>T916870002065629184</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2017-10-08</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/SGZFrWchtK</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/DLlgYd6UMAAfTeB.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>二十六夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>大正十四年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1925</value>
-        </Data>
-        <Data name="address">
-          <value>東京都新宿区新宿六丁目</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.7107543945,35.6959350000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
-          <value>T916870567873015808</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2017-10-08</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/QP5ODmkbMM</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/DLlg6HXVwAAUMvh.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>二十六夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>大正十四年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1925</value>
-        </Data>
-        <Data name="address">
-          <value>東京都新宿区新宿六丁目</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.7107696533,35.6961339000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -23464,52 +23050,6 @@
     <Placemark>
       <ExtendedData>
         <Data name="tweet_id">
-          <value>T949196840456499200</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2018-01-05</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/eJtJCgm1q3</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/DSw5e5KU8AAagdy.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>二十三夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>文化6年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1809</value>
-        </Data>
-        <Data name="address">
-          <value>千葉県鎌ケ谷市鎌ケ谷一丁目</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>140.0133972168,35.7584969000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
           <value>T949461203088060416</value>
         </Data>
         <Data name="tweet_date">
@@ -24425,98 +23965,6 @@
       </ExtendedData>
       <Point>
         <coordinates>139.9396820068,35.6980517000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
-          <value>T958596529949900800</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2018-01-31</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/uPw57WBKWl</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/DU2ecoZXkAAR2oF.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>十九夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>元禄十六年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1703</value>
-        </Data>
-        <Data name="address">
-          <value>千葉県鎌ケ谷市粟野</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.9992828369,35.7847576000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
-          <value>T958596876852518912</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2018-01-31</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/VN9FlMjZ3i</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/DU2ewBrXcAAHrYD.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>十九夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>享保五年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1720</value>
-        </Data>
-        <Data name="address">
-          <value>千葉県鎌ケ谷市粟野</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.9992828369,35.7847576000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -30267,52 +29715,6 @@
       </ExtendedData>
       <Point>
         <coordinates>139.2528076172,35.6873717000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
-          <value>T982515423533875200</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2018-04-07</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/ddsGId0V32</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/DaKYj4fU8AEvgXN.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>二十六夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>宝永七年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1710</value>
-        </Data>
-        <Data name="address">
-          <value>東京都葛飾区東金町三丁目</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.8744659424,35.7721994000</coordinates>
       </Point>
     </Placemark>
     <Placemark>

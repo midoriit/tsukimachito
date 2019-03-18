@@ -462,56 +462,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.6014556885,
-                    35.582924
-                ]
-            },
-            "properties": {
-                "tweet_id": "T810306774003642369",
-                "tweet_date": "2016-12-18",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/dNo9mtJLpd",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Cz7JsqwUsAA1DLn.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "二十三夜塔",
-                "year_built": "平成7年",
-                "year_built_ce": 1995,
-                "address": "神奈川県川崎市宮前区馬絹",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.6011047363,
-                    35.5830213
-                ]
-            },
-            "properties": {
-                "tweet_id": "T810307108574928896",
-                "tweet_date": "2016-12-18",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/1KVDAZRwNv",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Cz7J_9OVEAAKGii.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "二十三夜塔",
-                "year_built": "慶應4年",
-                "year_built_ce": 1868,
-                "address": "神奈川県川崎市宮前区馬絹",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     139.4892730713,
                     35.5211558
                 ]
@@ -662,31 +612,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.6202545166,
-                    35.5661489
-                ]
-            },
-            "properties": {
-                "tweet_id": "T812556065975828480",
-                "tweet_date": "2016-12-24",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/Oj7N0628dM",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/C0bHamvUQAAsrI4.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "二十六夜塔",
-                "year_built": "文化七年",
-                "year_built_ce": 1810,
-                "address": "神奈川県川崎市高津区久末",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     139.8796386719,
                     35.6581437
                 ]
@@ -829,31 +754,6 @@
                 "year_built": "寛政九年",
                 "year_built_ce": 1797,
                 "address": "神奈川県横浜市青葉区奈良二丁目",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.6624145508,
-                    35.6079873
-                ]
-            },
-            "properties": {
-                "tweet_id": "T815447693426245632",
-                "tweet_date": "2017-01-01",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/oYaSVMoh1z",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/C1ENU2gVEAAZScy.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "十夜塔",
-                "year_built": "天保十五年",
-                "year_built_ce": 1844,
-                "address": "東京都世田谷区奥沢七丁目",
                 "poi": ""
             }
         },
@@ -2255,31 +2155,6 @@
                 "year_built_ce": "",
                 "address": "神奈川県横浜市栄区田谷町",
                 "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.3274536133,
-                    35.4056377
-                ]
-            },
-            "properties": {
-                "tweet_id": "T843673415391236100",
-                "tweet_date": "2017-03-20",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/7dYIZfeZQb",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/C7VUeVsU4AQemLt.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "二十三夜塔",
-                "year_built": "元治元年",
-                "year_built_ce": 1864,
-                "address": "神奈川県伊勢原市下糟屋",
-                "poi": "法眼寺"
             }
         },
         {
@@ -3829,31 +3704,6 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "茨城県北相馬郡利根町大字布川",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.89503479,
-                    35.8493041
-                ]
-            },
-            "properties": {
-                "tweet_id": "T870841342099734531",
-                "tweet_date": "2017-06-03",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/RJSPaCmgCE",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/DBXZj79U0AIkCCo.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
-                "address": "千葉県流山市流山七丁目",
                 "poi": ""
             }
         },
@@ -6987,31 +6837,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.6497497559,
-                    35.6949963
-                ]
-            },
-            "properties": {
-                "tweet_id": "T904249375458656257",
-                "tweet_date": "2017-09-03",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/GLaYUWbA7a",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/DIyJ-qLVAAAC_l0.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "二十一夜塔",
-                "year_built": "文化十年",
-                "year_built_ce": 1813,
-                "address": "東京都杉並区梅里一丁目",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     139.3111114502,
                     35.4710539
                 ]
@@ -8279,56 +8104,6 @@
                 "year_built": "嘉永六年",
                 "year_built_ce": 1853,
                 "address": "千葉県松戸市上本郷",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.7107543945,
-                    35.695935
-                ]
-            },
-            "properties": {
-                "tweet_id": "T916870002065629184",
-                "tweet_date": "2017-10-08",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/SGZFrWchtK",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/DLlgYd6UMAAfTeB.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "二十六夜塔",
-                "year_built": "大正十四年",
-                "year_built_ce": 1925,
-                "address": "東京都新宿区新宿六丁目",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.7107696533,
-                    35.6961339
-                ]
-            },
-            "properties": {
-                "tweet_id": "T916870567873015808",
-                "tweet_date": "2017-10-08",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/QP5ODmkbMM",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/DLlg6HXVwAAUMvh.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "二十六夜塔",
-                "year_built": "大正十四年",
-                "year_built_ce": 1925,
-                "address": "東京都新宿区新宿六丁目",
                 "poi": ""
             }
         },
@@ -12762,31 +12537,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.0133972168,
-                    35.7584969
-                ]
-            },
-            "properties": {
-                "tweet_id": "T949196840456499200",
-                "tweet_date": "2018-01-05",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/eJtJCgm1q3",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/DSw5e5KU8AAagdy.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "二十三夜塔",
-                "year_built": "文化6年",
-                "year_built_ce": 1809,
-                "address": "千葉県鎌ケ谷市鎌ケ谷一丁目",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     140.1491088867,
                     35.995005
                 ]
@@ -13280,56 +13030,6 @@
                 "year_built_ce": "",
                 "address": "千葉県市川市高谷二丁目",
                 "poi": "安養寺"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.9992828369,
-                    35.7847576
-                ]
-            },
-            "properties": {
-                "tweet_id": "T958596529949900800",
-                "tweet_date": "2018-01-31",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/uPw57WBKWl",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/DU2ecoZXkAAR2oF.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "十九夜塔",
-                "year_built": "元禄十六年",
-                "year_built_ce": 1703,
-                "address": "千葉県鎌ケ谷市粟野",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.9992828369,
-                    35.7847576
-                ]
-            },
-            "properties": {
-                "tweet_id": "T958596876852518912",
-                "tweet_date": "2018-01-31",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/VN9FlMjZ3i",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/DU2ewBrXcAAHrYD.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "十九夜塔",
-                "year_built": "享保五年",
-                "year_built_ce": 1720,
-                "address": "千葉県鎌ケ谷市粟野",
-                "poi": ""
             }
         },
         {
@@ -16454,31 +16154,6 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "東京都八王子市美山町",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.8744659424,
-                    35.7721994
-                ]
-            },
-            "properties": {
-                "tweet_id": "T982515423533875200",
-                "tweet_date": "2018-04-07",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/ddsGId0V32",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/DaKYj4fU8AEvgXN.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "二十六夜塔",
-                "year_built": "宝永七年",
-                "year_built_ce": 1710,
-                "address": "東京都葛飾区東金町三丁目",
                 "poi": ""
             }
         },
