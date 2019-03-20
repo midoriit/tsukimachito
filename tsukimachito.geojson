@@ -37106,6 +37106,156 @@
                 "address": "神奈川県横浜市緑区北八朔町",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.3173675537,
+                    35.8592583
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1108187391729098752",
+                "tweet_date": "2019-03-20",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/TaOgKRG077",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2ESiFTUgAAydHL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "宝暦8年",
+                "year_built_ce": 1758,
+                "address": "山梨県北杜市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.3177032471,
+                    35.8599081
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1108188312219467776",
+                "tweet_date": "2019-03-20",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/H4t3CaYWkK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2ETYUOVAAAtAm-.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "宝暦8年",
+                "year_built_ce": 1758,
+                "address": "山梨県北杜市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.2788543701,
+                    35.8636283
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1108201567918800896",
+                "tweet_date": "2019-03-20",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/0NRmTLI0O9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2EfabaUwAA3E5W.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D2EfcLuVYAAj1T5.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享保5年",
+                "year_built_ce": 1720,
+                "address": "長野県諏訪郡富士見町落合",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.2697906494,
+                    35.8712514
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1108210248836235264",
+                "tweet_date": "2019-03-20",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/54PYnjRbQL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2EnVCKU0AIVq_G.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和元年",
+                "year_built_ce": 1801,
+                "address": "長野県諏訪郡富士見町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.2471923828,
+                    35.8909561
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1108229508031639552",
+                "tweet_date": "2019-03-20",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/qyG5Td7C6H",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2E41tiUkAA4LbQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "七夜待塔",
+                "year_built": "宝暦13年",
+                "year_built_ce": 1763,
+                "address": "長野県諏訪郡富士見町落合",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.2428741455,
+                    35.8949167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1108233641216233472",
+                "tweet_date": "2019-03-20",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7wyqB0gbSy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2E8mjCUcAAHTqn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県諏訪郡富士見町落合",
+                "poi": ""
+            }
         }
     ]
 }
