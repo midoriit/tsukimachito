@@ -37137,8 +37137,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    138.3177032471,
-                    35.8599081
+                    138.3173675537,
+                    35.8592583
                 ]
             },
             "properties": {
@@ -37254,6 +37254,656 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県諏訪郡富士見町落合",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9752960205,
+                    36.1806335
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109629274695176192",
+                "tweet_date": "2019-03-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/jGp17wstkS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Yx534UkAI0Con.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D2Yx7eLUwAApqlX.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十三夜塔 二十三夜塔",
+                "year_built": "享和元年",
+                "year_built_ce": 1801,
+                "address": "茨城県下妻市古沢",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9752807617,
+                    36.1806227
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109629500592025600",
+                "tweet_date": "2019-03-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/UjOHJwKGYT",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2YyI4ZVAAAyGVP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔 十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市古沢",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9752197266,
+                    36.1806041
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109629978981761024",
+                "tweet_date": "2019-03-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/0uqI5IW0Ha",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Yyib_UkAA4enQ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D2YykNaVYAA2VM9.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市古沢",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9753265381,
+                    36.1806693
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109630295978840064",
+                "tweet_date": "2019-03-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/piaiGYjkoh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Yy1aLU0AATFRY.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D2Yy2yoU8AIrIlT.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市古沢",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9703369141,
+                    36.1839448
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109635923044515840",
+                "tweet_date": "2019-03-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/qvgCfHbBac",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Y3-jJVYAA6q47.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市下妻",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9675445557,
+                    36.1864249
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109641666007175168",
+                "tweet_date": "2019-03-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/8j9ISVmpLH",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Y9M6TUwAE9yOy.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "嘉永5年",
+                "year_built_ce": 1852,
+                "address": "茨城県下妻市本宿町二丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9676818848,
+                    36.1860933
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109642103426957312",
+                "tweet_date": "2019-03-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/oJR4rXS9PP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Y9kKFUcAAwwMX.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D2Y9mLmUgAAoJ6Y.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市本宿町二丁目",
+                "poi": "法泉寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9675292969,
+                    36.1863903
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109642603761328131",
+                "tweet_date": "2019-03-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/jZREmlUIeH",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Y-DuXUgAALA5o.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛保元年",
+                "year_built_ce": 1741,
+                "address": "茨城県下妻市本宿町二丁目",
+                "poi": "法泉寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9675292969,
+                    36.1863709
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109643028493262849",
+                "tweet_date": "2019-03-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/H79xKEHVAb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Y-b5rUcAAlS7E.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市本宿町二丁目",
+                "poi": "法泉寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9675598145,
+                    36.1862655
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109643536176041991",
+                "tweet_date": "2019-03-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mKxROfgreF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Y-5w8UgAAH11N.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市本宿町二丁目",
+                "poi": "法泉寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9650268555,
+                    36.1910037
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109648230998917120",
+                "tweet_date": "2019-03-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/nxk968oKXh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2ZDLAqU4AEhhTa.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和2年",
+                "year_built_ce": 1802,
+                "address": "茨城県下妻市下妻",
+                "poi": "多宝院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9566650391,
+                    36.1982689
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109654700503097344",
+                "tweet_date": "2019-03-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/nHuTactBMO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2ZJDV2U0AAM3Ro.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天明3年",
+                "year_built_ce": 1783,
+                "address": "茨城県下妻市下木戸",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9745025635,
+                    36.1884617
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109671980364488705",
+                "tweet_date": "2019-03-24",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/wohlDq5WSz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2ZYwTBU8AAltrJ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D2ZYxm0UYAA0nmX.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市大串",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.995803833,
+                    36.1881607
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109679945930825728",
+                "tweet_date": "2019-03-24",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/sWaKazQyzt",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Zf_enUwAEJIrq.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D2ZgA12VAAArwTY.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市比毛",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.995010376,
+                    36.1848268
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109681937872936960",
+                "tweet_date": "2019-03-24",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/aedRv3Ka19",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Zh0-yUcAApGDs.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "明治26年",
+                "year_built_ce": 1893,
+                "address": "茨城県下妻市古沢",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9943084717,
+                    36.1804059
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109685083441491969",
+                "tweet_date": "2019-03-24",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/EaF5Sj3s8l",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Zkr9fVYAEbIrC.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "明治24年",
+                "year_built_ce": 1891,
+                "address": "茨城県下妻市谷田部",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.996383667,
+                    36.178975
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109687316077932544",
+                "tweet_date": "2019-03-24",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/5wsEM6RShX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2ZmtEvUgAAkqpi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市山尻",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9959411621,
+                    36.1712242
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109692413847572481",
+                "tweet_date": "2019-03-24",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/1P6g0twLnq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2ZrWhrUYAAb7ky.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市肘谷",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9990692139,
+                    36.1686369
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109693890427142144",
+                "tweet_date": "2019-03-24",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/EzMxTnldl5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Zssn-UgAQLduA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永3年",
+                "year_built_ce": 1850,
+                "address": "茨城県下妻市樋橋",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9918670654,
+                    36.1611849
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109697892111904770",
+                "tweet_date": "2019-03-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/DZaWlYCMOC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2ZwVqkVAAAv_a8.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市亀崎",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9918212891,
+                    36.1610576
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109697987809177600",
+                "tweet_date": "2019-03-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/l9LgfZrbiG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2ZwbBgVYAAM6sH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市亀崎",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9849853516,
+                    36.17244655
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109703539670937600",
+                "tweet_date": "2019-03-24",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/e1GtyNTzkr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Z1c1vU0AIepOz.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D2Z1eTDVYAAYoeb.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市加養",
+                "poi": "東光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9849243164,
+                    36.1720007
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109703622525247488",
+                "tweet_date": "2019-03-24",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/aeKkw5cKmn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Z1jbxVYAAz9jx.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市加養",
+                "poi": "東光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9850616455,
+                    36.1719113
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109703746919923712",
+                "tweet_date": "2019-03-24",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/pRO4KUm2I3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Z1qcRUwAAjdi-.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市加養",
+                "poi": "東光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9813079834,
+                    36.1733568
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109705591448993793",
+                "tweet_date": "2019-03-24",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/YpNVpY0CI1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Z3V58UYAAJPFO.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永4年",
+                "year_built_ce": 1851,
+                "address": "茨城県下妻市加養",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9788970947,
+                    36.1747667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1109707344768724992",
+                "tweet_date": "2019-03-24",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/HnpFjstowr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2Z46a0UwAALDqP.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D2Z47xgVAAIdVqF.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県下妻市加養",
                 "poi": ""
             }
         }
