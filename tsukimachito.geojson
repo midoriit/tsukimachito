@@ -37906,6 +37906,156 @@
                 "address": "茨城県下妻市加養",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4628295898,
+                    36.1341644
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1110755144340135936",
+                "tweet_date": "2019-03-27",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/OsZgRsaCkd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2ox59sVAAE6uJi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "享和2年",
+                "year_built_ce": 1802,
+                "address": "埼玉県行田市佐間一丁目",
+                "poi": "高源寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4628295898,
+                    36.1341644
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1110755287642701824",
+                "tweet_date": "2019-03-27",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Hgl7eQTl8c",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2oyCPFU4AA6Hfi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安永6年",
+                "year_built_ce": 1777,
+                "address": "埼玉県行田市佐間一丁目",
+                "poi": "高源寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4596862793,
+                    36.1374394
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1110758551314558976",
+                "tweet_date": "2019-03-27",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/GWY3YqULSo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2o09YxUwAAiuxq.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D2o0-82UcAE4oxx.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D2o1AM1UkAAgpv_.jpg",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県行田市忍二丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4688873291,
+                    36.1478461
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1110764203604742145",
+                "tweet_date": "2019-03-27",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/8CNsCO3kxM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2o6JSzUgAAFQzd.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和5年",
+                "year_built_ce": 1768,
+                "address": "埼玉県行田市桜町三丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4700012207,
+                    36.144073
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1110767958068912135",
+                "tweet_date": "2019-03-27",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/l6A2CVP4iz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2o9h0sVAAAz-2D.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D2o9jciUkAA284O.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "寛政8年",
+                "year_built_ce": 1796,
+                "address": "埼玉県行田市長野一丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4759521484,
+                    36.1343438
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1110772727135133696",
+                "tweet_date": "2019-03-27",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/LDVmTthRCp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D2pB3JmU4AA93Y0.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D2pB5IaUkAAz_vz.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和9年",
+                "year_built_ce": 1772,
+                "address": "埼玉県行田市大字長野",
+                "poi": ""
+            }
         }
     ]
 }
