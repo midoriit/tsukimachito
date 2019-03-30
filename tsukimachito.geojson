@@ -587,31 +587,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.6268463135,
-                    35.5734297
-                ]
-            },
-            "properties": {
-                "tweet_id": "T812549056459214848",
-                "tweet_date": "2016-12-24",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/6KurHImJxE",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/C0bBCMzUAAEdIH5.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
-                "address": "神奈川県川崎市高津区子母口",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     139.8796386719,
                     35.6581437
                 ]
@@ -904,56 +879,6 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "東京都町田市成瀬四丁目",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.5829315186,
-                    35.5964843
-                ]
-            },
-            "properties": {
-                "tweet_id": "T818318686096216064",
-                "tweet_date": "2017-01-09",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/IbPrz8v7Ok",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/C1tAelQUoAAnanh.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "二十三夜塔",
-                "year_built": "天保二年",
-                "year_built_ce": 1831,
-                "address": "神奈川県川崎市宮前区神木本町四丁目",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.5640411377,
-                    35.5877532
-                ]
-            },
-            "properties": {
-                "tweet_id": "T818343697125249026",
-                "tweet_date": "2017-01-09",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/KUMSXVcPyN",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/C1tXOujUQAAMOw6.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "二十三夜塔",
-                "year_built": "安永三年",
-                "year_built_ce": 1774,
-                "address": "神奈川県川崎市宮前区犬蔵一丁目",
                 "poi": ""
             }
         },
@@ -19162,56 +19087,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.8922576904,
-                    36.5564927
-                ]
-            },
-            "properties": {
-                "tweet_id": "T1001261494951067648",
-                "tweet_date": "2018-05-29",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/jHK5DbIy7q",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/DeUyAapV4AAkTOQ.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "十九夜塔",
-                "year_built": "安政六年",
-                "year_built_ce": 1859,
-                "address": "栃木県宇都宮市南大通り一丁目",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.8917999268,
-                    36.5568125
-                ]
-            },
-            "properties": {
-                "tweet_id": "T1001262610203856896",
-                "tweet_date": "2018-05-29",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/O65oBq1IEZ",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/DeUzBr1UQAAE5R7.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
-                "address": "栃木県宇都宮市南大通り一丁目",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     138.9945526123,
                     35.6188791
                 ]
@@ -19505,31 +19380,6 @@
                 "year_built_ce": "",
                 "address": "山梨県大月市富浜町鳥沢",
                 "poi": "養福寺"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.8778686523,
-                    36.5655858
-                ]
-            },
-            "properties": {
-                "tweet_id": "T1001664085874782208",
-                "tweet_date": "2018-05-30",
-                "contributor": "yupa884",
-                "tweet_url": "https:\/\/t.co\/r0pxxkMhYm",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/DeagJliW4AA2Sdx.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "十九夜塔",
-                "year_built": "慶応二年",
-                "year_built_ce": 1866,
-                "address": "栃木県宇都宮市清住一丁目",
-                "poi": ""
             }
         },
         {
@@ -38054,6 +37904,306 @@
                 "year_built": "明和9年",
                 "year_built_ce": 1772,
                 "address": "埼玉県行田市大字長野",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9060668945,
+                    37.97176167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1111899003275247616",
+                "tweet_date": "2019-03-30",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/jma8JtCrQG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D25CIOPU4AAOvCJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保六年",
+                "year_built_ce": 1835,
+                "address": "宮城県亘理郡山元町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9062042236,
+                    37.971805
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1111900096503791617",
+                "tweet_date": "2019-03-30",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/l6WsPE6xcj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D25DKdsUYAI2j9F.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化年間",
+                "year_built_ce": "",
+                "address": "宮城県亘理郡山元町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9062042236,
+                    37.971805
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1111900516785635328",
+                "tweet_date": "2019-03-30",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/JXjsiWiVrh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D25DiH-UkAA_Z_i.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保四年",
+                "year_built_ce": 1833,
+                "address": "宮城県亘理郡山元町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9060668945,
+                    37.971795
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1111900997457051649",
+                "tweet_date": "2019-03-30",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/UtLkhCw3oj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D25D_ANUgAA29SE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保十年",
+                "year_built_ce": 1839,
+                "address": "宮城県亘理郡山元町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9062042236,
+                    37.971805
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1111902977344729088",
+                "tweet_date": "2019-03-30",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/vjY4p2sID9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D25FwBeUgAAeF3Z.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文久四年",
+                "year_built_ce": 1864,
+                "address": "宮城県亘理郡山元町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9060668945,
+                    37.971775
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1111904652574887937",
+                "tweet_date": "2019-03-30",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/x5y3XPQNoE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D25HJiVU0AA34X0.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D25HJiTUkAAIDFO.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政三年",
+                "year_built_ce": 1856,
+                "address": "宮城県亘理郡山元町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9061126709,
+                    37.97177833
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1111905100279115777",
+                "tweet_date": "2019-03-30",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/8IbZAK2LxH",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D25HtPIUwAAhCrz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保十五年",
+                "year_built_ce": 1844,
+                "address": "宮城県亘理郡山元町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9060211182,
+                    37.97175333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1111907868729466881",
+                "tweet_date": "2019-03-30",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/HKuNjOYels",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D25KRCvU8AAQjGx.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化年間",
+                "year_built_ce": "",
+                "address": "宮城県亘理郡山元町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9059753418,
+                    37.971845
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1111908665898885125",
+                "tweet_date": "2019-03-30",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/2LI3XnT058",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D25K9S0UwAEdvVi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "宮城県亘理郡山元町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9059753418,
+                    37.971845
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1111927735343960064",
+                "tweet_date": "2019-03-30",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/oJuCohqIAw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D25cXY3U8AAa5nJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明和四年",
+                "year_built_ce": 1767,
+                "address": "宮城県亘理郡山元町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.905960083,
+                    37.971845
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1111928057424576513",
+                "tweet_date": "2019-03-30",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/8M9Qu48HwB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D25cqEqUkAEAcmB.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治四年",
+                "year_built_ce": 1871,
+                "address": "宮城県亘理郡山元町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9059448242,
+                    37.97186333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1111928355694084097",
+                "tweet_date": "2019-03-30",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/C3rSE3ESnn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D25c7nJVYAA29yx.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明和四年",
+                "year_built_ce": 1767,
+                "address": "宮城県亘理郡山元町",
                 "poi": ""
             }
         }

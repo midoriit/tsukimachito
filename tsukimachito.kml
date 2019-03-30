@@ -1062,52 +1062,6 @@
     <Placemark>
       <ExtendedData>
         <Data name="tweet_id">
-          <value>T812549056459214848</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2016-12-24</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/6KurHImJxE</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/C0bBCMzUAAEdIH5.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>二十三夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value/>
-        </Data>
-        <Data name="year_built_ce">
-          <value/>
-        </Data>
-        <Data name="address">
-          <value>神奈川県川崎市高津区子母口</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.6268463135,35.5734297000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
           <value>T813934756681240576</value>
         </Data>
         <Data name="tweet_date">
@@ -1655,98 +1609,6 @@
       </ExtendedData>
       <Point>
         <coordinates>139.4780578613,35.5424115000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
-          <value>T818318686096216064</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2017-01-09</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/IbPrz8v7Ok</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/C1tAelQUoAAnanh.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>二十三夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>天保二年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1831</value>
-        </Data>
-        <Data name="address">
-          <value>神奈川県川崎市宮前区神木本町四丁目</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.5829315186,35.5964843000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
-          <value>T818343697125249026</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2017-01-09</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/KUMSXVcPyN</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/C1tXOujUQAAMOw6.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>二十三夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>安永三年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1774</value>
-        </Data>
-        <Data name="address">
-          <value>神奈川県川崎市宮前区犬蔵一丁目</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.5640411377,35.5877532000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -35240,98 +35102,6 @@
     <Placemark>
       <ExtendedData>
         <Data name="tweet_id">
-          <value>T1001261494951067648</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2018-05-29</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/jHK5DbIy7q</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/DeUyAapV4AAkTOQ.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>十九夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>安政六年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1859</value>
-        </Data>
-        <Data name="address">
-          <value>栃木県宇都宮市南大通り一丁目</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.8922576904,36.5564927000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
-          <value>T1001262610203856896</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2018-05-29</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/O65oBq1IEZ</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/DeUzBr1UQAAE5R7.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>十九夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value/>
-        </Data>
-        <Data name="year_built_ce">
-          <value/>
-        </Data>
-        <Data name="address">
-          <value>栃木県宇都宮市南大通り一丁目</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.8917999268,36.5568125000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
           <value>T1001282104506834944</value>
         </Data>
         <Data name="tweet_date">
@@ -35879,52 +35649,6 @@
       </ExtendedData>
       <Point>
         <coordinates>139.0086059570,35.6011565000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
-          <value>T1001664085874782208</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2018-05-30</value>
-        </Data>
-        <Data name="contributor">
-          <value>yupa884</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/r0pxxkMhYm</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/DeagJliW4AA2Sdx.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>十九夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value>慶応二年</value>
-        </Data>
-        <Data name="year_built_ce">
-          <value>1866</value>
-        </Data>
-        <Data name="address">
-          <value>栃木県宇都宮市清住一丁目</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>139.8778686523,36.5655858000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -70011,6 +69735,558 @@
       </ExtendedData>
       <Point>
         <coordinates>139.4759521484,36.1343438000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1111899003275247616</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/jma8JtCrQG</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D25CIOPU4AAOvCJ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1835</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県亘理郡山元町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9060668945,37.9717616700</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1111900096503791617</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/l6WsPE6xcj</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D25DKdsUYAI2j9F.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化年間</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>宮城県亘理郡山元町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9062042236,37.9718050000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1111900516785635328</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/JXjsiWiVrh</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D25DiH-UkAA_Z_i.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1833</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県亘理郡山元町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9062042236,37.9718050000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1111900997457051649</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/UtLkhCw3oj</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D25D_ANUgAA29SE.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1839</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県亘理郡山元町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9060668945,37.9717950000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1111902977344729088</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/vjY4p2sID9</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D25FwBeUgAAeF3Z.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文久四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1864</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県亘理郡山元町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9062042236,37.9718050000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1111904652574887937</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/x5y3XPQNoE</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D25HJiVU0AA34X0.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D25HJiTUkAAIDFO.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安政三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1856</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県亘理郡山元町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9060668945,37.9717750000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1111905100279115777</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/8IbZAK2LxH</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D25HtPIUwAAhCrz.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保十五年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1844</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県亘理郡山元町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9061126709,37.9717783300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1111907868729466881</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/HKuNjOYels</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D25KRCvU8AAQjGx.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化年間</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>宮城県亘理郡山元町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9060211182,37.9717533300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1111908665898885125</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/2LI3XnT058</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D25K9S0UwAEdvVi.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>宮城県亘理郡山元町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9059753418,37.9718450000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1111927735343960064</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/oJuCohqIAw</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D25cXY3U8AAa5nJ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1767</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県亘理郡山元町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9059753418,37.9718450000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1111928057424576513</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/8M9Qu48HwB</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D25cqEqUkAEAcmB.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1871</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県亘理郡山元町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9059600830,37.9718450000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1111928355694084097</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-03-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/C3rSE3ESnn</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D25c7nJVYAA29yx.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1767</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県亘理郡山元町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9059448242,37.9718633300</coordinates>
       </Point>
     </Placemark>
   </Document>
