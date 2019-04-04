@@ -38506,6 +38506,56 @@
                 "address": "栃木県下野市薬師寺",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5828552246,
+                    35.5964978
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1113677193098305536",
+                "tweet_date": "2019-04-04",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/gW4RJVwjyw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3STdqCUcAAFZoy.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保2年",
+                "year_built_ce": 1831,
+                "address": "神奈川県川崎市宮前区神木本町四丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5640869141,
+                    35.5876383
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1113683653891055616",
+                "tweet_date": "2019-04-04",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/G4pTcxzEWe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3SZW2aXoAEizVh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永3年",
+                "year_built_ce": 1774,
+                "address": "神奈川県川崎市宮前区犬蔵一丁目",
+                "poi": ""
+            }
         }
     ]
 }
