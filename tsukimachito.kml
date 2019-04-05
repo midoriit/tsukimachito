@@ -44,7 +44,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.5373535156,35.5205219000</coordinates>
+        <coordinates>139.5376281738,35.5207830000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -169,10 +169,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文政九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1826</value>
         </Data>
         <Data name="address">
           <value>神奈川県横浜市都筑区川和町</value>
@@ -1917,10 +1917,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛延二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1749</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市西船三丁目</value>
@@ -1963,10 +1963,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛延元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1748</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市西船三丁目</value>
@@ -2607,10 +2607,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明治五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1872</value>
         </Data>
         <Data name="address">
           <value>東京都あきる野市小中野</value>
@@ -2837,10 +2837,10 @@
           <value>十七夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛政七年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1795</value>
         </Data>
         <Data name="address">
           <value>神奈川県横浜市鶴見区獅子ケ谷二丁目</value>
@@ -3067,10 +3067,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文化九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1812</value>
         </Data>
         <Data name="address">
           <value>神奈川県相模原市緑区与瀬</value>
@@ -4447,10 +4447,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文久三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1863</value>
         </Data>
         <Data name="address">
           <value>神奈川県藤沢市本町三丁目</value>
@@ -4539,10 +4539,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>天保十五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1844</value>
         </Data>
         <Data name="address">
           <value>神奈川県藤沢市鵠沼神明五丁目</value>
@@ -4677,10 +4677,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明治37年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1904</value>
         </Data>
         <Data name="address">
           <value>神奈川県茅ヶ崎市甘沼</value>
@@ -4861,10 +4861,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文化九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1812</value>
         </Data>
         <Data name="address">
           <value>神奈川県平塚市下島</value>
@@ -5367,10 +5367,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝暦十二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1762</value>
         </Data>
         <Data name="address">
           <value>埼玉県さいたま市桜区田島四丁目</value>
@@ -6057,10 +6057,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1696</value>
         </Data>
         <Data name="address">
           <value>千葉県我孫子市布佐</value>
@@ -6103,10 +6103,10 @@
           <value>十五夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>延宝六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1678</value>
         </Data>
         <Data name="address">
           <value>千葉県我孫子市布佐</value>
@@ -6149,10 +6149,10 @@
           <value>十五夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛文十三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1673</value>
         </Data>
         <Data name="address">
           <value>千葉県我孫子市布佐</value>
@@ -6241,10 +6241,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>天和二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1682</value>
         </Data>
         <Data name="address">
           <value>茨城県北相馬郡利根町大字布川</value>
@@ -6471,10 +6471,10 @@
           <value>十六夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元文四年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1739</value>
         </Data>
         <Data name="address">
           <value>茨城県北相馬郡利根町大字布川</value>
@@ -6517,10 +6517,10 @@
           <value>十六夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛文五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1665</value>
         </Data>
         <Data name="address">
           <value>茨城県北相馬郡利根町大字羽中</value>
@@ -6977,10 +6977,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享保十三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1728</value>
         </Data>
         <Data name="address">
           <value>千葉県習志野市谷津二丁目</value>
@@ -7023,10 +7023,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝暦十一年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1761</value>
         </Data>
         <Data name="address">
           <value>千葉県習志野市鷺沼三丁目</value>
@@ -7483,10 +7483,10 @@
           <value>二十六夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝永七年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1710</value>
         </Data>
         <Data name="address">
           <value>東京都葛飾区東金町三丁目</value>
@@ -8587,10 +8587,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1692</value>
         </Data>
         <Data name="address">
           <value>千葉県柏市大室</value>
@@ -8633,10 +8633,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享保六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1721</value>
         </Data>
         <Data name="address">
           <value>千葉県柏市大室</value>
@@ -8725,10 +8725,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄四年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1691</value>
         </Data>
         <Data name="address">
           <value>千葉県柏市大室</value>
@@ -9461,10 +9461,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文化十三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1816</value>
         </Data>
         <Data name="address">
           <value>東京都練馬区下石神井六丁目</value>
@@ -10105,10 +10105,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>弘化三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1846</value>
         </Data>
         <Data name="address">
           <value>茨城県守谷市百合ケ丘二丁目</value>
@@ -10197,10 +10197,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享和元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1801</value>
         </Data>
         <Data name="address">
           <value>茨城県守谷市立沢</value>
@@ -10243,10 +10243,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>安永八年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1779</value>
         </Data>
         <Data name="address">
           <value>茨城県守谷市立沢</value>
@@ -10335,10 +10335,10 @@
           <value>十七夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛保二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1742</value>
         </Data>
         <Data name="address">
           <value>茨城県守谷市立沢</value>
@@ -10427,10 +10427,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛政元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1789</value>
         </Data>
         <Data name="address">
           <value>茨城県守谷市大木</value>
@@ -10565,10 +10565,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文政六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1823</value>
         </Data>
         <Data name="address">
           <value>茨城県守谷市野木崎</value>
@@ -10657,10 +10657,10 @@
           <value>十五夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛文七年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1667</value>
         </Data>
         <Data name="address">
           <value>茨城県守谷市野木崎</value>
@@ -10795,10 +10795,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝永五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1708</value>
         </Data>
         <Data name="address">
           <value>茨城県守谷市松ケ丘三丁目</value>
@@ -10887,10 +10887,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文政七年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1824</value>
         </Data>
         <Data name="address">
           <value>茨城県守谷市高野</value>
@@ -11485,10 +11485,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文化七年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1810</value>
         </Data>
         <Data name="address">
           <value>茨城県守谷市本町</value>
@@ -11761,10 +11761,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>嘉永三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1850</value>
         </Data>
         <Data name="address">
           <value>茨城県守谷市本町</value>
@@ -12129,10 +12129,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>正徳五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1715</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市駒場四丁目</value>
@@ -12175,10 +12175,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享保十六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1731</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市駒場四丁目</value>
@@ -12635,10 +12635,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛文八年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1668</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市取手三丁目</value>
@@ -12773,10 +12773,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>安永五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1776</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市新町四丁目</value>
@@ -12819,10 +12819,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝暦十年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1760</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市新町四丁目</value>
@@ -12865,10 +12865,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛政六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1794</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市新町四丁目</value>
@@ -12957,10 +12957,10 @@
           <value>十六夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享保十一年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1726</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市稲</value>
@@ -13003,10 +13003,10 @@
           <value>十六夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄八年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1695</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市稲</value>
@@ -13095,10 +13095,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享和二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1802</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市稲</value>
@@ -13187,10 +13187,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文化二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1805</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市寺田</value>
@@ -13279,10 +13279,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享和四年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1804</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市野々井</value>
@@ -13417,10 +13417,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>天明二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1782</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市戸頭</value>
@@ -13463,10 +13463,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>天明二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1782</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市戸頭</value>
@@ -13831,10 +13831,10 @@
           <value>二十六夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>慶安元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1648</value>
         </Data>
         <Data name="address">
           <value>東京都中野区中央二丁目</value>
@@ -14015,10 +14015,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1696</value>
         </Data>
         <Data name="address">
           <value>千葉県市川市国分三丁目</value>
@@ -14061,10 +14061,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄十年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1697</value>
         </Data>
         <Data name="address">
           <value>千葉県市川市国分五丁目</value>
@@ -14107,10 +14107,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝永七年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1710</value>
         </Data>
         <Data name="address">
           <value>千葉県市川市国府台三丁目</value>
@@ -14153,10 +14153,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>延宝九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1681</value>
         </Data>
         <Data name="address">
           <value>千葉県市川市市川二丁目</value>
@@ -14199,10 +14199,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>延宝八年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1680</value>
         </Data>
         <Data name="address">
           <value>千葉県市川市市川一丁目</value>
@@ -14797,10 +14797,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>貞享三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1686</value>
         </Data>
         <Data name="address">
           <value>千葉県松戸市上本郷</value>
@@ -15027,10 +15027,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>正徳元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1711</value>
         </Data>
         <Data name="address">
           <value>千葉県松戸市根本</value>
@@ -15119,10 +15119,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝永元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1704</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市海神一丁目</value>
@@ -15257,10 +15257,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝暦五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1755</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市村上</value>
@@ -15303,10 +15303,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明和四年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1767</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市村上</value>
@@ -15349,10 +15349,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享和二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1802</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市村上</value>
@@ -15533,10 +15533,10 @@
           <value>十五夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享保元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1716</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市村上</value>
@@ -15579,10 +15579,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文化十三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1816</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市村上</value>
@@ -15993,10 +15993,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛文九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1669</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市萱田</value>
@@ -16039,10 +16039,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1689</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市萱田</value>
@@ -16085,10 +16085,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝暦十三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1763</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市萱田</value>
@@ -16269,10 +16269,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝永五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1708</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市大和田</value>
@@ -16361,10 +16361,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明和九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1772</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市大和田</value>
@@ -16407,10 +16407,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文化十五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1818</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市大和田</value>
@@ -16453,10 +16453,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>安永十年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1781</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市大和田新田</value>
@@ -16545,10 +16545,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元文五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1740</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市大和田新田</value>
@@ -16821,10 +16821,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝暦十年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1760</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市小文間</value>
@@ -16867,10 +16867,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>天和二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1682</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市小文間</value>
@@ -17005,10 +17005,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文政十三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1830</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市小文間</value>
@@ -17051,10 +17051,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>天保十年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1839</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市小文間</value>
@@ -17143,10 +17143,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享和三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1803</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市小文間</value>
@@ -17189,10 +17189,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>天保十三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1842</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市小文間</value>
@@ -17419,10 +17419,10 @@
           <value>十七夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明和五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1768</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市小泉</value>
@@ -17557,10 +17557,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛政八年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1796</value>
         </Data>
         <Data name="address">
           <value>茨城県取手市青柳</value>
@@ -17741,10 +17741,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文政九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1826</value>
         </Data>
         <Data name="address">
           <value>埼玉県さいたま市岩槻区慈恩寺</value>
@@ -17925,10 +17925,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>慶応元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1865</value>
         </Data>
         <Data name="address">
           <value>神奈川県横浜市戸塚区名瀬町</value>
@@ -20225,10 +20225,10 @@
           <value>二十七夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元文四年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1739</value>
         </Data>
         <Data name="address">
           <value>茨城県牛久市柏田町</value>
@@ -20317,10 +20317,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>安永七年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1778</value>
         </Data>
         <Data name="address">
           <value>茨城県牛久市柏田町</value>
@@ -20363,10 +20363,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝暦八年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1758</value>
         </Data>
         <Data name="address">
           <value>茨城県牛久市牛久町</value>
@@ -20409,10 +20409,10 @@
           <value>十六夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明和四年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1767</value>
         </Data>
         <Data name="address">
           <value>茨城県牛久市牛久町</value>
@@ -20455,10 +20455,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛文十二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1672</value>
         </Data>
         <Data name="address">
           <value>茨城県牛久市城中町</value>
@@ -20639,10 +20639,10 @@
           <value>十六夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明和二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1765</value>
         </Data>
         <Data name="address">
           <value>茨城県牛久市城中町</value>
@@ -23077,10 +23077,10 @@
           <value>十七夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>安永五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1776</value>
         </Data>
         <Data name="address">
           <value>茨城県土浦市中村西根</value>
@@ -23767,10 +23767,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元文五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1740</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市西船五丁目</value>
@@ -23951,10 +23951,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明治十八年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1885</value>
         </Data>
         <Data name="address">
           <value>千葉県白井市根</value>
@@ -23997,10 +23997,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>正徳五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1715</value>
         </Data>
         <Data name="address">
           <value>千葉県白井市根</value>
@@ -24043,10 +24043,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明和六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1769</value>
         </Data>
         <Data name="address">
           <value>千葉県白井市根</value>
@@ -24089,10 +24089,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>天保十一年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1840</value>
         </Data>
         <Data name="address">
           <value>千葉県白井市根</value>
@@ -24181,10 +24181,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文化八年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1811</value>
         </Data>
         <Data name="address">
           <value>千葉県白井市根</value>
@@ -24273,10 +24273,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明治25年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1892</value>
         </Data>
         <Data name="address">
           <value>千葉県白井市根</value>
@@ -24365,10 +24365,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明和九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1772</value>
         </Data>
         <Data name="address">
           <value>千葉県白井市根</value>
@@ -24641,10 +24641,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明治40年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1907</value>
         </Data>
         <Data name="address">
           <value>千葉県印西市鹿黒</value>
@@ -24779,10 +24779,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>安永四年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1775</value>
         </Data>
         <Data name="address">
           <value>千葉県印西市木下</value>
@@ -25009,10 +25009,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文政三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1820</value>
         </Data>
         <Data name="address">
           <value>千葉県印西市大森</value>
@@ -25055,10 +25055,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝永六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1709</value>
         </Data>
         <Data name="address">
           <value>千葉県印西市大森</value>
@@ -26895,10 +26895,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄十三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1700</value>
         </Data>
         <Data name="address">
           <value>千葉県流山市西深井</value>
@@ -26941,10 +26941,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文化二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1805</value>
         </Data>
         <Data name="address">
           <value>千葉県流山市大字東深井</value>
@@ -27217,10 +27217,10 @@
           <value>十八夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>貞享四年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1687</value>
         </Data>
         <Data name="address">
           <value>茨城県土浦市中貫</value>
@@ -27263,10 +27263,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛保二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1742</value>
         </Data>
         <Data name="address">
           <value>茨城県かすみがうら市下土田</value>
@@ -27309,10 +27309,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄十六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1703</value>
         </Data>
         <Data name="address">
           <value>茨城県かすみがうら市上土田</value>
@@ -27355,10 +27355,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝暦四年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1754</value>
         </Data>
         <Data name="address">
           <value>茨城県かすみがうら市下土田</value>
@@ -27493,10 +27493,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>貞享三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1686</value>
         </Data>
         <Data name="address">
           <value>茨城県かすみがうら市下土田</value>
@@ -27539,10 +27539,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝永元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1704</value>
         </Data>
         <Data name="address">
           <value>茨城県かすみがうら市下土田</value>
@@ -27861,10 +27861,10 @@
           <value>(二十)三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文久三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1863</value>
         </Data>
         <Data name="address">
           <value>神奈川県足柄上郡山北町岸</value>
@@ -28137,10 +28137,10 @@
           <value>二十二夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛政元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1789</value>
         </Data>
         <Data name="address">
           <value>埼玉県深谷市岡部</value>
@@ -29149,10 +29149,10 @@
           <value>二十二夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛政九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1797</value>
         </Data>
         <Data name="address">
           <value>群馬県高崎市岩鼻町</value>
@@ -29563,10 +29563,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文政七年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1824</value>
         </Data>
         <Data name="address">
           <value>東京都八王子市美山町</value>
@@ -29977,10 +29977,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝暦三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1753</value>
         </Data>
         <Data name="address">
           <value>栃木県下都賀郡野木町大字友沼</value>
@@ -31035,10 +31035,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>延宝七年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1679</value>
         </Data>
         <Data name="address">
           <value>千葉県流山市下花輪</value>
@@ -31909,10 +31909,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享保十三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1728</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市東船橋一丁目</value>
@@ -32093,10 +32093,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>延享三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1746</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市前原東五丁目</value>
@@ -32415,10 +32415,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>正徳三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1713</value>
         </Data>
         <Data name="address">
           <value>千葉県佐倉市弥勒町</value>
@@ -32507,10 +32507,10 @@
           <value>十七夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文政八年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1825</value>
         </Data>
         <Data name="address">
           <value>千葉県印旛郡酒々井町酒々井</value>
@@ -32645,10 +32645,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>安永二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1773</value>
         </Data>
         <Data name="address">
           <value>千葉県印旛郡酒々井町酒々井</value>
@@ -32967,10 +32967,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄十四年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1701</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市飯山満町三丁目</value>
@@ -33059,10 +33059,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1693</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市米ケ崎町</value>
@@ -33105,10 +33105,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>安永八年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1779</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市米ケ崎町</value>
@@ -33197,10 +33197,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>安永四年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1775</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市東町</value>
@@ -33243,10 +33243,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1693</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市東町</value>
@@ -33335,10 +33335,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1690</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市夏見五丁目</value>
@@ -33381,10 +33381,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享保元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1716</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市夏見五丁目</value>
@@ -33427,10 +33427,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元文二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1737</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市夏見五丁目</value>
@@ -33473,10 +33473,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄十五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1702</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市夏見五丁目</value>
@@ -33519,10 +33519,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>正徳二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1712</value>
         </Data>
         <Data name="address">
           <value>千葉県浦安市猫実三丁目</value>
@@ -33565,10 +33565,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元文元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1736</value>
         </Data>
         <Data name="address">
           <value>千葉県浦安市当代島二丁目</value>
@@ -34163,10 +34163,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛延元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1748</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市中央区亥鼻二丁目</value>
@@ -34209,10 +34209,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享保十四年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1729</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市中央区千葉寺町</value>
@@ -34301,10 +34301,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明和六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1769</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市中央区千葉寺町</value>
@@ -34347,10 +34347,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝暦五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1755</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市中央区千葉寺町</value>
@@ -34485,10 +34485,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛延二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1749</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市中央区千葉寺町</value>
@@ -34531,10 +34531,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明和三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1766</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市中央区千葉寺町</value>
@@ -34577,10 +34577,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>安永五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1776</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市中央区千葉寺町</value>
@@ -34669,10 +34669,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元文五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1740</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市中央区矢作町</value>
@@ -34853,10 +34853,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>貞享四年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1687</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市若葉区貝塚町</value>
@@ -34899,10 +34899,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元文五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1740</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市若葉区高品町</value>
@@ -35037,10 +35037,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元文元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1736</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市稲毛区作草部町</value>
@@ -35359,10 +35359,10 @@
           <value>(二十)三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝暦九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1759</value>
         </Data>
         <Data name="address">
           <value>山梨県大月市七保町下和田</value>
@@ -35497,10 +35497,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享和三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1803</value>
         </Data>
         <Data name="address">
           <value>山梨県大月市猿橋町猿橋</value>
@@ -36371,10 +36371,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>天明八年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1788</value>
         </Data>
         <Data name="address">
           <value>新潟県南魚沼郡湯沢町大字土樽</value>
@@ -36509,10 +36509,10 @@
           <value>二十一夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享保元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1716</value>
         </Data>
         <Data name="address">
           <value>群馬県北群馬郡吉岡町大字大久保</value>
@@ -37521,10 +37521,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>天保十一年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1840</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市八木が谷五丁目</value>
@@ -37889,10 +37889,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛政二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1790</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市金堀町</value>
@@ -38119,10 +38119,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝暦九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1759</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市吉橋</value>
@@ -38165,10 +38165,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文化十三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1816</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市吉橋</value>
@@ -38211,10 +38211,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>天保九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1838</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市吉橋</value>
@@ -38303,10 +38303,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛政六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1794</value>
         </Data>
         <Data name="address">
           <value>千葉県八千代市吉橋</value>
@@ -38487,10 +38487,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享和三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1803</value>
         </Data>
         <Data name="address">
           <value>茨城県土浦市常名</value>
@@ -38533,10 +38533,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄八年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1695</value>
         </Data>
         <Data name="address">
           <value>茨城県土浦市常名</value>
@@ -38579,10 +38579,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元文二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1737</value>
         </Data>
         <Data name="address">
           <value>茨城県土浦市常名</value>
@@ -39085,10 +39085,10 @@
           <value>二十二夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>安永五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1776</value>
         </Data>
         <Data name="address">
           <value>埼玉県東松山市大字東平</value>
@@ -39131,10 +39131,10 @@
           <value>二十二夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝暦十一年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1761</value>
         </Data>
         <Data name="address">
           <value>埼玉県東松山市上野本</value>
@@ -39499,10 +39499,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元文三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1738</value>
         </Data>
         <Data name="address">
           <value>埼玉県越谷市御殿町</value>
@@ -39637,10 +39637,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文化十四年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1817</value>
         </Data>
         <Data name="address">
           <value>埼玉県吉川市大字三輪野江</value>
@@ -40327,10 +40327,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1690</value>
         </Data>
         <Data name="address">
           <value>埼玉県吉川市中井三丁目</value>
@@ -43041,10 +43041,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>天明七年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1787</value>
         </Data>
         <Data name="address">
           <value>栃木県栃木市大平町牛久</value>
@@ -43179,10 +43179,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享保十三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1728</value>
         </Data>
         <Data name="address">
           <value>栃木県栃木市大平町牛久</value>
@@ -43915,10 +43915,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛保三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1743</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市花見川区武石町一丁目</value>
@@ -43961,10 +43961,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝永六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1709</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市花見川区武石町一丁目</value>
@@ -44007,10 +44007,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享保20年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1735</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市花見川区武石町一丁目</value>
@@ -44053,10 +44053,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1696</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市花見川区武石町一丁目</value>
@@ -44145,10 +44145,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元禄十年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1697</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市花見川区検見川町一丁目</value>
@@ -44283,10 +44283,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文政十年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1827</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市稲毛区稲毛町五丁目</value>
@@ -44329,10 +44329,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛政八年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1796</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市稲毛区小中台町</value>
@@ -44559,10 +44559,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文化九年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1812</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市稲毛区園生町</value>
@@ -44605,10 +44605,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>延享元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1744</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市稲毛区園生町</value>
@@ -44697,10 +44697,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝暦五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1755</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市稲毛区園生町</value>
@@ -45295,10 +45295,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>正徳五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1715</value>
         </Data>
         <Data name="address">
           <value>茨城県結城市結城</value>
@@ -46675,10 +46675,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>安永八年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1779</value>
         </Data>
         <Data name="address">
           <value>千葉県柏市増尾四丁目</value>
@@ -47135,10 +47135,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>弘化二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1845</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市花見川区横戸町</value>
@@ -47595,10 +47595,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝暦六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1756</value>
         </Data>
         <Data name="address">
           <value>千葉県千葉市花見川区横戸町</value>
@@ -52609,10 +52609,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>安永八年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1779</value>
         </Data>
         <Data name="address">
           <value>千葉県野田市桜台</value>
@@ -52747,10 +52747,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>宝永七年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1710</value>
         </Data>
         <Data name="address">
           <value>千葉県野田市桜台</value>
@@ -52839,10 +52839,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>天保十二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1841</value>
         </Data>
         <Data name="address">
           <value>千葉県野田市上花輪</value>
@@ -52931,10 +52931,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>安永七年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1778</value>
         </Data>
         <Data name="address">
           <value>千葉県野田市上花輪</value>
@@ -53943,10 +53943,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>延享二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1745</value>
         </Data>
         <Data name="address">
           <value>千葉県柏市酒井根六丁目</value>
@@ -54541,10 +54541,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文化二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1805</value>
         </Data>
         <Data name="address">
           <value>千葉県柏市逆井</value>
@@ -55323,10 +55323,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>貞享二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1685</value>
         </Data>
         <Data name="address">
           <value>千葉県松戸市日暮五丁目</value>
@@ -57945,10 +57945,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>嘉永六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1853</value>
         </Data>
         <Data name="address">
           <value>茨城県笠間市下郷</value>
@@ -58221,10 +58221,10 @@
           <value>十六夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文化元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1804</value>
         </Data>
         <Data name="address">
           <value>栃木県足利市大沼田町</value>
@@ -61763,10 +61763,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>安永四年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1775</value>
         </Data>
         <Data name="address">
           <value>千葉県船橋市飯山満町一丁目</value>
@@ -63465,10 +63465,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>享保十年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1725</value>
         </Data>
         <Data name="address">
           <value>千葉県柏市布施下</value>
@@ -70931,6 +70931,52 @@
       </ExtendedData>
       <Point>
         <coordinates>139.5640869141,35.5876383000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114061998679977984</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-05</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/ryaMQMo7Gp</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3XxeecU8AE1IhT.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D3XxeeeU4AcWSS_.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/D3XxeecU0AAGjOe.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value>https://pbs.twimg.com/media/D3XxeecUYAA2cEN.jpg</value>
+        </Data>
+        <Data name="type">
+          <value>十七夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1769</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県宮城郡松島町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>141.0539245605,38.4034300000</coordinates>
       </Point>
     </Placemark>
   </Document>

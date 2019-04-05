@@ -12,8 +12,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.5373535156,
-                    35.5205219
+                    139.5376281738,
+                    35.520783
                 ]
             },
             "properties": {
@@ -101,8 +101,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文政九年",
+                "year_built_ce": 1826,
                 "address": "神奈川県横浜市都筑区川和町",
                 "poi": ""
             }
@@ -1051,8 +1051,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛延二年",
+                "year_built_ce": 1749,
                 "address": "千葉県船橋市西船三丁目",
                 "poi": ""
             }
@@ -1076,8 +1076,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛延元年",
+                "year_built_ce": 1748,
                 "address": "千葉県船橋市西船三丁目",
                 "poi": ""
             }
@@ -1426,8 +1426,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明治五年",
+                "year_built_ce": 1872,
                 "address": "東京都あきる野市小中野",
                 "poi": ""
             }
@@ -1551,8 +1551,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十七夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛政七年",
+                "year_built_ce": 1795,
                 "address": "神奈川県横浜市鶴見区獅子ケ谷二丁目",
                 "poi": "本覚寺"
             }
@@ -1676,8 +1676,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化九年",
+                "year_built_ce": 1812,
                 "address": "神奈川県相模原市緑区与瀬",
                 "poi": ""
             }
@@ -2426,8 +2426,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文久三年",
+                "year_built_ce": 1863,
                 "address": "神奈川県藤沢市本町三丁目",
                 "poi": ""
             }
@@ -2476,8 +2476,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天保十五年",
+                "year_built_ce": 1844,
                 "address": "神奈川県藤沢市鵠沼神明五丁目",
                 "poi": ""
             }
@@ -2551,8 +2551,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明治37年",
+                "year_built_ce": 1904,
                 "address": "神奈川県茅ヶ崎市甘沼",
                 "poi": ""
             }
@@ -2651,8 +2651,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化九年",
+                "year_built_ce": 1812,
                 "address": "神奈川県平塚市下島",
                 "poi": ""
             }
@@ -2926,8 +2926,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦十二年",
+                "year_built_ce": 1762,
                 "address": "埼玉県さいたま市桜区田島四丁目",
                 "poi": ""
             }
@@ -3301,8 +3301,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄九年",
+                "year_built_ce": 1696,
                 "address": "千葉県我孫子市布佐",
                 "poi": "勝蔵院"
             }
@@ -3326,8 +3326,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十五夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "延宝六年",
+                "year_built_ce": 1678,
                 "address": "千葉県我孫子市布佐",
                 "poi": "勝蔵院"
             }
@@ -3351,8 +3351,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十五夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛文十三年",
+                "year_built_ce": 1673,
                 "address": "千葉県我孫子市布佐",
                 "poi": "勝蔵院"
             }
@@ -3401,8 +3401,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天和二年",
+                "year_built_ce": 1682,
                 "address": "茨城県北相馬郡利根町大字布川",
                 "poi": "徳満寺"
             }
@@ -3526,8 +3526,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十六夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元文四年",
+                "year_built_ce": 1739,
                 "address": "茨城県北相馬郡利根町大字布川",
                 "poi": ""
             }
@@ -3551,8 +3551,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十六夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛文五年",
+                "year_built_ce": 1665,
                 "address": "茨城県北相馬郡利根町大字羽中",
                 "poi": ""
             }
@@ -3801,8 +3801,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享保十三年",
+                "year_built_ce": 1728,
                 "address": "千葉県習志野市谷津二丁目",
                 "poi": ""
             }
@@ -3826,8 +3826,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦十一年",
+                "year_built_ce": 1761,
                 "address": "千葉県習志野市鷺沼三丁目",
                 "poi": ""
             }
@@ -4076,8 +4076,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十六夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝永七年",
+                "year_built_ce": 1710,
                 "address": "東京都葛飾区東金町三丁目",
                 "poi": "金蓮院"
             }
@@ -4676,8 +4676,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄五年",
+                "year_built_ce": 1692,
                 "address": "千葉県柏市大室",
                 "poi": ""
             }
@@ -4701,8 +4701,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享保六年",
+                "year_built_ce": 1721,
                 "address": "千葉県柏市大室",
                 "poi": ""
             }
@@ -4751,8 +4751,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄四年",
+                "year_built_ce": 1691,
                 "address": "千葉県柏市大室",
                 "poi": ""
             }
@@ -5151,8 +5151,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化十三年",
+                "year_built_ce": 1816,
                 "address": "東京都練馬区下石神井六丁目",
                 "poi": "天祖神社"
             }
@@ -5501,8 +5501,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "弘化三年",
+                "year_built_ce": 1846,
                 "address": "茨城県守谷市百合ケ丘二丁目",
                 "poi": "長竜寺"
             }
@@ -5551,8 +5551,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享和元年",
+                "year_built_ce": 1801,
                 "address": "茨城県守谷市立沢",
                 "poi": ""
             }
@@ -5576,8 +5576,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安永八年",
+                "year_built_ce": 1779,
                 "address": "茨城県守谷市立沢",
                 "poi": ""
             }
@@ -5626,8 +5626,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十七夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛保二年",
+                "year_built_ce": 1742,
                 "address": "茨城県守谷市立沢",
                 "poi": ""
             }
@@ -5676,8 +5676,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛政元年",
+                "year_built_ce": 1789,
                 "address": "茨城県守谷市大木",
                 "poi": ""
             }
@@ -5751,8 +5751,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文政六年",
+                "year_built_ce": 1823,
                 "address": "茨城県守谷市野木崎",
                 "poi": ""
             }
@@ -5801,8 +5801,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十五夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛文七年",
+                "year_built_ce": 1667,
                 "address": "茨城県守谷市野木崎",
                 "poi": ""
             }
@@ -5876,8 +5876,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝永五年",
+                "year_built_ce": 1708,
                 "address": "茨城県守谷市松ケ丘三丁目",
                 "poi": ""
             }
@@ -5926,8 +5926,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文政七年",
+                "year_built_ce": 1824,
                 "address": "茨城県守谷市高野",
                 "poi": ""
             }
@@ -6251,8 +6251,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化七年",
+                "year_built_ce": 1810,
                 "address": "茨城県守谷市本町",
                 "poi": ""
             }
@@ -6401,8 +6401,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "嘉永三年",
+                "year_built_ce": 1850,
                 "address": "茨城県守谷市本町",
                 "poi": ""
             }
@@ -6601,8 +6601,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "正徳五年",
+                "year_built_ce": 1715,
                 "address": "茨城県取手市駒場四丁目",
                 "poi": ""
             }
@@ -6626,8 +6626,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享保十六年",
+                "year_built_ce": 1731,
                 "address": "茨城県取手市駒場四丁目",
                 "poi": ""
             }
@@ -6876,8 +6876,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛文八年",
+                "year_built_ce": 1668,
                 "address": "茨城県取手市取手三丁目",
                 "poi": ""
             }
@@ -6951,8 +6951,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安永五年",
+                "year_built_ce": 1776,
                 "address": "茨城県取手市新町四丁目",
                 "poi": ""
             }
@@ -6976,8 +6976,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦十年",
+                "year_built_ce": 1760,
                 "address": "茨城県取手市新町四丁目",
                 "poi": ""
             }
@@ -7001,8 +7001,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛政六年",
+                "year_built_ce": 1794,
                 "address": "茨城県取手市新町四丁目",
                 "poi": ""
             }
@@ -7051,8 +7051,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十六夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享保十一年",
+                "year_built_ce": 1726,
                 "address": "茨城県取手市稲",
                 "poi": ""
             }
@@ -7076,8 +7076,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十六夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄八年",
+                "year_built_ce": 1695,
                 "address": "茨城県取手市稲",
                 "poi": ""
             }
@@ -7126,8 +7126,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享和二年",
+                "year_built_ce": 1802,
                 "address": "茨城県取手市稲",
                 "poi": ""
             }
@@ -7176,8 +7176,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化二年",
+                "year_built_ce": 1805,
                 "address": "茨城県取手市寺田",
                 "poi": ""
             }
@@ -7226,8 +7226,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享和四年",
+                "year_built_ce": 1804,
                 "address": "茨城県取手市野々井",
                 "poi": ""
             }
@@ -7301,8 +7301,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天明二年",
+                "year_built_ce": 1782,
                 "address": "茨城県取手市戸頭",
                 "poi": ""
             }
@@ -7326,8 +7326,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天明二年",
+                "year_built_ce": 1782,
                 "address": "茨城県取手市戸頭",
                 "poi": ""
             }
@@ -7526,8 +7526,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十六夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "慶安元年",
+                "year_built_ce": 1648,
                 "address": "東京都中野区中央二丁目",
                 "poi": "宝仙寺"
             }
@@ -7626,8 +7626,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄九年",
+                "year_built_ce": 1696,
                 "address": "千葉県市川市国分三丁目",
                 "poi": ""
             }
@@ -7651,8 +7651,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄十年",
+                "year_built_ce": 1697,
                 "address": "千葉県市川市国分五丁目",
                 "poi": "竜珠院"
             }
@@ -7676,8 +7676,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝永七年",
+                "year_built_ce": 1710,
                 "address": "千葉県市川市国府台三丁目",
                 "poi": "総寧寺"
             }
@@ -7701,8 +7701,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "延宝九年",
+                "year_built_ce": 1681,
                 "address": "千葉県市川市市川二丁目",
                 "poi": ""
             }
@@ -7726,8 +7726,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "延宝八年",
+                "year_built_ce": 1680,
                 "address": "千葉県市川市市川一丁目",
                 "poi": ""
             }
@@ -8051,8 +8051,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "貞享三年",
+                "year_built_ce": 1686,
                 "address": "千葉県松戸市上本郷",
                 "poi": "本福寺"
             }
@@ -8176,8 +8176,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "正徳元年",
+                "year_built_ce": 1711,
                 "address": "千葉県松戸市根本",
                 "poi": ""
             }
@@ -8226,8 +8226,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝永元年",
+                "year_built_ce": 1704,
                 "address": "千葉県船橋市海神一丁目",
                 "poi": "地蔵院・真言宗"
             }
@@ -8301,8 +8301,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦五年",
+                "year_built_ce": 1755,
                 "address": "千葉県八千代市村上",
                 "poi": "真言宗正覚院"
             }
@@ -8326,8 +8326,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明和四年",
+                "year_built_ce": 1767,
                 "address": "千葉県八千代市村上",
                 "poi": "真言宗正覚院"
             }
@@ -8351,8 +8351,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享和二年",
+                "year_built_ce": 1802,
                 "address": "千葉県八千代市村上",
                 "poi": "真言宗正覚院"
             }
@@ -8451,8 +8451,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十五夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享保元年",
+                "year_built_ce": 1716,
                 "address": "千葉県八千代市村上",
                 "poi": "真言宗正覚院"
             }
@@ -8476,8 +8476,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化十三年",
+                "year_built_ce": 1816,
                 "address": "千葉県八千代市村上",
                 "poi": "真言宗正覚院"
             }
@@ -8701,8 +8701,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛文九年",
+                "year_built_ce": 1669,
                 "address": "千葉県八千代市萱田",
                 "poi": "萱田山長福寺"
             }
@@ -8726,8 +8726,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄二年",
+                "year_built_ce": 1689,
                 "address": "千葉県八千代市萱田",
                 "poi": "萱田山長福寺"
             }
@@ -8751,8 +8751,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦十三年",
+                "year_built_ce": 1763,
                 "address": "千葉県八千代市萱田",
                 "poi": "萱田山長福寺"
             }
@@ -8851,8 +8851,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝永五年",
+                "year_built_ce": 1708,
                 "address": "千葉県八千代市大和田",
                 "poi": ""
             }
@@ -8901,8 +8901,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明和九年",
+                "year_built_ce": 1772,
                 "address": "千葉県八千代市大和田",
                 "poi": ""
             }
@@ -8926,8 +8926,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化十五年",
+                "year_built_ce": 1818,
                 "address": "千葉県八千代市大和田",
                 "poi": ""
             }
@@ -8951,8 +8951,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安永十年",
+                "year_built_ce": 1781,
                 "address": "千葉県八千代市大和田新田",
                 "poi": ""
             }
@@ -9001,8 +9001,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元文五年",
+                "year_built_ce": 1740,
                 "address": "千葉県八千代市大和田新田",
                 "poi": ""
             }
@@ -9151,8 +9151,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦十年",
+                "year_built_ce": 1760,
                 "address": "茨城県取手市小文間",
                 "poi": ""
             }
@@ -9176,8 +9176,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天和二年",
+                "year_built_ce": 1682,
                 "address": "茨城県取手市小文間",
                 "poi": ""
             }
@@ -9251,8 +9251,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文政十三年",
+                "year_built_ce": 1830,
                 "address": "茨城県取手市小文間",
                 "poi": ""
             }
@@ -9276,8 +9276,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天保十年",
+                "year_built_ce": 1839,
                 "address": "茨城県取手市小文間",
                 "poi": ""
             }
@@ -9326,8 +9326,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享和三年",
+                "year_built_ce": 1803,
                 "address": "茨城県取手市小文間",
                 "poi": ""
             }
@@ -9351,8 +9351,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天保十三年",
+                "year_built_ce": 1842,
                 "address": "茨城県取手市小文間",
                 "poi": ""
             }
@@ -9476,8 +9476,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十七夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明和五年",
+                "year_built_ce": 1768,
                 "address": "茨城県取手市小泉",
                 "poi": ""
             }
@@ -9551,8 +9551,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛政八年",
+                "year_built_ce": 1796,
                 "address": "茨城県取手市青柳",
                 "poi": ""
             }
@@ -9651,8 +9651,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文政九年",
+                "year_built_ce": 1826,
                 "address": "埼玉県さいたま市岩槻区慈恩寺",
                 "poi": ""
             }
@@ -9751,8 +9751,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "慶応元年",
+                "year_built_ce": 1865,
                 "address": "神奈川県横浜市戸塚区名瀬町",
                 "poi": ""
             }
@@ -11001,8 +11001,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十七夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元文四年",
+                "year_built_ce": 1739,
                 "address": "茨城県牛久市柏田町",
                 "poi": ""
             }
@@ -11051,8 +11051,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安永七年",
+                "year_built_ce": 1778,
                 "address": "茨城県牛久市柏田町",
                 "poi": ""
             }
@@ -11076,8 +11076,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦八年",
+                "year_built_ce": 1758,
                 "address": "茨城県牛久市牛久町",
                 "poi": "正源寺"
             }
@@ -11101,8 +11101,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十六夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明和四年",
+                "year_built_ce": 1767,
                 "address": "茨城県牛久市牛久町",
                 "poi": "正源寺"
             }
@@ -11126,8 +11126,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛文十二年",
+                "year_built_ce": 1672,
                 "address": "茨城県牛久市城中町",
                 "poi": "得月院"
             }
@@ -11226,8 +11226,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十六夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明和二年",
+                "year_built_ce": 1765,
                 "address": "茨城県牛久市城中町",
                 "poi": ""
             }
@@ -12551,8 +12551,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十七夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安永五年",
+                "year_built_ce": 1776,
                 "address": "茨城県土浦市中村西根",
                 "poi": ""
             }
@@ -12926,8 +12926,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元文五年",
+                "year_built_ce": 1740,
                 "address": "千葉県船橋市西船五丁目",
                 "poi": ""
             }
@@ -13026,8 +13026,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明治十八年",
+                "year_built_ce": 1885,
                 "address": "千葉県白井市根",
                 "poi": ""
             }
@@ -13051,8 +13051,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "正徳五年",
+                "year_built_ce": 1715,
                 "address": "千葉県白井市根",
                 "poi": "長楽寺"
             }
@@ -13076,8 +13076,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明和六年",
+                "year_built_ce": 1769,
                 "address": "千葉県白井市根",
                 "poi": "長楽寺"
             }
@@ -13101,8 +13101,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天保十一年",
+                "year_built_ce": 1840,
                 "address": "千葉県白井市根",
                 "poi": "長楽寺"
             }
@@ -13151,8 +13151,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化八年",
+                "year_built_ce": 1811,
                 "address": "千葉県白井市根",
                 "poi": ""
             }
@@ -13201,8 +13201,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明治25年",
+                "year_built_ce": 1892,
                 "address": "千葉県白井市根",
                 "poi": "長楽寺"
             }
@@ -13251,8 +13251,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明和九年",
+                "year_built_ce": 1772,
                 "address": "千葉県白井市根",
                 "poi": ""
             }
@@ -13401,8 +13401,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明治40年",
+                "year_built_ce": 1907,
                 "address": "千葉県印西市鹿黒",
                 "poi": ""
             }
@@ -13476,8 +13476,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安永四年",
+                "year_built_ce": 1775,
                 "address": "千葉県印西市木下",
                 "poi": ""
             }
@@ -13601,8 +13601,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文政三年",
+                "year_built_ce": 1820,
                 "address": "千葉県印西市大森",
                 "poi": ""
             }
@@ -13626,8 +13626,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝永六年",
+                "year_built_ce": 1709,
                 "address": "千葉県印西市大森",
                 "poi": ""
             }
@@ -14626,8 +14626,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄十三年",
+                "year_built_ce": 1700,
                 "address": "千葉県流山市西深井",
                 "poi": ""
             }
@@ -14651,8 +14651,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化二年",
+                "year_built_ce": 1805,
                 "address": "千葉県流山市大字東深井",
                 "poi": ""
             }
@@ -14801,8 +14801,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十八夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "貞享四年",
+                "year_built_ce": 1687,
                 "address": "茨城県土浦市中貫",
                 "poi": "安穏寺"
             }
@@ -14826,8 +14826,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛保二年",
+                "year_built_ce": 1742,
                 "address": "茨城県かすみがうら市下土田",
                 "poi": ""
             }
@@ -14851,8 +14851,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄十六年",
+                "year_built_ce": 1703,
                 "address": "茨城県かすみがうら市上土田",
                 "poi": ""
             }
@@ -14876,8 +14876,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦四年",
+                "year_built_ce": 1754,
                 "address": "茨城県かすみがうら市下土田",
                 "poi": ""
             }
@@ -14951,8 +14951,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "貞享三年",
+                "year_built_ce": 1686,
                 "address": "茨城県かすみがうら市下土田",
                 "poi": ""
             }
@@ -14976,8 +14976,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝永元年",
+                "year_built_ce": 1704,
                 "address": "茨城県かすみがうら市下土田",
                 "poi": ""
             }
@@ -15151,8 +15151,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "(二十)三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文久三年",
+                "year_built_ce": 1863,
                 "address": "神奈川県足柄上郡山北町岸",
                 "poi": ""
             }
@@ -15301,8 +15301,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十二夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛政元年",
+                "year_built_ce": 1789,
                 "address": "埼玉県深谷市岡部",
                 "poi": ""
             }
@@ -15851,8 +15851,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十二夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛政九年",
+                "year_built_ce": 1797,
                 "address": "群馬県高崎市岩鼻町",
                 "poi": ""
             }
@@ -16076,8 +16076,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文政七年",
+                "year_built_ce": 1824,
                 "address": "東京都八王子市美山町",
                 "poi": ""
             }
@@ -16301,8 +16301,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦三年",
+                "year_built_ce": 1753,
                 "address": "栃木県下都賀郡野木町大字友沼",
                 "poi": "法音寺"
             }
@@ -16876,8 +16876,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "延宝七年",
+                "year_built_ce": 1679,
                 "address": "千葉県流山市下花輪",
                 "poi": ""
             }
@@ -17351,8 +17351,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享保十三年",
+                "year_built_ce": 1728,
                 "address": "千葉県船橋市東船橋一丁目",
                 "poi": ""
             }
@@ -17451,8 +17451,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "延享三年",
+                "year_built_ce": 1746,
                 "address": "千葉県船橋市前原東五丁目",
                 "poi": "道入庵"
             }
@@ -17626,8 +17626,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "正徳三年",
+                "year_built_ce": 1713,
                 "address": "千葉県佐倉市弥勒町",
                 "poi": ""
             }
@@ -17676,8 +17676,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十七夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文政八年",
+                "year_built_ce": 1825,
                 "address": "千葉県印旛郡酒々井町酒々井",
                 "poi": ""
             }
@@ -17751,8 +17751,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安永二年",
+                "year_built_ce": 1773,
                 "address": "千葉県印旛郡酒々井町酒々井",
                 "poi": ""
             }
@@ -17926,8 +17926,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄十四年",
+                "year_built_ce": 1701,
                 "address": "千葉県船橋市飯山満町三丁目",
                 "poi": "光明寺・真言宗豊山派"
             }
@@ -17976,8 +17976,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄六年",
+                "year_built_ce": 1693,
                 "address": "千葉県船橋市米ケ崎町",
                 "poi": ""
             }
@@ -18001,8 +18001,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安永八年",
+                "year_built_ce": 1779,
                 "address": "千葉県船橋市米ケ崎町",
                 "poi": ""
             }
@@ -18051,8 +18051,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安永四年",
+                "year_built_ce": 1775,
                 "address": "千葉県船橋市東町",
                 "poi": ""
             }
@@ -18076,8 +18076,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄六年",
+                "year_built_ce": 1693,
                 "address": "千葉県船橋市東町",
                 "poi": ""
             }
@@ -18126,8 +18126,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄三年",
+                "year_built_ce": 1690,
                 "address": "千葉県船橋市夏見五丁目",
                 "poi": ""
             }
@@ -18151,8 +18151,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享保元年",
+                "year_built_ce": 1716,
                 "address": "千葉県船橋市夏見五丁目",
                 "poi": ""
             }
@@ -18176,8 +18176,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元文二年",
+                "year_built_ce": 1737,
                 "address": "千葉県船橋市夏見五丁目",
                 "poi": ""
             }
@@ -18201,8 +18201,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄十五年",
+                "year_built_ce": 1702,
                 "address": "千葉県船橋市夏見五丁目",
                 "poi": ""
             }
@@ -18226,8 +18226,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "正徳二年",
+                "year_built_ce": 1712,
                 "address": "千葉県浦安市猫実三丁目",
                 "poi": "花蔵院"
             }
@@ -18251,8 +18251,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元文元年",
+                "year_built_ce": 1736,
                 "address": "千葉県浦安市当代島二丁目",
                 "poi": ""
             }
@@ -18576,8 +18576,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛延元年",
+                "year_built_ce": 1748,
                 "address": "千葉県千葉市中央区亥鼻二丁目",
                 "poi": "高徳寺"
             }
@@ -18601,8 +18601,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享保十四年",
+                "year_built_ce": 1729,
                 "address": "千葉県千葉市中央区千葉寺町",
                 "poi": "千葉寺"
             }
@@ -18651,8 +18651,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明和六年",
+                "year_built_ce": 1769,
                 "address": "千葉県千葉市中央区千葉寺町",
                 "poi": "千葉寺"
             }
@@ -18676,8 +18676,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦五年",
+                "year_built_ce": 1755,
                 "address": "千葉県千葉市中央区千葉寺町",
                 "poi": "千葉寺"
             }
@@ -18751,8 +18751,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛延二年",
+                "year_built_ce": 1749,
                 "address": "千葉県千葉市中央区千葉寺町",
                 "poi": "千葉寺"
             }
@@ -18776,8 +18776,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明和三年",
+                "year_built_ce": 1766,
                 "address": "千葉県千葉市中央区千葉寺町",
                 "poi": "千葉寺"
             }
@@ -18801,8 +18801,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安永五年",
+                "year_built_ce": 1776,
                 "address": "千葉県千葉市中央区千葉寺町",
                 "poi": "千葉寺"
             }
@@ -18851,8 +18851,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元文五年",
+                "year_built_ce": 1740,
                 "address": "千葉県千葉市中央区矢作町",
                 "poi": "千手院・曹洞宗"
             }
@@ -18951,8 +18951,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "貞享四年",
+                "year_built_ce": 1687,
                 "address": "千葉県千葉市若葉区貝塚町",
                 "poi": ""
             }
@@ -18976,8 +18976,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元文五年",
+                "year_built_ce": 1740,
                 "address": "千葉県千葉市若葉区高品町",
                 "poi": "等覚寺"
             }
@@ -19051,8 +19051,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元文元年",
+                "year_built_ce": 1736,
                 "address": "千葉県千葉市稲毛区作草部町",
                 "poi": "正善院"
             }
@@ -19226,8 +19226,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "(二十)三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦九年",
+                "year_built_ce": 1759,
                 "address": "山梨県大月市七保町下和田",
                 "poi": ""
             }
@@ -19301,8 +19301,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享和三年",
+                "year_built_ce": 1803,
                 "address": "山梨県大月市猿橋町猿橋",
                 "poi": ""
             }
@@ -19776,8 +19776,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天明八年",
+                "year_built_ce": 1788,
                 "address": "新潟県南魚沼郡湯沢町大字土樽",
                 "poi": ""
             }
@@ -19851,8 +19851,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十一夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享保元年",
+                "year_built_ce": 1716,
                 "address": "群馬県北群馬郡吉岡町大字大久保",
                 "poi": ""
             }
@@ -20401,8 +20401,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天保十一年",
+                "year_built_ce": 1840,
                 "address": "千葉県船橋市八木が谷五丁目",
                 "poi": "天台宗長福寺"
             }
@@ -20601,8 +20601,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛政二年",
+                "year_built_ce": 1790,
                 "address": "千葉県船橋市金堀町",
                 "poi": ""
             }
@@ -20726,8 +20726,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦九年",
+                "year_built_ce": 1759,
                 "address": "千葉県八千代市吉橋",
                 "poi": ""
             }
@@ -20751,8 +20751,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化十三年",
+                "year_built_ce": 1816,
                 "address": "千葉県八千代市吉橋",
                 "poi": ""
             }
@@ -20776,8 +20776,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天保九年",
+                "year_built_ce": 1838,
                 "address": "千葉県八千代市吉橋",
                 "poi": ""
             }
@@ -20826,8 +20826,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛政六年",
+                "year_built_ce": 1794,
                 "address": "千葉県八千代市吉橋",
                 "poi": ""
             }
@@ -20926,8 +20926,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享和三年",
+                "year_built_ce": 1803,
                 "address": "茨城県土浦市常名",
                 "poi": ""
             }
@@ -20951,8 +20951,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄八年",
+                "year_built_ce": 1695,
                 "address": "茨城県土浦市常名",
                 "poi": ""
             }
@@ -20976,8 +20976,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元文二年",
+                "year_built_ce": 1737,
                 "address": "茨城県土浦市常名",
                 "poi": ""
             }
@@ -21251,8 +21251,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十二夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安永五年",
+                "year_built_ce": 1776,
                 "address": "埼玉県東松山市大字東平",
                 "poi": ""
             }
@@ -21276,8 +21276,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十二夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦十一年",
+                "year_built_ce": 1761,
                 "address": "埼玉県東松山市上野本",
                 "poi": ""
             }
@@ -21476,8 +21476,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元文三年",
+                "year_built_ce": 1738,
                 "address": "埼玉県越谷市御殿町",
                 "poi": ""
             }
@@ -21551,8 +21551,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化十四年",
+                "year_built_ce": 1817,
                 "address": "埼玉県吉川市大字三輪野江",
                 "poi": "定勝寺"
             }
@@ -21926,8 +21926,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄三年",
+                "year_built_ce": 1690,
                 "address": "埼玉県吉川市中井三丁目",
                 "poi": ""
             }
@@ -23401,8 +23401,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天明七年",
+                "year_built_ce": 1787,
                 "address": "栃木県栃木市大平町牛久",
                 "poi": "牛来寺"
             }
@@ -23476,8 +23476,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享保十三年",
+                "year_built_ce": 1728,
                 "address": "栃木県栃木市大平町牛久",
                 "poi": "牛来寺"
             }
@@ -23876,8 +23876,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛保三年",
+                "year_built_ce": 1743,
                 "address": "千葉県千葉市花見川区武石町一丁目",
                 "poi": "真蔵院"
             }
@@ -23901,8 +23901,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝永六年",
+                "year_built_ce": 1709,
                 "address": "千葉県千葉市花見川区武石町一丁目",
                 "poi": "真蔵院"
             }
@@ -23926,8 +23926,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享保20年",
+                "year_built_ce": 1735,
                 "address": "千葉県千葉市花見川区武石町一丁目",
                 "poi": "真蔵院"
             }
@@ -23951,8 +23951,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄九年",
+                "year_built_ce": 1696,
                 "address": "千葉県千葉市花見川区武石町一丁目",
                 "poi": "真蔵院"
             }
@@ -24001,8 +24001,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄十年",
+                "year_built_ce": 1697,
                 "address": "千葉県千葉市花見川区検見川町一丁目",
                 "poi": ""
             }
@@ -24076,8 +24076,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文政十年",
+                "year_built_ce": 1827,
                 "address": "千葉県千葉市稲毛区稲毛町五丁目",
                 "poi": ""
             }
@@ -24101,8 +24101,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛政八年",
+                "year_built_ce": 1796,
                 "address": "千葉県千葉市稲毛区小中台町",
                 "poi": "日永寺"
             }
@@ -24226,8 +24226,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化九年",
+                "year_built_ce": 1812,
                 "address": "千葉県千葉市稲毛区園生町",
                 "poi": "金蔵院"
             }
@@ -24251,8 +24251,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "延享元年",
+                "year_built_ce": 1744,
                 "address": "千葉県千葉市稲毛区園生町",
                 "poi": "金蔵院"
             }
@@ -24301,8 +24301,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦五年",
+                "year_built_ce": 1755,
                 "address": "千葉県千葉市稲毛区園生町",
                 "poi": "金蔵院"
             }
@@ -24626,8 +24626,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "正徳五年",
+                "year_built_ce": 1715,
                 "address": "茨城県結城市結城",
                 "poi": "時宗常光寺"
             }
@@ -25376,8 +25376,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安永八年",
+                "year_built_ce": 1779,
                 "address": "千葉県柏市増尾四丁目",
                 "poi": "万福寺"
             }
@@ -25626,8 +25626,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "弘化二年",
+                "year_built_ce": 1845,
                 "address": "千葉県千葉市花見川区横戸町",
                 "poi": ""
             }
@@ -25876,8 +25876,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦六年",
+                "year_built_ce": 1756,
                 "address": "千葉県千葉市花見川区横戸町",
                 "poi": ""
             }
@@ -28601,8 +28601,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安永八年",
+                "year_built_ce": 1779,
                 "address": "千葉県野田市桜台",
                 "poi": ""
             }
@@ -28676,8 +28676,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝永七年",
+                "year_built_ce": 1710,
                 "address": "千葉県野田市桜台",
                 "poi": ""
             }
@@ -28726,8 +28726,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天保十二年",
+                "year_built_ce": 1841,
                 "address": "千葉県野田市上花輪",
                 "poi": "東福寺"
             }
@@ -28776,8 +28776,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安永七年",
+                "year_built_ce": 1778,
                 "address": "千葉県野田市上花輪",
                 "poi": "東福寺"
             }
@@ -29326,8 +29326,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "延享二年",
+                "year_built_ce": 1745,
                 "address": "千葉県柏市酒井根六丁目",
                 "poi": "龍光寺"
             }
@@ -29651,8 +29651,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化二年",
+                "year_built_ce": 1805,
                 "address": "千葉県柏市逆井",
                 "poi": ""
             }
@@ -30076,8 +30076,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "貞享二年",
+                "year_built_ce": 1685,
                 "address": "千葉県松戸市日暮五丁目",
                 "poi": "德蔵院"
             }
@@ -31501,8 +31501,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "嘉永六年",
+                "year_built_ce": 1853,
                 "address": "茨城県笠間市下郷",
                 "poi": ""
             }
@@ -31651,8 +31651,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十六夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化元年",
+                "year_built_ce": 1804,
                 "address": "栃木県足利市大沼田町",
                 "poi": "万福寺"
             }
@@ -33576,8 +33576,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安永四年",
+                "year_built_ce": 1775,
                 "address": "千葉県船橋市飯山満町一丁目",
                 "poi": "能満寺"
             }
@@ -34501,8 +34501,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享保十年",
+                "year_built_ce": 1725,
                 "address": "千葉県柏市布施下",
                 "poi": ""
             }
@@ -38554,6 +38554,31 @@
                 "year_built": "安永3年",
                 "year_built_ce": 1774,
                 "address": "神奈川県川崎市宮前区犬蔵一丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0539245605,
+                    38.40343
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114061998679977984",
+                "tweet_date": "2019-04-05",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/ryaMQMo7Gp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3XxeecU8AE1IhT.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D3XxeeeU4AcWSS_.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D3XxeecU0AAGjOe.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D3XxeecUYAA2cEN.jpg",
+                "type": "十七夜塔",
+                "year_built": "明和六年",
+                "year_built_ce": 1769,
+                "address": "宮城県宮城郡松島町",
                 "poi": ""
             }
         }
