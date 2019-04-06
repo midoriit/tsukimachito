@@ -70979,5 +70979,787 @@
         <coordinates>141.0539245605,38.4034300000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114352967535157249</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/SKTpoKn5qj</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3b6D6qU8AIyQJs.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D3b6GARV4AAY98X.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1765</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡大泉町東小泉三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4196014404,36.2601747000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114355370678341633</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/MgMhyGuhuo</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3b8R39UwAAit2C.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天明元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1781</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡大泉町東小泉三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>勢光寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4219207764,36.2592598000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114360528472641539</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/zpqb6Yt7YG</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3cA-ohV4AAJ938.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>享和三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1803</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡大泉町西小泉三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4093017578,36.2559542000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114366161016119296</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/zkJkpi07Ip</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3cGE-mV4AAffLO.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D3cGGPzUUAEIAgV.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1792</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡大泉町大字吉田</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4056701660,36.2429855000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114366311629385729</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/5AWoECgT8Y</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3cGM0bU0AA5OYw.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D3cGO9pUEAErfHL.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1792</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡大泉町大字吉田</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4056854248,36.2429912000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114378503980371969</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/dwhedUXwQC</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3cRS2MU4AA3dD9.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D3cRUy5V4AANlvE.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦十三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1763</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡大泉町仙石一丁目</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.3982849121,36.2404404000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114378887616548864</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/a0L39wkTgW</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3cRn79U8AAwB-V.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D3cRpMEV4AE4J4P.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/D3cRqvRUUAAs5rJ.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1831</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡大泉町仙石一丁目</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.3981475830,36.2402082000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114384797135073281</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/z4e8HmgKSQ</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3cW_aDU0AEMuAn.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D3cXChzUUAATvx6.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1810</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡大泉町大字古海</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4003448486,36.2325783000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114387421343305728</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/NNKiaKUFod</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3cZauxU4AA5owR.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D3cZcEGUwAEAJPR.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1765</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡大泉町大字古海</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4075622559,36.2308122000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114393013784997888</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/ZvjLp1mtKv</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3ceh67U4AEusKd.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1777</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡千代田町大字舞木</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4227905273,36.2250783000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114399595109343234</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/sqey4npgNF</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3ckgGUUEAA5Fcd.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1769</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡千代田町大字舞木</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4274444580,36.2132741000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114400915342016514</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/s8XWnW8yXr</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3clo76UwAAb_A9.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D3clqW0UUAAcpzM.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/D3cls1nUUAE4uUM.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保十一年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1840</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡千代田町大字舞木</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4276123047,36.2128170000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114405945382072320</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/jTS1TgKGnZ</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3cqSbyUUAA_Se0.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永八年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1779</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡千代田町大字赤岩</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4375915527,36.2092837000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114415232217010176</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/eZKQH4E4C7</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3cytWBV4AAhYq-.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D3cyutZUEAIM5j5.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡千代田町大字福島</value>
+        </Data>
+        <Data name="poi">
+          <value>金剛寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4313201904,36.2303144100</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114418558505631744</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/7J3UOcMDgb</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3c1wRrV4AA22O0.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦十三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1763</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡千代田町大字新福寺</value>
+        </Data>
+        <Data name="poi">
+          <value>宝林寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4238281250,36.2333730000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114422753048678400</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/P6noxtfCjQ</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3c5kgNUUAEF5RJ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1767</value>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡大泉町大字吉田</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4144592285,36.2394222000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1114429601000767488</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/lBMUcknnFb</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D3c_xZ0U0AAmAdh.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D3c_zGvV4AIUx-h.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>群馬県邑楽郡邑楽町大字篠塚</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4274902344,36.2478817000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

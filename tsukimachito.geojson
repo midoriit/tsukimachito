@@ -38581,6 +38581,431 @@
                 "address": "宮城県宮城郡松島町",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4196014404,
+                    36.2601747
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114352967535157249",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/SKTpoKn5qj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3b6D6qU8AIyQJs.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D3b6GARV4AAY98X.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和二年",
+                "year_built_ce": 1765,
+                "address": "群馬県邑楽郡大泉町東小泉三丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4219207764,
+                    36.2592598
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114355370678341633",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/MgMhyGuhuo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3b8R39UwAAit2C.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "天明元年",
+                "year_built_ce": 1781,
+                "address": "群馬県邑楽郡大泉町東小泉三丁目",
+                "poi": "勢光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4093017578,
+                    36.2559542
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114360528472641539",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/zpqb6Yt7YG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3cA-ohV4AAJ938.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "享和三年",
+                "year_built_ce": 1803,
+                "address": "群馬県邑楽郡大泉町西小泉三丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.405670166,
+                    36.2429855
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114366161016119296",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/zkJkpi07Ip",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3cGE-mV4AAffLO.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D3cGGPzUUAEIAgV.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "寛政四年",
+                "year_built_ce": 1792,
+                "address": "群馬県邑楽郡大泉町大字吉田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4056854248,
+                    36.2429912
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114366311629385729",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/5AWoECgT8Y",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3cGM0bU0AA5OYw.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D3cGO9pUEAErfHL.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "寛政四年",
+                "year_built_ce": 1792,
+                "address": "群馬県邑楽郡大泉町大字吉田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3982849121,
+                    36.2404404
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114378503980371969",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/dwhedUXwQC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3cRS2MU4AA3dD9.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D3cRUy5V4AANlvE.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "宝暦十三年",
+                "year_built_ce": 1763,
+                "address": "群馬県邑楽郡大泉町仙石一丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.398147583,
+                    36.2402082
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114378887616548864",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/a0L39wkTgW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3cRn79U8AAwB-V.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D3cRpMEV4AE4J4P.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D3cRqvRUUAAs5rJ.jpg",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "天保二年",
+                "year_built_ce": 1831,
+                "address": "群馬県邑楽郡大泉町仙石一丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4003448486,
+                    36.2325783
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114384797135073281",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/z4e8HmgKSQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3cW_aDU0AEMuAn.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D3cXChzUUAATvx6.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文化七年",
+                "year_built_ce": 1810,
+                "address": "群馬県邑楽郡大泉町大字古海",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4075622559,
+                    36.2308122
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114387421343305728",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/NNKiaKUFod",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3cZauxU4AA5owR.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D3cZcEGUwAEAJPR.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和二年",
+                "year_built_ce": 1765,
+                "address": "群馬県邑楽郡大泉町大字古海",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4227905273,
+                    36.2250783
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114393013784997888",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ZvjLp1mtKv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3ceh67U4AEusKd.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安永六年",
+                "year_built_ce": 1777,
+                "address": "群馬県邑楽郡千代田町大字舞木",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.427444458,
+                    36.2132741
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114399595109343234",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/sqey4npgNF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3ckgGUUEAA5Fcd.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和六年",
+                "year_built_ce": 1769,
+                "address": "群馬県邑楽郡千代田町大字舞木",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4276123047,
+                    36.212817
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114400915342016514",
+                "tweet_date": "2019-04-06",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/s8XWnW8yXr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3clo76UwAAb_A9.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D3clqW0UUAAcpzM.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D3cls1nUUAE4uUM.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保十一年",
+                "year_built_ce": 1840,
+                "address": "群馬県邑楽郡千代田町大字舞木",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4375915527,
+                    36.2092837
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114405945382072320",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/jTS1TgKGnZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3cqSbyUUAA_Se0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安永八年",
+                "year_built_ce": 1779,
+                "address": "群馬県邑楽郡千代田町大字赤岩",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4313201904,
+                    36.23031441
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114415232217010176",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/eZKQH4E4C7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3cytWBV4AAhYq-.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D3cyutZUEAIM5j5.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県邑楽郡千代田町大字福島",
+                "poi": "金剛寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.423828125,
+                    36.233373
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114418558505631744",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7J3UOcMDgb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3c1wRrV4AA22O0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "宝暦十三年",
+                "year_built_ce": 1763,
+                "address": "群馬県邑楽郡千代田町大字新福寺",
+                "poi": "宝林寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4144592285,
+                    36.2394222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114422753048678400",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/P6noxtfCjQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3c5kgNUUAEF5RJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和四年",
+                "year_built_ce": 1767,
+                "address": "群馬県邑楽郡大泉町大字吉田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4274902344,
+                    36.2478817
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1114429601000767488",
+                "tweet_date": "2019-04-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/lBMUcknnFb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D3c_xZ0U0AAmAdh.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D3c_zGvV4AIUx-h.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県邑楽郡邑楽町大字篠塚",
+                "poi": ""
+            }
         }
     ]
 }
