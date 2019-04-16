@@ -39587,6 +39587,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    140.7320251465,
+                    38.03618617
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1117253955434586112",
+                "tweet_date": "2019-04-14",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/wWOKh6dPYu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4FIiIAUUAAMxpI.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D4FIiH8U8AIMvhy.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十夜塔",
+                "year_built": "安永六年",
+                "year_built_ce": 1777,
+                "address": "宮城県柴田郡大河原町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     140.6185150146,
                     37.99166333
                 ]
