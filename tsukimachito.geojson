@@ -40206,6 +40206,31 @@
                 "address": "福島県伊達市",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5756835938,
+                    37.90409167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1118155097983213570",
+                "tweet_date": "2019-04-16",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/aoV6hUQDsY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4R8Fz2VUAEE4iz.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D4R8Fz2UEAEyZBX.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D4R8F0FU4AAEvv1.jpg",
+                "media_url_4": "",
+                "type": "二十夜塔",
+                "year_built": "文化七年",
+                "year_built_ce": 1810,
+                "address": "福島県伊達郡国見町貝田立久根",
+                "poi": ""
+            }
         }
     ]
 }
