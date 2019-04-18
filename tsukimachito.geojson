@@ -40231,6 +40231,256 @@
                 "address": "福島県伊達郡国見町貝田立久根",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9593353271,
+                    35.6146717
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1118694454829830144",
+                "tweet_date": "2019-04-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/U8uzslRjZm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4Zmp2LUcAAD8il.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県大月市賑岡町強瀬",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9577331543,
+                    35.6220117
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1118700318458404870",
+                "tweet_date": "2019-04-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/A7IPERilpe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4Zr9roUwAEXsSh.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D4Zr_TOUwAAO8Z7.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永六年",
+                "year_built_ce": 1777,
+                "address": "山梨県大月市賑岡町岩殿",
+                "poi": "真蔵院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9555358887,
+                    35.6401667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1118711204359180289",
+                "tweet_date": "2019-04-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/2vT4bfzGZy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4Z12IQVUAAubMQ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D4Z14APU0AI351_.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D4Z15lFVUAE4_TJ.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県大月市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.97265625,
+                    35.654625
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1118720487943577600",
+                "tweet_date": "2019-04-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/XP7bwdXRX7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4Z-U6pU0AAttEN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文久二年",
+                "year_built_ce": 1862,
+                "address": "山梨県大月市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.984085083,
+                    35.6544983
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1118725496261373952",
+                "tweet_date": "2019-04-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/VWSFFnT0yp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4aC5A5UcAEPV8p.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十二年",
+                "year_built_ce": 1829,
+                "address": "山梨県大月市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9496459961,
+                    35.6357048
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1118742747387584513",
+                "tweet_date": "2019-04-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/LUIHzXqqaf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4aSkhYU0AAAMw8.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県大月市七保町葛野",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9397277832,
+                    35.6355668
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1118746821797404673",
+                "tweet_date": "2019-04-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/KfMBlwCmpr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4aWSnoUYAAxJiB.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県大月市賑岡町畑倉",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9397277832,
+                    35.6356085
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1118746921458229248",
+                "tweet_date": "2019-04-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/GU7EqQ09yW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4aWYLZUIAESoVt.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県大月市賑岡町畑倉",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9397277832,
+                    35.6355929
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1118747021089726464",
+                "tweet_date": "2019-04-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/c0NClg1WfP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4aWd9iUwAApeah.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県大月市賑岡町畑倉",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9337005615,
+                    35.617665
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1118767376684597248",
+                "tweet_date": "2019-04-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pQ8wQBYy35",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4ao-1UVUAAkjkE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治三十二年",
+                "year_built_ce": 1899,
+                "address": "山梨県大月市賑岡町浅利",
+                "poi": ""
+            }
         }
     ]
 }
