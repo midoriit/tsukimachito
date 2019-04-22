@@ -74840,7 +74840,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.6367492676,36.2184293000</coordinates>
+        <coordinates>139.6359710693,36.2194540000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -74886,7 +74886,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.6366577148,36.2188891000</coordinates>
+        <coordinates>139.6359710693,36.2194540000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -74919,10 +74919,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文久二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1862</value>
         </Data>
         <Data name="address">
           <value>群馬県邑楽郡板倉町大字海老瀬</value>
@@ -75300,7 +75300,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.6129455566,36.2115696000</coordinates>
+        <coordinates>139.6131439209,36.2116875000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -75392,7 +75392,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.6129608154,36.2115862000</coordinates>
+        <coordinates>139.6158447266,36.2120620000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -75806,7 +75806,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.6435394287,36.2065444000</coordinates>
+        <coordinates>139.6379241943,36.2078216000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -76253,10 +76253,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明治十七年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1884</value>
         </Data>
         <Data name="address">
           <value>宮城県伊具郡丸森町</value>
@@ -76299,10 +76299,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文政六年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1823</value>
         </Data>
         <Data name="address">
           <value>宮城県伊具郡丸森町</value>

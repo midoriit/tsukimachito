@@ -40662,8 +40662,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.6367492676,
-                    36.2184293
+                    139.6359710693,
+                    36.219454
                 ]
             },
             "properties": {
@@ -40687,8 +40687,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.6366577148,
-                    36.2188891
+                    139.6359710693,
+                    36.219454
                 ]
             },
             "properties": {
@@ -40726,8 +40726,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文久二年",
+                "year_built_ce": 1862,
                 "address": "群馬県邑楽郡板倉町大字海老瀬",
                 "poi": ""
             }
@@ -40912,8 +40912,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.6129455566,
-                    36.2115696
+                    139.6131439209,
+                    36.2116875
                 ]
             },
             "properties": {
@@ -40962,8 +40962,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.6129608154,
-                    36.2115862
+                    139.6158447266,
+                    36.212062
                 ]
             },
             "properties": {
@@ -41187,8 +41187,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.6435394287,
-                    36.2065444
+                    139.6379241943,
+                    36.2078216
                 ]
             },
             "properties": {
@@ -41451,8 +41451,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明治十七年",
+                "year_built_ce": 1884,
                 "address": "宮城県伊具郡丸森町",
                 "poi": ""
             }
@@ -41476,8 +41476,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文政六年",
+                "year_built_ce": 1823,
                 "address": "宮城県伊具郡丸森町",
                 "poi": ""
             }
