@@ -41481,6 +41481,181 @@
                 "address": "宮城県伊具郡丸森町",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1283721924,
+                    36.190151
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1120519332424036353",
+                "tweet_date": "2019-04-23",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/vjM5nQ2dK3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4ziXcTWwAIYAJw.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "宝暦九年",
+                "year_built_ce": 1759,
+                "address": "埼玉県本庄市児玉町児玉",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1268463135,
+                    36.1929349
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1120522514449489921",
+                "tweet_date": "2019-04-23",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/MxC97O1k8u",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4zlQaeXkAEDzAs.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県本庄市児玉町八幡山",
+                "poi": "雉岡城跡"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1269226074,
+                    36.1929183
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1120522855114997760",
+                "tweet_date": "2019-04-23",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/LSCn7WWvkW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4zlkdsXkAA_E4I.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和三年",
+                "year_built_ce": 1766,
+                "address": "埼玉県本庄市児玉町八幡山",
+                "poi": "雉岡城跡"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1493988037,
+                    36.1919396
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1120539900112244738",
+                "tweet_date": "2019-04-23",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/NASOWni8hu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4z1Ef7XsAAShLA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "宝暦五年",
+                "year_built_ce": 1755,
+                "address": "埼玉県本庄市児玉町児玉",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1487121582,
+                    36.1880443
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1120543698213908480",
+                "tweet_date": "2019-04-23",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/j6Tebjex6V",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4z4iVBW4AU0hur.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県本庄市児玉町児玉",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1369476318,
+                    36.1870607
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1120548841957228544",
+                "tweet_date": "2019-04-23",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/onuVY70q7v",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4z9MXQW0AATUbn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県本庄市児玉町児玉",
+                "poi": "法養寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1336517334,
+                    36.1872828
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1120551319302025216",
+                "tweet_date": "2019-04-23",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/FAOZZrvGdJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D4z_d5sU8AAWzLm.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "寛政五年",
+                "year_built_ce": 1793,
+                "address": "埼玉県本庄市児玉町児玉",
+                "poi": ""
+            }
         }
     ]
 }

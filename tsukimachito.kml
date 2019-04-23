@@ -76315,5 +76315,327 @@
         <coordinates>140.7283477783,37.8609916700</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1120519332424036353</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/vjM5nQ2dK3</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D4ziXcTWwAIYAJw.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦九年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1759</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県本庄市児玉町児玉</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1283721924,36.1901510000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1120522514449489921</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/MxC97O1k8u</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D4zlQaeXkAEDzAs.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>埼玉県本庄市児玉町八幡山</value>
+        </Data>
+        <Data name="poi">
+          <value>雉岡城跡</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1268463135,36.1929349000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1120522855114997760</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/LSCn7WWvkW</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D4zlkdsXkAA_E4I.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1766</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県本庄市児玉町八幡山</value>
+        </Data>
+        <Data name="poi">
+          <value>雉岡城跡</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1269226074,36.1929183000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1120539900112244738</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/NASOWni8hu</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D4z1Ef7XsAAShLA.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦五年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1755</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県本庄市児玉町児玉</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1493988037,36.1919396000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1120543698213908480</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/j6Tebjex6V</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D4z4iVBW4AU0hur.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>埼玉県本庄市児玉町児玉</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1487121582,36.1880443000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1120548841957228544</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/onuVY70q7v</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D4z9MXQW0AATUbn.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>埼玉県本庄市児玉町児玉</value>
+        </Data>
+        <Data name="poi">
+          <value>法養寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1369476318,36.1870607000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1120551319302025216</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/FAOZZrvGdJ</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D4z_d5sU8AAWzLm.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政五年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1793</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県本庄市児玉町児玉</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1336517334,36.1872828000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
