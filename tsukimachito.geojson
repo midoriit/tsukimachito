@@ -41656,6 +41656,56 @@
                 "address": "埼玉県本庄市児玉町児玉",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3755187988,
+                    37.395154
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1121949471107997701",
+                "tweet_date": "2019-04-27",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/bnEfB8lkQK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5H3FYTU0AAI3ZG.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市麓山一丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3730926514,
+                    37.323904
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1121960231569776640",
+                "tweet_date": "2019-04-27",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/CSVFCP1ZVo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5IA36cUIAA7fjD.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市宮の杜",
+                "poi": ""
+            }
         }
     ]
 }
