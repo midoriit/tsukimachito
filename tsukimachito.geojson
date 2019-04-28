@@ -41706,6 +41706,81 @@
                 "address": "福島県須賀川市宮の杜",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4245910645,
+                    37.621867
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1122368514822512641",
+                "tweet_date": "2019-04-28",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/DGDp8fGDUH",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5N0M_zVUAAdH8l.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十八夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県二本松市中ノ目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4171295166,
+                    37.6236757
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1122376544037376001",
+                "tweet_date": "2019-04-28",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/xTdizEm897",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5N7gCeUcAM88-_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化元年",
+                "year_built_ce": 1804,
+                "address": "福島県二本松市鉄扇町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3434448242,
+                    37.4012412
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1122424330392981504",
+                "tweet_date": "2019-04-28",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/NZJ5lK3eW7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5Om9yjUwAEetPu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享保七年",
+                "year_built_ce": 1722,
+                "address": "福島県郡山市亀田一丁目",
+                "poi": ""
+            }
         }
     ]
 }
