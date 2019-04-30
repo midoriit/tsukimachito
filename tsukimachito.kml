@@ -77100,6 +77100,52 @@
     <Placemark>
       <ExtendedData>
         <Data name="tweet_id">
+          <value>T1122792225002250240</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/srniIYD8V6</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D5T1c28UIAAEwUF.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>その他</value>
+        </Data>
+        <Data name="year_built">
+          <value>享和四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1804</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.7812042236,37.9228750000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
           <value>T1122795466201034753</value>
         </Data>
         <Data name="tweet_date">
@@ -77141,6 +77187,98 @@
       </ExtendedData>
       <Point>
         <coordinates>140.7768554688,37.9433166700</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1123089715417079808</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/hIVllh8ool</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D5YEIIZU0AI9dqp.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>岩手県二戸市福岡</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>141.3046875000,40.2670910000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1123154541929615360</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-04-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/z8IoOamRsP</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D5Y_FCBUYAAm1tC.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>青森県八戸市大字荒町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>141.4861297607,40.5068347000</coordinates>
       </Point>
     </Placemark>
   </Document>

@@ -41912,6 +41912,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    140.7812042236,
+                    37.922875
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1122792225002250240",
+                "tweet_date": "2019-04-29",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/srniIYD8V6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5T1c28UIAAEwUF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "その他",
+                "year_built": "享和四年",
+                "year_built_ce": 1804,
+                "address": "宮城県伊具郡丸森町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     140.7768554688,
                     37.94331667
                 ]
@@ -41929,6 +41954,56 @@
                 "year_built": "文化五年",
                 "year_built_ce": 1808,
                 "address": "宮城県伊具郡丸森町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.3046875,
+                    40.267091
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123089715417079808",
+                "tweet_date": "2019-04-30",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/hIVllh8ool",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5YEIIZU0AI9dqp.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "岩手県二戸市福岡",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.4861297607,
+                    40.5068347
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123154541929615360",
+                "tweet_date": "2019-04-30",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/z8IoOamRsP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5Y_FCBUYAAm1tC.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "青森県八戸市大字荒町",
                 "poi": ""
             }
         }
