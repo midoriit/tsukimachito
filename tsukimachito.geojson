@@ -41912,31 +41912,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.7812042236,
-                    37.922875
-                ]
-            },
-            "properties": {
-                "tweet_id": "T1122792225002250240",
-                "tweet_date": "2019-04-29",
-                "contributor": "_mamehito_",
-                "tweet_url": "https:\/\/t.co\/srniIYD8V6",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5T1c28UIAAEwUF.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "その他",
-                "year_built": "享和四年",
-                "year_built_ce": 1804,
-                "address": "宮城県伊具郡丸森町",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     140.7768554688,
                     37.94331667
                 ]
@@ -42005,6 +41980,731 @@
                 "year_built_ce": "",
                 "address": "青森県八戸市大字荒町",
                 "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7431793213,
+                    40.8229632
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123747767128662024",
+                "tweet_date": "2019-05-02",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/qcnJYuZasp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5ham5SWsAMdCRR.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "青森県青森市長島二丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5447692871,
+                    36.259235
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123773789794394112",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Y7FXQNJVbq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5hySYDXoAEomQU.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治二十六年",
+                "year_built_ce": 1893,
+                "address": "群馬県館林市足次町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7555389404,
+                    40.7905896
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123775365397254145",
+                "tweet_date": "2019-05-02",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/5GCUJpF6vv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5hzuPmXsAEdB1q.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "青森県青森市問屋町一丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3402252197,
+                    38.25721167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123782934526296064",
+                "tweet_date": "2019-05-02",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/dyca36brWi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5h6nQUW4AIe4-5.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D5h6nQXWAAEq6iw.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D5h6nQWW0AAK6Pd.jpg",
+                "media_url_4": "",
+                "type": "七夜待塔",
+                "year_built": "享保九年",
+                "year_built_ce": 1724,
+                "address": "山形県山形市旅篭町三丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5720367432,
+                    36.259895
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123783060271575041",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/1p2AZqyTzc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5h6uKdWkAEf8T4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治三十九年",
+                "year_built_ce": 1906,
+                "address": "群馬県館林市千塚町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3401641846,
+                    38.25721333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123783673646600192",
+                "tweet_date": "2019-05-02",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/DSv3JZq67i",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5h7SRzWkAEva08.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D5h7SSNWwAELzNY.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "明和五年",
+                "year_built_ce": 1768,
+                "address": "山形県山形市旅篭町三丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5746154785,
+                    36.2598198
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123785123537784832",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/sU4v4vGslu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5h8magWsAAmvXA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県館林市大島町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5811767578,
+                    36.2575239
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123787905108008961",
+                "tweet_date": "2019-05-02",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/z2Y1WdYMa0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5h_Hb0WAAcy-ey.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "嘉永二年",
+                "year_built_ce": 1849,
+                "address": "群馬県館林市田谷町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5803070068,
+                    36.2645268
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123791062357696512",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/MDFMHRmIpI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5iCAKyW0AA9bdK.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "嘉永二年",
+                "year_built_ce": 1849,
+                "address": "群馬県館林市大島町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5920257568,
+                    36.265649
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123795521951416320",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/3xAg5DG28t",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5iGDW6WkAIaXmQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化三年",
+                "year_built_ce": 1806,
+                "address": "群馬県館林市大島町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5960235596,
+                    36.26508
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123797625441067009",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/fTYVd7Vkmn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5iH8qzWAAAQl7t.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治二十四年",
+                "year_built_ce": 1891,
+                "address": "群馬県館林市大島町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6061859131,
+                    36.2640121
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123801563770830848",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/nM6AR6ZOgI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5iLih8WAAAEQEN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政七年",
+                "year_built_ce": 1795,
+                "address": "群馬県邑楽郡板倉町西岡新田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6011047363,
+                    36.252401
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123809002989735937",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/BdwTWPw8FC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5iST2BW4AAxjG6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "万延二年",
+                "year_built_ce": 1861,
+                "address": "群馬県館林市大島町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6011047363,
+                    36.252401
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123809665320718341",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/yMfxfYm3O2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5iS69rWwAErGVH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦十年",
+                "year_built_ce": 1760,
+                "address": "群馬県館林市大島町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6076660156,
+                    36.2502071
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123812821987463168",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/511CpJP78Y",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5iVxOUXsAcFN9k.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D5iVyznXoAMBIDo.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "延享四年",
+                "year_built_ce": 1747,
+                "address": "群馬県邑楽郡板倉町大荷場",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6076507568,
+                    36.2502219
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123813261521059841",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ctDAudINhQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5iWLECWkAA6vh7.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D5iWMdtX4AAZhSR.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治十八年",
+                "year_built_ce": 1885,
+                "address": "群馬県邑楽郡板倉町大荷場",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2992706299,
+                    38.37805833
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123816247827869697",
+                "tweet_date": "2019-05-02",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/hoivqtHbkv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5iY6JoW4AIVILc.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D5iY6JqX4AEYOxd.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D5iY6KCWwAALY3p.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D5iY6JnXsAAlXux.jpg",
+                "type": "十八夜塔",
+                "year_built": "安政二年",
+                "year_built_ce": 1855,
+                "address": "山形県寒河江市大字日田字後田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6155700684,
+                    36.2507457
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123817201000230912",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/clQYESLw6Y",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5iZt8-WAAAeXpN.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D5iZvGqWwAECDGb.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D5iZxRSXsAUNBxw.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "大正五年",
+                "year_built_ce": 1916,
+                "address": "群馬県邑楽郡板倉町大字細谷",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6156463623,
+                    36.2507925
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123817968167718914",
+                "tweet_date": "2019-05-02",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/0QgaYV4xE2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5iacYQWwAE7CYL.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D5iadxfXkAA3Agi.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十四夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県邑楽郡板倉町大字細谷",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.621307373,
+                    36.257207
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123823109243658240",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pJfybbjzFZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5ifGq9WwAAJ8rg.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D5ifIKOWwAACJMu.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D5ifJoRWsAMVeal.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔 (二十)三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県邑楽郡板倉町西岡新田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6217498779,
+                    36.260316
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123825034848612352",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/UqYRI0ePLk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5ig3cxWAAAYzDe.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県邑楽郡板倉町西岡",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.618057251,
+                    36.265168
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123827543512109057",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/SDE9kx6Tvc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5ijLaIWAAQbmKN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政三年",
+                "year_built_ce": 1820,
+                "address": "群馬県邑楽郡板倉町大字西岡",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.618057251,
+                    36.265168
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123827877533945858",
+                "tweet_date": "2019-05-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/W8UCurpc4a",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5ijeJpW0AAokfj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政十一年",
+                "year_built_ce": 1799,
+                "address": "群馬県邑楽郡板倉町大字西岡",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6240692139,
+                    36.2632683
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123830923764563971",
+                "tweet_date": "2019-05-02",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/kld6d3351N",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5imPvcW0AAZsj8.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "嘉永四年",
+                "year_built_ce": 1851,
+                "address": "群馬県邑楽郡板倉町除川",
+                "poi": "花蔵院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6240692139,
+                    36.2632683
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123831256624574465",
+                "tweet_date": "2019-05-02",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/xKRO55y7sz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5imjDUXsAA9fqM.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化五年",
+                "year_built_ce": 1808,
+                "address": "群馬県邑楽郡板倉町除川",
+                "poi": "花蔵院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6240692139,
+                    36.2632683
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123831581683089408",
+                "tweet_date": "2019-05-02",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/goX4Xh1VE3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5im2ExXoAEraSj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保四年",
+                "year_built_ce": 1833,
+                "address": "群馬県邑楽郡板倉町除川",
+                "poi": "花蔵院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6240692139,
+                    36.2632683
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123831804442685441",
+                "tweet_date": "2019-05-02",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/2t8522nHvd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5inDRQW0AIdykd.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政四年",
+                "year_built_ce": 1792,
+                "address": "群馬県邑楽郡板倉町大字除川",
+                "poi": "花蔵院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6240692139,
+                    36.2632683
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123832056318967808",
+                "tweet_date": "2019-05-02",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/BWOjp7mmTX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5inRRLXkAEyKoL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明和七年",
+                "year_built_ce": 1770,
+                "address": "群馬県邑楽郡板倉町除川",
+                "poi": "花蔵院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6240692139,
+                    36.2632683
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1123832361412714496",
+                "tweet_date": "2019-05-02",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/PRMkia9Nxl",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5inj6CWsAATZ6d.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦十二年",
+                "year_built_ce": 1762,
+                "address": "群馬県邑楽郡板倉町除川",
+                "poi": "花蔵院"
             }
         }
     ]
