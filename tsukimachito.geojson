@@ -42706,6 +42706,156 @@
                 "address": "群馬県邑楽郡板倉町除川",
                 "poi": "花蔵院"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2972717285,
+                    38.26421667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1124182574237044736",
+                "tweet_date": "2019-05-03",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/hCddANP1No",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5nmFU5UIAAWrcJ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D5nmFU7UcAAeUXW.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "文政八年",
+                "year_built_ce": 1825,
+                "address": "山形県山形市大字上椹沢",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2875061035,
+                    38.26774192
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1124186558498689024",
+                "tweet_date": "2019-05-03",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/ZH42BgP3XV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5npta9UwAANxnx.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "寛政十一年",
+                "year_built_ce": 1799,
+                "address": "山形県山形市下椹沢",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.282989502,
+                    38.269
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1124189482717069312",
+                "tweet_date": "2019-05-03",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/5JJNTSKNuC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5nsXHDUwAAGcb_.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D5nsXHBUwAEI8CL.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "明和三年",
+                "year_built_ce": 1766,
+                "address": "山形県山形市下椹沢",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.268371582,
+                    38.23863333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1124198225492135937",
+                "tweet_date": "2019-05-03",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/8BUv73ZYaJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5n0UVrUUAAcaNl.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山形県山形市大字門伝",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2684173584,
+                    38.238625
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1124199138747269120",
+                "tweet_date": "2019-05-03",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/LFSmy8kved",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5n1JlXUIAAzhwk.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D5n1JlcUcAEm1YJ.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔 十八夜塔",
+                "year_built": "安永二年",
+                "year_built_ce": 1773,
+                "address": "山形県山形市大字門伝",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9038238525,
+                    38.590916
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1124210132747866113",
+                "tweet_date": "2019-05-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/9bYOlUxysJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5n_IIQUEAAyfFu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山形県鶴岡市",
+                "poi": ""
+            }
         }
     ]
 }
