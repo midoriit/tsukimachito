@@ -42856,6 +42856,81 @@
                 "address": "山形県鶴岡市",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4883270264,
+                    35.316364
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1124492493725167616",
+                "tweet_date": "2019-05-04",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/zQjEgm6VdX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5r_7Q3UEAAKT90.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D5r_8h1UUAEreLz.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県藤沢市片瀬三丁目",
+                "poi": "密蔵寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4581756592,
+                    35.4069474
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1124516367082803201",
+                "tweet_date": "2019-05-04",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ZnbjrzenEv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5sVqVTVUAAksIu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永七年",
+                "year_built_ce": 1854,
+                "address": "神奈川県藤沢市下土棚",
+                "poi": "善然寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.2366943359,
+                    38.491925
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1124602689998835712",
+                "tweet_date": "2019-05-04",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/Ya7ylLwsee",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D5tkHkRV4AAhY9X.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D5tkHkWUEAEOH_M.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D5tkHkRUEAACH5N.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D5tkHkWUEAA9jhM.jpg",
+                "type": "十七夜塔",
+                "year_built": "寛政五年",
+                "year_built_ce": 1793,
+                "address": "宮城県石巻市",
+                "poi": ""
+            }
         }
     ]
 }

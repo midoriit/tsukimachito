@@ -78845,5 +78845,143 @@
         <coordinates>139.9038238525,38.5909160000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1124492493725167616</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/zQjEgm6VdX</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D5r_7Q3UEAAKT90.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D5r_8h1UUAEreLz.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十六夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>神奈川県藤沢市片瀬三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>密蔵寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4883270264,35.3163640000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1124516367082803201</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/ZnbjrzenEv</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D5sVqVTVUAAksIu.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>嘉永七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1854</value>
+        </Data>
+        <Data name="address">
+          <value>神奈川県藤沢市下土棚</value>
+        </Data>
+        <Data name="poi">
+          <value>善然寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4581756592,35.4069474000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1124602689998835712</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Ya7ylLwsee</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D5tkHkRV4AAhY9X.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D5tkHkWUEAEOH_M.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/D5tkHkRUEAACH5N.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value>https://pbs.twimg.com/media/D5tkHkWUEAA9jhM.jpg</value>
+        </Data>
+        <Data name="type">
+          <value>十七夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政五年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1793</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県石巻市</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>141.2366943359,38.4919250000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
