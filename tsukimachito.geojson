@@ -44081,6 +44081,31 @@
                 "address": "宮城県白石市",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3321533203,
+                    37.313675
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1125696758414135296",
+                "tweet_date": "2019-05-07",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/bzTgxiaVjs",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D59HNPOU8AEyEaZ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市越久舘",
+                "poi": ""
+            }
         }
     ]
 }
