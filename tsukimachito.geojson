@@ -45281,6 +45281,406 @@
                 "address": "宮城県遠田郡美里町",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3824005127,
+                    37.396858
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127047379700502529",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/5yAPexVfSr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6QTmwFUEAMcrjQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保14年",
+                "year_built_ce": 1843,
+                "address": "福島県郡山市中町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3783569336,
+                    37.3953229
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127051074009845760",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/SZkLISOLdg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6QW93fUUAARIT4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市堂前町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3789825439,
+                    37.3952209
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127051682481750017",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/Fx3WCrP9Jo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6QXhV3UYAA-z-v.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政10年",
+                "year_built_ce": 1827,
+                "address": "福島県郡山市堂前町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3785247803,
+                    37.3958155
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127052134229336064",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/ikk3Al1kTx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6QX7cGUEAELtnQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政二年",
+                "year_built_ce": 1855,
+                "address": "福島県郡山市堂前町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3785095215,
+                    37.3951653
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127052613252345856",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/tGHFtla7qB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6QYXRjUcAATkZK.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化3年",
+                "year_built_ce": 1846,
+                "address": "福島県郡山市堂前町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3785400391,
+                    37.3951575
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127052940034789376",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/pXpWRXeLeX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6QYqaUUYAAfcmT.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔 十九夜塔",
+                "year_built": "萬延元年",
+                "year_built_ce": 1860,
+                "address": "福島県郡山市堂前町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3793029785,
+                    37.3950081
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127054079341940737",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/aomGRdfmEv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6QZswnVUAAvjKW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市堂前町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3792877197,
+                    37.3950375
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127054528400973825",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/DEBdSNT5og",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6QaG4BU8AAzacs.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永2年",
+                "year_built_ce": 1849,
+                "address": "福島県郡山市堂前町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3792114258,
+                    37.3950004
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127055374723403776",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/QH7mLWFfDX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6Qa38YU0AAlcPo.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元治元年",
+                "year_built_ce": 1864,
+                "address": "福島県郡山市堂前町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3793487549,
+                    37.3949804
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127055664088403968",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/7pGADQgWIW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6QbI-YU8AAErxW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "慶應2年",
+                "year_built_ce": 1866,
+                "address": "福島県郡山市堂前町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.275177002,
+                    37.5064124
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127142744697200641",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/sDzZ0VViIg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6RqVbkUIAUy0o6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市熱海町高玉北石田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2752990723,
+                    37.506417
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127142906618306561",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/mQH5Tz9J1e",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6RqfBCUUAE6Nlu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市熱海町高玉田代",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2752990723,
+                    37.506417
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127143180732735488",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/ZodZ4wLuOn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6RqvMqUwAA8j5U.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市熱海町高玉田代",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2752990723,
+                    37.506417
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127143733965742080",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/x2waNimcQo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6RrPY7UEAAg3kk.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔 十九夜塔",
+                "year_built": "昭和47年",
+                "year_built_ce": 1972,
+                "address": "福島県郡山市熱海町高玉田代",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2752990723,
+                    37.506417
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127144094315077632",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/m2IECdlkKr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6RrjpeUcAABwug.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政９年",
+                "year_built_ce": 1826,
+                "address": "福島県郡山市熱海町高玉田代",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2752990723,
+                    37.506417
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127144369755082753",
+                "tweet_date": "2019-05-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/86j7gHOdM4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6RrzweUIAAU_-7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市熱海町高玉田代",
+                "poi": ""
+            }
         }
     ]
 }
