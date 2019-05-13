@@ -84595,5 +84595,51 @@
         <coordinates>140.6661529541,38.0303916700</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1127756462745276417</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-13</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/qhSqLAgGIv</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D6aYexbU0AI2Vr3.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D6aYgsRU0AA2hlY.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1798</value>
+        </Data>
+        <Data name="address">
+          <value>神奈川県平塚市東真土三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.3498687744,35.3574869000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

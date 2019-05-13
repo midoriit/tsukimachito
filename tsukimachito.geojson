@@ -45981,6 +45981,31 @@
                 "address": "宮城県白石市",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3498687744,
+                    35.3574869
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1127756462745276417",
+                "tweet_date": "2019-05-13",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/qhSqLAgGIv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6aYexbU0AI2Vr3.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6aYgsRU0AA2hlY.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政十年",
+                "year_built_ce": 1798,
+                "address": "神奈川県平塚市東真土三丁目",
+                "poi": ""
+            }
         }
     ]
 }
