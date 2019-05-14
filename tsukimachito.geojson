@@ -46006,6 +46006,31 @@
                 "address": "神奈川県平塚市東真土三丁目",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.59034729,
+                    36.322055
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128211103924641792",
+                "tweet_date": "2019-05-14",
+                "contributor": "ikuha_h19824",
+                "tweet_url": "https:\/\/t.co\/ivRZbxVcZD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6g2A6jV4AEB3Dv.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県北佐久郡軽井沢町大字軽井沢",
+                "poi": ""
+            }
         }
     ]
 }
