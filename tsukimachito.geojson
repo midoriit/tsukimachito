@@ -46031,6 +46031,356 @@
                 "address": "長野県北佐久郡軽井沢町大字軽井沢",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1338500977,
+                    38.48398833
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128501347236507658",
+                "tweet_date": "2019-05-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/tSuw62rGTL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6k9-yaU8AAQy1r.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6k9-yaV4AASytj.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D6k9-ycUUAAKwqz.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D6k9-ycUIAAPd5t.jpg",
+                "type": "十七夜塔",
+                "year_built": "大正九年",
+                "year_built_ce": 1920,
+                "address": "宮城県遠田郡美里町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1080627441,
+                    38.51283333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128513121050550273",
+                "tweet_date": "2019-05-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/8cgICiptDF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6lIsEkU8AAVJ6U.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6lIsEnVUAArq1t.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D6lIsEkUwAIkwG3.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D6lIsEnUcAAGE3a.jpg",
+                "type": "二十三夜塔",
+                "year_built": "明治二十一年",
+                "year_built_ce": 1888,
+                "address": "宮城県遠田郡美里町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1084442139,
+                    38.512525
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128513725672054784",
+                "tweet_date": "2019-05-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/6dPQ09c4SS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6lJPj3UIAAAjNP.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6lJPj4UcAAmcOr.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "弘化二年",
+                "year_built_ce": 1845,
+                "address": "宮城県遠田郡美里町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1083221436,
+                    38.513125
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128514141226848256",
+                "tweet_date": "2019-05-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/qsMYEHbxfa",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6lJn4AUUAAniHD.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6lJn4DUUAA4OmO.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "明治三十七年",
+                "year_built_ce": 1904,
+                "address": "宮城県遠田郡美里町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.107925415,
+                    38.512775
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128514920511705088",
+                "tweet_date": "2019-05-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/TN6L87vPUD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6lKVMyUYAADNeL.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6lKVM4V4AA63JK.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D6lKVMyU0AE_rLW.jpg",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "宮城県遠田郡美里町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0553131104,
+                    38.530955
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128536748097622016",
+                "tweet_date": "2019-05-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/V1cOIPQ5Bv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6leK7TU8AEQl7S.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6leK7VUwAAjYNd.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "嘉永四年",
+                "year_built_ce": 1851,
+                "address": "宮城県遠田郡美里町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0552520752,
+                    38.53067833
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128537634123288576",
+                "tweet_date": "2019-05-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/3b8BKgOuO6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6le-4tV4AAc9OQ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6le-4tUEAAB6Z5.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D6le-4qU8AAUO-Y.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D6le-4tU0AE7RLt.jpg",
+                "type": "二十六夜塔",
+                "year_built": "天明二年",
+                "year_built_ce": 1782,
+                "address": "宮城県遠田郡美里町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0729827881,
+                    38.527095
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128542618034397185",
+                "tweet_date": "2019-05-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/q5HiCuCigX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6ljgmkUUAArLud.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6ljgmiUwAA_uM2.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D6ljgmhU0AAW2Bq.jpg",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "文政十年",
+                "year_built_ce": 1827,
+                "address": "宮城県大崎市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0729522705,
+                    38.52711333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128543148295110656",
+                "tweet_date": "2019-05-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/euEHLVRU2q",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6lkAJwUwAA0cL8.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6lkAJuUYAAy6jJ.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "文政元年",
+                "year_built_ce": 1818,
+                "address": "宮城県大崎市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.073135376,
+                    38.52704667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128543461089505281",
+                "tweet_date": "2019-05-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/VcieVbi9RB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6lkSidUEAAr7-a.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6lkSibUwAANwon.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "宮城県大崎市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0886077881,
+                    38.49977833
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128553604346830848",
+                "tweet_date": "2019-05-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/6mQW3Zb5uo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6ltg4pU8AA8A1d.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6ltg4sUIAAQ460.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "明治六年",
+                "year_built_ce": 1873,
+                "address": "宮城県大崎市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0886383057,
+                    38.49975833
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128553851403902979",
+                "tweet_date": "2019-05-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/EoPpyQqgAH",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6ltvMUUIAAmYgf.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6ltvMVUUAEtNWl.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "明治六年",
+                "year_built_ce": 1873,
+                "address": "宮城県大崎市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1253509521,
+                    38.54057167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128564387973713920",
+                "tweet_date": "2019-05-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/csY003C9V4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6l3Ts9UwAAxrmn.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6l3Ts9UwAEcqXN.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D6l3Ts6VUAApCW0.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D6l3Ts6U8AETAqg.jpg",
+                "type": "二十三夜塔",
+                "year_built": "安政三年",
+                "year_built_ce": 1856,
+                "address": "宮城県遠田郡涌谷町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.2858276367,
+                    38.48746957
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128598171179896832",
+                "tweet_date": "2019-05-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/ejyPdsMBIe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6mWCsgUcAAIUco.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6mWCsbUwAA0ccc.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D6mWCsaUUAI8mM-.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D6mWCsbVUAA8BFq.jpg",
+                "type": "十三夜塔",
+                "year_built": "享保十三年",
+                "year_built_ce": 1728,
+                "address": "宮城県石巻市",
+                "poi": ""
+            }
         }
     ]
 }
