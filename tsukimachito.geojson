@@ -46381,6 +46381,31 @@
                 "address": "宮城県石巻市",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1883850098,
+                    35.663645
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1128831055497113601",
+                "tweet_date": "2019-05-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/hrPPfZxqWh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6pp2DmV4AEvvSn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政二年",
+                "year_built_ce": 1819,
+                "address": "東京都八王子市上恩方町",
+                "poi": ""
+            }
         }
     ]
 }
