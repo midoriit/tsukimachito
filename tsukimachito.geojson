@@ -46406,6 +46406,831 @@
                 "address": "東京都八王子市上恩方町",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1890411377,
+                    35.8283208
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129560579142586368",
+                "tweet_date": "2019-05-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/4n75r8rHXr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60BVZ9UcAA6bVS.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享和元年",
+                "year_built_ce": 1801,
+                "address": "千葉県印西市小林",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1889953613,
+                    35.8282177
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129560797212864513",
+                "tweet_date": "2019-05-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/jdSPzZAS37",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60BiQhU0AEkYMK.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印西市小林",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1893768311,
+                    35.8285402
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129561123823292416",
+                "tweet_date": "2019-05-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/oXoHPHLMK6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60B1p8V4AAmhbd.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "延宝七年",
+                "year_built_ce": 1679,
+                "address": "千葉県印西市小林",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1895446777,
+                    35.8285698
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129562225536974848",
+                "tweet_date": "2019-05-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/4g7poQdDRg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60CwGjU0AAyrYA.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D60CxaoUcAAhBzl.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D60CzLgUcAA9Fbs.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D60C1fUUwAMblxB.jpg",
+                "type": "二十夜塔 二十三夜塔 二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印西市小林",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.198638916,
+                    35.8180395
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129576422576496640",
+                "tweet_date": "2019-05-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/krE2DSemIt",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60PwGGUIAEw4wL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "正徳五年",
+                "year_built_ce": 1715,
+                "address": "千葉県印西市大字笠神",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.105682373,
+                    35.8635656
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129590236852260864",
+                "tweet_date": "2019-05-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/DdXhVdSUqV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60cR6EV4AYALvW.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D60cTgoU8AEOT6M.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十五夜塔",
+                "year_built": "天和二年",
+                "year_built_ce": 1682,
+                "address": "千葉県我孫子市新木野一丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1059112549,
+                    35.8639266
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129590852685197312",
+                "tweet_date": "2019-05-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/TcZ1Ra5Cae",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60c38vVsAA5K_U.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政十年",
+                "year_built_ce": 1827,
+                "address": "千葉県我孫子市新木野一丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.106048584,
+                    35.8638233
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129591230264856576",
+                "tweet_date": "2019-05-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/e0RSmABnWv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60dODIUYAYaQmB.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天明四年",
+                "year_built_ce": 1784,
+                "address": "千葉県我孫子市新木野一丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1058807373,
+                    35.863931
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129591605164367872",
+                "tweet_date": "2019-05-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/VVneVF6eZv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60djwwUIAEFj7S.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化六年",
+                "year_built_ce": 1809,
+                "address": "千葉県我孫子市新木野一丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0927276611,
+                    35.8659255
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129599501184856064",
+                "tweet_date": "2019-05-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/A0BGWF6QXz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60kuPzUwAA3PeL.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D60kv1DUYAELhXe.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十六夜塔",
+                "year_built": "延宝七年",
+                "year_built_ce": 1679,
+                "address": "千葉県我孫子市新木",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.092666626,
+                    35.8657195
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129600300917043201",
+                "tweet_date": "2019-05-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/9y2CMMS0hJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60leEaVsAAgjVV.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛延四年",
+                "year_built_ce": 1751,
+                "address": "千葉県我孫子市新木",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0911712646,
+                    35.8659638
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129602015988817921",
+                "tweet_date": "2019-05-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/rpweXeVGrm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60nA4hUIAAj2N7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享和三年",
+                "year_built_ce": 1803,
+                "address": "千葉県我孫子市日秀",
+                "poi": "観音寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.091217041,
+                    35.8660136
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129602313763430400",
+                "tweet_date": "2019-05-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/aBTrEUuFxO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60nSdoUEAAHGlM.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文久二年",
+                "year_built_ce": 1862,
+                "address": "千葉県我孫子市日秀",
+                "poi": "観音寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0817108154,
+                    35.8673401
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129610059313401856",
+                "tweet_date": "2019-05-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/AO79IyfZWa",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60uWCDUIAAD_MO.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政五年",
+                "year_built_ce": 1793,
+                "address": "千葉県我孫子市中里",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0817108154,
+                    35.8673277
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129610441770979328",
+                "tweet_date": "2019-05-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/CfPhQmXPN7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60usKEVUAA0h8K.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛文八年",
+                "year_built_ce": 1668,
+                "address": "千葉県我孫子市中里",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0815124512,
+                    35.8673089
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129610797213028352",
+                "tweet_date": "2019-05-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/JMdbGMl4A4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60vA01UYAAM46J.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "延宝七年",
+                "year_built_ce": 1679,
+                "address": "千葉県我孫子市中里",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0817260742,
+                    35.867356
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129611202282135554",
+                "tweet_date": "2019-05-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/QRwr03IASN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60vYX9V4AAuZz5.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保十六年",
+                "year_built_ce": 1731,
+                "address": "千葉県我孫子市中里",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.08152771,
+                    35.8673792
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129611765942112256",
+                "tweet_date": "2019-05-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/gEMzNF0rSf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60v5IUUYAAk9zP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化五年",
+                "year_built_ce": 1848,
+                "address": "千葉県我孫子市中里",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0744018555,
+                    35.8697248
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129618123332571137",
+                "tweet_date": "2019-05-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Ek3NrrcTbs",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D601ohSVUAABcJB.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D601qpoUYAA37zl.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "延宝七年",
+                "year_built_ce": 1679,
+                "address": "千葉県我孫子市中峠台",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0745391846,
+                    35.869427
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129618388232183809",
+                "tweet_date": "2019-05-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/yPQdsL08ME",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D60138CUcAE9CB7.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D6015wDUEAAjqDY.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県我孫子市中峠台",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0735626221,
+                    35.8709203
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129620473690578949",
+                "tweet_date": "2019-05-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/VsyfLvMQGe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6030gSUwAA8l0E.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化八年",
+                "year_built_ce": 1811,
+                "address": "千葉県我孫子市中峠台",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0724029541,
+                    35.873059
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129622681827958784",
+                "tweet_date": "2019-05-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mi0hPSWGmT",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6050y-VsAAY6yj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化七年",
+                "year_built_ce": 1810,
+                "address": "千葉県我孫子市中峠台",
+                "poi": "法岩院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.063659668,
+                    35.8712374
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129631410363351041",
+                "tweet_date": "2019-05-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/K5Cy1n5Kif",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D61BwrMUcAAAdW8.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政九年",
+                "year_built_ce": 1826,
+                "address": "千葉県我孫子市都部",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8912353516,
+                    37.0540269
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129638667859836929",
+                "tweet_date": "2019-05-18",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/OILPC97Iz8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D61IWwVUIAAdePx.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市平十五町目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8913574219,
+                    37.054175
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129639125542289408",
+                "tweet_date": "2019-05-18",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/IZxBRnKCIG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D61IyXZVsAE9y-2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "明治31年",
+                "year_built_ce": 1898,
+                "address": "福島県いわき市平南町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8913116455,
+                    37.0539619
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129639280593137665",
+                "tweet_date": "2019-05-18",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/be8G5E9nEQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D61I66iV4AAXY8W.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市平十五町目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8913726807,
+                    37.0539409
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129639674287255553",
+                "tweet_date": "2019-05-18",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/2vpZtLuPHJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D61JSSQUwAAl38m.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市平十五町目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9700927734,
+                    36.9918591
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129657644719824896",
+                "tweet_date": "2019-05-18",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/aT254On8q5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D61ZoEgV4AAzL-y.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市平豊間柳町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9700927734,
+                    36.9918591
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129657894188642304",
+                "tweet_date": "2019-05-18",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/EJ6s0qgA7j",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D61Z2v2UcAEFePn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市平豊間柳町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9686889648,
+                    36.9897461
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129661232288415744",
+                "tweet_date": "2019-05-18",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/LjS3K9y1tD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D61c4vOUYAAM5jy.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市平豊間原町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9686889648,
+                    36.9897461
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129661443123499009",
+                "tweet_date": "2019-05-18",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/mNgczLLTbu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D61dFaIUcAAQEHZ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市平豊間原町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9686889648,
+                    36.9897461
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129661807973371904",
+                "tweet_date": "2019-05-18",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/bZZToKqtLt",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D61danwUIAAswGq.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市平豊間原町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9687194824,
+                    36.9894902
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1129662331753865216",
+                "tweet_date": "2019-05-18",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/daJrCpWYeW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D61d4Z_UcAAh5p9.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永年間",
+                "year_built_ce": "",
+                "address": "福島県いわき市平豊間原町",
+                "poi": ""
+            }
         }
     ]
 }
