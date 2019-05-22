@@ -47231,6 +47231,206 @@
                 "address": "福島県いわき市平豊間原町",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.1663818359,
+                    35.9792296
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1131079927669805057",
+                "tweet_date": "2019-05-22",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/yAtScqnI2C",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D7JnLmqU0AAOiDk.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化二年",
+                "year_built_ce": 1805,
+                "address": "長野県茅野市宮川",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7680969238,
+                    37.98086167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1131109825994055680",
+                "tweet_date": "2019-05-22",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/8Zya4lhOaf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D7KCYLnUYAAyXuB.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D7KCYLmUIAEwBBR.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D7KCYLmUcAALu4v.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D7KCYLlU8AAUIK6.jpg",
+                "type": "二十夜塔",
+                "year_built": "宝暦十年",
+                "year_built_ce": 1760,
+                "address": "宮城県角田市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.1557922363,
+                    35.9949167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1131116747308785664",
+                "tweet_date": "2019-05-22",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Wzq3p4dZI0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D7KIqQGUYAAdu2b.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県茅野市塚原二丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7755432129,
+                    37.97533
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1131120030815358976",
+                "tweet_date": "2019-05-22",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/RYojuZMkfs",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D7KLqqgUcAAPF0y.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D7KLqqgU0AEdIjN.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "(二十)三夜塔",
+                "year_built": "嘉永五年",
+                "year_built_ce": 1852,
+                "address": "宮城県角田市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7858734131,
+                    37.96779167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1131124557928992769",
+                "tweet_date": "2019-05-22",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/3GWIp7rhZv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D7KPxKtV4AES7bZ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D7KPxKuUYAIurEV.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D7KPxKuUEAA1hzL.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D7KPxKvUIAA3Lk4.jpg",
+                "type": "(二十)三夜塔",
+                "year_built": "文化八年",
+                "year_built_ce": 1811,
+                "address": "宮城県角田市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7844238281,
+                    37.974305
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1131126747418677253",
+                "tweet_date": "2019-05-22",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/vurcy6BsUr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D7KRxdIUcAADh8h.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治二年",
+                "year_built_ce": 1869,
+                "address": "宮城県角田市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7998657227,
+                    37.938995
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1131138705920389121",
+                "tweet_date": "2019-05-22",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/FCte7NuvZs",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D7KcpPkUEAAAgy7.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D7KcpPjUIAAQABI.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D7KcpPmUEAEE39e.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D7KcpPoU0AAyxYv.jpg",
+                "type": "二十三夜塔",
+                "year_built": "天保十四年",
+                "year_built_ce": 1843,
+                "address": "宮城県角田市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7998046875,
+                    37.93909167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1131139027749429248",
+                "tweet_date": "2019-05-22",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/NbsfaGmHil",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D7Kc78WUYAAYkBA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治八年",
+                "year_built_ce": 1875,
+                "address": "宮城県角田市",
+                "poi": ""
+            }
         }
     ]
 }
