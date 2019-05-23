@@ -41837,8 +41837,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.7847747803,
-                    37.93213667
+                    140.7812347412,
+                    37.92255833
                 ]
             },
             "properties": {
@@ -41888,7 +41888,7 @@
                 "type": "Point",
                 "coordinates": [
                     140.7812347412,
-                    37.92273667
+                    37.92255833
                 ]
             },
             "properties": {
@@ -47362,8 +47362,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.7844238281,
-                    37.974305
+                    140.7839355469,
+                    37.975625
                 ]
             },
             "properties": {
@@ -47378,6 +47378,31 @@
                 "type": "二十三夜塔",
                 "year_built": "明治二年",
                 "year_built_ce": 1869,
+                "address": "宮城県角田市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7838134766,
+                    37.974236
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1131131302516649984",
+                "tweet_date": "2019-05-22",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/tkZl1uptjg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D7KV43KV4AIMjrF.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D7KV43IV4AACc9n.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D7KV43GUcAALt3A.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D7KV43NUEAEUYBX.jpg",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
                 "address": "宮城県角田市",
                 "poi": ""
             }
@@ -47429,6 +47454,131 @@
                 "year_built": "明治八年",
                 "year_built_ce": 1875,
                 "address": "宮城県角田市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.1388702393,
+                    36.0160791
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1131354062845124608",
+                "tweet_date": "2019-05-23",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/BTk1R2B4vF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D7NggYxU8AE50_D.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明和七年",
+                "year_built_ce": 1770,
+                "address": "長野県諏訪市大字四賀",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.1390686035,
+                    36.0162389
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1131354368165515269",
+                "tweet_date": "2019-05-23",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/AtjI2zZOy6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D7NgyBJUIAANdeR.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県諏訪市大字四賀",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.1137084961,
+                    36.0594892
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1131389076932767745",
+                "tweet_date": "2019-05-23",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/LcgIlp1NG7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D7OAVfIU0AA2lsB.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県諏訪市大和一丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.1137542725,
+                    36.0595051
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1131389374103314433",
+                "tweet_date": "2019-05-23",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/v0quwJSGAX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D7OAnHfU0AImGnX.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県諏訪市大和一丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.0897064209,
+                    36.0773117
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1131405942132596741",
+                "tweet_date": "2019-05-23",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/x7buvRaaQI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D7OPr7zUYAAu_tA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県諏訪郡下諏訪町横町木の下",
                 "poi": ""
             }
         }
