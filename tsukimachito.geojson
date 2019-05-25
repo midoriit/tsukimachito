@@ -47581,6 +47581,31 @@
                 "address": "長野県諏訪郡下諏訪町横町木の下",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2721405029,
+                    35.338083
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1132161207547285504",
+                "tweet_date": "2019-05-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/I1LVhqj200",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D7Y-ivIUYAALiTG.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D7Y-kgtUIAAOKGG.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D7Y-mTTUYAAqLvC.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県平塚市上吉沢",
+                "poi": ""
+            }
         }
     ]
 }
