@@ -87585,5 +87585,1477 @@
         <coordinates>139.2721405029,35.3380830000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132472399813701633</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/7kkvj3dMnU</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7dZnrVUwAAfZ0o.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永九年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1780</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県幸手市大字西関宿</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7764739990,36.0843350000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132473162208120833</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/H3DHcabWXx</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7daTboUYAALUHp.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D7daUmRUcAEPup6.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化八年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1811</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県幸手市大字西関宿</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7763977051,36.0844783000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132475400397807617</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/WHDSObwZll</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7dcWj2U0AA9Py8.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1821</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県幸手市大字西関宿</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7763519287,36.0837990000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132482004983853056</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/g7hdhBRDNh</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7diWfaUIAEaEVd.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1820</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿江戸町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7819519043,36.0859250000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132482299658850311</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/wTVxSIR68F</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7diodRUYAAsJVf.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1823</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿江戸町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7819519043,36.0859250000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132487382601617408</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/0NPEBZOWLq</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7dnP3UU8AAqVRL.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1823</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿台町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7843627930,36.0901386000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132487691537281025</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/GTbq2r5j5c</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7dniGFUIAAeSw2.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1823</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿台町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7843627930,36.0901386000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132488987656851456</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/g4rHhjqNxy</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7dotD-V4AAa0ut.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政十二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1829</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7854156494,36.0902583000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132489742837092357</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/RkC0MYIrLq</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7dpZnyUYAAHdeu.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿台町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7850952148,36.0900012000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132490002711973888</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/wD9kE8kuAo</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7dpoKWUYAEzneA.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政九年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1826</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿台町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7851104736,36.0900012000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132490296602710016</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/UFjlKGcR4M</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7dp4piUEAA5dV4.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政十三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1830</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿台町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7851104736,36.0899883000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132492250775150592</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/FPUVi7a3Sg</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7drry9UYAEVf9f.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化十二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1815</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿町</value>
+        </Data>
+        <Data name="poi">
+          <value>光岳寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7869873047,36.0914801000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132492709774544896</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/j1SnGq8sUm</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7dsGK3UwAAjt1G.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化十一年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1814</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿台町</value>
+        </Data>
+        <Data name="poi">
+          <value>光岳寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7869873047,36.0914801000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132498405639327747</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/s8FC3a5lYu</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7dxRitV4AAHZ7q.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政八年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1825</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿台町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7871398926,36.0982479000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132498687970533378</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/9ZD7kY1eb1</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7dxiRmUcAAnKEX.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>嘉永元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1848</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿台町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7871398926,36.0982479000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132499197637218304</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/HeWlDCcxk8</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7dx_f4UEAE2vD0.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政八年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1825</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿台町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7871398926,36.0982479000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132499571974627329</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/UDr0VK4EeY</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7dyVhhU8AAPrJI.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天明三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1783</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿台町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7871398926,36.0982479000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132514397920743425</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/N3mDnSjOSb</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7d_zfwUYAExXnJ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D7d_076UIAACnoQ.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化十三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1816</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿台町</value>
+        </Data>
+        <Data name="poi">
+          <value>大龍寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7893371582,36.0865020000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132516779467534337</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/vrfGUW2KQ1</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7eB_HiVsAAOjf8.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1806</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿台町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7896575928,36.0860538000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132519326827728896</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/vbaNFtA0bf</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7eETZPV4AALcpF.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>昭和八年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1933</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿台町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7904357910,36.0809667000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132523044717547520</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/UnmtlmGo0u</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7eHraeUwAA7b1h.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D7eHsiZVsAEf0s7.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治三十二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1899</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿江戸町</value>
+        </Data>
+        <Data name="poi">
+          <value>吉祥寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7849426270,36.0770650000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132525997507530753</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/bvfCSaN0gq</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7eKWiRVUAENWts.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D7eKYCBU8AAmJhw.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>嘉永元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1848</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県野田市関宿内町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7853393555,36.0734867000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132545362600660992</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/1LFgtW99Vg</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7eb_0wVsAEUs7x.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D7eb_0vVUAEg6SA.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治十九年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1886</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県角田市</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8317108154,37.9466966700</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132545730512429058</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/5Tg8uh6XPa</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7ecVZuU8AAD52A.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政十二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1800</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県角田市</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8317108154,37.9466966700</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132553229814779905</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/3qrs7XNisI</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7ejJAJVUAEib9P.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D7ejJAIUYAEWfY_.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>宮城県角田市</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.7981262207,37.9411383300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132554572994506752</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/vmPCnIkrNB</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7ekX6hV4AIbrRj.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>万延元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1860</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県角田市</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.7979888916,37.9410886300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132563296786063361</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/NjisaVhPvt</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7esS4pV4AAKuFB.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安政三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1856</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.7935943604,37.9129000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132572046339088384</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/v9P0gN1NVi</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7e0CiJV4AAGUvv.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D7e0CifV4AERwyO.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8128814697,37.8715666700</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132577621336739841</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/lClQTXGmd7</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7e5VFmUwAA_ov-.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D7e5VFnUIAA34Fh.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/D7e5VFrVUAAV11W.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.7799224854,37.8802446500</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132578550458904577</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/op0pTVPTbc</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7e6JqiUcAEf5qK.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D7e6JqoU8AEnuqs.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>(二十)三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1813</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.7798767090,37.8802722600</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132579594869956608</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/AIGlcgHwl5</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7e7HjSUIAEvGIM.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D7e7Hj8UEAQ5BHV.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦年間</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.7798004150,37.8802406600</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1132584430231478272</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Dhc87nBdYq</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7e_hQsUYAA4QQE.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治十四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1881</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.7785339355,37.8939333300</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
