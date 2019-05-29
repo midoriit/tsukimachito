@@ -89057,5 +89057,143 @@
         <coordinates>140.7785339355,37.8939333300</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1133600138654470145</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/ckyGF5nRqP</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7tbTatUcAATLal.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D7tbTavV4AAM6T1.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安政四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1857</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県石巻市</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>141.2684326172,38.4886050000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1133646561173331968</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/2QvZHSaaK6</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7uFhWSUwAAKMQC.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D7uFhWPU0AEMpGI.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/D7uFhWTUEAAsdyE.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value>https://pbs.twimg.com/media/D7uFhWSUYAAHKZq.jpg</value>
+        </Data>
+        <Data name="type">
+          <value>十七夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保十四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1843</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県石巻市</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>141.2693481445,38.5872950000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1133656333046099968</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-05-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/4jMmdAC9pZ</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D7uOZSIVsAE7jzX.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D7uOZSJVUAAjQoS.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/D7uOZSMUIAE3HPA.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十七夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>宮城県石巻市</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>141.2420196533,38.5601783300</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
