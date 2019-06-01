@@ -90023,5 +90023,879 @@
         <coordinates>140.3762207031,37.2900605000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134588353305669633</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/b9qcCbSDkS</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D77eFBvV4AAEo-u.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県福島市仲間町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4730682373,37.7561420000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134588688564797440</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/a96ECZ7Wgy</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D77eYgyUIAA4Zif.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県福島市仲間町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4730682373,37.7561420000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134589255890505728</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/j51yXQ1RVN</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D77e57PUEAADwfO.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県福島市仲間町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4730682373,37.7561420000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134637993757593600</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/1VX4VPibda</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78LNRsVUAAUuCQ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛延二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1749</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市中央区星久喜町</value>
+        </Data>
+        <Data name="poi">
+          <value>満蔵寺別院</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1472167969,35.5948714000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134642743152480256</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/2pCXiK8DtH</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78PhwoVsAAEYeg.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市中央区星久喜町</value>
+        </Data>
+        <Data name="poi">
+          <value>千手院</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1547088623,35.5985817000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134643279104860160</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/72va7ihuet</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78P428VsAEDFsu.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市中央区星久喜町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1547241211,35.5986600000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134647598411788288</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Jr63qY4b2A</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78T6KNUYAErblH.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D78T8N-V4AE7BP6.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>享保六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1721</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市若葉区大宮町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1614837646,35.6001737000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134649209917911040</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/GzwvC3s78o</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78VVy1UcAAY1f9.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D78VZ6JU0AADmNY.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市若葉区大宮町</value>
+        </Data>
+        <Data name="poi">
+          <value>大宮町下長集会所</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1636657715,35.6004419000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134649504479629317</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/4xyAVLlU6U</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78Voh3VUAAPA4I.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政五年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1793</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市若葉区大宮町</value>
+        </Data>
+        <Data name="poi">
+          <value>大宮町下長集会所</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1637115479,35.6004867000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134653491203284992</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/isaiNbY50D</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78ZP_ZUYAAb8Pg.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D78ZR6cUEAAObuy.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/D78ZT9kU0AEOEOW.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>延宝四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1676</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市若葉区大宮町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1693725586,35.5991993000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134655432520155136</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/1sAxGe0ZD8</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78bAxVVsAE-jZq.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D78bCnwUIAEqJHL.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/D78bEcmU8AA9vaG.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1773</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市若葉区大宮町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1712951660,35.5968054000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134659696785219584</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Fp8v7zgWcJ</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78e8g5U0AAfeqI.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>延宝四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1676</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市若葉区大宮町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1697540283,35.5939236000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134660033856167936</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/FZSE1uvlgm</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78fO9AUEAEM_EV.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1760</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市若葉区大宮町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1696166992,35.5938334000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134663912866009088</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/QxOihPlgL3</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78izGXUcAE98rT.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1756</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市中央区川戸町</value>
+        </Data>
+        <Data name="poi">
+          <value>福壽院（宗教法人）</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1657104492,35.5895870000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134664261366501377</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/pQFFl90UVP</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78jHG_UEAET1IR.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>享保十七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1732</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市中央区川戸町</value>
+        </Data>
+        <Data name="poi">
+          <value>福壽院（宗教法人）</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1657104492,35.5895870000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134664487699488769</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Thz9mU8caa</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78jUwEU0AAYcAm.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市中央区川戸町</value>
+        </Data>
+        <Data name="poi">
+          <value>福壽院（宗教法人）</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1657104492,35.5895870000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134668442466783232</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/UZXonKIDex</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78m5yFUcAAxVXK.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市中央区仁戸名町</value>
+        </Data>
+        <Data name="poi">
+          <value>仁守寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1632232666,35.5918705000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134668651393560576</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/xKoznDhhkx</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78nG7rV4AAUkPH.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>元禄八年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1695</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市中央区仁戸名町</value>
+        </Data>
+        <Data name="poi">
+          <value>仁守寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1632232666,35.5918705000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1134669001940905984</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-01</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/TO0khsG86F</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D78nbJGU8AEJG0a.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛保三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1743</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県千葉市中央区仁戸名町</value>
+        </Data>
+        <Data name="poi">
+          <value>仁守寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.1632232666,35.5918705000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
