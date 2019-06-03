@@ -49531,6 +49531,31 @@
                 "address": "宮城県登米市",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9613494873,
+                    38.291395
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1135481103601393665",
+                "tweet_date": "2019-06-03",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/FkyCJAo7Rk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D8IKAzIV4AIRFyP.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D8IKAzJUcAAR-qN.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D8IKAzFU8AAEa1r.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D8IKAzFVsAAHCUc.jpg",
+                "type": "十七夜塔",
+                "year_built": "宝暦七年",
+                "year_built_ce": 1757,
+                "address": "宮城県多賀城市",
+                "poi": ""
+            }
         }
     ]
 }

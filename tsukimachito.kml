@@ -91127,5 +91127,51 @@
         <coordinates>141.1493530273,38.6589616700</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1135481103601393665</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-03</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/FkyCJAo7Rk</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D8IKAzIV4AIRFyP.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D8IKAzJUcAAR-qN.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/D8IKAzFU8AAEa1r.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value>https://pbs.twimg.com/media/D8IKAzFVsAAHCUc.jpg</value>
+        </Data>
+        <Data name="type">
+          <value>十七夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1757</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県多賀城市</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9613494873,38.2913950000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
