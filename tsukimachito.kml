@@ -90053,10 +90053,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>寛政三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1791</value>
         </Data>
         <Data name="address">
           <value>福島県福島市仲間町</value>
@@ -90927,10 +90927,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>天明２年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1782</value>
         </Data>
         <Data name="address">
           <value>福島県郡山市</value>
@@ -91171,6 +91171,52 @@
       </ExtendedData>
       <Point>
         <coordinates>140.9613494873,38.2913950000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1136170549753704449</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-05</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/kwkHIQzTcN</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D8R9Fk_V4AUO-jH.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D8R9FlIU8AE2hz5.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十七夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安政四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1857</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県黒川郡大和町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8501586914,38.4071583300</coordinates>
       </Point>
     </Placemark>
   </Document>

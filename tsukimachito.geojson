@@ -48951,8 +48951,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛政三年",
+                "year_built_ce": 1791,
                 "address": "福島県福島市仲間町",
                 "poi": ""
             }
@@ -49426,8 +49426,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天明２年",
+                "year_built_ce": 1782,
                 "address": "福島県郡山市",
                 "poi": ""
             }
@@ -49554,6 +49554,31 @@
                 "year_built": "宝暦七年",
                 "year_built_ce": 1757,
                 "address": "宮城県多賀城市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8501586914,
+                    38.40715833
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1136170549753704449",
+                "tweet_date": "2019-06-05",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/kwkHIQzTcN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D8R9Fk_V4AUO-jH.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D8R9FlIU8AE2hz5.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "安政四年",
+                "year_built_ce": 1857,
+                "address": "宮城県黒川郡大和町",
                 "poi": ""
             }
         }
