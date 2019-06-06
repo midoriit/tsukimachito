@@ -91219,5 +91219,189 @@
         <coordinates>140.8501586914,38.4071583300</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1136465438357934080</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/kGFKd4f3XG</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D8WJR7UV4AAc0su.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文久元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1861</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県比企郡ときがわ町本郷</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.2716064453,36.0080983000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1136471554206781441</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/C7zDNOGGfN</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D8WO0vGUIAIcax5.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D8WO1_RU8AEfe_j.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1835</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県比企郡ときがわ町瀬戸元上</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.2733154297,35.9951183000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1136494703203872770</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/WzSJMfF1r1</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D8Wj3REUEAA17Xd.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D8Wj46gUYAEbcaX.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1818</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県比企郡ときがわ町西平</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.2288665771,36.0017256000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1136501536895356928</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/z3kYLWloYt</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D8WqER3UYAA3RSZ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D8WqGoMVsAINppM.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1775</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県比企郡ときがわ町西平</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.2393035889,35.9972588000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

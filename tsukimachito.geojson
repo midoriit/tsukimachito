@@ -49581,6 +49581,106 @@
                 "address": "宮城県黒川郡大和町",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2716064453,
+                    36.0080983
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1136465438357934080",
+                "tweet_date": "2019-06-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/kGFKd4f3XG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D8WJR7UV4AAc0su.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文久元年",
+                "year_built_ce": 1861,
+                "address": "埼玉県比企郡ときがわ町本郷",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2733154297,
+                    35.9951183
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1136471554206781441",
+                "tweet_date": "2019-06-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/C7zDNOGGfN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D8WO0vGUIAIcax5.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D8WO1_RU8AEfe_j.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "天保六年",
+                "year_built_ce": 1835,
+                "address": "埼玉県比企郡ときがわ町瀬戸元上",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2288665771,
+                    36.0017256
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1136494703203872770",
+                "tweet_date": "2019-06-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/WzSJMfF1r1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D8Wj3REUEAA17Xd.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D8Wj46gUYAEbcaX.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文政元年",
+                "year_built_ce": 1818,
+                "address": "埼玉県比企郡ときがわ町西平",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2393035889,
+                    35.9972588
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1136501536895356928",
+                "tweet_date": "2019-06-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/z3kYLWloYt",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D8WqER3UYAA3RSZ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D8WqGoMVsAINppM.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安永四年",
+                "year_built_ce": 1775,
+                "address": "埼玉県比企郡ときがわ町西平",
+                "poi": ""
+            }
         }
     ]
 }
