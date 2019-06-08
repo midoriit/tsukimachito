@@ -91403,5 +91403,97 @@
         <coordinates>139.2393035889,35.9972588000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1137266073206583296</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-08</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/ZYjXYagn3z</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D8hhdLhUwAAo7-B.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D8hhdMWVUAE75qx.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>宮城県角田市</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.7466583252,37.9832533300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1137266492859273216</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-08</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/d2RrzALh5o</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D8hh1eFUEAA2kKu.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D8hh1eGU0AAwa-D.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/D8hh1eEU8AE4CxL.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛延元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1748</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県角田市</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.7470550537,37.9838533300</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

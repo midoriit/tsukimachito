@@ -49681,6 +49681,56 @@
                 "address": "埼玉県比企郡ときがわ町西平",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7466583252,
+                    37.98325333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1137266073206583296",
+                "tweet_date": "2019-06-08",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/ZYjXYagn3z",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D8hhdLhUwAAo7-B.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D8hhdMWVUAE75qx.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "宮城県角田市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7470550537,
+                    37.98385333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1137266492859273216",
+                "tweet_date": "2019-06-08",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/d2RrzALh5o",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D8hh1eFUEAA2kKu.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D8hh1eGU0AAwa-D.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D8hh1eEU8AE4CxL.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛延元年",
+                "year_built_ce": 1748,
+                "address": "宮城県角田市",
+                "poi": ""
+            }
         }
     ]
 }
