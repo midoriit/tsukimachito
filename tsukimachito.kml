@@ -91495,5 +91495,97 @@
         <coordinates>140.7470550537,37.9838533300</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1137552585362034689</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-09</value>
+        </Data>
+        <Data name="contributor">
+          <value>higa4</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/WQonjnM4J3</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D8lmB5kUIAExQFQ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>弘化4年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1847</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県松戸市金ケ作</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9519348145,35.8050976000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1137623268863516673</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-09</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/3mFpIHhf0I</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D8mmT9kVUAEHovM.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県福島市町庭坂小丸山</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.3791809082,37.7753470000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

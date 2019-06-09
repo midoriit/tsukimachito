@@ -49731,6 +49731,56 @@
                 "address": "宮城県角田市",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9519348145,
+                    35.8050976
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1137552585362034689",
+                "tweet_date": "2019-06-09",
+                "contributor": "higa4",
+                "tweet_url": "https:\/\/t.co\/WQonjnM4J3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D8lmB5kUIAExQFQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化4年",
+                "year_built_ce": 1847,
+                "address": "千葉県松戸市金ケ作",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3791809082,
+                    37.775347
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1137623268863516673",
+                "tweet_date": "2019-06-09",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/3mFpIHhf0I",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D8mmT9kVUAEHovM.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県福島市町庭坂小丸山",
+                "poi": ""
+            }
         }
     ]
 }
