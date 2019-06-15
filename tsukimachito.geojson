@@ -48737,8 +48737,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.3775024414,
-                    37.2885279
+                    140.3774108887,
+                    37.2891261
                 ]
             },
             "properties": {
@@ -48753,7 +48753,7 @@
                 "type": "十九夜塔",
                 "year_built": "嘉永２年",
                 "year_built_ce": 1849,
-                "address": "福島県須賀川市東町",
+                "address": "福島県須賀川市池上町",
                 "poi": ""
             }
         },
@@ -48762,8 +48762,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.377532959,
-                    37.2884988
+                    140.3775177002,
+                    37.289017
                 ]
             },
             "properties": {
@@ -48778,7 +48778,7 @@
                 "type": "二十三夜塔",
                 "year_built": "大正４年",
                 "year_built_ce": 1915,
-                "address": "福島県須賀川市東町",
+                "address": "福島県須賀川市池上町",
                 "poi": ""
             }
         },
@@ -48787,8 +48787,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.3775634766,
-                    37.288644
+                    140.3774108887,
+                    37.2891261
                 ]
             },
             "properties": {
@@ -48803,7 +48803,7 @@
                 "type": "十九夜塔",
                 "year_built": "弘化４年",
                 "year_built_ce": 1847,
-                "address": "福島県須賀川市東町",
+                "address": "福島県須賀川市池上町",
                 "poi": ""
             }
         },
@@ -48812,8 +48812,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.376739502,
-                    37.2896465
+                    140.3774108887,
+                    37.2891261
                 ]
             },
             "properties": {
@@ -48837,8 +48837,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.3767547607,
-                    37.2896824
+                    140.3774108887,
+                    37.2891261
                 ]
             },
             "properties": {
@@ -48862,8 +48862,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.3770294189,
-                    37.2893797
+                    140.3774108887,
+                    37.2891261
                 ]
             },
             "properties": {
@@ -48887,8 +48887,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.3769226074,
-                    37.2895785
+                    140.3774108887,
+                    37.2891261
                 ]
             },
             "properties": {
@@ -48912,8 +48912,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.3762207031,
-                    37.2900605
+                    140.3774108887,
+                    37.2891261
                 ]
             },
             "properties": {
@@ -48928,7 +48928,7 @@
                 "type": "十九夜塔",
                 "year_built": "",
                 "year_built_ce": "",
-                "address": "福島県須賀川市宮先町",
+                "address": "福島県須賀川市池上町",
                 "poi": ""
             }
         },
@@ -50312,8 +50312,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.916229248,
-                    37.87699167
+                    140.9010772705,
+                    37.87812
                 ]
             },
             "properties": {
@@ -50328,7 +50328,7 @@
                 "type": "二十三夜塔",
                 "year_built": "享和元年",
                 "year_built_ce": 1801,
-                "address": "福島県相馬郡新地町谷地小屋高田",
+                "address": "福島県相馬郡新地町谷地小屋潤崎",
                 "poi": ""
             }
         },
@@ -50337,8 +50337,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.8862304688,
-                    37.8871
+                    140.8929138184,
+                    37.88708667
                 ]
             },
             "properties": {
@@ -50353,7 +50353,7 @@
                 "type": "二十三夜塔",
                 "year_built": "元治元年",
                 "year_built_ce": 1864,
-                "address": "福島県相馬郡新地町福田大山田",
+                "address": "福島県相馬郡新地町福田諏訪",
                 "poi": ""
             }
         },
@@ -50437,8 +50437,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.900177002,
-                    37.84235833
+                    140.8968048096,
+                    37.84657833
                 ]
             },
             "properties": {
@@ -50453,7 +50453,7 @@
                 "type": "二十三夜塔",
                 "year_built": "天保十年",
                 "year_built_ce": 1839,
-                "address": "福島県相馬市椎木北原",
+                "address": "福島県相馬郡新地町駒ケ嶺木戸内南",
                 "poi": ""
             }
         },
@@ -50554,6 +50554,106 @@
                 "year_built": "文化三年",
                 "year_built_ce": 1806,
                 "address": "福島県相馬郡新地町駒ケ嶺木戸内南",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6232299805,
+                    38.00006389
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1139801553072578560",
+                "tweet_date": "2019-06-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/hVXYLNUBUO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9FjdXcUEAIVkDM.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D9FjdXdUYAASDSd.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "安政六年",
+                "year_built_ce": 1859,
+                "address": "宮城県白石市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6231536865,
+                    38.000168
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1139803715030773761",
+                "tweet_date": "2019-06-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/W1EOUsvVul",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9Flbc4VUAAJzj7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政二年",
+                "year_built_ce": 1855,
+                "address": "宮城県白石市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6322174072,
+                    37.87875
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1139816544156844032",
+                "tweet_date": "2019-06-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/wxxnB8YdqG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9FxGUwU4AAHDiv.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D9FxGUwUwAAzjQY.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十夜塔",
+                "year_built": "寛政五年",
+                "year_built_ce": 1793,
+                "address": "福島県伊達市梁川町舟生山岸",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7594299316,
+                    37.91481167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1139825247178223617",
+                "tweet_date": "2019-06-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/zvFzTMTGCX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9F5AQhU4AAKKoR.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D9F5AQcUcAAtxW4.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D9F5AQbUwAA4Tsi.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永九年",
+                "year_built_ce": 1780,
+                "address": "宮城県伊具郡丸森町",
                 "poi": ""
             }
         }

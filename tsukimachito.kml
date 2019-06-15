@@ -89691,14 +89691,14 @@
           <value>1849</value>
         </Data>
         <Data name="address">
-          <value>福島県須賀川市東町</value>
+          <value>福島県須賀川市池上町</value>
         </Data>
         <Data name="poi">
           <value/>
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.3775024414,37.2885279000</coordinates>
+        <coordinates>140.3774108887,37.2891261000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -89737,14 +89737,14 @@
           <value>1915</value>
         </Data>
         <Data name="address">
-          <value>福島県須賀川市東町</value>
+          <value>福島県須賀川市池上町</value>
         </Data>
         <Data name="poi">
           <value/>
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.3775329590,37.2884988000</coordinates>
+        <coordinates>140.3775177002,37.2890170000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -89783,14 +89783,14 @@
           <value>1847</value>
         </Data>
         <Data name="address">
-          <value>福島県須賀川市東町</value>
+          <value>福島県須賀川市池上町</value>
         </Data>
         <Data name="poi">
           <value/>
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.3775634766,37.2886440000</coordinates>
+        <coordinates>140.3774108887,37.2891261000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -89836,7 +89836,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.3767395020,37.2896465000</coordinates>
+        <coordinates>140.3774108887,37.2891261000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -89882,7 +89882,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.3767547607,37.2896824000</coordinates>
+        <coordinates>140.3774108887,37.2891261000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -89928,7 +89928,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.3770294189,37.2893797000</coordinates>
+        <coordinates>140.3774108887,37.2891261000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -89974,7 +89974,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.3769226074,37.2895785000</coordinates>
+        <coordinates>140.3774108887,37.2891261000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -90013,14 +90013,14 @@
           <value/>
         </Data>
         <Data name="address">
-          <value>福島県須賀川市宮先町</value>
+          <value>福島県須賀川市池上町</value>
         </Data>
         <Data name="poi">
           <value/>
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.3762207031,37.2900605000</coordinates>
+        <coordinates>140.3774108887,37.2891261000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -92589,14 +92589,14 @@
           <value>1801</value>
         </Data>
         <Data name="address">
-          <value>福島県相馬郡新地町谷地小屋高田</value>
+          <value>福島県相馬郡新地町谷地小屋潤崎</value>
         </Data>
         <Data name="poi">
           <value/>
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.9162292480,37.8769916700</coordinates>
+        <coordinates>140.9010772705,37.8781200000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -92635,14 +92635,14 @@
           <value>1864</value>
         </Data>
         <Data name="address">
-          <value>福島県相馬郡新地町福田大山田</value>
+          <value>福島県相馬郡新地町福田諏訪</value>
         </Data>
         <Data name="poi">
           <value/>
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.8862304688,37.8871000000</coordinates>
+        <coordinates>140.8929138184,37.8870866700</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -92819,14 +92819,14 @@
           <value>1839</value>
         </Data>
         <Data name="address">
-          <value>福島県相馬市椎木北原</value>
+          <value>福島県相馬郡新地町駒ケ嶺木戸内南</value>
         </Data>
         <Data name="poi">
           <value/>
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.9001770020,37.8423583300</coordinates>
+        <coordinates>140.8968048096,37.8465783300</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -93011,6 +93011,190 @@
       </ExtendedData>
       <Point>
         <coordinates>140.8967895508,37.8466033300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1139801553072578560</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-15</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/hVXYLNUBUO</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D9FjdXcUEAIVkDM.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D9FjdXdUYAASDSd.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十六夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安政六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1859</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県白石市</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.6232299805,38.0000638900</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1139803715030773761</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-15</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/W1EOUsvVul</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D9Flbc4VUAAJzj7.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安政二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1855</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県白石市</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.6231536865,38.0001680000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1139816544156844032</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-15</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/wxxnB8YdqG</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D9FxGUwU4AAHDiv.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D9FxGUwUwAAzjQY.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政五年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1793</value>
+        </Data>
+        <Data name="address">
+          <value>福島県伊達市梁川町舟生山岸</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.6322174072,37.8787500000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1139825247178223617</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-15</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/zvFzTMTGCX</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D9F5AQhU4AAKKoR.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D9F5AQcUcAAtxW4.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/D9F5AQbUwAA4Tsi.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永九年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1780</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.7594299316,37.9148116700</coordinates>
       </Point>
     </Placemark>
   </Document>
