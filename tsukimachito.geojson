@@ -50656,6 +50656,31 @@
                 "address": "宮城県伊具郡丸森町",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.055557251,
+                    37.999515
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140008688993759232",
+                "tweet_date": "2019-06-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/CloLYp4nzl",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9Ifxa1U8AEPzr4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山形県東置賜郡川西町大字上小松",
+                "poi": ""
+            }
         }
     ]
 }
