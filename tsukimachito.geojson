@@ -50681,6 +50681,581 @@
                 "address": "山形県東置賜郡川西町大字上小松",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.7103424072,
+                    36.24412
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140452833449222144",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mryqSDM8k9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9Ozy71UYAMaqj2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県甘楽郡下仁田町",
+                "poi": "長楽寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6923065186,
+                    36.2386983
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140455662649892867",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7X3rcyIwnc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9O2XMVU4AES6nI.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "慶應二年",
+                "year_built_ce": 1866,
+                "address": "群馬県甘楽郡下仁田町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6922454834,
+                    36.2387212
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140456203652235264",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Jkq2yHSBII",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9O22rXUcAA1a_V.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "天明三年",
+                "year_built_ce": 1783,
+                "address": "群馬県甘楽郡下仁田町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5639190674,
+                    36.2197316
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140462613228187649",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/o7fM7nTKO4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9O8rygUEAAR5NY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "大正十一年",
+                "year_built_ce": 1922,
+                "address": "長野県佐久市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5008392334,
+                    36.228769
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140471140063649793",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/0s4uyM2Wnp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9PEbuCUEAUowDw.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市平賀",
+                "poi": "大林寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5084228516,
+                    36.1931943
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140483426010578944",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/a2Eqnd35gF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9PPncwVAAA6Liz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治十五年",
+                "year_built_ce": 1882,
+                "address": "長野県佐久市田口",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5086212158,
+                    36.19254
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140484232000598017",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/DP4TPHNq9T",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9PQWaxU0AENRqZ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治十五年",
+                "year_built_ce": 1882,
+                "address": "長野県佐久市田口",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5021820068,
+                    36.1982731
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140488812545449985",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/IUQkgz2P79",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9PUg_dUcAAFoRA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治三十五年",
+                "year_built_ce": 1902,
+                "address": "長野県佐久市田口",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4701080322,
+                    36.1995317
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140496138396585984",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/s0QdbuQRWU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9PbLOMUYAI5yhU.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保十二年",
+                "year_built_ce": 1841,
+                "address": "長野県佐久市臼田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4785766602,
+                    36.2789471
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140511469722693632",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/NtyKdRdFvQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9PpIDBU4AA0sTu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治八年",
+                "year_built_ce": 1875,
+                "address": "長野県佐久市岩村田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4785766602,
+                    36.2789471
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140511737164128257",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/QK5keqWdJf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9PpXcIU4AE2Zjq.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和元年",
+                "year_built_ce": 1801,
+                "address": "長野県佐久市岩村田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4809417725,
+                    36.2778833
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140514158837813248",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/fvHzQjKUFQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9PrkrpU0AAVJWz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保四年",
+                "year_built_ce": 1833,
+                "address": "長野県佐久市岩村田",
+                "poi": "円満寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4792022705,
+                    36.2753714
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140516926520561666",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/4ryZ2gRroJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9PuEgjVUAIlGDa.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "慶應二年",
+                "year_built_ce": 1866,
+                "address": "長野県佐久市岩村田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4772033691,
+                    36.27334
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140522094410661888",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/NhADOPeznc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9Pyxh_VUAA8H5Z.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市岩村田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4772491455,
+                    36.2732116
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140522342965080064",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/kA8T9mJpct",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9Py_MtVAAAQkZN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元治元年",
+                "year_built_ce": 1864,
+                "address": "長野県佐久市岩村田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4772491455,
+                    36.2733783
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140522396576698368",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/E66APRdLpf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9PzDddUEAAPetV.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市岩村田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4811248779,
+                    36.2728635
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140524678894637056",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/8GKtEOD5di",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9P1IUGUYAExOns.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "慶應三年",
+                "year_built_ce": 1867,
+                "address": "長野県佐久市岩村田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4812469482,
+                    36.2728603
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140524918964011010",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/uJMwOaVTQs",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9P1WxNVAAAqhwK.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市岩村田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.48777771,
+                    36.271043
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140528735382151168",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/RYWsru8nc3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9P40l-UcAAmH63.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "(二十)三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市岩村田",
+                "poi": "鼻顔稲荷神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4877166748,
+                    36.270935
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140528914038579200",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/SFcEOvHCdF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9P4_IoUEAACBdi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市岩村田",
+                "poi": "鼻顔稲荷神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4906311035,
+                    36.2678833
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140532325798694913",
+                "tweet_date": "2019-06-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/1JkBCBGA3J",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9P8FujVAAApJwG.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治八年",
+                "year_built_ce": 1875,
+                "address": "長野県佐久市新子田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3949127197,
+                    37.358918
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140560033639387136",
+                "tweet_date": "2019-06-17",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/pnYC36AhKv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9QVS37U0AAukvG.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保14年",
+                "year_built_ce": 1843,
+                "address": "福島県郡山市田村町金屋水上",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3949127197,
+                    37.358918
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140560378188840961",
+                "tweet_date": "2019-06-17",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/Ouxdc8l6V2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9QVmfxU0AARO91.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市田村町金屋水上",
+                "poi": ""
+            }
         }
     ]
 }
