@@ -51256,6 +51256,281 @@
                 "address": "福島県郡山市田村町金屋水上",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.419921875,
+                    36.2707877
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140751979796262912",
+                "tweet_date": "2019-06-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/C9uy61swyC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9TDzohU8AEmA7h.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D9TD1OQU4AAAXsS.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D9TD2dfVUAAEnDo.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保十年",
+                "year_built_ce": 1839,
+                "address": "長野県佐久市塩名田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4521026611,
+                    36.236831
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140758757372076034",
+                "tweet_date": "2019-06-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/H0RkLMeiMj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9TKCD3VAAAe40M.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市桜井",
+                "poi": "延命寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4900817871,
+                    36.17232
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140780678700654592",
+                "tweet_date": "2019-06-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/l7bMl6HjyS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9Td88gU4AAhejx.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市入澤",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4901580811,
+                    36.1723075
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140780908884058117",
+                "tweet_date": "2019-06-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/aFB1tcilmi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9TeI1KUYAAYK4Z.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市入澤",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4614105225,
+                    36.050454
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140794225673420800",
+                "tweet_date": "2019-06-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/QZlfAUdOWZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9TqL1hVAAAQ52k.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D9TqRuHUIAEilao.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保五年",
+                "year_built_ce": 1834,
+                "address": "長野県南佐久郡小海町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.2642364502,
+                    35.9158835
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140815834501136385",
+                "tweet_date": "2019-06-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/rT0oXJYji6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9T97eYUcAAcbeT.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "元禄十四年",
+                "year_built_ce": 1701,
+                "address": "長野県諏訪郡富士見町乙事",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.2642211914,
+                    35.9158835
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140816312958013440",
+                "tweet_date": "2019-06-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/nIRvisU13f",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9T-XzBUcAA1sHH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永十年",
+                "year_built_ce": 1781,
+                "address": "長野県諏訪郡富士見町乙事",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.2642364502,
+                    35.9158367
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140816705419005953",
+                "tweet_date": "2019-06-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/2DASKWkV4X",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9T-rfBU4AA1geG.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D9T-tRRUYAAvLqv.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県諏訪郡富士見町乙事",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.326171875,
+                    35.8439406
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140824544736763905",
+                "tweet_date": "2019-06-18",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/koSLmXLKgq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9UF2cmU4AATbvi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県北杜市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3360137939,
+                    37.386685
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140919390440845312",
+                "tweet_date": "2019-06-18",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/zIaMdJb7sV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9VcHoYVAAEAfWU.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市静町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3360137939,
+                    37.386685
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1140919990331121664",
+                "tweet_date": "2019-06-18",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/NYArOTUftH",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9VcqK1UwAAedNC.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市静町",
+                "poi": ""
+            }
         }
     ]
 }

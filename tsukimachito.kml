@@ -94301,5 +94301,511 @@
         <coordinates>140.3949127197,37.3589180000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1140751979796262912</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/C9uy61swyC</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D9TDzohU8AEmA7h.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D9TD1OQU4AAAXsS.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/D9TD2dfVUAAEnDo.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1839</value>
+        </Data>
+        <Data name="address">
+          <value>長野県佐久市塩名田</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>138.4199218750,36.2707877000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1140758757372076034</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/H0RkLMeiMj</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D9TKCD3VAAAe40M.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>長野県佐久市桜井</value>
+        </Data>
+        <Data name="poi">
+          <value>延命寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>138.4521026611,36.2368310000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1140780678700654592</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/l7bMl6HjyS</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D9Td88gU4AAhejx.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>長野県佐久市入澤</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>138.4900817871,36.1723200000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1140780908884058117</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/aFB1tcilmi</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D9TeI1KUYAAYK4Z.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>長野県佐久市入澤</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>138.4901580811,36.1723075000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1140794225673420800</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/QZlfAUdOWZ</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D9TqL1hVAAAQ52k.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D9TqRuHUIAEilao.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保五年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1834</value>
+        </Data>
+        <Data name="address">
+          <value>長野県南佐久郡小海町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>138.4614105225,36.0504540000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1140815834501136385</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/rT0oXJYji6</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D9T97eYUcAAcbeT.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>元禄十四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1701</value>
+        </Data>
+        <Data name="address">
+          <value>長野県諏訪郡富士見町乙事</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>138.2642364502,35.9158835000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1140816312958013440</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/nIRvisU13f</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D9T-XzBUcAA1sHH.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1781</value>
+        </Data>
+        <Data name="address">
+          <value>長野県諏訪郡富士見町乙事</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>138.2642211914,35.9158835000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1140816705419005953</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/2DASKWkV4X</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D9T-rfBU4AA1geG.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D9T-tRRUYAAvLqv.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>長野県諏訪郡富士見町乙事</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>138.2642364502,35.9158367000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1140824544736763905</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>tsukimachito</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/koSLmXLKgq</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D9UF2cmU4AATbvi.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>山梨県北杜市</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>138.3261718750,35.8439406000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1140919390440845312</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/zIaMdJb7sV</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D9VcHoYVAAEAfWU.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県郡山市静町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.3360137939,37.3866850000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1140919990331121664</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-06-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/NYArOTUftH</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D9VcqK1UwAAedNC.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県郡山市静町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.3360137939,37.3866850000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
