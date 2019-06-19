@@ -51501,8 +51501,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "慶應３年",
+                "year_built_ce": 1867,
                 "address": "福島県郡山市静町",
                 "poi": ""
             }
@@ -51526,9 +51526,34 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "慶應３年",
+                "year_built_ce": 1867,
                 "address": "福島県郡山市静町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6667327881,
+                    38.05848617
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1141258888815136769",
+                "tweet_date": "2019-06-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/agA2cP1n1i",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9aQ5l4UcAAnOWj.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D9aQ5l5UIAEFAkp.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D9aQ5l5UIAI6-fp.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D9aQ5l2UIAEd5wQ.jpg",
+                "type": "二十夜塔",
+                "year_built": "明和六年",
+                "year_built_ce": 1769,
+                "address": "宮城県刈田郡蔵王町",
                 "poi": ""
             }
         }
