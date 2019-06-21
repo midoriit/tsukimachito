@@ -51556,6 +51556,31 @@
                 "address": "宮城県刈田郡蔵王町",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7106323242,
+                    35.6961932
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1141947030618566657",
+                "tweet_date": "2019-06-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/qyhzLRUryd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D9kCwfVU0AAcUaA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "弘化三年",
+                "year_built_ce": 1846,
+                "address": "東京都新宿区新宿六丁目",
+                "poi": "西向天神社"
+            }
         }
     ]
 }
