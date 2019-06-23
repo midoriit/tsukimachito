@@ -71892,7 +71892,7 @@
           <value>宮城県仙台市泉区</value>
         </Data>
         <Data name="poi">
-          <value/>
+          <value>三峯山大権現石碑群</value>
         </Data>
       </ExtendedData>
       <Point>
@@ -91166,7 +91166,7 @@
           <value>宮城県多賀城市</value>
         </Data>
         <Data name="poi">
-          <value/>
+          <value>南安楽寺古碑群</value>
         </Data>
       </ExtendedData>
       <Point>
@@ -95034,7 +95034,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.6680908203,37.8819916700</coordinates>
+        <coordinates>140.6650695801,37.8845866700</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -95165,14 +95165,14 @@
           <value>1888</value>
         </Data>
         <Data name="address">
-          <value>福島県福島市小倉寺寺坂</value>
+          <value>福島県伊達市梁川町舟生滝平山</value>
         </Data>
         <Data name="poi">
           <value>大聖不動明王堂</value>
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.4788970947,37.7308700000</coordinates>
+        <coordinates>140.6302642822,37.8711940000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
