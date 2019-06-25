@@ -2904,7 +2904,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "埼玉県さいたま市桜区西堀九丁目",
-                "poi": "城北信用金庫"
+                "poi": ""
             }
         },
         {
@@ -51855,6 +51855,581 @@
                 "year_built_ce": 1811,
                 "address": "福島県伊達郡桑折町谷地",
                 "poi": "久保八幡集会所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0787963867,
+                    35.9950946
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143339316346646528",
+                "tweet_date": "2019-06-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/LZQqJUQCDz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D931BksUEAA7Ax2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十六夜塔",
+                "year_built": "宝暦十二年",
+                "year_built_ce": 1762,
+                "address": "埼玉県秩父市中町",
+                "poi": "今宮坊"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0786743164,
+                    35.9952136
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143339639480045568",
+                "tweet_date": "2019-06-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/07tKvaRhuk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D931UuzUcAA1cU2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "万延元年",
+                "year_built_ce": 1860,
+                "address": "埼玉県秩父市中町",
+                "poi": "今宮坊"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1137084961,
+                    36.0872962
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143350656394153984",
+                "tweet_date": "2019-06-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pQVgGu6rof",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D93_VX-U8AAN7jr.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "天保四年",
+                "year_built_ce": 1833,
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1110229492,
+                    36.0877631
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143352267312992256",
+                "tweet_date": "2019-06-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/DgpycBsOxa",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94A0TmU4AAPmh7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1107330322,
+                    36.0873912
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143352534276292608",
+                "tweet_date": "2019-06-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/erz9vdDlND",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94BDr9UwAE4Hai.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1131744385,
+                    36.0898221
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143356326434656256",
+                "tweet_date": "2019-06-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/EzJBcXc8l0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94EeqpU0AACNKo.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1131134033,
+                    36.0898195
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143356527610224641",
+                "tweet_date": "2019-06-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/YorrKSjD1Z",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94ErJDUYAARjCn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1131744385,
+                    36.0898594
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143356647676399617",
+                "tweet_date": "2019-06-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/OVTmheetRs",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94Eyv7U4AAjjcv.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1133728027,
+                    36.0952176
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143361862991372288",
+                "tweet_date": "2019-06-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/6FFnCY9ig1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94Jis5U4AAGyuA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文化五年",
+                "year_built_ce": 1808,
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1114959717,
+                    36.0983575
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143363809282670592",
+                "tweet_date": "2019-06-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/MuEqFCwpLm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94LSnhUEAAdzKt.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文化二年",
+                "year_built_ce": 1805,
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1110534668,
+                    36.1069633
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143373197246529541",
+                "tweet_date": "2019-06-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/GpPOhbFkF8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94T2EmU4AA6J0s.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "真性寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1071929932,
+                    36.1170327
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143380906498899969",
+                "tweet_date": "2019-06-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pWXiv0sHCj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94a3VHU4AAEz4B.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文化十二年",
+                "year_built_ce": 1815,
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1109924316,
+                    36.1180005
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143383011871744000",
+                "tweet_date": "2019-06-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/AW0WqrC6x6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94cxtjUIAANQue.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "大正十五年",
+                "year_built_ce": 1926,
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.104019165,
+                    36.120305
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143386792965468160",
+                "tweet_date": "2019-06-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/r3HWQGbpvF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94gNeAUYAEyIvb.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明治十二年",
+                "year_built_ce": 1879,
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1074371338,
+                    36.12282
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143389455710953472",
+                "tweet_date": "2019-06-25",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/WkcfRvzSJ2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94ioTkU8AA5sOQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1074371338,
+                    36.12282
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143389621595672576",
+                "tweet_date": "2019-06-25",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/W3FvPJJXOa",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94iyODU0AENAJq.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1002044678,
+                    36.1263817
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143392795060662272",
+                "tweet_date": "2019-06-25",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/uCpSbiLP7w",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94lq0AVUAAi1ie.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "天保二年",
+                "year_built_ce": 1831,
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1000518799,
+                    36.1263606
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143393491608752128",
+                "tweet_date": "2019-06-25",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/ZkZv95IlQz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94mS3HUYAAnT6S.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永八年",
+                "year_built_ce": 1779,
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1118164062,
+                    36.1233128
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143397645601234944",
+                "tweet_date": "2019-06-25",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/gPYv1mGCH4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94qFzDUcAEgTxi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文政四年",
+                "year_built_ce": 1821,
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1235351562,
+                    36.1324306
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143402619932565504",
+                "tweet_date": "2019-06-25",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/GMPZomo8H6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94umWNUIAEDfM_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "天保四年",
+                "year_built_ce": 1833,
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1218109131,
+                    36.138301
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143405621854654464",
+                "tweet_date": "2019-06-25",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/iSevVUrb9o",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D94xVeoU4AAaEdv.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1279907227,
+                    36.1344915
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143408591623188480",
+                "tweet_date": "2019-06-25",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/sEqvPuakTm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D940CvfUwAAa1NI.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文化六年",
+                "year_built_ce": 1809,
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1279602051,
+                    36.1344894
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1143408938471137280",
+                "tweet_date": "2019-06-25",
+                "contributor": "tsukimachito",
+                "tweet_url": "https:\/\/t.co\/kloKV94ohj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D940WmHUcAAIRQx.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "路傍"
             }
         }
     ]
