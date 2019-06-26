@@ -95448,7 +95448,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.0787963867,35.9950946000</coordinates>
+        <coordinates>139.0785827637,35.9949991000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -95494,7 +95494,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.0786743164,35.9952136000</coordinates>
+        <coordinates>139.0784759521,35.9950508000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -95540,7 +95540,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.1137084961,36.0872962000</coordinates>
+        <coordinates>139.1135406494,36.0872008000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -95586,7 +95586,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.1110229492,36.0877631000</coordinates>
+        <coordinates>139.1110992432,36.0874640000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -95632,7 +95632,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.1107330322,36.0873912000</coordinates>
+        <coordinates>139.1111145020,36.0873999000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -95678,7 +95678,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.1131744385,36.0898221000</coordinates>
+        <coordinates>139.1133575439,36.0899543000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -95724,7 +95724,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.1131134033,36.0898195000</coordinates>
+        <coordinates>139.1133422852,36.0899766000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -95770,7 +95770,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.1131744385,36.0898594000</coordinates>
+        <coordinates>139.1133575439,36.0899277000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -96046,7 +96046,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.1040191650,36.1203050000</coordinates>
+        <coordinates>139.1034545898,36.1210157000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -96447,10 +96447,10 @@
           <value>二十二夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>嘉永五年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1852</value>
         </Data>
         <Data name="address">
           <value>埼玉県秩父郡長瀞町</value>
