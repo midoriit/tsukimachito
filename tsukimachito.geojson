@@ -52804,7 +52804,7 @@
                 "year_built": "明和元年",
                 "year_built_ce": 1764,
                 "address": "埼玉県秩父郡長瀞町",
-                "poi": null
+                "poi": "墓地"
             }
         },
         {
@@ -52829,7 +52829,7 @@
                 "year_built": "寛政九年",
                 "year_built_ce": 1797,
                 "address": "埼玉県秩父郡長瀞町",
-                "poi": null
+                "poi": "墓地"
             }
         },
         {
@@ -52854,7 +52854,7 @@
                 "year_built": "安永四年",
                 "year_built_ce": 1775,
                 "address": "埼玉県秩父郡長瀞町",
-                "poi": null
+                "poi": "路傍"
             }
         },
         {
@@ -52862,8 +52862,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.1353912354,
-                    36.1330183
+                    139.1358795166,
+                    36.1336552
                 ]
             },
             "properties": {
@@ -52879,7 +52879,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "埼玉県秩父郡長瀞町",
-                "poi": null
+                "poi": "路傍"
             }
         },
         {
@@ -52904,7 +52904,7 @@
                 "year_built": "文政年間",
                 "year_built_ce": "",
                 "address": "埼玉県秩父郡長瀞町",
-                "poi": null
+                "poi": "路傍"
             }
         },
         {
@@ -52929,7 +52929,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "埼玉県秩父郡長瀞町",
-                "poi": null
+                "poi": "墓地"
             }
         },
         {
@@ -52954,7 +52954,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "埼玉県秩父郡長瀞町",
-                "poi": null
+                "poi": "墓地"
             }
         },
         {
@@ -52962,8 +52962,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.1444702148,
-                    36.1323658
+                    139.1481933594,
+                    36.1344541
                 ]
             },
             "properties": {
@@ -52979,7 +52979,7 @@
                 "year_built": "文久四年",
                 "year_built_ce": 1864,
                 "address": "埼玉県秩父郡長瀞町",
-                "poi": null
+                "poi": "路傍"
             }
         },
         {
@@ -53004,7 +53004,7 @@
                 "year_built": "安永二年",
                 "year_built_ce": 1773,
                 "address": "埼玉県秩父郡長瀞町",
-                "poi": null
+                "poi": "墓地"
             }
         },
         {
@@ -53029,7 +53029,7 @@
                 "year_built": "天保十三年",
                 "year_built_ce": 1842,
                 "address": "埼玉県大里郡寄居町大字末野",
-                "poi": null
+                "poi": "大正寺稲荷神社"
             }
         },
         {
@@ -53054,7 +53054,182 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "埼玉県大里郡寄居町大字末野",
-                "poi": null
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5952606201,
+                    37.876995
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1146337495367352320",
+                "tweet_date": "2019-07-03",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/mafWwCfh5o",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-ib16zU4AAc5LT.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D-ib16yVUAAoJJB.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十夜塔",
+                "year_built": "明和元年",
+                "year_built_ce": 1764,
+                "address": "福島県伊達市梁川町東大枝北町",
+                "poi": "徳本寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5952453613,
+                    37.87698333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1146337840394977280",
+                "tweet_date": "2019-07-03",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/tuz8PI8VMq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-icKotVUAAhq17.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D-icKosUEAIlFze.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十夜塔",
+                "year_built": "天明五年",
+                "year_built_ce": 1785,
+                "address": "福島県伊達市梁川町東大枝北町",
+                "poi": "徳本寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5953521729,
+                    37.87661667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1146340500397445120",
+                "tweet_date": "2019-07-03",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/Xz5FypqVfK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-ielwDUcAAF_1i.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保十一年",
+                "year_built_ce": 1840,
+                "address": "福島県伊達市梁川町東大枝南町",
+                "poi": "秋葉山堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6019287109,
+                    37.87582
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1146345211754250241",
+                "tweet_date": "2019-07-03",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/PGuhSznBUl",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-ii400UEAA7DQh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政十二年",
+                "year_built_ce": 1800,
+                "address": "福島県伊達市梁川町東大枝愛宕前",
+                "poi": "神明神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6019134521,
+                    37.87579667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1146345557826232320",
+                "tweet_date": "2019-07-03",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/Xjeq6qHNMw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-ijNFAUEAAyaxg.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政七年",
+                "year_built_ce": 1795,
+                "address": "福島県伊達市梁川町東大枝愛宕前",
+                "poi": "神明神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5824584961,
+                    37.87403
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1146352037556187136",
+                "tweet_date": "2019-07-03",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/iZqijsxQXs",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-io8rrUEAAO77W.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D-io8rsUcAAuSve.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D-io8rnU8AEcy0L.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D-io8roUIAEe_Fo.jpg",
+                "type": "二十六夜塔",
+                "year_built": "天明六年",
+                "year_built_ce": 1786,
+                "address": "福島県伊達郡国見町西大枝築舘",
+                "poi": "神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5296783447,
+                    37.87220833
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1146364041033650177",
+                "tweet_date": "2019-07-03",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/0RQWdl7JsR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-i0Ab0UcAEesUZ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "寛政五年",
+                "year_built_ce": 1793,
+                "address": "福島県伊達郡桑折町北半田寺向",
+                "poi": "歓喜寺"
             }
         }
     ]
