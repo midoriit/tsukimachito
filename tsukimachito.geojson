@@ -53231,6 +53231,31 @@
                 "address": "福島県伊達郡桑折町北半田寺向",
                 "poi": "歓喜寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3316192627,
+                    37.313962
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1146719378022420482",
+                "tweet_date": "2019-07-04",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/QoYhplE5Xd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-n3J7mUcAA5ATm.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市越久舘",
+                "poi": null
+            }
         }
     ]
 }
