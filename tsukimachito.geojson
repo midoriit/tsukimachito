@@ -54006,6 +54006,56 @@
                 "address": "宮城県白石市",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1864471436,
+                    37.125142
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1147788760639131651",
+                "tweet_date": "2019-07-07",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/p9e8zRUSLN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-3DwPJVAAAPkyJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県西白河郡西郷村豊作東",
+                "poi": "子安観世音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.186416626,
+                    37.125141
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1147789317034532864",
+                "tweet_date": "2019-07-07",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/65PVhAaE8R",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-3ERIfUIAAgOz8.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県西白河郡西郷村豊作東",
+                "poi": "子安観世音堂"
+            }
         }
     ]
 }
