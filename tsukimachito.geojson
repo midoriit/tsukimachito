@@ -54056,6 +54056,431 @@
                 "address": "福島県西白河郡西郷村豊作東",
                 "poi": "子安観世音堂"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2356414795,
+                    36.1143067
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148057890395021312",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/zTaBGOgTmh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-64i_TUYAAn6SM.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "延享元年",
+                "year_built_ce": 1744,
+                "address": "埼玉県大里郡寄居町大字赤浜",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2356414795,
+                    36.1143067
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148058071643541504",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/0MV1ehRnFr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-64tapU8AAYK8W.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安政四年",
+                "year_built_ce": 1857,
+                "address": "埼玉県大里郡寄居町大字赤浜",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.253112793,
+                    36.112989
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148067827967938561",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/KqAPeXbxWL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-7BlQBVAAI3QOl.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "元治元年",
+                "year_built_ce": 1864,
+                "address": "埼玉県大里郡寄居町大字赤浜",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2559509277,
+                    36.1129636
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148069865518850050",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/iRYr0CFEaZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-7DcUmUIAAXWkE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "延享二年",
+                "year_built_ce": 1745,
+                "address": "埼玉県大里郡寄居町大字赤浜",
+                "poi": "普光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2622070312,
+                    36.1124753
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148073343473479680",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/lflnujmcsy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-7GmTcU8AUiewn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "万延元年",
+                "year_built_ce": 1860,
+                "address": "埼玉県大里郡寄居町大字赤浜",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2621917725,
+                    36.1124471
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148073641977888768",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ojsv6zy43E",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-7G34bU4AED67t.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安永九年",
+                "year_built_ce": 1780,
+                "address": "埼玉県大里郡寄居町大字赤浜",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2638397217,
+                    36.1054409
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148076945306898432",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7INAkSIKtB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-7J4bgVAAAcn19.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "嘉永四年",
+                "year_built_ce": 1851,
+                "address": "埼玉県大里郡寄居町大字今市",
+                "poi": "薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2726745605,
+                    36.1002881
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148081131025096706",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/HPGqOOz9XR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-7Nrp9VAAAu8AS.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "嘉永七年",
+                "year_built_ce": 1854,
+                "address": "埼玉県大里郡寄居町大字今市",
+                "poi": "延命地蔵尊"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2840881348,
+                    36.1021351
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148085296136802306",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/DMohpeLAsf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-7ReeHUcAEw1nG.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安政五年",
+                "year_built_ce": 1858,
+                "address": "埼玉県大里郡寄居町大字鷹巣",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2841033936,
+                    36.1021336
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148085608121716736",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/n4GOEoqaRa",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-7Rw0TU0AArNh4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安政五年",
+                "year_built_ce": 1858,
+                "address": "埼玉県大里郡寄居町大字鷹巣",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2842407227,
+                    36.1010428
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148086309820329986",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/c9dYv46NRt",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-7SZmwU8AAIhSX.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "宝暦三年",
+                "year_built_ce": 1753,
+                "address": "埼玉県大里郡寄居町大字鷹巣",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2518463135,
+                    36.1014454
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148097715802275841",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/guZWfUus8Q",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-7cwwkUYAAGmDS.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明治二十二年",
+                "year_built_ce": 1889,
+                "address": "埼玉県大里郡寄居町大字牟礼",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2491912842,
+                    36.0917868
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148101448959320066",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/MhP8F9izQt",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-7gKMDUwAAwPOC.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明治35年",
+                "year_built_ce": 1902,
+                "address": "埼玉県大里郡寄居町大字牟礼",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2421112061,
+                    36.1015356
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148107504124960768",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/cM8aNhTy9A",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-7lqoIVUAAnemh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文化十年",
+                "year_built_ce": 1813,
+                "address": "埼玉県大里郡寄居町富田",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2356109619,
+                    36.0993564
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148110744984047616",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/V6iV6zAoJd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-7om73U0AA4lro.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文政13年",
+                "year_built_ce": 1830,
+                "address": "埼玉県大里郡寄居町大字富田",
+                "poi": "大日堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2356109619,
+                    36.0993564
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148110885266661376",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/X679sJSRVu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-7ovbhUYAA5coO.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県大里郡寄居町大字富田",
+                "poi": "大日堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2356109619,
+                    36.0993564
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1148111173490864128",
+                "tweet_date": "2019-07-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/eNs8OavC6a",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D-7pA-VU8AAGH1u.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "寛政七年",
+                "year_built_ce": 1795,
+                "address": "埼玉県大里郡寄居町富田",
+                "poi": "大日堂"
+            }
         }
     ]
 }
