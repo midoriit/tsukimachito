@@ -312,8 +312,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.5466156006,
-                    35.5187015
+                    139.5466308594,
+                    35.5190039
                 ]
             },
             "properties": {
@@ -337,8 +337,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.5466156006,
-                    35.5187015
+                    139.5466308594,
+                    35.5190039
                 ]
             },
             "properties": {
@@ -46012,31 +46012,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    138.59034729,
-                    36.322055
-                ]
-            },
-            "properties": {
-                "tweet_id": "T1128211103924641792",
-                "tweet_date": "2019-05-14",
-                "contributor": "ikuha_h19824",
-                "tweet_url": "https:\/\/t.co\/ivRZbxVcZD",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D6g2A6jV4AEB3Dv.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
-                "address": "長野県北佐久郡軽井沢町大字軽井沢",
-                "poi": ""
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     141.1338500977,
                     38.48398833
                 ]
@@ -54905,6 +54880,81 @@
                 "year_built_ce": 1800,
                 "address": "福島県伊達郡国見町鳥取山田",
                 "poi": "福源寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0330200195,
+                    38.58009593
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1149595512703602688",
+                "tweet_date": "2019-07-12",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/sqqxNb4wzF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_QvBBzU8AEbDsb.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_QvBB0UYAArsg0.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "文化十年",
+                "year_built_ce": 1813,
+                "address": "宮城県遠田郡美里町",
+                "poi": "飯綱権現"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.013381958,
+                    38.58287
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1149606151249489920",
+                "tweet_date": "2019-07-12",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/WiX6Rkf528",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_Q4sTIVUAI8tXU.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_Q4sTGU8AA2uRS.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D_Q4sTHU8AAaYVp.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D_Q4sTIVAAAhsDH.jpg",
+                "type": "二十三夜塔",
+                "year_built": "天保十四年",
+                "year_built_ce": 1843,
+                "address": "宮城県大崎市",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0010223389,
+                    38.58421333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1149610510158946304",
+                "tweet_date": "2019-07-12",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/nYYqNyk4Gv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_Q8pwXUYAMJeP4.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_Q8pwQVAAAbNSl.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "慶應元年",
+                "year_built_ce": 1865,
+                "address": "宮城県大崎市",
+                "poi": "天神社"
             }
         }
     ]

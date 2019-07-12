@@ -596,7 +596,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.5466156006,35.5187015000</coordinates>
+        <coordinates>139.5466308594,35.5190039000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -642,7 +642,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.5466156006,35.5187015000</coordinates>
+        <coordinates>139.5466308594,35.5190039000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -84644,52 +84644,6 @@
     <Placemark>
       <ExtendedData>
         <Data name="tweet_id">
-          <value>T1128211103924641792</value>
-        </Data>
-        <Data name="tweet_date">
-          <value>2019-05-14</value>
-        </Data>
-        <Data name="contributor">
-          <value>ikuha_h19824</value>
-        </Data>
-        <Data name="tweet_url">
-          <value>https://t.co/ivRZbxVcZD</value>
-        </Data>
-        <Data name="media_url_1">
-          <value>https://pbs.twimg.com/media/D6g2A6jV4AEB3Dv.jpg</value>
-        </Data>
-        <Data name="media_url_2">
-          <value/>
-        </Data>
-        <Data name="media_url_3">
-          <value/>
-        </Data>
-        <Data name="media_url_4">
-          <value/>
-        </Data>
-        <Data name="type">
-          <value>二十三夜塔</value>
-        </Data>
-        <Data name="year_built">
-          <value/>
-        </Data>
-        <Data name="year_built_ce">
-          <value/>
-        </Data>
-        <Data name="address">
-          <value>長野県北佐久郡軽井沢町大字軽井沢</value>
-        </Data>
-        <Data name="poi">
-          <value/>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>138.5903472900,36.3220550000</coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <ExtendedData>
-        <Data name="tweet_id">
           <value>T1128501347236507658</value>
         </Data>
         <Data name="tweet_date">
@@ -101015,6 +100969,144 @@
       </ExtendedData>
       <Point>
         <coordinates>140.5264739990,37.8925800000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1149595512703602688</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-07-12</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/sqqxNb4wzF</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D_QvBBzU8AEbDsb.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D_QvBB0UYAArsg0.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十七夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1813</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県遠田郡美里町</value>
+        </Data>
+        <Data name="poi">
+          <value>飯綱権現</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>141.0330200195,38.5800959300</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1149606151249489920</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-07-12</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/WiX6Rkf528</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D_Q4sTIVUAI8tXU.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D_Q4sTGU8AA2uRS.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/D_Q4sTHU8AAaYVp.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value>https://pbs.twimg.com/media/D_Q4sTIVAAAhsDH.jpg</value>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保十四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1843</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県大崎市</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>141.0133819580,38.5828700000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1149610510158946304</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-07-12</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/nYYqNyk4Gv</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/D_Q8pwXUYAMJeP4.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/D_Q8pwQVAAAbNSl.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>慶應元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1865</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県大崎市</value>
+        </Data>
+        <Data name="poi">
+          <value>天神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>141.0010223389,38.5842133300</coordinates>
       </Point>
     </Placemark>
   </Document>
