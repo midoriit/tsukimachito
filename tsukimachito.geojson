@@ -54956,6 +54956,56 @@
                 "address": "宮城県大崎市",
                 "poi": "天神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4703216553,
+                    37.725775
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1149835516306608128",
+                "tweet_date": "2019-07-13",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/XghilxoUEM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_UJSgFU4AEZSHf.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県福島市黒岩堂ノ後",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4148712158,
+                    37.824858
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1149954158616694784",
+                "tweet_date": "2019-07-13",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/Y3OVuNtpoO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_V1MgeVAAUbCaA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永6年",
+                "year_built_ce": 1777,
+                "address": "福島県福島市飯坂町中野堰坂",
+                "poi": "中野不動尊"
+            }
         }
     ]
 }
