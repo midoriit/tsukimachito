@@ -53837,8 +53837,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.5327301025,
-                    37.87927
+                    140.5214691162,
+                    37.89223667
                 ]
             },
             "properties": {
@@ -53853,7 +53853,7 @@
                 "type": "二十夜塔",
                 "year_built": "",
                 "year_built_ce": "",
-                "address": "福島県伊達郡国見町小坂前",
+                "address": "福島県伊達郡国見町小坂小坂",
                 "poi": "松蔵寺"
             }
         },
@@ -54937,8 +54937,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    141.0010223389,
-                    38.58421333
+                    141.0071105957,
+                    38.58985
                 ]
             },
             "properties": {
@@ -55237,8 +55237,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.4600830078,
-                    37.832475
+                    140.4663696289,
+                    37.831167
                 ]
             },
             "properties": {
@@ -55253,7 +55253,7 @@
                 "type": "二十三夜塔",
                 "year_built": "宝暦八年",
                 "year_built_ce": 1758,
-                "address": "福島県福島市飯坂町湯野太子前",
+                "address": "福島県福島市飯坂町湯野大平",
                 "poi": "熊野神社"
             }
         },
@@ -55405,6 +55405,931 @@
                 "year_built_ce": 1837,
                 "address": "福島県福島市大笹生狢畑",
                 "poi": "大福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7632141113,
+                    37.904781
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1151998697770610688",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/fPS3lAViNo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_y4slLU8AM7faI.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_y4slMUwAAQKhZ.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D_y4slLVAAEBQw6.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十二年",
+                "year_built_ce": 1829,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "小社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7833251953,
+                    37.87040333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152005158898823169",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/1eixmSI8Mv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_y-lL7UcAIpVKE.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_y-lL7VAAIxLhO.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "大正十年",
+                "year_built_ce": 1921,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "子安観世音菩薩堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7835388184,
+                    37.86997
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152008278953451522",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/TXWiOyw3sk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_zBauVVUAAH9iZ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永三年",
+                "year_built_ce": 1850,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "愛敬院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7843322754,
+                    37.87080333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152008476987514880",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/jGTcUU94Lj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_zBmRQUwAUdrRS.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保四年",
+                "year_built_ce": 1833,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "愛敬院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.731918335,
+                    37.83723833
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152012659023200257",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/82GqkSiOwS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_zFZ03UYAAD4MC.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治二十八年",
+                "year_built_ce": 1895,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "地蔵堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7216644287,
+                    37.83398333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152016167323631617",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/g6iGa6ovzH",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_zIlfMUwAEG8-J.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治四十三年",
+                "year_built_ce": 1910,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "細田阿弥陀堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7215270996,
+                    37.83443833
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152016530256695297",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/WVdQczsUc9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_zI2XtUIAA6mKh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "慶應二年",
+                "year_built_ce": 1866,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "細田阿弥陀堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7292785645,
+                    37.82664167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152023337385656321",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/xqryXO5wY6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_zPHSJUIAEJusW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治十七年",
+                "year_built_ce": 1884,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "常照寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7292785645,
+                    37.82668333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152023606538358784",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/Dzc7lVyJlK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_zPXD0UYAEdH14.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "昭和三年",
+                "year_built_ce": 1928,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "常照寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7114868164,
+                    37.83038
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152031530497089536",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/DsxUORhvtg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_zWJGBU0AAjVRt.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治三十年",
+                "year_built_ce": 1897,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "早稲田観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.711517334,
+                    37.830405
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152031986187304960",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/zUHYmmKdNN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_zWv81U0AA9ApT.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "宮城県伊具郡丸森町",
+                "poi": "早稲田観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5100860596,
+                    37.80543
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152052584833662977",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/JmqVivCKIt",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_zptr7U0AAsr-h.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_zptr8UIAA7fry.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化四年",
+                "year_built_ce": 1847,
+                "address": "福島県福島市瀬上町向瀬上",
+                "poi": "稲荷神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5155029297,
+                    37.796245
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152061489789861888",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/pXmixd7esy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_zxzbDU8AAHBUu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県福島市鎌田月ノ輪山",
+                "poi": "愛宕神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4936828613,
+                    37.768045
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152070293080268801",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/LCuLy2b18M",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_z50VaU4AAUXi3.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_z50VZUwAEtfDi.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政八年",
+                "year_built_ce": 1825,
+                "address": "福島県福島市岡部寺前",
+                "poi": "春日神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4947052002,
+                    37.76834167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152070920405544960",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/sBIiOLWKcV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_z6Y69U8AI90HA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永四年",
+                "year_built_ce": 1775,
+                "address": "福島県福島市岡部寺前",
+                "poi": "春日神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4543914795,
+                    37.678075
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152087969274060801",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/NkIAQeJCI9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_0J5IhUIAAoGaM.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天明二年",
+                "year_built_ce": 1782,
+                "address": "福島県福島市松川町関谷割石",
+                "poi": "関谷ふれあいセンター"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4334259033,
+                    37.661925
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152093166687834113",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/1mDjwI4zM4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_0OntZUIAEwEe-.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_0OntVU0AAD8yT.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永六年",
+                "year_built_ce": 1777,
+                "address": "福島県福島市松川町水原八乙女",
+                "poi": "水原黒沼神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4596405029,
+                    37.65901667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152101702515871744",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/6IiR2GATqY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_0WYYJUcAE8RUY.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_0WYYJU0AAVPhe.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十一年",
+                "year_built_ce": 1828,
+                "address": "福島県福島市松川町本町西裡",
+                "poi": "盛林寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4615783691,
+                    37.66029667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152103697662349312",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/W1yJXeoeak",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_0YMn6U0AAXR8b.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_0YMn5U0AUcLF1.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十三年",
+                "year_built_ce": 1816,
+                "address": "福島県福島市松川町本町",
+                "poi": "常円寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4613800049,
+                    37.660245
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152104046255206400",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/eVksluG8uh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_0YhBeUIAAmjg9.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_0YhBdUcAAds4i.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和三年",
+                "year_built_ce": 1803,
+                "address": "福島県福島市松川町本町",
+                "poi": "常円寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4614257812,
+                    37.66023833
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152104472136409088",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/TEmKtoZZUz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_0Y5_iUwAIk3PE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十三年",
+                "year_built_ce": 1816,
+                "address": "福島県福島市松川町本町",
+                "poi": "常円寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4614715576,
+                    37.660205
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152104776508690432",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/grVZcLjEMg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_0ZLWSUYAAp3aP.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_0ZLWSU8AALZFH.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政二年",
+                "year_built_ce": 1790,
+                "address": "福島県福島市松川町本町",
+                "poi": "常円寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4614715576,
+                    37.660205
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152104953428582400",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/NtbmB1CfeS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_0ZVu2UIAEAhPj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政十一年",
+                "year_built_ce": 1799,
+                "address": "福島県福島市松川町本町",
+                "poi": "常円寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4617767334,
+                    37.65569167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152105114305347584",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/OPj1X3KeLo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_0ZfJyU0AAdbBh.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_0ZfJxVAAEuopT.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県福島市松川町桜内",
+                "poi": "常円寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4528198242,
+                    37.61983667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152111640302587905",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/723XGhkIev",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_0fa--VAAAglen.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_0fa-9VUAEodRr.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D_0fa-9UcAIkXF8.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D_0fa-_UEAAuKEf.jpg",
+                "type": "七夜待塔",
+                "year_built": "享保二年",
+                "year_built_ce": 1717,
+                "address": "福島県二本松市油井石倉",
+                "poi": "長谷十一面観世音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4527740479,
+                    37.61975
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152112153530269696",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/gRnL0jt0kK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_0f45DVAAA2lHX.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_0f45DVUAAPFMX.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D_0f45EUEAAPmeH.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享保六年",
+                "year_built_ce": 1721,
+                "address": "福島県二本松市油井石倉",
+                "poi": "長谷十一面観世音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4527893066,
+                    37.61979667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152112568967651329",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/33TxrrmPYN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_0gRElU0AAnAZq.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_0gREjU0AI9uco.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永二年",
+                "year_built_ce": 1849,
+                "address": "福島県二本松市油井石倉",
+                "poi": "長谷十一面観世音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.461517334,
+                    37.61465833
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152122918240784384",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/IjcNolEZCh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_0prUPU4AERQi_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛延元年",
+                "year_built_ce": 1748,
+                "address": "福島県二本松市油井福岡",
+                "poi": "長谷観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4583435059,
+                    37.61284667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152123103176060928",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/karHwkwGvp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_0p2D0UIAEUkkQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "宝暦五年",
+                "year_built_ce": 1755,
+                "address": "福島県二本松市油井桑原舘山",
+                "poi": "長谷観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.458404541,
+                    37.61287
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152123627036278784",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/2YDK0pQhQR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_0qUnQUcAASYLD.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_0qUnQUYAAWkkO.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D_0qUnQU0AArH07.jpg",
+                "media_url_4": "",
+                "type": "十六夜塔",
+                "year_built": "文化十三年",
+                "year_built_ce": 1816,
+                "address": "福島県二本松市油井桑原舘山",
+                "poi": "長谷観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3898773193,
+                    37.544525
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152153159822761984",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/wGpmYYQsoe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_1FLK9U0AEUyLR.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_1FLK8UcAAQlEF.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D_1FLK7UcAEm0jn.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D_1FLK9UwAAhccC.jpg",
+                "type": "十九夜塔",
+                "year_built": "明治四年",
+                "year_built_ce": 1871,
+                "address": "福島県安達郡大玉村大山谷地",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3898162842,
+                    37.544455
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152154129029931008",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/xkCeTYcqKR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_1GC_NU8AAi7iI.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_1GC_MU4AAJxE9.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D_1GC_NU0AEgNeO.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D_1GC_NUcAE6U8o.jpg",
+                "type": "十九夜塔",
+                "year_built": "明治二十七年",
+                "year_built_ce": 1894,
+                "address": "福島県安達郡大玉村大山谷地",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3898162842,
+                    37.54446667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152154449466425344",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/ull7Db6q1U",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_1GWrgU0Asto0t.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "明治二十七年",
+                "year_built_ce": 1894,
+                "address": "福島県安達郡大玉村大山谷地",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3897857666,
+                    37.544445
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152155128238972928",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/WKMZPuzQh7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_1G-XdU0AAL3qU.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永六年",
+                "year_built_ce": 1853,
+                "address": "福島県安達郡大玉村大山谷地",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3898010254,
+                    37.54446167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152155565935644678",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/akHA47MGDD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_1HX8aU8AAAmTh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安政三年",
+                "year_built_ce": 1856,
+                "address": "福島県安達郡大玉村大山谷地",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3898162842,
+                    37.54446667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152156241805791238",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/mHB1riOnSh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_1H_JFU8AEMqUN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永七年",
+                "year_built_ce": 1778,
+                "address": "福島県安達郡大玉村大山谷地",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3897705078,
+                    37.5444
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152157114338435075",
+                "tweet_date": "2019-07-19",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/gHK30FTLtj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_1IxRwU0AEJorv.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/D_1IxR6UIAANvSO.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/D_1IxRuUcAEktWO.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/D_1IxRvUEAAZwcy.jpg",
+                "type": "十九夜塔",
+                "year_built": "昭和十三年",
+                "year_built_ce": 1938,
+                "address": "福島県安達郡大玉村大山谷地",
+                "poi": null
             }
         }
     ]
