@@ -56151,8 +56151,8 @@
                 "media_url_3": "https:\/\/pbs.twimg.com\/media\/D_0qUnQU0AArH07.jpg",
                 "media_url_4": "",
                 "type": "十六夜塔",
-                "year_built": "文化十三年",
-                "year_built_ce": 1816,
+                "year_built": "文政十三年",
+                "year_built_ce": 1830,
                 "address": "福島県二本松市油井桑原舘山",
                 "poi": "長谷観音堂"
             }
@@ -56179,7 +56179,7 @@
                 "year_built": "明治四年",
                 "year_built_ce": 1871,
                 "address": "福島県安達郡大玉村大山谷地",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -56204,7 +56204,7 @@
                 "year_built": "明治二十七年",
                 "year_built_ce": 1894,
                 "address": "福島県安達郡大玉村大山谷地",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -56229,7 +56229,7 @@
                 "year_built": "明治二十七年",
                 "year_built_ce": 1894,
                 "address": "福島県安達郡大玉村大山谷地",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -56254,7 +56254,7 @@
                 "year_built": "嘉永六年",
                 "year_built_ce": 1853,
                 "address": "福島県安達郡大玉村大山谷地",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -56279,7 +56279,7 @@
                 "year_built": "安政三年",
                 "year_built_ce": 1856,
                 "address": "福島県安達郡大玉村大山谷地",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -56304,7 +56304,7 @@
                 "year_built": "安永七年",
                 "year_built_ce": 1778,
                 "address": "福島県安達郡大玉村大山谷地",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -56329,6 +56329,481 @@
                 "year_built": "昭和十三年",
                 "year_built_ce": 1938,
                 "address": "福島県安達郡大玉村大山谷地",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.409576416,
+                    36.37661
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152767255135973376",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/sgc7TSGP87",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_9zskgUcAAjlDg.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市河和田一丁目",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4160308838,
+                    36.37307
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152770687569764352",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/FAf2ya5aNF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_92zDSUEAAcoQG.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市河和田一丁目",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4176940918,
+                    36.36224
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152776722250530817",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/lNQdLO8W90",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_98SVFUYAEfkWe.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市河和田町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4176940918,
+                    36.36224
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152777094494949376",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/a8v2NeKEsA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_98o0sU4AANwKu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市河和田町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.408493042,
+                    36.3582
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152782178402459649",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/GUmibJSiBe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_-BQWsVAAAm81l.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市河和田町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.408493042,
+                    36.3582
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152782532787597313",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/TaMSoRAXTv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_-BkdCU8AA554c.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市河和田町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4040679932,
+                    36.34633
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152787764758212611",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/npdkSOP9sW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_-GWQJU0AEk65T.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市萱場町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3852081299,
+                    36.34332
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152796474343940096",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/c0qSueUnyu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_-OOuPU4AAvySg.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市鯉淵町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3848114014,
+                    36.34344
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152797061579857920",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/o4G3uUfP35",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_-OzN5UYAE1wgq.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市鯉淵町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3805541992,
+                    36.34496
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152798894025166850",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/XzniG1VEw3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_-QdzUU4AASoDP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市鯉淵町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3805541992,
+                    36.34496
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152799369575325697",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/5mIFhafYVh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_-Q5QUUYAANj71.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市鯉淵町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3734741211,
+                    36.33785
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152804451620511744",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/SkUjWh0wX1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_-VhT5VUAEOw5m.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市鯉淵町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3734741211,
+                    36.33785
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152804606390390785",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/xNnhWLA9I5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_-VqapUcAAO_Eo.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市鯉淵町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3787231445,
+                    36.35905
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152812962928893954",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/6FCd0K0NUr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_-dQ4JUYAEbVam.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市鯉淵町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3911437988,
+                    36.36882
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152818642540777472",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Q1sQXejJN4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_-ibbpVUAMX9G_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市飯島町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3731231689,
+                    36.36393
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152825031497375746",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/OjAf3OiiXn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_-oOOQU4AAtZX2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市赤尾関町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.373046875,
+                    36.36387
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152825541289865217",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/eeRB49Vegz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_-os0WU8AA9uGn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市赤尾関町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3654174805,
+                    36.36695
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152828958838145024",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7omPIYFKQL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_-rz_HU4AA-Vex.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市内原町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3618011475,
+                    36.37715
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1152833856937922560",
+                "tweet_date": "2019-07-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/TMdtjL4q5w",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/D_-wQRzU8AAwOb-.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市中原町",
                 "poi": null
             }
         }
