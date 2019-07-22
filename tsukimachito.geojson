@@ -56354,7 +56354,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "茨城県水戸市河和田一丁目",
-                "poi": null
+                "poi": "路傍"
             }
         },
         {
@@ -56379,7 +56379,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "茨城県水戸市河和田一丁目",
-                "poi": null
+                "poi": "路傍"
             }
         },
         {
@@ -56401,10 +56401,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天保二年",
+                "year_built_ce": 1831,
                 "address": "茨城県水戸市河和田町",
-                "poi": null
+                "poi": "路傍"
             }
         },
         {
@@ -56426,10 +56426,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天保二年",
+                "year_built_ce": 1831,
                 "address": "茨城県水戸市河和田町",
-                "poi": null
+                "poi": "路傍"
             }
         },
         {
@@ -56451,10 +56451,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文政十三年",
+                "year_built_ce": 1830,
                 "address": "茨城県水戸市河和田町",
-                "poi": null
+                "poi": "路傍"
             }
         },
         {
@@ -56476,10 +56476,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天明六年",
+                "year_built_ce": 1786,
                 "address": "茨城県水戸市河和田町",
-                "poi": null
+                "poi": "路傍"
             }
         },
         {
@@ -56501,10 +56501,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化七年",
+                "year_built_ce": 1810,
                 "address": "茨城県水戸市萱場町",
-                "poi": null
+                "poi": "路傍"
             }
         },
         {
@@ -56526,10 +56526,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明治十二年",
+                "year_built_ce": 1879,
                 "address": "茨城県水戸市鯉淵町",
-                "poi": null
+                "poi": "墓地"
             }
         },
         {
@@ -56551,10 +56551,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化三年",
+                "year_built_ce": 1806,
                 "address": "茨城県水戸市鯉淵町",
-                "poi": null
+                "poi": "墓地"
             }
         },
         {
@@ -56576,10 +56576,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明治24年",
+                "year_built_ce": 1891,
                 "address": "茨城県水戸市鯉淵町",
-                "poi": null
+                "poi": "薬師堂"
             }
         },
         {
@@ -56601,10 +56601,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文政六年",
+                "year_built_ce": 1823,
                 "address": "茨城県水戸市鯉淵町",
-                "poi": null
+                "poi": "薬師堂"
             }
         },
         {
@@ -56626,10 +56626,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天保八年",
+                "year_built_ce": 1837,
                 "address": "茨城県水戸市鯉淵町",
-                "poi": null
+                "poi": "天満天神宮"
             }
         },
         {
@@ -56654,7 +56654,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "茨城県水戸市鯉淵町",
-                "poi": null
+                "poi": "天満天神宮"
             }
         },
         {
@@ -56676,10 +56676,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "大正三年",
+                "year_built_ce": 1914,
                 "address": "茨城県水戸市鯉淵町",
-                "poi": null
+                "poi": "神社"
             }
         },
         {
@@ -56701,10 +56701,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
+                "year_built": "寛政年間",
                 "year_built_ce": "",
                 "address": "茨城県水戸市飯島町",
-                "poi": null
+                "poi": "路傍"
             }
         },
         {
@@ -56726,10 +56726,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文政八年",
+                "year_built_ce": 1825,
                 "address": "茨城県水戸市赤尾関町",
-                "poi": null
+                "poi": "春日神社"
             }
         },
         {
@@ -56751,10 +56751,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛政元年",
+                "year_built_ce": 1789,
                 "address": "茨城県水戸市赤尾関町",
-                "poi": null
+                "poi": "春日神社"
             }
         },
         {
@@ -56776,10 +56776,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛政六年",
+                "year_built_ce": 1794,
                 "address": "茨城県水戸市内原町",
-                "poi": null
+                "poi": "鹿島神社"
             }
         },
         {
@@ -56801,10 +56801,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文久元年",
+                "year_built_ce": 1861,
                 "address": "茨城県水戸市中原町",
-                "poi": null
+                "poi": "墓地"
             }
         }
     ]
