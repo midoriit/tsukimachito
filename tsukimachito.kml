@@ -103031,14 +103031,14 @@
           <value/>
         </Data>
         <Data name="address">
-          <value>福島県福島市松川町桜内</value>
+          <value>福島県福島市松川町本町</value>
         </Data>
         <Data name="poi">
           <value>常円寺</value>
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.4617767334,37.6556916700</coordinates>
+        <coordinates>140.4614715576,37.6602050000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -103215,14 +103215,14 @@
           <value>1748</value>
         </Data>
         <Data name="address">
-          <value>福島県二本松市油井福岡</value>
+          <value>福島県二本松市油井桑原舘山</value>
         </Data>
         <Data name="poi">
           <value>長谷観音堂</value>
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.4615173340,37.6146583300</coordinates>
+        <coordinates>140.4584045410,37.6128466700</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -105469,14 +105469,14 @@
           <value>1821</value>
         </Data>
         <Data name="address">
-          <value>福島県相馬市塚部新城下</value>
+          <value>福島県相馬郡新地町駒ケ嶺嘉門</value>
         </Data>
         <Data name="poi">
           <value>観音堂</value>
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>140.9081878662,37.8335116700</coordinates>
+        <coordinates>140.9145812988,37.8483070000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
