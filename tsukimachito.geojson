@@ -25787,8 +25787,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.125869751,
-                    35.6922133
+                    140.1254882812,
+                    35.6923593
                 ]
             },
             "properties": {
@@ -25862,8 +25862,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.1261901855,
-                    35.6927067
+                    140.1255340576,
+                    35.6924017
                 ]
             },
             "properties": {
@@ -25887,8 +25887,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.1253967285,
-                    35.69256
+                    140.1254730225,
+                    35.6924119
                 ]
             },
             "properties": {
@@ -57530,6 +57530,231 @@
                 "year_built_ce": 1826,
                 "address": "福島県伊達郡国見町石母田笠松",
                 "poi": "国見神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1198120117,
+                    35.488567
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156034272433598464",
+                "tweet_date": "2019-07-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/yaTFOvj4ZN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAsPBJSVUAA-mlY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦五年",
+                "year_built_ce": 1755,
+                "address": "千葉県市原市西広三丁目",
+                "poi": "西広院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1198730469,
+                    35.488441
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156034608439283712",
+                "tweet_date": "2019-07-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/qmovAjHXA0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAsPVMBUcAAVuoW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保六年",
+                "year_built_ce": 1721,
+                "address": "千葉県市原市西広",
+                "poi": "西広院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1225738525,
+                    35.499042
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156041757647241217",
+                "tweet_date": "2019-07-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/5V4z2GXRSU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAsV1fMUIAAauzx.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "平成五年",
+                "year_built_ce": 1993,
+                "address": "千葉県市原市山田橋一丁目",
+                "poi": "養福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1225738525,
+                    35.499042
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156041849523462145",
+                "tweet_date": "2019-07-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/0piSEwbQxv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAsV65TU8AYcso_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和56年",
+                "year_built_ce": 1981,
+                "address": "千葉県市原市山田橋一丁目",
+                "poi": "養福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1225738525,
+                    35.499042
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156041944767688704",
+                "tweet_date": "2019-07-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/JJDEVDYr5m",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAsWAThVUAATt1m.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和32年",
+                "year_built_ce": 1957,
+                "address": "千葉県市原市山田橋一丁目",
+                "poi": "養福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1225738525,
+                    35.499042
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156042038833340416",
+                "tweet_date": "2019-07-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/SYEKxzB5s7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAsWFy_UcAAhr12.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県市原市山田橋一丁目",
+                "poi": "養福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1225738525,
+                    35.499042
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156042449833230336",
+                "tweet_date": "2019-07-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/UICY1iqi3v",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAsWdlnUYAErTl7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県市原市山田橋一丁目",
+                "poi": "養福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1058044434,
+                    35.503728
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156060530039066624",
+                "tweet_date": "2019-07-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/s1wHzW45Oo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAsm3jwU4AIwI0R.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EAsm5q4UYAALMdZ.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "正徳五年",
+                "year_built_ce": 1715,
+                "address": "千葉県市原市根田三丁目",
+                "poi": "根田神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1044311523,
+                    35.511607
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156067568739733504",
+                "tweet_date": "2019-07-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/fPXNHZbCYa",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAstTxBU8AAlCbh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦十三年",
+                "year_built_ce": 1763,
+                "address": "千葉県市原市岩野見",
+                "poi": "自性院"
             }
         }
     ]
