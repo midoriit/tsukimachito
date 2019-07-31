@@ -57756,6 +57756,356 @@
                 "address": "千葉県市原市岩野見",
                 "poi": "自性院"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5353240967,
+                    37.87928
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156480669280854016",
+                "tweet_date": "2019-07-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/e3OyWYiAFk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAylCCiU4AA_ab_.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EAylCCgVAAICgGw.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明和五年",
+                "year_built_ce": 1768,
+                "address": "福島県伊達郡国見町小坂塚田",
+                "poi": "長泉寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5429840088,
+                    37.884445
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156481223293722624",
+                "tweet_date": "2019-07-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/NYnCu3nXDL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAyliQKUcAArr99.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化七年",
+                "year_built_ce": 1810,
+                "address": "福島県伊達郡国見町山崎荒沢",
+                "poi": "長泉寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5536346436,
+                    37.89574667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156486729970278400",
+                "tweet_date": "2019-07-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/o0a6Mj9i8D",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAyqi4jUIAAzXTl.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EAyqi4rUYAURuDp.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政九年",
+                "year_built_ce": 1797,
+                "address": "福島県伊達郡国見町石母田芹沢",
+                "poi": "龍雲寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5535736084,
+                    37.89570333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156488760265080832",
+                "tweet_date": "2019-07-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/flLNIQuBTZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAysZHvVAAAvMcg.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EAysZHvUYAAYbVV.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天明六年",
+                "year_built_ce": 1786,
+                "address": "福島県伊達郡国見町石母田芹沢",
+                "poi": "龍雲寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5535125732,
+                    37.89571167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156488997092257792",
+                "tweet_date": "2019-07-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/ZphpT76QvS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAysm1eU0Akv4_Y.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EAysm1gUYAA0A9q.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十三年",
+                "year_built_ce": 1816,
+                "address": "福島県伊達郡国見町石母田芹沢",
+                "poi": "龍雲寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5535583496,
+                    37.89573333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156489301883932672",
+                "tweet_date": "2019-07-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/IC0jklHtkw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAys4vdU8AAvanI.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政元年",
+                "year_built_ce": 1818,
+                "address": "福島県伊達郡国見町石母田芹沢",
+                "poi": "龍雲寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5536193848,
+                    37.89576667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156489607241842688",
+                "tweet_date": "2019-07-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/Ezdg39uuBP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAytKf5VUAAH-We.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EAytKf5U8AAqNIK.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文久四年",
+                "year_built_ce": 1864,
+                "address": "福島県伊達郡国見町石母田芹沢",
+                "poi": "龍雲寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5536651611,
+                    37.89478667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156492169609224193",
+                "tweet_date": "2019-07-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/i2bs8pCiQr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAyvfgpUcAAk0JM.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化三年",
+                "year_built_ce": 1846,
+                "address": "福島県伊達郡国見町石母田芹沢",
+                "poi": "龍雲寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5505523682,
+                    37.86413
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156501122552438785",
+                "tweet_date": "2019-07-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/AcqI8gompz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAy3orTUIAAHm2g.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政八年",
+                "year_built_ce": 1796,
+                "address": "福島県伊達郡国見町塚野目前畑",
+                "poi": "正法寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5505218506,
+                    37.864145
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156501544172261377",
+                "tweet_date": "2019-07-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/YGuPYAWEGn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAy4BT5U4AEcZJF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文久二年",
+                "year_built_ce": 1862,
+                "address": "福島県伊達郡国見町塚野目前畑",
+                "poi": "正法寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5504302979,
+                    37.864095
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156501895961124866",
+                "tweet_date": "2019-07-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/2ysU1Vv6o3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAy4VejUIAA_UqR.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十三年",
+                "year_built_ce": 1816,
+                "address": "福島県伊達郡国見町塚野目前畑",
+                "poi": "正法寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5504608154,
+                    37.86407833
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156502223456616448",
+                "tweet_date": "2019-07-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/cYotCXD1EU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAy4opGUIAAgV-M.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県伊達郡国見町塚野目前畑",
+                "poi": "正法寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5505065918,
+                    37.86415
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156502443380752384",
+                "tweet_date": "2019-07-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/L3s2vgcy3w",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAy41kGU4AExQBq.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県伊達郡国見町塚野目前畑",
+                "poi": "正法寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5505218506,
+                    37.86415
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1156503050460131333",
+                "tweet_date": "2019-07-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/QNzMwW7Zj8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EAy5Y0vUwAEYIey.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県伊達郡国見町塚野目前畑",
+                "poi": "正法寺"
+            }
         }
     ]
 }
