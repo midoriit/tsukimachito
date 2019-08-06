@@ -109067,5 +109067,327 @@
         <coordinates>140.5529632568,37.8493795000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1158576760864120832</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/WnaayAwVes</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBQXYZDUYAAIXBw.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EBQXZ-cUYAARAUv.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>埼玉県大里郡寄居町大字西ノ入</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1946258545,36.0966160000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1158578923493400578</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/1Fu53ytNLC</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBQZWdFUEAABMJI.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EBQZX2NU0AAMSdj.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1778</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県大里郡寄居町三品</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1906890869,36.0969220000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1158582772878864384</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/u5PydfI5Fu</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBQc2SGVAAAw3VF.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EBQc30gVUAAnVA9.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛保元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1741</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県大里郡寄居町大字三品</value>
+        </Data>
+        <Data name="poi">
+          <value>正芳寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1839294434,36.0966250000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1158591163550449665</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/4DIZZmKaL0</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBQkfreUwAI4262.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>埼玉県大里郡寄居町西ノ入</value>
+        </Data>
+        <Data name="poi">
+          <value>光明寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1941680908,36.0863890000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1158593407977005061</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/3iCwJkyn6k</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBQmjLtUIAAVNeJ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1833</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県大里郡寄居町大字西ノ入</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1941070557,36.0823790000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1158605225566982145</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/uuU9G1oY4Z</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBQxRuaVAAEBDV0.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EBQxTG-UIAA6qQg.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>埼玉県大里郡寄居町西ノ入</value>
+        </Data>
+        <Data name="poi">
+          <value>墓地</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.2057342529,36.0858830000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1158657195002564608</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/LDKbqOTmrh</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBRga5NUYAAsqQk.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EBRga4mU4AAKR7v.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十八夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和五年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1768</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県石巻市</value>
+        </Data>
+        <Data name="poi">
+          <value>小枝稲荷神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>141.3122558594,38.4810616700</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

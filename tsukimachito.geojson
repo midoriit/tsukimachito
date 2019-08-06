@@ -59281,6 +59281,181 @@
                 "address": "福島県伊達郡桑折町伊達崎安貝内",
                 "poi": "道林会館前小社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1946258545,
+                    36.096616
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1158576760864120832",
+                "tweet_date": "2019-08-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/WnaayAwVes",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBQXYZDUYAAIXBw.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EBQXZ-cUYAARAUv.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県大里郡寄居町大字西ノ入",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1906890869,
+                    36.096922
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1158578923493400578",
+                "tweet_date": "2019-08-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/1Fu53ytNLC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBQZWdFUEAABMJI.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EBQZX2NU0AAMSdj.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安永七年",
+                "year_built_ce": 1778,
+                "address": "埼玉県大里郡寄居町三品",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1839294434,
+                    36.096625
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1158582772878864384",
+                "tweet_date": "2019-08-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/u5PydfI5Fu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBQc2SGVAAAw3VF.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EBQc30gVUAAnVA9.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "寛保元年",
+                "year_built_ce": 1741,
+                "address": "埼玉県大里郡寄居町大字三品",
+                "poi": "正芳寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1941680908,
+                    36.086389
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1158591163550449665",
+                "tweet_date": "2019-08-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/4DIZZmKaL0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBQkfreUwAI4262.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県大里郡寄居町西ノ入",
+                "poi": "光明寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1941070557,
+                    36.082379
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1158593407977005061",
+                "tweet_date": "2019-08-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/3iCwJkyn6k",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBQmjLtUIAAVNeJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "天保四年",
+                "year_built_ce": 1833,
+                "address": "埼玉県大里郡寄居町大字西ノ入",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2057342529,
+                    36.085883
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1158605225566982145",
+                "tweet_date": "2019-08-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/uuU9G1oY4Z",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBQxRuaVAAEBDV0.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EBQxTG-UIAA6qQg.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県大里郡寄居町西ノ入",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.3122558594,
+                    38.48106167
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1158657195002564608",
+                "tweet_date": "2019-08-06",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/LDKbqOTmrh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBRga5NUYAAsqQk.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EBRga4mU4AAKR7v.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "明和五年",
+                "year_built_ce": 1768,
+                "address": "宮城県石巻市",
+                "poi": "小枝稲荷神社"
+            }
         }
     ]
 }
