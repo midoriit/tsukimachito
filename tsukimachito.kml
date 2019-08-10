@@ -21112,7 +21112,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7946166992,36.3061246000</coordinates>
+        <coordinates>139.7944793701,36.3062846000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -21158,7 +21158,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7946166992,36.3061217000</coordinates>
+        <coordinates>139.7944793701,36.3062846000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -109387,6 +109387,466 @@
       </ExtendedData>
       <Point>
         <coordinates>141.3122558594,38.4810616700</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1160019578409213953</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/jRxs7PvGLI</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBk3o6OU4AAdQ7i.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1795</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県児玉郡上里町大字七本木</value>
+        </Data>
+        <Data name="poi">
+          <value>古新田集会所</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1589050293,36.2384320000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1160026811201286146</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/gluuVLSUSD</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBk-OK9UEAAzMPR.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永九年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1780</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県児玉郡上里町大字七本木</value>
+        </Data>
+        <Data name="poi">
+          <value>休安寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1389617920,36.2328930000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1160026907238207488</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/mtjtUsyWXX</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBk-Tn8VAAEALc-.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>昭和41年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1966</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県児玉郡上里町大字七本木</value>
+        </Data>
+        <Data name="poi">
+          <value>休安寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1389617920,36.2328930000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1160029056860950528</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/6GvLPQqkjx</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBlAQ1VUwAEvqfc.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>埼玉県児玉郡上里町大字七本木</value>
+        </Data>
+        <Data name="poi">
+          <value>法泉寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1413421631,36.2359130000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1160033523572473856</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/yy6YfT5u6I</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBlEVMtU8AA2Sm-.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>埼玉県児玉郡上里町七本木</value>
+        </Data>
+        <Data name="poi">
+          <value>西福寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1412200928,36.2420020000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1160037531406094339</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/pUUI863UTx</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBlH85hU0AAC6Gj.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EBlH-JsVAAAr4v_.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1778</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県児玉郡上里町堤</value>
+        </Data>
+        <Data name="poi">
+          <value>墓地</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1303253174,36.2415680000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1160039661072289792</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/ZeB7k47ULp</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBlJ4foUYAEQxzZ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EBlJ5-9UIAArCnG.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>埼玉県児玉郡上里町大字堤</value>
+        </Data>
+        <Data name="poi">
+          <value>石蔵寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1278533936,36.2409590000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1160048513167683584</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/DuEezPjLSF</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBlR8FTU8AIIbA0.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EBlR9XzUcAIUuFW.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保十二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1841</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県児玉郡上里町大字勅使河原</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1222991943,36.2582000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1160048600925163521</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/buVQbF8pVG</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBlSCVBU0AEH09X.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1781</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県児玉郡上里町大字勅使河原</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1222991943,36.2582000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1160050824229167104</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/kmGj6kJDgi</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EBlUCkkU0AE8AuM.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EBlUD-zU0AAtfBg.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保十四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1843</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県児玉郡上里町大字勅使河原</value>
+        </Data>
+        <Data name="poi">
+          <value>原公会堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1230010986,36.2603340000</coordinates>
       </Point>
     </Placemark>
   </Document>

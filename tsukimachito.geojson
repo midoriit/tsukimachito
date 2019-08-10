@@ -11462,8 +11462,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7946166992,
-                    36.3061246
+                    139.7944793701,
+                    36.3062846
                 ]
             },
             "properties": {
@@ -11487,8 +11487,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7946166992,
-                    36.3061217
+                    139.7944793701,
+                    36.3062846
                 ]
             },
             "properties": {
@@ -59455,6 +59455,256 @@
                 "year_built_ce": 1768,
                 "address": "宮城県石巻市",
                 "poi": "小枝稲荷神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1589050293,
+                    36.238432
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160019578409213953",
+                "tweet_date": "2019-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/jRxs7PvGLI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBk3o6OU4AAdQ7i.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "寛政七年",
+                "year_built_ce": 1795,
+                "address": "埼玉県児玉郡上里町大字七本木",
+                "poi": "古新田集会所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.138961792,
+                    36.232893
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160026811201286146",
+                "tweet_date": "2019-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/gluuVLSUSD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBk-OK9UEAAzMPR.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安永九年",
+                "year_built_ce": 1780,
+                "address": "埼玉県児玉郡上里町大字七本木",
+                "poi": "休安寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.138961792,
+                    36.232893
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160026907238207488",
+                "tweet_date": "2019-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mtjtUsyWXX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBk-Tn8VAAEALc-.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "昭和41年",
+                "year_built_ce": 1966,
+                "address": "埼玉県児玉郡上里町大字七本木",
+                "poi": "休安寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1413421631,
+                    36.235913
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160029056860950528",
+                "tweet_date": "2019-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/6GvLPQqkjx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBlAQ1VUwAEvqfc.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県児玉郡上里町大字七本木",
+                "poi": "法泉寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1412200928,
+                    36.242002
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160033523572473856",
+                "tweet_date": "2019-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/yy6YfT5u6I",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBlEVMtU8AA2Sm-.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県児玉郡上里町七本木",
+                "poi": "西福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1303253174,
+                    36.241568
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160037531406094339",
+                "tweet_date": "2019-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pUUI863UTx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBlH85hU0AAC6Gj.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EBlH-JsVAAAr4v_.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安永七年",
+                "year_built_ce": 1778,
+                "address": "埼玉県児玉郡上里町堤",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1278533936,
+                    36.240959
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160039661072289792",
+                "tweet_date": "2019-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ZeB7k47ULp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBlJ4foUYAEQxzZ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EBlJ5-9UIAArCnG.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県児玉郡上里町大字堤",
+                "poi": "石蔵寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1222991943,
+                    36.2582
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160048513167683584",
+                "tweet_date": "2019-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/DuEezPjLSF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBlR8FTU8AIIbA0.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EBlR9XzUcAIUuFW.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "天保十二年",
+                "year_built_ce": 1841,
+                "address": "埼玉県児玉郡上里町大字勅使河原",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1222991943,
+                    36.2582
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160048600925163521",
+                "tweet_date": "2019-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/buVQbF8pVG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBlSCVBU0AEH09X.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安永十年",
+                "year_built_ce": 1781,
+                "address": "埼玉県児玉郡上里町大字勅使河原",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1230010986,
+                    36.260334
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160050824229167104",
+                "tweet_date": "2019-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/kmGj6kJDgi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBlUCkkU0AE8AuM.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EBlUD-zU0AAtfBg.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "天保十四年",
+                "year_built_ce": 1843,
+                "address": "埼玉県児玉郡上里町大字勅使河原",
+                "poi": "原公会堂"
             }
         }
     ]
