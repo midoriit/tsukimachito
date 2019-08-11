@@ -59706,6 +59706,206 @@
                 "address": "埼玉県児玉郡上里町大字勅使河原",
                 "poi": "原公会堂"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4836730957,
+                    36.352126
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160389646968188929",
+                "tweet_date": "2019-08-11",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/JRe9l7cxZG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBqIN4SU4AAvKmN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和二年",
+                "year_built_ce": 1802,
+                "address": "茨城県水戸市元吉田町",
+                "poi": "野木神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4746856689,
+                    36.346355
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160394161847095296",
+                "tweet_date": "2019-08-11",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pPiPICJlBy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBqMVCFUYAIypJm.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永二年",
+                "year_built_ce": 1849,
+                "address": "茨城県水戸市元吉田町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4603729248,
+                    36.340896
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160401108721778688",
+                "tweet_date": "2019-08-11",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ueTSRarj3h",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBqSpWTUwAAbrs2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化五年",
+                "year_built_ce": 1848,
+                "address": "茨城県水戸市米沢町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4601593018,
+                    36.328561
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160406641415639041",
+                "tweet_date": "2019-08-11",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/TIO6ryKE3I",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBqXrVwU8AAqnw2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政二年",
+                "year_built_ce": 1855,
+                "address": "茨城県水戸市吉沢町",
+                "poi": "熱田神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4666442871,
+                    36.335203
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160410573940482054",
+                "tweet_date": "2019-08-11",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/x1iZsO4vZW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBqbQBoUYAEwQwB.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政六年",
+                "year_built_ce": 1859,
+                "address": "茨城県水戸市吉沢町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4923400879,
+                    36.342153
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160419401822175232",
+                "tweet_date": "2019-08-11",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/92q4SUXdw7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBqjQYBVUAAfRNK.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EBqjRzDUwAALS57.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市酒門町",
+                "poi": "日吉神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4904022217,
+                    36.348793
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160422576335646721",
+                "tweet_date": "2019-08-11",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/V351yPJs33",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBqmK2PU4AIF3Gy.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和三年",
+                "year_built_ce": 1803,
+                "address": "茨城県水戸市酒門町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4993591309,
+                    36.367276
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1160433385589706752",
+                "tweet_date": "2019-08-11",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/tCwqSBLHMG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EBqv_3mU4AEzH_A.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政十二年",
+                "year_built_ce": 1829,
+                "address": "茨城県水戸市浜田二丁目",
+                "poi": "下市不動尊"
+            }
         }
     ]
 }
