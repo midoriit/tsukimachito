@@ -16087,8 +16087,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7070465088,
-                    36.1949996
+                    139.7066650391,
+                    36.19501
                 ]
             },
             "properties": {
@@ -35862,8 +35862,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7338867188,
-                    36.1947094
+                    139.7334899902,
+                    36.195233
                 ]
             },
             "properties": {
@@ -35887,8 +35887,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7341766357,
-                    36.1952855
+                    139.7334899902,
+                    36.195233
                 ]
             },
             "properties": {
@@ -35912,8 +35912,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7342376709,
-                    36.1954441
+                    139.7334899902,
+                    36.195311
                 ]
             },
             "properties": {
@@ -36162,8 +36162,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7635803223,
-                    36.1856808
+                    139.763168335,
+                    36.185861
                 ]
             },
             "properties": {
@@ -36187,8 +36187,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7635192871,
-                    36.1856401
+                    139.763168335,
+                    36.185861
                 ]
             },
             "properties": {
@@ -36337,8 +36337,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7407073975,
-                    36.1726814
+                    139.7403564453,
+                    36.172689
                 ]
             },
             "properties": {
@@ -36362,8 +36362,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7403411865,
-                    36.1727463
+                    139.7403564453,
+                    36.172689
                 ]
             },
             "properties": {
@@ -36387,8 +36387,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7403411865,
-                    36.1727226
+                    139.7403564453,
+                    36.172689
                 ]
             },
             "properties": {
@@ -36412,8 +36412,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7403106689,
-                    36.1727311
+                    139.7403564453,
+                    36.172689
                 ]
             },
             "properties": {
@@ -36437,8 +36437,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7401733398,
-                    36.1815506
+                    139.7403869629,
+                    36.181397
                 ]
             },
             "properties": {
@@ -36462,8 +36462,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7403259277,
-                    36.1813932
+                    139.7403869629,
+                    36.181397
                 ]
             },
             "properties": {
@@ -36487,8 +36487,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7398834229,
-                    36.1816023
+                    139.7403869629,
+                    36.181397
                 ]
             },
             "properties": {
@@ -61555,6 +61555,31 @@
                 "year_built_ce": 1702,
                 "address": "千葉県我孫子市柴崎",
                 "poi": "円福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1267700195,
+                    35.53958
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1164012211469029378",
+                "tweet_date": "2019-08-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/uWv46IMOFz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ECdm7CgUYAE_IYk.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永二年",
+                "year_built_ce": 1849,
+                "address": "神奈川県相模原市緑区",
+                "poi": "路傍"
             }
         }
     ]

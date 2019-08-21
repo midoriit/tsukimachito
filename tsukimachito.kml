@@ -29622,7 +29622,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7070465088,36.1949996000</coordinates>
+        <coordinates>139.7066650391,36.1950100000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -66008,7 +66008,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7338867188,36.1947094000</coordinates>
+        <coordinates>139.7334899902,36.1952330000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -66054,7 +66054,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7341766357,36.1952855000</coordinates>
+        <coordinates>139.7334899902,36.1952330000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -66100,7 +66100,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7342376709,36.1954441000</coordinates>
+        <coordinates>139.7334899902,36.1953110000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -66560,7 +66560,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7635803223,36.1856808000</coordinates>
+        <coordinates>139.7631683350,36.1858610000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -66606,7 +66606,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7635192871,36.1856401000</coordinates>
+        <coordinates>139.7631683350,36.1858610000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -66882,7 +66882,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7407073975,36.1726814000</coordinates>
+        <coordinates>139.7403564453,36.1726890000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -66928,7 +66928,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7403411865,36.1727463000</coordinates>
+        <coordinates>139.7403564453,36.1726890000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -66974,7 +66974,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7403411865,36.1727226000</coordinates>
+        <coordinates>139.7403564453,36.1726890000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -67020,7 +67020,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7403106689,36.1727311000</coordinates>
+        <coordinates>139.7403564453,36.1726890000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -67066,7 +67066,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7401733398,36.1815506000</coordinates>
+        <coordinates>139.7403869629,36.1813970000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -67112,7 +67112,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7403259277,36.1813932000</coordinates>
+        <coordinates>139.7403869629,36.1813970000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -67158,7 +67158,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7398834229,36.1816023000</coordinates>
+        <coordinates>139.7403869629,36.1813970000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -113251,6 +113251,52 @@
       </ExtendedData>
       <Point>
         <coordinates>140.0371856689,35.8758890000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1164012211469029378</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-21</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/uWv46IMOFz</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECdm7CgUYAE_IYk.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>嘉永二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1849</value>
+        </Data>
+        <Data name="address">
+          <value>神奈川県相模原市緑区</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1267700195,35.5395800000</coordinates>
       </Point>
     </Placemark>
   </Document>
