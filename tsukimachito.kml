@@ -29655,10 +29655,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元治元年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1864</value>
         </Data>
         <Data name="address">
           <value>栃木県下都賀郡野木町野木</value>
@@ -42272,7 +42272,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.6691436768,36.2033603000</coordinates>
+        <coordinates>139.6691436768,36.2030993000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -42364,7 +42364,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.6668395996,36.2070831000</coordinates>
+        <coordinates>139.6667633057,36.2071110000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -42410,7 +42410,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.6668090820,36.2071197000</coordinates>
+        <coordinates>139.6667633057,36.2071110000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -42449,14 +42449,14 @@
           <value/>
         </Data>
         <Data name="address">
-          <value>埼玉県加須市大字小野袋</value>
+          <value>栃木県栃木市藤岡町下宮</value>
         </Data>
         <Data name="poi">
           <value>路傍</value>
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.6666259766,36.2069650000</coordinates>
+        <coordinates>139.6667633057,36.2071110000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -113297,6 +113297,742 @@
       </ExtendedData>
       <Point>
         <coordinates>139.1267700195,35.5395800000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165079878451904513</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/kTvE5sJEOX</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECsx9ffU8AApwnD.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治二十二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1889</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県下都賀郡野木町大字野木</value>
+        </Data>
+        <Data name="poi">
+          <value>大杉神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7138519287,36.2299550000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165079965978656768</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/rI1sQ8RuU3</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECsyCw2VAAAmaHh.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>昭和四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1929</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県下都賀郡野木町大字野木</value>
+        </Data>
+        <Data name="poi">
+          <value>大杉神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7138519287,36.2299550000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165080051869552640</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/dMDNw3yZnR</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECsyHpBUwAICvNh.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政十一年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1799</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県下都賀郡野木町大字野木</value>
+        </Data>
+        <Data name="poi">
+          <value>大杉神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7138519287,36.2299550000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165080152537088000</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/9zNUtLei5O</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECsyNXxU4AA1Sve.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>嘉永三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1850</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県下都賀郡野木町大字野木</value>
+        </Data>
+        <Data name="poi">
+          <value>大杉神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7138519287,36.2299550000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165095306595160065</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/624uqYFqny</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECs__r2U0AAI9ZE.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1820</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県下都賀郡野木町大字野渡</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6993865967,36.2091990000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165095386056286208</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/2yhqXd8kiW</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECtAEW1U8AA1rz-.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治34年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1901</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県下都賀郡野木町大字野渡</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6993865967,36.2091990000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165095471892684800</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/TwWlrt9Apl</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECtAJT0UEAA2a1_.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保十二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1841</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県下都賀郡野木町大字野渡</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6993865967,36.2091990000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165098595659345921</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/nfMvAn42HN</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECtC-hmU4AE_oMu.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治32年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1899</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県下都賀郡野木町大字野渡</value>
+        </Data>
+        <Data name="poi">
+          <value>墓地</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7000427246,36.2071140000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165098658523561985</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/XQxUlSPaLc</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECtDCLxU0AApBpC.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保十三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1842</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県下都賀郡野木町大字野渡</value>
+        </Data>
+        <Data name="poi">
+          <value>墓地</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7000427246,36.2071140000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165098754552156160</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/zvc6Hva6TS</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECtDHkYUUAAQv3X.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>昭和九年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1934</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県下都賀郡野木町大字野渡</value>
+        </Data>
+        <Data name="poi">
+          <value>墓地</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7000427246,36.2071140000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165098899901538304</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/uPoMN7WGeM</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECtDOamUYAAQepp.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1819</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県下都賀郡野木町大字野渡</value>
+        </Data>
+        <Data name="poi">
+          <value>墓地</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7000427246,36.2071140000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165100448161783808</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/trHGwYVkwF</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECtEqy6U0AAe-4g.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治十六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1883</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県下都賀郡野木町大字野渡</value>
+        </Data>
+        <Data name="poi">
+          <value>薬師堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6987457275,36.2059990000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165100848969441280</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/4leCgd43It</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECtFBybVAAIC7Qv.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化十五年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1818</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県下都賀郡野木町大字野渡</value>
+        </Data>
+        <Data name="poi">
+          <value>薬師堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6987457275,36.2059990000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165101159172005894</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/XTAI0d8Wdf</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECtFTvLUcAE5wCD.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1754</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県下都賀郡野木町大字野渡</value>
+        </Data>
+        <Data name="poi">
+          <value>薬師堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6987457275,36.2059990000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165101699280687105</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/lsSRudVteJ</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECtFzdIVUAAVnLD.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保十三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1842</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県下都賀郡野木町大字野渡</value>
+        </Data>
+        <Data name="poi">
+          <value>薬師堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6987457275,36.2059990000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1165107011177959424</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/8GDqhV070A</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ECtKmfSUcAALUM1.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/ECtKnmdVAAUZFpZ.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/ECtKo_XVUAEiwld.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1790</value>
+        </Data>
+        <Data name="address">
+          <value>茨城県古河市西町</value>
+        </Data>
+        <Data name="poi">
+          <value>永井寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6958618164,36.1964660000</coordinates>
       </Point>
     </Placemark>
   </Document>
