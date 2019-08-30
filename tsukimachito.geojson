@@ -63806,6 +63806,156 @@
                 "address": "群馬県利根郡みなかみ町",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5143737793,
+                    37.770882
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167299635586584576",
+                "tweet_date": "2019-08-30",
+                "contributor": "N_Hiro_Yuki",
+                "tweet_url": "https:\/\/t.co\/llNwZj4R6m",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDMU0D6VAAE-2jm.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県福島市山口文字摺",
+                "poi": " \t文知摺観音"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4709625244,
+                    37.77427
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167300620245618690",
+                "tweet_date": "2019-08-30",
+                "contributor": "N_Hiro_Yuki",
+                "tweet_url": "https:\/\/t.co\/ETyKv4hIGg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDMVtSwU4AANCDn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十一子年",
+                "year_built_ce": 1828,
+                "address": "福島県福島市御山谷",
+                "poi": "羽黒神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4465484619,
+                    37.740392
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167301847473782790",
+                "tweet_date": "2019-08-30",
+                "contributor": "N_Hiro_Yuki",
+                "tweet_url": "https:\/\/t.co\/zFOye7DFLm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDMWz3_U8AAUX3w.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EDMWz38UYAIMdZc.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県福島市方木田水口",
+                "poi": "羽山神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5751800537,
+                    37.442042
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167302316904435716",
+                "tweet_date": "2019-08-30",
+                "contributor": "N_Hiro_Yuki",
+                "tweet_url": "https:\/\/t.co\/CdaF24LkLk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDMXQRcU4AEpHn3.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県田村市船引町船引五升車",
+                "poi": "天満宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5724334717,
+                    37.441165
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167302792790171648",
+                "tweet_date": "2019-08-30",
+                "contributor": "N_Hiro_Yuki",
+                "tweet_url": "https:\/\/t.co\/4tFp0TudF0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDMXr7lUwAERV1y.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県田村市船引町船引下川原",
+                "poi": "安久津稲荷神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5003814697,
+                    37.408623
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167303563908804613",
+                "tweet_date": "2019-08-30",
+                "contributor": "N_Hiro_Yuki",
+                "tweet_url": "https:\/\/t.co\/quZh5moiuG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDMYYv_UwAQdzC7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政四巳年",
+                "year_built_ce": 1821,
+                "address": "福島県田村郡三春町滝滝久保",
+                "poi": "稲荷神社"
+            }
         }
     ]
 }

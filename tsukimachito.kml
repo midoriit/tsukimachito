@@ -117393,5 +117393,281 @@
         <coordinates>138.9003448486,36.6998730000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1167299635586584576</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>N_Hiro_Yuki</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/llNwZj4R6m</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EDMU0D6VAAE-2jm.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県福島市山口文字摺</value>
+        </Data>
+        <Data name="poi">
+          <value> 	文知摺観音</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.5143737793,37.7708820000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1167300620245618690</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>N_Hiro_Yuki</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/ETyKv4hIGg</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EDMVtSwU4AANCDn.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政十一子年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1828</value>
+        </Data>
+        <Data name="address">
+          <value>福島県福島市御山谷</value>
+        </Data>
+        <Data name="poi">
+          <value>羽黒神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4709625244,37.7742700000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1167301847473782790</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>N_Hiro_Yuki</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/zFOye7DFLm</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EDMWz3_U8AAUX3w.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EDMWz38UYAIMdZc.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県福島市方木田水口</value>
+        </Data>
+        <Data name="poi">
+          <value>羽山神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4465484619,37.7403920000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1167302316904435716</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>N_Hiro_Yuki</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/CdaF24LkLk</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EDMXQRcU4AEpHn3.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県田村市船引町船引五升車</value>
+        </Data>
+        <Data name="poi">
+          <value>天満宮</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.5751800537,37.4420420000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1167302792790171648</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>N_Hiro_Yuki</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/4tFp0TudF0</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EDMXr7lUwAERV1y.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県田村市船引町船引下川原</value>
+        </Data>
+        <Data name="poi">
+          <value>安久津稲荷神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.5724334717,37.4411650000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1167303563908804613</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-30</value>
+        </Data>
+        <Data name="contributor">
+          <value>N_Hiro_Yuki</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/quZh5moiuG</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EDMYYv_UwAQdzC7.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政四巳年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1821</value>
+        </Data>
+        <Data name="address">
+          <value>福島県田村郡三春町滝滝久保</value>
+        </Data>
+        <Data name="poi">
+          <value>稲荷神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.5003814697,37.4086230000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
