@@ -117669,5 +117669,97 @@
         <coordinates>140.5003814697,37.4086230000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1167647115398377472</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-31</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/d7FA24NQDr</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EDRQ2eCX4AEDlGj.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EDRQ2djXYAA10Mg.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/EDRQ2doXUAAHs_h.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>宮城県仙台市青葉区</value>
+        </Data>
+        <Data name="poi">
+          <value>北目山賢聖院二十三夜堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8776702881,38.2534777200</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1167702039746400256</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-08-31</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/i51HfmiqCx</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EDSCz9bVUAAxarm.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EDSCz9aVUAAjkJJ.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十八夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>宮城県仙台市太白区</value>
+        </Data>
+        <Data name="poi">
+          <value>十八夜観世音堂(常蔵院観世音堂)</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8875427246,38.2351533300</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

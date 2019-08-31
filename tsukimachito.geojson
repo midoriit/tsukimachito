@@ -63956,6 +63956,56 @@
                 "address": "福島県田村郡三春町滝滝久保",
                 "poi": "稲荷神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8776702881,
+                    38.25347772
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167647115398377472",
+                "tweet_date": "2019-08-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/d7FA24NQDr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDRQ2eCX4AEDlGj.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EDRQ2djXYAA10Mg.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EDRQ2doXUAAHs_h.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "宮城県仙台市青葉区",
+                "poi": "北目山賢聖院二十三夜堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8875427246,
+                    38.23515333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167702039746400256",
+                "tweet_date": "2019-08-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/i51HfmiqCx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDSCz9bVUAAxarm.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EDSCz9aVUAAjkJJ.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "宮城県仙台市太白区",
+                "poi": "十八夜観世音堂(常蔵院観世音堂)"
+            }
         }
     ]
 }
