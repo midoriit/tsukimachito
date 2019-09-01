@@ -64006,6 +64006,531 @@
                 "address": "宮城県仙台市太白区",
                 "poi": "十八夜観世音堂(常蔵院観世音堂)"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7057189941,
+                    36.192633
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167968429728399360",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/3MgGUUJyqk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDV1FfMU8AAzbc8.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政九年",
+                "year_built_ce": 1826,
+                "address": "茨城県古河市本町二丁目",
+                "poi": "神明宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7058868408,
+                    36.191272
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167970208834674689",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/CnfQURbqlk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDV2sljUcAImxjJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安政二年",
+                "year_built_ce": 1855,
+                "address": "茨城県古河市本町二丁目",
+                "poi": "八幡神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7030639648,
+                    36.187737
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167973277639172096",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/6aZcm8vIxW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDV5e0FVAAAm63_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県古河市長谷町",
+                "poi": "自治会館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7108459473,
+                    36.18257
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167977467329433600",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/W9S75EdE37",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDV9SepVAAE-r82.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県古河市原町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6994171143,
+                    36.182902
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167982462724534274",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/DDp3K1XjPa",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWB2N2UEAIu9cw.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文久二年",
+                "year_built_ce": 1862,
+                "address": "茨城県古河市牧野地",
+                "poi": "香取神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7001190186,
+                    36.18075
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167984321501622273",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Iv8H5JnQo5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWDgVSU4AA9yCz.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EDWDhqfUcAExe7K.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明和四年",
+                "year_built_ce": 1767,
+                "address": "茨城県古河市牧野地",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7035980225,
+                    36.175991
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167987390377390080",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/s3BzKlJ8po",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWGVKvU8AAfVIR.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政九年",
+                "year_built_ce": 1826,
+                "address": "茨城県古河市鴻巣",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7035980225,
+                    36.175991
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167987545818288128",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Gd3Op28JDP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWGcFuVUAYE3IB.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EDWGdBDU4AEg586.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EDWGeEJUEAID5do.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元文四年",
+                "year_built_ce": 1739,
+                "address": "茨城県古河市鴻巣",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6957244873,
+                    36.173342
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1167992368684908545",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/EoMsH5sp5V",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWK0kVVAAAW1iB.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保十年",
+                "year_built_ce": 1839,
+                "address": "茨城県古河市新久田",
+                "poi": "新久田自治会館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7010040283,
+                    36.16621
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1168003090265432064",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/VAO7tBOlMZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWUlEWVAAcY5Rb.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EDWUmHLU8AUCQ6D.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EDWUnNSU4AAIiDH.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天明五年",
+                "year_built_ce": 1785,
+                "address": "茨城県古河市鳥喰",
+                "poi": "鳥喰公民館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7073364258,
+                    36.162679
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1168008180225343488",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/o4doOZ6Hbv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWZOJJUwAAqExR.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EDWZPUAU8AANAVh.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化十四年",
+                "year_built_ce": 1817,
+                "address": "茨城県古河市坂間",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7156982422,
+                    36.16591
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1168013100852756480",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/4JTMtZJmt8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWdrvgUEAEn_w0.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EDWdtJMVAAAazhn.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県古河市茶屋新田",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7156982422,
+                    36.16591
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1168013341366710273",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/OELuP8CKi9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWd33aU0AAHW0J.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EDWd5gjUEAEqUgk.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EDWd6zpUYAE9uwn.jpg",
+                "media_url_4": "",
+                "type": "十六夜塔",
+                "year_built": "宝暦二年",
+                "year_built_ce": 1752,
+                "address": "茨城県古河市茶屋新田",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7156982422,
+                    36.16591
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1168013502033756161",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/WFiOXru53n",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWeAkcUEAAeGDg.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EDWeCHvVUAQQlBD.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EDWeEMZUcAMowfN.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天明五年",
+                "year_built_ce": 1785,
+                "address": "茨城県古河市茶屋新田",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7218933105,
+                    36.151012
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1168020655247257606",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/rEZ7yLmCBb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWkliEUcAExEgF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治24年",
+                "year_built_ce": 1891,
+                "address": "茨城県古河市大山",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7218933105,
+                    36.151012
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1168020769114185728",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/1wFUqFgKC4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWkr5KUcAAjGaG.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県古河市大山",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7250061035,
+                    36.143444
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1168024765858119680",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pHdgygazPC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWoRnVUwAIPNkg.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EDWoS4-U0AA29NF.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EDWoUOPU0AAD7wD.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化四年",
+                "year_built_ce": 1807,
+                "address": "茨城県古河市大山",
+                "poi": "東林寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7250061035,
+                    36.14339
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1168024851296055297",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/EMKNiyW2KN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWoZbqU8AAql3c.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦二年",
+                "year_built_ce": 1752,
+                "address": "茨城県古河市大山",
+                "poi": "東林寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.724395752,
+                    36.137106
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1168027635701534721",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/DeDeBppY9c",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWq7rrUEAAxk4J.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永八年",
+                "year_built_ce": 1779,
+                "address": "茨城県古河市大山",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7145996094,
+                    36.14923
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1168033602858143744",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/yTsrfMkuk2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWwVKTU0AAnS_c.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EDWwW55VAAECu2y.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十六夜塔",
+                "year_built": "正徳二年",
+                "year_built_ce": 1712,
+                "address": "茨城県古河市中田",
+                "poi": "萬福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7145996094,
+                    36.14923
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1168033659732942848",
+                "tweet_date": "2019-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/hwb64gbSLG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDWwZwbUUAAA29A.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天明二年",
+                "year_built_ce": 1782,
+                "address": "茨城県古河市中田",
+                "poi": "萬福寺"
+            }
         }
     ]
 }
