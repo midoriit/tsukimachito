@@ -64531,6 +64531,31 @@
                 "address": "茨城県古河市中田",
                 "poi": "萬福寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5481109619,
+                    35.502315
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1169128769241509888",
+                "tweet_date": "2019-09-04",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/YuPpTrfCDP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDmUZZUXoAEijUB.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保七年",
+                "year_built_ce": 1836,
+                "address": "神奈川県横浜市緑区上山三丁目",
+                "poi": "上山町南公園"
+            }
         }
     ]
 }
