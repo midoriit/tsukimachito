@@ -212,8 +212,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.5587921143,
-                    35.5172257
+                    139.5588684082,
+                    35.517321
                 ]
             },
             "properties": {
@@ -64555,6 +64555,56 @@
                 "year_built_ce": 1836,
                 "address": "神奈川県横浜市緑区上山三丁目",
                 "poi": "上山町南公園"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5524902344,
+                    35.529011
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1169783806850519040",
+                "tweet_date": "2019-09-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/m0WiNVMtRz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDvoJ-sU0AAooT7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化三年",
+                "year_built_ce": 1806,
+                "address": "神奈川県横浜市都筑区川和町",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5588684082,
+                    35.517321
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1169792599470686209",
+                "tweet_date": "2019-09-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ZGugwCGfxc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EDvwJ9UUwAEGZQs.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化三年",
+                "year_built_ce": 1846,
+                "address": "神奈川県横浜市都筑区佐江戸町",
+                "poi": "路傍"
             }
         }
     ]
