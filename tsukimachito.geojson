@@ -65256,6 +65256,106 @@
                 "address": "宮城県仙台市青葉区",
                 "poi": "大堀天神宮"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0824279785,
+                    35.9758527
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1171256106397487105",
+                "tweet_date": "2019-09-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/c7YE9niLme",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEEjNoQUcAAKA97.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文政十三年",
+                "year_built_ce": 1830,
+                "address": "埼玉県秩父市日野田町二丁目",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1175231934,
+                    36.09959
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1171274753132228608",
+                "tweet_date": "2019-09-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/49RBQQyKXr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEE0KUlU4AApUoK.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父郡長瀞町",
+                "poi": "積蔵院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1054992676,
+                    36.049073
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1171281804323516416",
+                "tweet_date": "2019-09-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/P2IhlL3coC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEE6lWjU4AAupDO.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父市黒谷",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1100463867,
+                    36.039581
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1171288347639078913",
+                "tweet_date": "2019-09-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/uJOAs8MJbO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEFAhkxVUAIgNKJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父市黒谷",
+                "poi": "お堂"
+            }
         }
     ]
 }

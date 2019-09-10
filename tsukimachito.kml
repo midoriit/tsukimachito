@@ -120061,5 +120061,189 @@
         <coordinates>140.7437591553,38.2773038200</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1171256106397487105</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/c7YE9niLme</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEEjNoQUcAAKA97.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政十三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1830</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県秩父市日野田町二丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.0824279785,35.9758527000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1171274753132228608</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/49RBQQyKXr</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEE0KUlU4AApUoK.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>埼玉県秩父郡長瀞町</value>
+        </Data>
+        <Data name="poi">
+          <value>積蔵院</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1175231934,36.0995900000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1171281804323516416</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/P2IhlL3coC</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEE6lWjU4AAupDO.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>埼玉県秩父市黒谷</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1054992676,36.0490730000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1171288347639078913</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/uJOAs8MJbO</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEFAhkxVUAIgNKJ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>埼玉県秩父市黒谷</value>
+        </Data>
+        <Data name="poi">
+          <value>お堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1100463867,36.0395810000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
