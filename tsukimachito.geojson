@@ -65356,6 +65356,31 @@
                 "address": "埼玉県秩父市黒谷",
                 "poi": "お堂"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.673538208,
+                    38.04362783
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1171671769855299584",
+                "tweet_date": "2019-09-11",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/ZbNFc2RWQQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEKdPdZUcAALTim.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EEKdPdWU8AEtC0Q.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EEKdPdXU8AAqPEz.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EEKdPdYUEAAuk9I.jpg",
+                "type": "二十夜塔",
+                "year_built": "明和三年",
+                "year_built_ce": 1766,
+                "address": "宮城県刈田郡蔵王町",
+                "poi": "路傍"
+            }
         }
     ]
 }
