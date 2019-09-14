@@ -2312,8 +2312,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.4772796631,
-                    35.3868468
+                    139.4772033691,
+                    35.386843
                 ]
             },
             "properties": {
@@ -2326,8 +2326,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文久二年",
+                "year_built_ce": 1862,
                 "address": "神奈川県藤沢市亀井野",
                 "poi": "雲昌寺"
             }
@@ -2337,8 +2337,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.4773864746,
-                    35.3866958
+                    139.4772033691,
+                    35.386843
                 ]
             },
             "properties": {
@@ -2351,8 +2351,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明治七年",
+                "year_built_ce": 1874,
                 "address": "神奈川県藤沢市亀井野",
                 "poi": "雲昌寺"
             }

@@ -4263,10 +4263,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文久二年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1862</value>
         </Data>
         <Data name="address">
           <value>神奈川県藤沢市亀井野</value>
@@ -4276,7 +4276,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.4772796631,35.3868468000</coordinates>
+        <coordinates>139.4772033691,35.3868430000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -4309,10 +4309,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>明治七年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1874</value>
         </Data>
         <Data name="address">
           <value>神奈川県藤沢市亀井野</value>
@@ -4322,7 +4322,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.4773864746,35.3866958000</coordinates>
+        <coordinates>139.4772033691,35.3868430000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
