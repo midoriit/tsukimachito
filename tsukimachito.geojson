@@ -65381,6 +65381,31 @@
                 "address": "宮城県刈田郡蔵王町",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6926269531,
+                    35.774835
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173074083774226432",
+                "tweet_date": "2019-09-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/heEsfTIlpD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEeYnZsU0AAsf6W.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EEeYpU8VAAEbD2e.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文明六年",
+                "year_built_ce": 1474,
+                "address": "東京都板橋区志村一丁目",
+                "poi": "延命寺"
+            }
         }
     ]
 }
