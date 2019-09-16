@@ -65406,6 +65406,381 @@
                 "address": "東京都板橋区志村一丁目",
                 "poi": "延命寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9550933838,
+                    36.739118
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173444091226382341",
+                "tweet_date": "2019-09-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/m7Dp8tNXLG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEjpC-lUwAAYVBj.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EEjpF5fUwAATpsi.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EEjpIX_U8AAnzqJ.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保三年",
+                "year_built_ce": 1832,
+                "address": "栃木県矢板市乙畑",
+                "poi": "薬王寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9550933838,
+                    36.739118
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173444188572008448",
+                "tweet_date": "2019-09-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Wh8Pr7OnO4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEjpODLUcAAtbCi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天明元年",
+                "year_built_ce": 1781,
+                "address": "栃木県矢板市乙畑",
+                "poi": "薬王寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9183807373,
+                    36.759221
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173449194150825985",
+                "tweet_date": "2019-09-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/8NLPqa43jP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEjtzU3U8AE1uNf.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政四年",
+                "year_built_ce": 1792,
+                "address": "栃木県矢板市玉田",
+                "poi": "津島勝善神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9084014893,
+                    36.871482
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173455988961099777",
+                "tweet_date": "2019-09-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/z3csPYQKRQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEjz7qDU8AA0Ktb.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EEjz9VlU8AA5RdU.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EEjz-3YUcAAoMfR.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "万延元年",
+                "year_built_ce": 1860,
+                "address": "栃木県矢板市上伊佐野",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9205780029,
+                    36.836955
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173459595282403328",
+                "tweet_date": "2019-09-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/koWf1BnWIw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEj3QTNVAAA06Cm.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化二年",
+                "year_built_ce": 1805,
+                "address": "栃木県矢板市東泉",
+                "poi": "公園"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9205780029,
+                    36.836955
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173459684398755840",
+                "tweet_date": "2019-09-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/UKqoXMauKj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEj3VcgVUAE-fbR.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政二年",
+                "year_built_ce": 1819,
+                "address": "栃木県矢板市東泉",
+                "poi": "公園"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0036010742,
+                    36.816997
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173467743422562306",
+                "tweet_date": "2019-09-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/9mSGHxz3Gh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEj-pCWUUAEkoj4.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EEj-qS5U8AIO4Cp.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EEj-riSVUAASCx-.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治45年",
+                "year_built_ce": 1912,
+                "address": "栃木県大田原市滝沢",
+                "poi": "滝沢神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0036010742,
+                    36.816997
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173467807901634563",
+                "tweet_date": "2019-09-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/JGy4VPMzqr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEj-vTtUYAAbh1L.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和二年",
+                "year_built_ce": 1802,
+                "address": "栃木県大田原市滝沢",
+                "poi": "滝沢神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9429626465,
+                    36.806931
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173475532131844096",
+                "tweet_date": "2019-09-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/brVyovEYtE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEkFw7hVUAE_iDQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十一年",
+                "year_built_ce": 1814,
+                "address": "栃木県矢板市中",
+                "poi": "住吉神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9208068848,
+                    36.811192
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173490716049195009",
+                "tweet_date": "2019-09-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ZbJradvLdL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEkTkrrU8AE4vhL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保七年",
+                "year_built_ce": 1836,
+                "address": "栃木県矢板市矢板",
+                "poi": "塩釜神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9227905273,
+                    36.820444
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173498044744007680",
+                "tweet_date": "2019-09-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pOudORR66G",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEkaPQ8VAAA6bPN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化六年",
+                "year_built_ce": 1809,
+                "address": "栃木県矢板市荒井",
+                "poi": "箒根神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9114837646,
+                    36.820426
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173502622138949634",
+                "tweet_date": "2019-09-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pfiANZKBYM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEkeYG0UEAAWSCk.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EEkeZUHUYAEyUAT.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元治二年",
+                "year_built_ce": 1865,
+                "address": "栃木県矢板市下太田",
+                "poi": "観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9122619629,
+                    36.811129
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173505980971094016",
+                "tweet_date": "2019-09-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/5ZqYa0On60",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEkhdT9UcAIMFBQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県矢板市幸岡",
+                "poi": "剱神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9299468994,
+                    36.802996
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173518482102607872",
+                "tweet_date": "2019-09-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/LDhAHErxxS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEks1OXUYAMuiY0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政元年",
+                "year_built_ce": 1789,
+                "address": "栃木県矢板市鹿島町",
+                "poi": "鹿島神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9299468994,
+                    36.802996
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1173518599140429824",
+                "tweet_date": "2019-09-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/JlCHOAZJdA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EEks75yVAAA0gfE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十年",
+                "year_built_ce": 1813,
+                "address": "栃木県矢板市鹿島町",
+                "poi": "鹿島神社"
+            }
         }
     ]
 }

@@ -120337,5 +120337,695 @@
         <coordinates>139.6926269531,35.7748350000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1173444091226382341</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/m7Dp8tNXLG</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEjpC-lUwAAYVBj.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EEjpF5fUwAATpsi.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/EEjpIX_U8AAnzqJ.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1832</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県矢板市乙畑</value>
+        </Data>
+        <Data name="poi">
+          <value>薬王寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9550933838,36.7391180000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1173444188572008448</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Wh8Pr7OnO4</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEjpODLUcAAtbCi.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天明元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1781</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県矢板市乙畑</value>
+        </Data>
+        <Data name="poi">
+          <value>薬王寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9550933838,36.7391180000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1173449194150825985</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/8NLPqa43jP</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEjtzU3U8AE1uNf.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1792</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県矢板市玉田</value>
+        </Data>
+        <Data name="poi">
+          <value>津島勝善神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9183807373,36.7592210000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1173455988961099777</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/z3csPYQKRQ</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEjz7qDU8AA0Ktb.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EEjz9VlU8AA5RdU.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/EEjz-3YUcAAoMfR.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>万延元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1860</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県矢板市上伊佐野</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9084014893,36.8714820000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1173459595282403328</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/koWf1BnWIw</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEj3QTNVAAA06Cm.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1805</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県矢板市東泉</value>
+        </Data>
+        <Data name="poi">
+          <value>公園</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9205780029,36.8369550000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1173459684398755840</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/UKqoXMauKj</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEj3VcgVUAE-fbR.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1819</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県矢板市東泉</value>
+        </Data>
+        <Data name="poi">
+          <value>公園</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9205780029,36.8369550000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1173467743422562306</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/9mSGHxz3Gh</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEj-pCWUUAEkoj4.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EEj-qS5U8AIO4Cp.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/EEj-riSVUAASCx-.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治45年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1912</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県大田原市滝沢</value>
+        </Data>
+        <Data name="poi">
+          <value>滝沢神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0036010742,36.8169970000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1173467807901634563</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/JGy4VPMzqr</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEj-vTtUYAAbh1L.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>享和二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1802</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県大田原市滝沢</value>
+        </Data>
+        <Data name="poi">
+          <value>滝沢神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0036010742,36.8169970000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1173475532131844096</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/brVyovEYtE</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEkFw7hVUAE_iDQ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化十一年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1814</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県矢板市中</value>
+        </Data>
+        <Data name="poi">
+          <value>住吉神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9429626465,36.8069310000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1173490716049195009</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/ZbJradvLdL</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEkTkrrU8AE4vhL.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1836</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県矢板市矢板</value>
+        </Data>
+        <Data name="poi">
+          <value>塩釜神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9208068848,36.8111920000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1173498044744007680</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/pOudORR66G</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEkaPQ8VAAA6bPN.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1809</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県矢板市荒井</value>
+        </Data>
+        <Data name="poi">
+          <value>箒根神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9227905273,36.8204440000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1173502622138949634</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/pfiANZKBYM</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEkeYG0UEAAWSCk.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EEkeZUHUYAEyUAT.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>元治二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1865</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県矢板市下太田</value>
+        </Data>
+        <Data name="poi">
+          <value>観音堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9114837646,36.8204260000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1173505980971094016</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/5ZqYa0On60</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEkhdT9UcAIMFBQ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>栃木県矢板市幸岡</value>
+        </Data>
+        <Data name="poi">
+          <value>剱神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9122619629,36.8111290000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1173518482102607872</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/LDhAHErxxS</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEks1OXUYAMuiY0.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1789</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県矢板市鹿島町</value>
+        </Data>
+        <Data name="poi">
+          <value>鹿島神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9299468994,36.8029960000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1173518599140429824</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/JlCHOAZJdA</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EEks75yVAAA0gfE.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1813</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県矢板市鹿島町</value>
+        </Data>
+        <Data name="poi">
+          <value>鹿島神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.9299468994,36.8029960000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
