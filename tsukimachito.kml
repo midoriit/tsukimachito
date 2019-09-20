@@ -122085,5 +122085,97 @@
         <coordinates>139.6868286133,36.7282720000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1174681222598934532</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-19</value>
+        </Data>
+        <Data name="contributor">
+          <value>N_Hiro_Yuki</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/HbvK67Uybr</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EE1OUjhUwAAfXy3.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県郡山市開成三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>古峰神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.3533172607,37.3972600000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1174681848703619072</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-19</value>
+        </Data>
+        <Data name="contributor">
+          <value>N_Hiro_Yuki</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/s9XUDdrah2</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EE1O6N8U4AA06N_.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治八</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1875</value>
+        </Data>
+        <Data name="address">
+          <value>福島県郡山市清水台一丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>安積國造神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.3818511963,37.3985810000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
