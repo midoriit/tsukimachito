@@ -122177,5 +122177,465 @@
         <coordinates>140.3818511963,37.3985810000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1175943426178609152</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/8oOlVKOlqY</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFHKQ5DU4AAZkbL.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県田村市</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.6689910889,37.5138400000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1175945166777012224</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/mcEpp2iwuw</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFHLzONUUAAJ1wR.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EFHLzONU0AEdpZw.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県田村市</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.6952514648,37.5115070000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1176012214060244993</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/gmAB0hRjHs</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFII1QHU0AkfTOW.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県郡山市安積町成田成田</value>
+        </Data>
+        <Data name="poi">
+          <value>三渡神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.3350524902,37.3632040000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1176012461956165634</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/xGVIpOwSqI</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFIJES3U8AATn4x.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県郡山市安積町成田成田</value>
+        </Data>
+        <Data name="poi">
+          <value>三渡神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.3350524902,37.3632040000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1176016357546053632</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/WDjnvlWhVc</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFIMns2UYAAjHMb.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文久二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1862</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県角田市</value>
+        </Data>
+        <Data name="poi">
+          <value>稱念寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8268890381,37.9376400000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1176039134999089152</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/RuBsAzCK26</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFIhR7HUYAAP8NP.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>嘉永四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1851</value>
+        </Data>
+        <Data name="address">
+          <value>福島県伊達市梁川町八幡疣石</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.6296386719,37.8556480000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1176046070767349760</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/E2UJJ58HN8</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFInqUHU4AIvKgE.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県伊達市梁川町二野袋大正</value>
+        </Data>
+        <Data name="poi">
+          <value>長光寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.5831146240,37.8556510000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1176046914443177985</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/9aMNSjPWTC</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFIobYcU8AAjwXr.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永五年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1776</value>
+        </Data>
+        <Data name="address">
+          <value>福島県伊達市梁川町二野袋大正</value>
+        </Data>
+        <Data name="poi">
+          <value>長光寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.5832061768,37.8556420000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1176056300897099776</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/PxaIQlo7Yh</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFIw9QfUwAIVkbj.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EFIw9QbUwAAZihf.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安政二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1855</value>
+        </Data>
+        <Data name="address">
+          <value>福島県伊達郡桑折町上郡観音沢</value>
+        </Data>
+        <Data name="poi">
+          <value>大聖寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.5300598145,37.8474400000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1176062909253734401</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-23</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/eoI3MFSeSL</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFI2-BGU8AAWnhN.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EFI2-BEUwAIGaDf.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十六夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1764</value>
+        </Data>
+        <Data name="address">
+          <value>福島県伊達市梁川町二野袋大正</value>
+        </Data>
+        <Data name="poi">
+          <value>長光寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.5832214355,37.8556020000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
