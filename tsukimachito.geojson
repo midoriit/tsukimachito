@@ -66554,7 +66554,7 @@
                 "year_built": "嘉永四年",
                 "year_built_ce": 1851,
                 "address": "福島県伊達市梁川町八幡疣石",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -66655,6 +66655,31 @@
                 "year_built_ce": 1764,
                 "address": "福島県伊達市梁川町二野袋大正",
                 "poi": "長光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1656036377,
+                    35.559838
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1176326027531845632",
+                "tweet_date": "2019-09-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/KAQT7Ldp7A",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFMmRsxUUAAoUJW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県相模原市緑区青野原",
+                "poi": "伏馬田生活改善センター"
             }
         }
     ]
