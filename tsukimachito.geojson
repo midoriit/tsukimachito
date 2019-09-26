@@ -66681,6 +66681,31 @@
                 "address": "神奈川県相模原市緑区青野原",
                 "poi": "伏馬田生活改善センター"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4284667969,
+                    35.864245
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1177047818017488896",
+                "tweet_date": "2019-09-26",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/lX6P9s745X",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFW2r5XUwAEjLM3.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EFW2s5zU8AACUOI.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EFW2uilUcAEXGuV.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EFW2vn2UYAEF6ub.jpg",
+                "type": "二十三夜塔",
+                "year_built": "文明十四年",
+                "year_built_ce": 1482,
+                "address": "埼玉県狭山市沢",
+                "poi": "天岑寺"
+            }
         }
     ]
 }

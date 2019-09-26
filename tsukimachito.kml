@@ -122683,5 +122683,51 @@
         <coordinates>139.1656036377,35.5598380000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1177047818017488896</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-26</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/lX6P9s745X</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFW2r5XUwAEjLM3.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EFW2s5zU8AACUOI.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/EFW2uilUcAEXGuV.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value>https://pbs.twimg.com/media/EFW2vn2UYAEF6ub.jpg</value>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文明十四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1482</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県狭山市沢</value>
+        </Data>
+        <Data name="poi">
+          <value>天岑寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.4284667969,35.8642450000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
