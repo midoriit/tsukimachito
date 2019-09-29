@@ -124707,5 +124707,1063 @@
         <coordinates>140.5721435547,37.8181033300</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178129761291235328</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/TdEFu77iPc</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFmOuCiUcAA98kc.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EFmOvtlVAAAXpuQ.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1823</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字向古河</value>
+        </Data>
+        <Data name="poi">
+          <value>観音堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6860504150,36.1872520000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178134548263006209</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Yp06GmkV5O</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFmTHPvUYAEUjho.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化十四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1817</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字駒場</value>
+        </Data>
+        <Data name="poi">
+          <value>鷲神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6788024902,36.1791490000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178134677732786176</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/IqWVunBm9x</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFmTPCLUwAA-XjD.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦九年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1759</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字駒場</value>
+        </Data>
+        <Data name="poi">
+          <value>鷲神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6788024902,36.1791490000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178139671299125250</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/XQuvBsqHqL</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFmXxlYU4AErKHf.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文久二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1862</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字伊賀袋</value>
+        </Data>
+        <Data name="poi">
+          <value>地蔵塚</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6860198975,36.1767300000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178139857798885377</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/P5sFiabsgg</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFmX5GPUYAA6kbl.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EFmX6hJVAAEw8Zz.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/EFmX8n1UYAIKdow.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛保三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1743</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字伊賀袋</value>
+        </Data>
+        <Data name="poi">
+          <value>地蔵塚</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6860198975,36.1767300000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178145127828582402</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/kvQIHcoJV5</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFmcsIcVAAAxsSq.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EFmcugtUwAAVD90.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十六夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>享和四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1804</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字駒場</value>
+        </Data>
+        <Data name="poi">
+          <value>八幡宮</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6865234375,36.1700020000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178149081169809408</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/j9unkVGPiu</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFmgURDUUAI1qbn.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EFmgVcIUEAAB4w6.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化十二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1815</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字本郷</value>
+        </Data>
+        <Data name="poi">
+          <value>鷲神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6891937256,36.1631430000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178149169573158914</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/wDWgjpGkVQ</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFmgZVMVAAAsqhf.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EFmgajKUEAAg3P6.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1754</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字本郷</value>
+        </Data>
+        <Data name="poi">
+          <value>鷲神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6891937256,36.1631430000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178149238825345024</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/DTV1gyimn9</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFmgeS_UwAETZdF.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安政二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1855</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字本郷</value>
+        </Data>
+        <Data name="poi">
+          <value>鷲神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6891937256,36.1631430000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178160182481674240</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/VCqpKbIZfc</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFmqbixUwAExkDE.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治二十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1887</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字栄</value>
+        </Data>
+        <Data name="poi">
+          <value>鷲神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6742858887,36.1728970000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178160264836829184</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/rKW09xYHbT</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFmqgMIUYAYUfKc.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>嘉永四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1851</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字栄</value>
+        </Data>
+        <Data name="poi">
+          <value>鷲神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6742858887,36.1728970000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178169103502082051</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/p7nm86ncBW</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFmyixrU0AEm-sR.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>弘化四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1847</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字麦倉</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6498260498,36.1798180000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178169252538273793</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/VFkUlplxwA</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFmypVEU4AAwwJu.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1765</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字麦倉</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6498260498,36.1798180000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178172233480454144</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/QYR2DbWCBu</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFm1XbIU0AACymJ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政九年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1826</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字麦倉</value>
+        </Data>
+        <Data name="poi">
+          <value>細間墓地</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6447601318,36.1822860000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178172465517756417</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/HdNueVthdV</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFm1eD8VUAALsgT.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1764</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字麦倉</value>
+        </Data>
+        <Data name="poi">
+          <value>細間墓地</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6447601318,36.1822860000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178172469070295040</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/qT2FJBy5hX</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFm1jY8VAAARLQA.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1835</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字麦倉</value>
+        </Data>
+        <Data name="poi">
+          <value>細間墓地</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6447601318,36.1822860000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178174355005591552</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/OFZp4p3BDL</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFm3UOFUEAESM5w.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保九年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1838</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字麦倉</value>
+        </Data>
+        <Data name="poi">
+          <value>薬師寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6413726807,36.1840030000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178174439084580864</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/OGrwNc4YM6</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFm3ZKVVUAAK9nA.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1805</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字麦倉</value>
+        </Data>
+        <Data name="poi">
+          <value>薬師寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6413726807,36.1840030000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178178499468652544</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/aOL4Fr6CMj</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFm7Fl1UEAIv3Ov.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦十四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1764</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字麦倉</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6468658447,36.1879270000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178187308798885889</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/NVJESCgks6</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFnDGf0UYAA9cIz.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保八年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1837</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字柳生</value>
+        </Data>
+        <Data name="poi">
+          <value>八幡宮</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6660003662,36.1915990000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178187388792668160</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/awqUEoKWBM</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFnDLX2UEAIala_.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和五年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1768</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字柳生</value>
+        </Data>
+        <Data name="poi">
+          <value>八幡宮</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6660003662,36.1915990000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178190393457836033</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/MEIjn3j0cE</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFnF6OZVAAIzbpW.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1773</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字柳生</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6705780029,36.1908050000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1178190520578764801</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-09-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Lobuywnd44</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EFnF_7rVAAAfq82.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EFnGBPAUEAAmpuJ.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1805</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県加須市大字柳生</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6705780029,36.1908050000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

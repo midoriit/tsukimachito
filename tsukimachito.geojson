@@ -67781,6 +67781,581 @@
                 "address": "福島県伊達市保原町大泉大塚",
                 "poi": "熊野神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.686050415,
+                    36.187252
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178129761291235328",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/TdEFu77iPc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFmOuCiUcAA98kc.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EFmOvtlVAAAXpuQ.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政六年",
+                "year_built_ce": 1823,
+                "address": "埼玉県加須市大字向古河",
+                "poi": "観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6788024902,
+                    36.179149
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178134548263006209",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Yp06GmkV5O",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFmTHPvUYAEUjho.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化十四年",
+                "year_built_ce": 1817,
+                "address": "埼玉県加須市大字駒場",
+                "poi": "鷲神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6788024902,
+                    36.179149
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178134677732786176",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/IqWVunBm9x",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFmTPCLUwAA-XjD.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦九年",
+                "year_built_ce": 1759,
+                "address": "埼玉県加須市大字駒場",
+                "poi": "鷲神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6860198975,
+                    36.17673
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178139671299125250",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/XQuvBsqHqL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFmXxlYU4AErKHf.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文久二年",
+                "year_built_ce": 1862,
+                "address": "埼玉県加須市大字伊賀袋",
+                "poi": "地蔵塚"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6860198975,
+                    36.17673
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178139857798885377",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/P5sFiabsgg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFmX5GPUYAA6kbl.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EFmX6hJVAAEw8Zz.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EFmX8n1UYAIKdow.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛保三年",
+                "year_built_ce": 1743,
+                "address": "埼玉県加須市大字伊賀袋",
+                "poi": "地蔵塚"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6865234375,
+                    36.170002
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178145127828582402",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/kvQIHcoJV5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFmcsIcVAAAxsSq.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EFmcugtUwAAVD90.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "享和四年",
+                "year_built_ce": 1804,
+                "address": "埼玉県加須市大字駒場",
+                "poi": "八幡宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6891937256,
+                    36.163143
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178149081169809408",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/j9unkVGPiu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFmgURDUUAI1qbn.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EFmgVcIUEAAB4w6.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化十二年",
+                "year_built_ce": 1815,
+                "address": "埼玉県加須市大字本郷",
+                "poi": "鷲神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6891937256,
+                    36.163143
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178149169573158914",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/wDWgjpGkVQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFmgZVMVAAAsqhf.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EFmgajKUEAAg3P6.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦四年",
+                "year_built_ce": 1754,
+                "address": "埼玉県加須市大字本郷",
+                "poi": "鷲神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6891937256,
+                    36.163143
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178149238825345024",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/DTV1gyimn9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFmgeS_UwAETZdF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政二年",
+                "year_built_ce": 1855,
+                "address": "埼玉県加須市大字本郷",
+                "poi": "鷲神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6742858887,
+                    36.172897
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178160182481674240",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/VCqpKbIZfc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFmqbixUwAExkDE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治二十年",
+                "year_built_ce": 1887,
+                "address": "埼玉県加須市大字栄",
+                "poi": "鷲神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6742858887,
+                    36.172897
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178160264836829184",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/rKW09xYHbT",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFmqgMIUYAYUfKc.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "嘉永四年",
+                "year_built_ce": 1851,
+                "address": "埼玉県加須市大字栄",
+                "poi": "鷲神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6498260498,
+                    36.179818
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178169103502082051",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/p7nm86ncBW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFmyixrU0AEm-sR.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "弘化四年",
+                "year_built_ce": 1847,
+                "address": "埼玉県加須市大字麦倉",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6498260498,
+                    36.179818
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178169252538273793",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/VFkUlplxwA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFmypVEU4AAwwJu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明和二年",
+                "year_built_ce": 1765,
+                "address": "埼玉県加須市大字麦倉",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6447601318,
+                    36.182286
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178172233480454144",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/QYR2DbWCBu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFm1XbIU0AACymJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政九年",
+                "year_built_ce": 1826,
+                "address": "埼玉県加須市大字麦倉",
+                "poi": "細間墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6447601318,
+                    36.182286
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178172465517756417",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/HdNueVthdV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFm1eD8VUAALsgT.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明和元年",
+                "year_built_ce": 1764,
+                "address": "埼玉県加須市大字麦倉",
+                "poi": "細間墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6447601318,
+                    36.182286
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178172469070295040",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/qT2FJBy5hX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFm1jY8VAAARLQA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保六年",
+                "year_built_ce": 1835,
+                "address": "埼玉県加須市大字麦倉",
+                "poi": "細間墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6413726807,
+                    36.184003
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178174355005591552",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/OFZp4p3BDL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFm3UOFUEAESM5w.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保九年",
+                "year_built_ce": 1838,
+                "address": "埼玉県加須市大字麦倉",
+                "poi": "薬師寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6413726807,
+                    36.184003
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178174439084580864",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/OGrwNc4YM6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFm3ZKVVUAAK9nA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化二年",
+                "year_built_ce": 1805,
+                "address": "埼玉県加須市大字麦倉",
+                "poi": "薬師寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6468658447,
+                    36.187927
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178178499468652544",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/aOL4Fr6CMj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFm7Fl1UEAIv3Ov.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦十四年",
+                "year_built_ce": 1764,
+                "address": "埼玉県加須市大字麦倉",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6660003662,
+                    36.191599
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178187308798885889",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/NVJESCgks6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFnDGf0UYAA9cIz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保八年",
+                "year_built_ce": 1837,
+                "address": "埼玉県加須市大字柳生",
+                "poi": "八幡宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6660003662,
+                    36.191599
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178187388792668160",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/awqUEoKWBM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFnDLX2UEAIala_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明和五年",
+                "year_built_ce": 1768,
+                "address": "埼玉県加須市大字柳生",
+                "poi": "八幡宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6705780029,
+                    36.190805
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178190393457836033",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/MEIjn3j0cE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFnF6OZVAAIzbpW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永二年",
+                "year_built_ce": 1773,
+                "address": "埼玉県加須市大字柳生",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6705780029,
+                    36.190805
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1178190520578764801",
+                "tweet_date": "2019-09-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Lobuywnd44",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EFnF_7rVAAAfq82.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EFnGBPAUEAAmpuJ.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化二年",
+                "year_built_ce": 1805,
+                "address": "埼玉県加須市大字柳生",
+                "poi": "路傍"
+            }
         }
     ]
 }
