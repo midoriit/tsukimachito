@@ -68356,6 +68356,281 @@
                 "address": "埼玉県加須市大字柳生",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0450592041,
+                    35.702133
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1179231734824652801",
+                "tweet_date": "2019-10-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/FSfv7w1FNt",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EF14_ImX0AEeABJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保十六年",
+                "year_built_ce": 1731,
+                "address": "千葉県船橋市田喜野井三丁目",
+                "poi": "正法寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0450592041,
+                    35.702133
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1179231741615181831",
+                "tweet_date": "2019-10-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/qnsvV842Bv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EF14_svXkAE8FyP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県船橋市田喜野井三丁目",
+                "poi": "正法寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0450592041,
+                    35.702133
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1179232658238431232",
+                "tweet_date": "2019-10-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/r0LnWI8fbS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EF151kPX0AA2VYL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "万延元年",
+                "year_built_ce": 1860,
+                "address": "千葉県船橋市田喜野井三丁目",
+                "poi": "正法寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0450592041,
+                    35.702133
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1179232710071586822",
+                "tweet_date": "2019-10-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/4KeJZMthq8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EF154jeXoAEMuCi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "大正十四年",
+                "year_built_ce": 1925,
+                "address": "千葉県船橋市田喜野井三丁目",
+                "poi": "正法寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0450592041,
+                    35.702133
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1179232750504685568",
+                "tweet_date": "2019-10-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/MZNAid2Nn8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EF1562rXYAIhyo3.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県船橋市田喜野井三丁目",
+                "poi": "正法寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0450592041,
+                    35.702133
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1179232783815909376",
+                "tweet_date": "2019-10-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/E3B7vHyrjk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EF159DCWsAUBMR0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元文四年",
+                "year_built_ce": 1739,
+                "address": "千葉県船橋市田喜野井三丁目",
+                "poi": "正法寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0527191162,
+                    35.701405
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1179235424910413824",
+                "tweet_date": "2019-10-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/JSKANlKKUI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EF18T2DXYAAkUtS.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EF18WJwWsAIJ-f8.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県船橋市三山五丁目",
+                "poi": "神宮寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0527191162,
+                    35.701405
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1179235550118776832",
+                "tweet_date": "2019-10-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7ixJT2V1c3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EF18bDXXUAE0UV3.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EF18dPQXkAAjHzJ.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元禄七年",
+                "year_built_ce": 1694,
+                "address": "千葉県船橋市三山五丁目",
+                "poi": "神宮寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0527191162,
+                    35.701405
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1179235943414407173",
+                "tweet_date": "2019-10-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Ptghv9aT2w",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EF18yrNXYAExeiK.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EF1803wWsAIpPcN.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県船橋市三山五丁目",
+                "poi": "神宮寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0450592041,
+                    35.702133
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1179236709973798912",
+                "tweet_date": "2019-10-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/jQYGFyF4Vw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EF19hl6WkAAWRCv.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦四年",
+                "year_built_ce": 1754,
+                "address": "千葉県船橋市田喜野井三丁目",
+                "poi": "正法寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0527191162,
+                    35.701405
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1179236782958878720",
+                "tweet_date": "2019-10-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/XN7QFTjqvI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EF19iUyWoAAIdsd.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EF19kaBX0AYYs7D.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政四年",
+                "year_built_ce": 1792,
+                "address": "千葉県船橋市三山五丁目",
+                "poi": "神宮寺"
+            }
         }
     ]
 }

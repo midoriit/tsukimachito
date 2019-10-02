@@ -125765,5 +125765,511 @@
         <coordinates>139.6705780029,36.1908050000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1179231734824652801</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-10-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/FSfv7w1FNt</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EF14_ImX0AEeABJ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>享保十六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1731</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県船橋市田喜野井三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>正法寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0450592041,35.7021330000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1179231741615181831</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-10-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/qnsvV842Bv</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EF14_svXkAE8FyP.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県船橋市田喜野井三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>正法寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0450592041,35.7021330000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1179232658238431232</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-10-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/r0LnWI8fbS</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EF151kPX0AA2VYL.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>万延元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1860</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県船橋市田喜野井三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>正法寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0450592041,35.7021330000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1179232710071586822</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-10-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/4KeJZMthq8</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EF154jeXoAEMuCi.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>大正十四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1925</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県船橋市田喜野井三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>正法寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0450592041,35.7021330000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1179232750504685568</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-10-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/MZNAid2Nn8</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EF1562rXYAIhyo3.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県船橋市田喜野井三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>正法寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0450592041,35.7021330000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1179232783815909376</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-10-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/E3B7vHyrjk</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EF159DCWsAUBMR0.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>元文四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1739</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県船橋市田喜野井三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>正法寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0450592041,35.7021330000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1179235424910413824</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-10-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/JSKANlKKUI</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EF18T2DXYAAkUtS.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EF18WJwWsAIJ-f8.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県船橋市三山五丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>神宮寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0527191162,35.7014050000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1179235550118776832</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-10-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/7ixJT2V1c3</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EF18bDXXUAE0UV3.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EF18dPQXkAAjHzJ.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>元禄七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1694</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県船橋市三山五丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>神宮寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0527191162,35.7014050000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1179235943414407173</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-10-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Ptghv9aT2w</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EF18yrNXYAExeiK.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EF1803wWsAIpPcN.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>千葉県船橋市三山五丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>神宮寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0527191162,35.7014050000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1179236709973798912</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-10-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/jQYGFyF4Vw</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EF19hl6WkAAWRCv.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1754</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県船橋市田喜野井三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>正法寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0450592041,35.7021330000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1179236782958878720</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-10-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/XN7QFTjqvI</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EF19iUyWoAAIdsd.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EF19kaBX0AYYs7D.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1792</value>
+        </Data>
+        <Data name="address">
+          <value>千葉県船橋市三山五丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>神宮寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.0527191162,35.7014050000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
