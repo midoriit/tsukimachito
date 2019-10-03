@@ -68631,6 +68631,31 @@
                 "address": "千葉県船橋市三山五丁目",
                 "poi": "神宮寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6268615723,
+                    35.573036
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1179583516360577024",
+                "tweet_date": "2019-10-03",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/SwtGzFQwjM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EF647HkUYAA9u9s.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EF648VtU0AEeNeI.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天明四年",
+                "year_built_ce": 1784,
+                "address": "神奈川県川崎市高津区子母口",
+                "poi": "蓮乗院"
+            }
         }
     ]
 }
