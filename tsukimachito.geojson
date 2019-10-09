@@ -68656,6 +68656,481 @@
                 "address": "神奈川県川崎市高津区子母口",
                 "poi": "蓮乗院"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0812988281,
+                    35.747486
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181764605355294720",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/F7ZnSPYR7s",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGZ4gRoVAAA79lS.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EGZ4oDrVUAAdWbz.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元禄九年",
+                "year_built_ce": 1696,
+                "address": "千葉県八千代市吉橋",
+                "poi": "寺台公会堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0812988281,
+                    35.747486
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181764643401846784",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/dOSF7cL2SK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGZ4m9LVAAAngay.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EGZ4p3jU4AAUpD7.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝永三年",
+                "year_built_ce": 1706,
+                "address": "千葉県八千代市吉橋",
+                "poi": "寺台公会堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0812988281,
+                    35.747486
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181764968024166401",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/fGHMMefwuY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGZ4r_dU8AAYkjs.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EGZ40A1U0AAeIg-.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "元禄五年",
+                "year_built_ce": 1692,
+                "address": "千葉県八千代市吉橋",
+                "poi": "寺台公会堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0872650146,
+                    35.744752
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181769149162213376",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/XZB49O5bMq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGZ8vShU0AAMjGO.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EGZ8wx_VUAIo468.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県八千代市吉橋",
+                "poi": "貞福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0872650146,
+                    35.744752
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181769282532696064",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/17PgbosnAN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGZ82_iU0AEMYOE.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EGZ84avU4AYiy7G.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保十四年",
+                "year_built_ce": 1729,
+                "address": "千葉県八千代市吉橋",
+                "poi": "貞福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0896759033,
+                    35.74563
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181772518668922880",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/fIVxXIx9zc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGZ_1BwVAAAKp-j.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享和三年",
+                "year_built_ce": 1803,
+                "address": "千葉県八千代市吉橋",
+                "poi": "吉祥院大師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0896759033,
+                    35.74563
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181772638651215872",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/nmDR7ITfm5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGZ_74AUcAAawEN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保五年",
+                "year_built_ce": 1834,
+                "address": "千葉県八千代市吉橋",
+                "poi": "吉祥院大師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0896759033,
+                    35.74563
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181772749812879361",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/UDDMcq7McG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGaACaXUEAA9h4n.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県八千代市吉橋",
+                "poi": "吉祥院大師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0896759033,
+                    35.74563
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181772879924322306",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/dD2e13yEaR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGaAI38U0AARrvw.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EGaAKA9UYAAjLAl.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県八千代市吉橋",
+                "poi": "吉祥院大師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0896759033,
+                    35.74563
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181772960647938048",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/yLWfUZxqJA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGaAOpNU8AA-duS.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十年",
+                "year_built_ce": 1813,
+                "address": "千葉県八千代市吉橋",
+                "poi": "吉祥院大師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0896759033,
+                    35.74563
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181773109273096192",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/x3zZtrSROw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGaAV6yU8AIX95j.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EGaAXeNU4AIfnvC.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛文八年",
+                "year_built_ce": 1668,
+                "address": "千葉県八千代市吉橋",
+                "poi": "吉祥院大師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.0896759033,
+                    35.74563
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181774131299151872",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/VXSP1xrEv3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGaBR58UwAIu6CK.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EGaBTHoU0AAYbKT.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永七年",
+                "year_built_ce": 1778,
+                "address": "千葉県八千代市吉橋",
+                "poi": "吉祥院大師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1002960205,
+                    35.75505
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181781389747740672",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/BK1WgCw5gI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGaH4ZUUUAIqlEs.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EGaH5nvVAAYP05W.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県八千代市桑納",
+                "poi": "威光院公会堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1002960205,
+                    35.75505
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181781515279056896",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Gn7qdr5pMf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGaH_V4VUAAA6qf.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EGaIApNUcAAvEBf.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦十三年",
+                "year_built_ce": 1763,
+                "address": "千葉県八千代市桑納",
+                "poi": "威光院公会堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1050262451,
+                    35.746693
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181787480342679552",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/6dw1nslKNi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGaNcU9UwAAXlmn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明和四年",
+                "year_built_ce": 1767,
+                "address": "千葉県八千代市麦丸",
+                "poi": "東福院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1050262451,
+                    35.746693
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181787637889171456",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/sclMjwpP2t",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGaNlIDUEAASNpM.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政八年",
+                "year_built_ce": 1796,
+                "address": "千葉県八千代市麦丸",
+                "poi": "東福院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1050262451,
+                    35.746693
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181787784924712960",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/kYY45r9Ffr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGaNseoUYAExseD.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EGaNtwuVUAEjqV3.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元文五年",
+                "year_built_ce": 1740,
+                "address": "千葉県八千代市麦丸",
+                "poi": "東福院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1050262451,
+                    35.746693
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181787937257578496",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/YhjbNue1AD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGaN1FHU8AI93iu.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EGaN2dlUwAAy-_v.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永九年",
+                "year_built_ce": 1780,
+                "address": "千葉県八千代市麦丸",
+                "poi": "東福院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1002960205,
+                    35.75505
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1181861685939716098",
+                "tweet_date": "2019-10-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/5XvV1Thz4t",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGbQ7iqU4AEHC4I.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享和四年",
+                "year_built_ce": 1804,
+                "address": "千葉県八千代市桑納",
+                "poi": "威光院公会堂"
+            }
         }
     ]
 }
