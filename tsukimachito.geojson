@@ -69131,6 +69131,56 @@
                 "address": "千葉県八千代市桑納",
                 "poi": "威光院公会堂"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0603485107,
+                    38.596425
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1182547092004192256",
+                "tweet_date": "2019-10-11",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/GXGM6C4LXg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGlATonUcAAhKf9.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EGlATomUEAAlNi8.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "慶應三年",
+                "year_built_ce": 1867,
+                "address": "宮城県大崎市",
+                "poi": "貴船神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.051361084,
+                    38.60540333
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1182555882648825856",
+                "tweet_date": "2019-10-11",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/CgxKZWrHQf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EGlITbBUEAA7XLM.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十二年",
+                "year_built_ce": 1829,
+                "address": "宮城県大崎市",
+                "poi": "熊野神社"
+            }
         }
     ]
 }
