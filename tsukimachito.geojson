@@ -69181,6 +69181,31 @@
                 "address": "宮城県大崎市",
                 "poi": "熊野神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5458679199,
+                    35.335079
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1184650952772481024",
+                "tweet_date": "2019-10-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/CoRzHxhniE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EHC5uHiUUAA7T_t.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EHC5vz8UEAAadIF.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "宝暦四年",
+                "year_built_ce": 1754,
+                "address": "神奈川県鎌倉市山ノ内",
+                "poi": "東慶寺"
+            }
         }
     ]
 }
