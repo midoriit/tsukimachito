@@ -71006,6 +71006,56 @@
                 "address": "千葉県佐倉市井野",
                 "poi": "千手院"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.4960174561,
+                    38.6931414
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1186084842376552449",
+                "tweet_date": "2019-10-21",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/gekAaZDEYn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EHXRyD_UcAAQhWI.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EHXRyD_U4AE-6Jr.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EHXRyD_UYAAYki1.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治二十七年",
+                "year_built_ce": 1894,
+                "address": "宮城県本吉郡南三陸町",
+                "poi": "徳性寺墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.2934875488,
+                    38.4833179
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1186114805993598976",
+                "tweet_date": "2019-10-21",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/Jx8sR2Vm33",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EHXtEa2UcAE397k.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EHXtEa4UwAET7uu.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EHXtEbRVAAAH-re.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EHXtEdMU4AImUn6.jpg",
+                "type": "十八夜塔",
+                "year_built": "明和五年",
+                "year_built_ce": 1768,
+                "address": "宮城県石巻市",
+                "poi": "若木神社"
+            }
         }
     ]
 }
