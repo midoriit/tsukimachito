@@ -71056,6 +71056,56 @@
                 "address": "宮城県石巻市",
                 "poi": "若木神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1679077148,
+                    38.3277616
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1186815796011388928",
+                "tweet_date": "2019-10-23",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/fgdNvg2PVd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EHhqqZ8VUAAbb_d.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EHhqqZ6U0AAoMYv.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "宮城県東松島市",
+                "poi": " 浄屋跡"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1632385254,
+                    35.317371
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1186833238594965504",
+                "tweet_date": "2019-10-23",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/U2a2unow0X",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EHh6h2CUUAAM0-P.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県小田原市下大井",
+                "poi": "路傍"
+            }
         }
     ]
 }
