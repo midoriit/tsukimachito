@@ -37,8 +37,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.5404663086,
-                    35.5272272
+                    139.5406036377,
+                    35.527206
                 ]
             },
             "properties": {
@@ -71830,6 +71830,56 @@
                 "year_built_ce": 1847,
                 "address": "福島県伊達郡国見町藤田滑沢二",
                 "poi": "霊神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9477844238,
+                    38.2130283
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1190396293484408832",
+                "tweet_date": "2019-11-02",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/ufkEkRhtz5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EIUjGGtX0AMtffS.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EIUjGGwW4AAA8uI.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "文化六年",
+                "year_built_ce": 1809,
+                "address": "宮城県仙台市若林区",
+                "poi": "畠山稲荷神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9477844238,
+                    38.2130283
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1190396909975826432",
+                "tweet_date": "2019-11-02",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/gOtqPI3B9P",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EIUjpXyWsAAV_7c.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EIUjpX1XYAQVVbD.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化六年",
+                "year_built_ce": 1809,
+                "address": "宮城県仙台市若林区",
+                "poi": "畠山稲荷神社"
             }
         }
     ]
