@@ -84349,10 +84349,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>元文2年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1737</value>
         </Data>
         <Data name="address">
           <value>福島県郡山市逢瀬町多田野本郷</value>
@@ -89869,10 +89869,10 @@
           <value>十九夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>延享３年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1746</value>
         </Data>
         <Data name="address">
           <value>福島県須賀川市池上町</value>
@@ -133537,6 +133537,236 @@
       </ExtendedData>
       <Point>
         <coordinates>140.8681335449,38.3193117000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1191892844421640192</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/NyQRO4oB5f</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EIp0NdeWwAASq8q.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政九年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1826</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県仙台市青葉区</value>
+        </Data>
+        <Data name="poi">
+          <value>山神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8403015137,38.2713359000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1191902414791536641</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/SDAfKlMn6w</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EIp86m1U4AAuOxw.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EIp86m0VUAEG77r.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/EIp86m0UcAA9yBS.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十八夜塔 二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政八年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1825</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県仙台市青葉区</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.7823028564,38.2791918000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1191934895498641411</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/KttEt4vZ7e</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EIqadpNWsAAbZIY.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十六夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1820</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県仙台市太白区</value>
+        </Data>
+        <Data name="poi">
+          <value>小滝沢橋</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.6510772705,38.2679231000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1191954407136649218</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/F88HkVlE3t</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EIqsNDrXUAEjfLr.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EIqsNDrXsAA5NLd.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十八夜塔 二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文久二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1862</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県仙台市泉区</value>
+        </Data>
+        <Data name="poi">
+          <value>天神堂・薬師堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8184814453,38.3286316000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1191979947319025664</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/fFvGP0R9U0</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EIrDWVmX0AEte1c.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EIrDWWLXUAAbHc5.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/EIrDWWSWwAESToM.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value>https://pbs.twimg.com/media/EIrDWWxXUAIS0RF.jpg</value>
+        </Data>
+        <Data name="type">
+          <value>十七夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>宮城県仙台市宮城野区</value>
+        </Data>
+        <Data name="poi">
+          <value>十七夜清水観世音堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9303894043,38.3110642000</coordinates>
       </Point>
     </Placemark>
   </Document>

@@ -45851,8 +45851,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元文2年",
+                "year_built_ce": 1737,
                 "address": "福島県郡山市逢瀬町多田野本郷",
                 "poi": "普門院"
             }
@@ -48851,8 +48851,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "延享３年",
+                "year_built_ce": 1746,
                 "address": "福島県須賀川市池上町",
                 "poi": "十念寺"
             }
@@ -72580,6 +72580,131 @@
                 "year_built_ce": 1830,
                 "address": "宮城県仙台市泉区",
                 "poi": "道路神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8403015,
+                    38.2713359
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1191892844421640192",
+                "tweet_date": "2019-11-06",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/NyQRO4oB5f",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EIp0NdeWwAASq8q.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政九年",
+                "year_built_ce": 1826,
+                "address": "宮城県仙台市青葉区",
+                "poi": "山神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7823029,
+                    38.2791918
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1191902414791536641",
+                "tweet_date": "2019-11-06",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/SDAfKlMn6w",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EIp86m1U4AAuOxw.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EIp86m0VUAEG77r.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EIp86m0UcAA9yBS.jpg",
+                "media_url_4": "",
+                "type": "十八夜塔 二十三夜塔",
+                "year_built": "文政八年",
+                "year_built_ce": 1825,
+                "address": "宮城県仙台市青葉区",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6510773,
+                    38.2679231
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1191934895498641411",
+                "tweet_date": "2019-11-06",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/KttEt4vZ7e",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EIqadpNWsAAbZIY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "文政三年",
+                "year_built_ce": 1820,
+                "address": "宮城県仙台市太白区",
+                "poi": "小滝沢橋"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8184814,
+                    38.3286316
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1191954407136649218",
+                "tweet_date": "2019-11-06",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/F88HkVlE3t",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EIqsNDrXUAEjfLr.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EIqsNDrXsAA5NLd.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔 二十三夜塔",
+                "year_built": "文久二年",
+                "year_built_ce": 1862,
+                "address": "宮城県仙台市泉区",
+                "poi": "天神堂・薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9303894,
+                    38.3110642
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1191979947319025664",
+                "tweet_date": "2019-11-06",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/fFvGP0R9U0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EIrDWVmX0AEte1c.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EIrDWWLXUAAbHc5.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EIrDWWSWwAESToM.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EIrDWWxXUAIS0RF.jpg",
+                "type": "十七夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "宮城県仙台市宮城野区",
+                "poi": "十七夜清水観世音堂"
             }
         }
     ]
