@@ -133769,5 +133769,1937 @@
         <coordinates>140.9303894043,38.3110642000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193163840772440064</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-09</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/HghqRpZZ7O</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI74IDFU0AAdwRb.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県須賀川市東町</value>
+        </Data>
+        <Data name="poi">
+          <value>妙見神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.3813018799,37.2867150000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193358698346729472</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/ChrlHKaIwI</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-pZXsUYAAVD0J.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1813</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193358952819347456</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/5U6mPVtHNf</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-pn10VAAAG4jB.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1821</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193359299633795077</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/PadIoSn0Np</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-p8p6UwAAW_x3.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1760</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193359697060876288</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/iU3EjpiUSh</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-qTE3UYAAgQAb.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1839</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193359901554135040</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/DuVKE76RLy</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-qe5XU8AAnrv1.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193360099701477377</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/61Uch5jnxo</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-qqzHUUAIJVKE.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝永三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1706</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193360324520333313</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/jWcrG435vS</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-q3cmVUAAb2sk.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>嘉永二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1849</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193360562450644992</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/3lX9ySTqtd</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-rFvWU0AAmqvs.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>享和三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1803</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193360743996878849</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/7YOLzQFfFU</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-rQajUEAAywvb.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193361303584116736</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/k8G7n9LHd7</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-rxD3VUAA2eEb.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193361501802975232</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/rjrnIBf33S</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-r8BJUYAEsItB.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193361752768958466</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/8acadUfx3Q</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-sKaFU4AUavMO.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1795</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193361910458044416</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/lNXByiMgJg</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-sUaNUYAA0eCr.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193362191153393664</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/MbDKCl6q9T</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-sk3NU4AU19H7.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政十一年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1799</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193362389942431746</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/NbTAquGj7O</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-swAyU8AEKcng.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦八年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1758</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193362584457449472</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/MWjRrVsEVy</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-s7cqVAAIoHTZ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193363703208370177</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/8TltCje5XI</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-t726UcAAeseO.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1753</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193363856136888321</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/1bmnHErpg5</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-uFu8UcAEN0M_.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1756</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193364340004442114</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/WXeB4CKTm3</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-ug6_U4AEqv34.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1756</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>旧谷中村合同慰霊碑</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6540374756,36.2362230000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193376404651462656</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/FNcaEYevbC</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-5gY0UUAAtgaG.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政十三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1830</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6447448730,36.2450320000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193379261609955328</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/0HGEY6UYU7</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-8GNRUcAYdTg0.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦五年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1755</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>墓地</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6398315430,36.2455880000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193379461409886208</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/CLLZZk571A</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-8SG7UwAEeFnA.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政十三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1830</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>墓地</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6398315430,36.2455880000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193380102823825408</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Wl9fFwjgAS</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI-83Y_UcAEG-ei.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1869</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>墓地</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6398315430,36.2455880000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193385571147640832</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/FgHK0lPv9w</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_B16zU0AAToza.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>八幡宮</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6424865723,36.2502597000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193385676911202304</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/ej1UXJn8bw</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_B8KyUUAA40Q2.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦九年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1759</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>八幡宮</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6424865723,36.2502597000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193386875718758402</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/L2rxpYJqcD</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_C8H2UwAEr4T-.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>昭和八年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1933</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6429290771,36.2500570000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193390506866180096</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Gqq4twUy5j</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_GU1PVAAAKOTa.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>三日月塔 二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1823</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6475067139,36.2505360000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193392084205490178</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/ZOhNWympIZ</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_HwWgUcAAQlz-.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1757</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>繁桂寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6486358643,36.2499950000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193392498816585728</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/9FYr8apkas</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_IIntU8AERO9V.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>慶應四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1868</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>繁桂寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6486358643,36.2499950000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193393231033057280</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/SGMzACd4gd</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_IzkhUwAIPfEQ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>繁桂寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6485443115,36.2500500000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193393995520462848</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/JJF8FwF0qC</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_Jf70U4AAOe_7.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1756</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>繁桂寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6486816406,36.2500700000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193398395089473536</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/xXD39KaHKP</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_NgccUUAAXmE-.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安政三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1856</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>浅間神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6509094238,36.2560010000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193398496658804737</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/AxjqR56iTA</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_NmMqUUAEjv7-.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>浅間神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6509094238,36.2561480000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193402434095210501</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/1vErp87u99</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_RKIFVUAAZMFq.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EI_RLW9UUAEbpnF.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天明三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1783</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>地蔵堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6515350342,36.2589800000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193402577221603328</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/f4eiyBIUQR</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_RSkRU4AAlW8z.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EI_RTzAUwAEK0Pc.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦十二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1762</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>地蔵堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6515350342,36.2589800000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193406313381842944</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/mpshf2lzB8</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_Urm3UUAA8ocP.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EI_UtG6U8AEMA3y.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1795</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>慈福院</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6474304199,36.2571490000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193406564297670656</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/4vLCPe4j3Z</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_U7mhUwAEtA7-.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>慈福院</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6474304199,36.2571490000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193408310579363840</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/HSrmjodoqa</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_WhasUcAENs1L.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化十二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1815</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>慈福院</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6476287842,36.2567660000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193408417940926466</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/co89eF9b6V</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_WntjU0AETZaV.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1757</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>慈福院</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6476287842,36.2567660000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193410649126297605</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/User8DaMIf</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_YpgGU4AAuQHL.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1836</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>宝光寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6467132568,36.2545969000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193410751777538049</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-10</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Occw0moka7</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EI_YvThVAAAvwra.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1795</value>
+        </Data>
+        <Data name="address">
+          <value>栃木県栃木市藤岡町藤岡</value>
+        </Data>
+        <Data name="poi">
+          <value>宝光寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6467132568,36.2545969000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
