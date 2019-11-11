@@ -73756,6 +73756,31 @@
                 "address": "栃木県栃木市藤岡町藤岡",
                 "poi": "宝光寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3587494,
+                    35.598375
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1193740860061388800",
+                "tweet_date": "2019-11-11",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/bSwOmrqock",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EJEE8IZU4AESf9m.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EJEE9GpUcAArUE9.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EJEE-ZeUwAUsClH.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "東京都町田市小山町",
+                "poi": "路傍"
+            }
         }
     ]
 }
