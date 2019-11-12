@@ -73781,6 +73781,56 @@
                 "address": "東京都町田市小山町",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3752594,
+                    37.299513
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1193895859982721024",
+                "tweet_date": "2019-11-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/QtCv5hgBs4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EJGR4v-U8AAD7YI.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市中宿",
+                "poi": "鎌足神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3752594,
+                    37.299513
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1193896226111942656",
+                "tweet_date": "2019-11-11",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/l0lz6txMLF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EJGSOzPUEAAPwSF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市中宿",
+                "poi": "鎌足神社"
+            }
         }
     ]
 }

@@ -135747,5 +135747,97 @@
         <coordinates>139.3587493896,35.5983750000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193895859982721024</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-11</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/QtCv5hgBs4</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EJGR4v-U8AAD7YI.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県須賀川市中宿</value>
+        </Data>
+        <Data name="poi">
+          <value>鎌足神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.3752593994,37.2995130000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1193896226111942656</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-11</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/l0lz6txMLF</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EJGSOzPUEAAPwSF.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県須賀川市中宿</value>
+        </Data>
+        <Data name="poi">
+          <value>鎌足神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.3752593994,37.2995130000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
