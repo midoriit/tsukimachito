@@ -31962,8 +31962,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.344696,
-                    35.6054371
+                    139.3450928,
+                    35.60554
                 ]
             },
             "properties": {
@@ -73830,6 +73830,131 @@
                 "year_built_ce": "",
                 "address": "福島県須賀川市中宿",
                 "poi": "鎌足神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4701538,
+                    36.1995639
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1195199920447209473",
+                "tweet_date": "2019-11-15",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/pMV2UThdhd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EJYz_k_U4AAby9m.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市臼田",
+                "poi": "【訓練】医王寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4713898,
+                    36.241493
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1195207264593793031",
+                "tweet_date": "2019-11-15",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/cbuOgcXgjE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EJY6rEQUEAEkOlp.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市中込",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4313049,
+                    36.3244078
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1195224734083870721",
+                "tweet_date": "2019-11-15",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/9zIAsN1iZm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EJZKj53UYAAzjws.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市与良町二丁目",
+                "poi": "長勝寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.3922882,
+                    36.3207259
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1195233391114768384",
+                "tweet_date": "2019-11-15",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/Ot4472K13p",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EJZSbzvU8AE74ez.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字大久保",
+                "poi": "十二神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.3922729,
+                    36.320996
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1195235060485459969",
+                "tweet_date": "2019-11-15",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/ylmUSmSKqe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EJZT8_FUYAE7XsQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字大久保",
+                "poi": ""
             }
         }
     ]

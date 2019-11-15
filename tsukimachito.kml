@@ -58832,7 +58832,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.3446960449,35.6054371000</coordinates>
+        <coordinates>139.3450927734,35.6055400000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -135837,6 +135837,236 @@
       </ExtendedData>
       <Point>
         <coordinates>140.3752593994,37.2995130000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1195199920447209473</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-15</value>
+        </Data>
+        <Data name="contributor">
+          <value>komoro</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/pMV2UThdhd</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EJYz_k_U4AAby9m.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>長野県佐久市臼田</value>
+        </Data>
+        <Data name="poi">
+          <value>【訓練】医王寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>138.4701538086,36.1995639000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1195207264593793031</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-15</value>
+        </Data>
+        <Data name="contributor">
+          <value>komoro</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/cbuOgcXgjE</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EJY6rEQUEAEkOlp.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>長野県佐久市中込</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>138.4713897705,36.2414930000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1195224734083870721</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-15</value>
+        </Data>
+        <Data name="contributor">
+          <value>komoro</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/9zIAsN1iZm</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EJZKj53UYAAzjws.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>長野県小諸市与良町二丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>長勝寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>138.4313049316,36.3244078000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1195233391114768384</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-15</value>
+        </Data>
+        <Data name="contributor">
+          <value>komoro</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Ot4472K13p</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EJZSbzvU8AE74ez.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>長野県小諸市大字大久保</value>
+        </Data>
+        <Data name="poi">
+          <value>十二神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>138.3922882080,36.3207259000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1195235060485459969</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-15</value>
+        </Data>
+        <Data name="contributor">
+          <value>komoro</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/ylmUSmSKqe</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EJZT8_FUYAE7XsQ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>長野県小諸市大字大久保</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>138.3922729492,36.3209960000</coordinates>
       </Point>
     </Placemark>
   </Document>
