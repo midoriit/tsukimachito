@@ -74131,6 +74131,81 @@
                 "address": "山梨県都留市上谷",
                 "poi": "大室神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.957016,
+                    35.8364022
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1198067500597952513",
+                "tweet_date": "2019-11-23",
+                "contributor": "nyr884",
+                "tweet_url": "https:\/\/t.co\/DY5XfIedYM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKBkB65UcAAhkec.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県伊那市西町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.0592346,
+                    35.837675
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1198116499988172803",
+                "tweet_date": "2019-11-23",
+                "contributor": "nyr884",
+                "tweet_url": "https:\/\/t.co\/5kslbodoqc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKCQmBLUYAAGeWe.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県伊那市高遠町西高遠",
+                "poi": "満光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.0559387,
+                    35.835624
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1198146059169460225",
+                "tweet_date": "2019-11-23",
+                "contributor": "nyr884",
+                "tweet_url": "https:\/\/t.co\/7ZpdUfoL5i",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKCreyIUYAEZUwS.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県伊那市高遠町西高遠",
+                "poi": "天女橋"
+            }
         }
     ]
 }
