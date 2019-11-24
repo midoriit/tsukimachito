@@ -74206,6 +74206,31 @@
                 "address": "長野県伊那市高遠町西高遠",
                 "poi": "天女橋"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.9546814,
+                    35.840473
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1198419346294370304",
+                "tweet_date": "2019-11-24",
+                "contributor": "nyr884",
+                "tweet_url": "https:\/\/t.co\/3eFfGelRT3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKGkBvgUYAAje2j.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県伊那市荒井",
+                "poi": null
+            }
         }
     ]
 }

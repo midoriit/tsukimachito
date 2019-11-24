@@ -136529,5 +136529,51 @@
         <coordinates>138.0559387207,35.8356240000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1198419346294370304</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-24</value>
+        </Data>
+        <Data name="contributor">
+          <value>nyr884</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/3eFfGelRT3</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EKGkBvgUYAAje2j.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十二夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>長野県伊那市荒井</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>137.9546813965,35.8404730000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
