@@ -74229,7 +74229,57 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県伊那市荒井",
-                "poi": null
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8886108,
+                    38.6005881
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1199564759223242752",
+                "tweet_date": "2019-11-27",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/jwGXioOf45",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKW1yFnU8AENMyF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治四年",
+                "year_built_ce": 1871,
+                "address": "宮城県大崎市",
+                "poi": "剱神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9311218,
+                    38.5982369
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1199573257122238465",
+                "tweet_date": "2019-11-27",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/93TX84EYfz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKW9gxlUEAEhiLQ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EKW9gxmUYAAEkoY.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "元治元年",
+                "year_built_ce": 1864,
+                "address": "宮城県大崎市",
+                "poi": "路傍"
             }
         }
     ]

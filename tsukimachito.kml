@@ -136575,5 +136575,97 @@
         <coordinates>137.9546813965,35.8404730000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1199564759223242752</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-27</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/jwGXioOf45</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EKW1yFnU8AENMyF.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1871</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県大崎市</value>
+        </Data>
+        <Data name="poi">
+          <value>剱神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8886108398,38.6005881000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1199573257122238465</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-27</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/93TX84EYfz</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EKW9gxlUEAEhiLQ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EKW9gxmUYAAEkoY.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>元治元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1864</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県大崎市</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9311218262,38.5982369000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
