@@ -74281,6 +74281,206 @@
                 "address": "宮城県大崎市",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7095337,
+                    36.108863
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200255414073344006",
+                "tweet_date": "2019-11-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/iCSqkhuvFH",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKgp7Y9U8AEG4zJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化十三年",
+                "year_built_ce": 1816,
+                "address": "埼玉県久喜市南栗橋八丁目",
+                "poi": "中里霊園"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7075958,
+                    36.100201
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200260209890873344",
+                "tweet_date": "2019-11-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/VG8t5sfCLR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKguSkoVUAE9r9-.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政九年",
+                "year_built_ce": 1826,
+                "address": "埼玉県久喜市大字狐塚",
+                "poi": "高秀寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7103424,
+                    36.098721
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200264067597783040",
+                "tweet_date": "2019-11-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/FUyMrsOcnq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKgxzDEU0AAqfPR.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保三年",
+                "year_built_ce": 1832,
+                "address": "埼玉県幸手市大字松石",
+                "poi": "残光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7087708,
+                    36.093115
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200274417298731009",
+                "tweet_date": "2019-11-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/CBvid8r4dj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKg7M4dVUAAuJn6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安政三年",
+                "year_built_ce": 1856,
+                "address": "埼玉県幸手市大字千塚",
+                "poi": "法蔵寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.704361,
+                    36.091609
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200276811113910272",
+                "tweet_date": "2019-11-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/yHItIuwCHK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKg9XMRU0AA77Si.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EKg9YVlUYAAOMD-.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保二年",
+                "year_built_ce": 1831,
+                "address": "埼玉県幸手市大字千塚",
+                "poi": "真乗院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7062225,
+                    36.096115
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200280363055992832",
+                "tweet_date": "2019-11-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/3nGcnTNI9c",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKhAnpzU8AE8VyN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政十三年",
+                "year_built_ce": 1830,
+                "address": "埼玉県幸手市大字円藤内",
+                "poi": "寳積院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6970673,
+                    36.097294
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200284528478023680",
+                "tweet_date": "2019-11-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/kc7qt2mdgK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKhEZzLVAAA6pxz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化十年",
+                "year_built_ce": 1813,
+                "address": "埼玉県久喜市八甫三丁目",
+                "poi": "観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6985168,
+                    36.078955
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200294395611734017",
+                "tweet_date": "2019-11-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/aQbTrokgJi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKhNYANU8AAQKGQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保十四年",
+                "year_built_ce": 1843,
+                "address": "埼玉県幸手市大字中川崎",
+                "poi": "香取神社"
+            }
         }
     ]
 }

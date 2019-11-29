@@ -136667,5 +136667,373 @@
         <coordinates>140.9311218262,38.5982369000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1200255414073344006</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/iCSqkhuvFH</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EKgp7Y9U8AEG4zJ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化十三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1816</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県久喜市南栗橋八丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>中里霊園</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7095336914,36.1088630000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1200260209890873344</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/VG8t5sfCLR</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EKguSkoVUAE9r9-.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政九年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1826</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県久喜市大字狐塚</value>
+        </Data>
+        <Data name="poi">
+          <value>高秀寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7075958252,36.1002010000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1200264067597783040</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/FUyMrsOcnq</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EKgxzDEU0AAqfPR.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1832</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県幸手市大字松石</value>
+        </Data>
+        <Data name="poi">
+          <value>残光寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7103424072,36.0987210000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1200274417298731009</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/CBvid8r4dj</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EKg7M4dVUAAuJn6.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安政三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1856</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県幸手市大字千塚</value>
+        </Data>
+        <Data name="poi">
+          <value>法蔵寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7087707520,36.0931150000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1200276811113910272</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/yHItIuwCHK</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EKg9XMRU0AA77Si.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EKg9YVlUYAAOMD-.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1831</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県幸手市大字千塚</value>
+        </Data>
+        <Data name="poi">
+          <value>真乗院</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7043609619,36.0916090000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1200280363055992832</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/3nGcnTNI9c</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EKhAnpzU8AE8VyN.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政十三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1830</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県幸手市大字円藤内</value>
+        </Data>
+        <Data name="poi">
+          <value>寳積院</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.7062225342,36.0961150000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1200284528478023680</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/kc7qt2mdgK</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EKhEZzLVAAA6pxz.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1813</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県久喜市八甫三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>観音堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6970672607,36.0972940000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1200294395611734017</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-11-29</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/aQbTrokgJi</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EKhNYANU8AAQKGQ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保十四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1843</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県幸手市大字中川崎</value>
+        </Data>
+        <Data name="poi">
+          <value>香取神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.6985168457,36.0789550000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
