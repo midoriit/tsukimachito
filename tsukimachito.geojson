@@ -74481,6 +74481,956 @@
                 "address": "埼玉県幸手市大字中川崎",
                 "poi": "香取神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1486664,
+                    35.827265
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200596585765167105",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/jrFRq40EXW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKlgI83UEAAtjH-.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EKlgMC3VAAAXUn3.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EKlgOCxU8AAAoyP.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政三年",
+                "year_built_ce": 1820,
+                "address": "千葉県印西市大森",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1486664,
+                    35.827265
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200596670863441925",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/VlJ8SLIxZ3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKlgSrNUcAA6Q9c.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永五年",
+                "year_built_ce": 1852,
+                "address": "千葉県印西市大森",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1441193,
+                    35.822617
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200603444790218753",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/XFXOn6tV25",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKlmcl_X0AAmEvf.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保十一年",
+                "year_built_ce": 1840,
+                "address": "千葉県印西市大森",
+                "poi": "古新田青年館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1441193,
+                    35.822617
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200603945887916032",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/UGZ4NxTwwi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKlm5SRXsAAc8Cg.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政二年",
+                "year_built_ce": 1819,
+                "address": "千葉県印西市大森",
+                "poi": "古新田青年館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1441193,
+                    35.822617
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200604186993254400",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/279QAHl4lP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKlnHpaXYAEmnT5.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印西市大森",
+                "poi": "古新田青年館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1441193,
+                    35.822617
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200604568087715840",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/07UoSW4jko",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKlna0IWoAAsIkx.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EKlndGKXsAcUkEt.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印西市大森",
+                "poi": "古新田青年館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1441193,
+                    35.822617
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200605062302597120",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mfDIOEdZ86",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKln34tWoAEOqNt.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EKln59kWoAATJdt.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保七年",
+                "year_built_ce": 1722,
+                "address": "千葉県印西市大森",
+                "poi": "古新田青年館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1441193,
+                    35.822617
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200605352162541568",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/assOuDkRW1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKloK_eXYAEAcgq.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦六年",
+                "year_built_ce": 1756,
+                "address": "千葉県印西市大森",
+                "poi": "古新田青年館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1443176,
+                    35.8226
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200606544569589760",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/CfwqUKyVVA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKlpMxgWkAIPUle.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印西市大森",
+                "poi": "古新田青年館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1443176,
+                    35.8226
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200607162675818496",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Y7zsM2bCwN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKlpwajWwAA1PYH.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EKlpzIMXkAEt0h7.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治二十五年",
+                "year_built_ce": 1892,
+                "address": "千葉県印西市大森",
+                "poi": "古新田青年館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1232147,
+                    35.821222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200620072307347457",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/iAkhbjcCOn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKl1kjVWwAEtxCP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和58年",
+                "year_built_ce": 1983,
+                "address": "千葉県印西市和泉",
+                "poi": "和泉会館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1232147,
+                    35.821222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200620479075143680",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Ht1N1shO4b",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKl18J-WwAAs1Bs.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和48年",
+                "year_built_ce": 1973,
+                "address": "千葉県印西市和泉",
+                "poi": "和泉会館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1232147,
+                    35.821222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200620941094445058",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/zp1wpNCNOd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKl2WNRWwAAXGty.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政元年",
+                "year_built_ce": 1818,
+                "address": "千葉県印西市和泉",
+                "poi": "和泉会館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1232147,
+                    35.821222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200621297920696325",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/RK6knDrCSv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKl2riOWoAADaR9.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元禄五年",
+                "year_built_ce": 1692,
+                "address": "千葉県印西市和泉",
+                "poi": "和泉会館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1232147,
+                    35.821222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200621865590382594",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/4XR0w7qBk9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKl3MuTXYAEAiwN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "延宝五年",
+                "year_built_ce": 1677,
+                "address": "千葉県印西市和泉",
+                "poi": "和泉会館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1232147,
+                    35.821222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200622373688332288",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/dg4Hy8Lpaz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKl3qXYWwAEDM6X.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印西市和泉",
+                "poi": "和泉会館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1232147,
+                    35.821222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200623289485291520",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/sMKLhjHf7Q",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKl4bYPXsAABqfs.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EKl4doFXUAE8ckB.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EKl4fckXYAE4-zm.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛文八年",
+                "year_built_ce": 1668,
+                "address": "千葉県印西市和泉",
+                "poi": "和泉会館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1232147,
+                    35.821222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200624202241302529",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/GCZcaBH6EY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKl5UxmWsAEgOEa.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十六夜塔",
+                "year_built": "宝暦元年",
+                "year_built_ce": 1751,
+                "address": "千葉県印西市和泉",
+                "poi": "和泉会館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.116272,
+                    35.819044
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200629756393213952",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Ajb5ybYEO2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKl-YkyU4AAvk7l.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治十九年",
+                "year_built_ce": 1886,
+                "address": "千葉県印西市小倉",
+                "poi": "小倉集会所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1058197,
+                    35.819001
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200637029689593856",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/9nDGhEIUTj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmE_baUwAA20JA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政三年",
+                "year_built_ce": 1856,
+                "address": "千葉県印西市浦部",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1029358,
+                    35.820097
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200639867257905152",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ucxe1DmaJ1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmHlPjVUAIdOz7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永八年",
+                "year_built_ce": 1779,
+                "address": "千葉県印西市白幡",
+                "poi": "吉祥院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1029358,
+                    35.820097
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200640270468927488",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/xo4ZKzQIbk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmH8sfU8AAdr6A.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印西市白幡",
+                "poi": "吉祥院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1029358,
+                    35.820097
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200640640809177088",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ML6204kdst",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmIShaUYAANvXs.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "平成四年",
+                "year_built_ce": 1992,
+                "address": "千葉県印西市白幡",
+                "poi": "吉祥院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1029358,
+                    35.820097
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200641190791528449",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ltPCYnBvTm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmIxvSUwAAcUzc.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "平成二十一年",
+                "year_built_ce": 2009,
+                "address": "千葉県印西市白幡",
+                "poi": "吉祥院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1029358,
+                    35.820097
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200642095087681538",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/jss67rNqhf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmJmxiU8AA2YLz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保十年",
+                "year_built_ce": 1839,
+                "address": "千葉県印西市白幡",
+                "poi": "吉祥院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1029358,
+                    35.820097
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200642441981808641",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/J9Ffz9VEAH",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmJ7D7VAAAInC1.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印西市白幡",
+                "poi": "吉祥院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1227875,
+                    35.8327671
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200656713734479872",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/KzuhYURSbl",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmW5uRVAAIpswi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政六年",
+                "year_built_ce": 1823,
+                "address": "千葉県印西市発作",
+                "poi": "発作上集会所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1227875,
+                    35.8327671
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200656887059845120",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/nr4X46q1Uq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmXDjtUYAAiWJJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治30年",
+                "year_built_ce": 1897,
+                "address": "千葉県印西市発作",
+                "poi": "発作上集会所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1227875,
+                    35.8327671
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200657144724389894",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/NVufXe78gg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmXSzKU0AAVgQp.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "大正三年",
+                "year_built_ce": 1914,
+                "address": "千葉県印西市発作",
+                "poi": "発作上集会所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1227875,
+                    35.8327671
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200657644815409152",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mkkn5STOgM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmXvvLU4AAjYXn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印西市発作",
+                "poi": "発作上集会所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1227875,
+                    35.8327671
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200657861644128257",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/tJ9jhvDmcN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmX8bOVUAE9pXl.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印西市発作",
+                "poi": "発作上集会所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1227875,
+                    35.8327671
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200658109363941378",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/2MexoZORjd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmYKhJUwAA_Y2d.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "大正十五年",
+                "year_built_ce": 1926,
+                "address": "千葉県印西市発作",
+                "poi": "発作上集会所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1227875,
+                    35.8327671
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200658300662009856",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/uhE1VSkEPw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmYVsWUEAARTL4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和四年",
+                "year_built_ce": 1929,
+                "address": "千葉県印西市発作",
+                "poi": "発作上集会所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1227875,
+                    35.8327671
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200658518962917376",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/66wSN5aa6W",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmYiw4VAAErX8i.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和七年",
+                "year_built_ce": 1932,
+                "address": "千葉県印西市発作",
+                "poi": "発作上集会所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1227875,
+                    35.8327671
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200658729747636224",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/AbizsJ6vld",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmYu8iU8AAoZAh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和十年",
+                "year_built_ce": 1935,
+                "address": "千葉県印西市発作",
+                "poi": "発作上集会所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1227875,
+                    35.8327671
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200658946895204352",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pnn753Yo5H",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmY73cUwAAFKEz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和十三年",
+                "year_built_ce": 1938,
+                "address": "千葉県印西市発作",
+                "poi": "発作上集会所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1265717,
+                    35.838642
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200662467904360448",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mpyzXS8is0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmcIboUYAAxHwO.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "大正十五年",
+                "year_built_ce": 1926,
+                "address": "千葉県印西市発作",
+                "poi": "厳島神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1265717,
+                    35.838642
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1200662705973035010",
+                "tweet_date": "2019-11-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/PVQBBWBAai",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EKmcWfDUEAYLuJ1.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印西市発作",
+                "poi": "厳島神社"
+            }
         }
     ]
 }
