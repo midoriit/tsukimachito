@@ -16387,8 +16387,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.8301239,
-                    36.3606908
+                    139.8305511,
+                    36.3607
                 ]
             },
             "properties": {
@@ -75430,6 +75430,31 @@
                 "year_built_ce": "",
                 "address": "千葉県印西市発作",
                 "poi": "厳島神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6174622,
+                    37.9953185
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1204645704397770753",
+                "tweet_date": "2019-12-11",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/FVisV6fZok",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELfC34rUUAE9bB2.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ELfC34tU8AAcsW4.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化二年",
+                "year_built_ce": 1845,
+                "address": "宮城県白石市",
+                "poi": "傑山寺十一面子安観世音菩薩堂"
             }
         }
     ]

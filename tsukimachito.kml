@@ -30174,7 +30174,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.8301239014,36.3606908000</coordinates>
+        <coordinates>139.8305511475,36.3607000000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -138781,6 +138781,52 @@
       </ExtendedData>
       <Point>
         <coordinates>140.1265716553,35.8386420000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1204645704397770753</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-12-11</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/FVisV6fZok</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ELfC34rUUAE9bB2.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/ELfC34tU8AAcsW4.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>弘化二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1845</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県白石市</value>
+        </Data>
+        <Data name="poi">
+          <value>傑山寺十一面子安観世音菩薩堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.6174621582,37.9953185000</coordinates>
       </Point>
     </Placemark>
   </Document>
