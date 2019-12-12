@@ -75456,6 +75456,281 @@
                 "address": "宮城県白石市",
                 "poi": "傑山寺十一面子安観世音菩薩堂"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0511322,
+                    36.307888
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1204966468590325761",
+                "tweet_date": "2019-12-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7fFnYLTrd0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELjmll6UwAAGQF1.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県高崎市矢中町",
+                "poi": "泉藏寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0513611,
+                    36.316425
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1204970932525096960",
+                "tweet_date": "2019-12-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/6E8j0Nbpfb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELjqpA3U0AA3LG5.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ELjqqNUU0AAHzGp.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永元年",
+                "year_built_ce": 1848,
+                "address": "群馬県高崎市柴崎町",
+                "poi": "光明寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0423126,
+                    36.323898
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1204977331338502145",
+                "tweet_date": "2019-12-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/9kZzkBu1vG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELjwcoHU8AAfacV.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ELjwd27UwAEsyEe.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/ELjwfJaUcAIFSFY.jpg",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文化六年",
+                "year_built_ce": 1809,
+                "address": "群馬県高崎市南大類町",
+                "poi": "柳原馬頭観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0423126,
+                    36.323898
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1204977688659689472",
+                "tweet_date": "2019-12-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/PtY7nix677",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELjwyGiUEAENRmU.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ELjwziHUcAA9yGt.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県高崎市南大類町",
+                "poi": "柳原馬頭観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0423126,
+                    36.323898
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1204978114683518976",
+                "tweet_date": "2019-12-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/33xqlEsAcN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELjxLGKUUAA14X2.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ELjxMXVUcAEZ-ZB.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "寛政十一年",
+                "year_built_ce": 1799,
+                "address": "群馬県高崎市南大類町",
+                "poi": "柳原馬頭観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0427094,
+                    36.328996
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1204982082834849793",
+                "tweet_date": "2019-12-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ycZKDpXRcu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELj0xs2U4AACLx7.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ELj0zYpUwAAVqNa.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "寛政十一年",
+                "year_built_ce": 1799,
+                "address": "群馬県高崎市南大類町",
+                "poi": "慈願寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0466919,
+                    36.340503
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1204986773874434048",
+                "tweet_date": "2019-12-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/OqZWGdFnis",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELj5ExuVAAAzKLZ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文化八年",
+                "year_built_ce": 1811,
+                "address": "群馬県高崎市矢島町",
+                "poi": "眼聖寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.046814,
+                    36.340517
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1204987405448577024",
+                "tweet_date": "2019-12-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/bTGAev6aRz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELj5pdaUYAIecMx.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治十七年",
+                "year_built_ce": 1884,
+                "address": "群馬県高崎市矢島町",
+                "poi": "眼聖寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0351257,
+                    36.33533
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1204992033040945152",
+                "tweet_date": "2019-12-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/BmH744NQ8p",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELj90D6U0AEM1tU.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ELj911gUUAECzTM.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文久二年",
+                "year_built_ce": 1862,
+                "address": "群馬県高崎市上大類町",
+                "poi": "安楽寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0243988,
+                    36.344217
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1204998532769255424",
+                "tweet_date": "2019-12-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/SGMw9rSFWv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELkDxF5UUAAlv6C.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "嘉永六年",
+                "year_built_ce": 1853,
+                "address": "群馬県高崎市貝沢町",
+                "poi": "五霊神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0210419,
+                    36.333097
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1205005064542121986",
+                "tweet_date": "2019-12-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/F8U4AvhPDF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELkJtApUEAE9FrW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文化六年",
+                "year_built_ce": 1809,
+                "address": "群馬県高崎市江木町",
+                "poi": "眞楽寺"
+            }
         }
     ]
 }
