@@ -75731,6 +75731,431 @@
                 "address": "群馬県高崎市江木町",
                 "poi": "眞楽寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7989044,
+                    36.305155
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206033413813129216",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Dic5qwnlev",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELyw-xdVUAERDcZ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "嘉永三年",
+                "year_built_ce": 1850,
+                "address": "栃木県小山市天神町一丁目",
+                "poi": "天満宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7873688,
+                    36.304432
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206042228092624897",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/NYlvZGBYZP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELy49QEVUAAYcrY.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ELy4_F_UcAEUYNj.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県小山市大字外城",
+                "poi": "鷲神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7873688,
+                    36.304432
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206042249395503104",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/0A6t6729lt",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELy5AcZU0AAnrQi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県小山市大字外城",
+                "poi": "鷲神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.748764,
+                    36.306817
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206057545153970176",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/UcXphB4TPr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELzG6ZbU0AEF9nY.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ELzG74dUEAAFjSn.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県小山市大字小袋",
+                "poi": "小袋公民館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.748764,
+                    36.306817
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206057833642393600",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/BUZJU7gsEV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELzHMQZVAAABklv.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保十二年",
+                "year_built_ce": 1727,
+                "address": "栃木県小山市大字小袋",
+                "poi": "小袋公民館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.748764,
+                    36.306817
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206058212849356802",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ulk7aVJWEl",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELzHiS5UwAAhXl3.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文久二年",
+                "year_built_ce": 1862,
+                "address": "栃木県小山市大字小袋",
+                "poi": "小袋公民館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7444,
+                    36.305186
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206062917210083328",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/i2RhDWiEIQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELzLzItU0AAUHxq.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ELzL0XfU8AASwma.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "慶應四年",
+                "year_built_ce": 1868,
+                "address": "栃木県小山市大字井岡",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.735672,
+                    36.3051
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206071262985932801",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ZMe6oaQSV9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELzTaNPUwAUOhmU.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "慶應二年",
+                "year_built_ce": 1866,
+                "address": "栃木県小山市大字下泉",
+                "poi": "下泉公民館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7269287,
+                    36.302775
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206080542027833345",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/WvpXklt4O6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELzb2t6U4AA2E_9.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛延元年",
+                "year_built_ce": 1748,
+                "address": "栃木県小山市大字押切",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7269287,
+                    36.302775
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206080666896519168",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/oVv1Wl3fHu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELzb9uGUwAIggjg.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天明四年",
+                "year_built_ce": 1784,
+                "address": "栃木県小山市大字押切",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7269287,
+                    36.302775
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206080770021810183",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/C5p2qZofmy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELzcDinVAAEqJSY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保十一年",
+                "year_built_ce": 1840,
+                "address": "栃木県小山市大字押切",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7269287,
+                    36.302775
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206080930630078465",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/uMPo4RwMtp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELzcNAYVUAAqHIQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治四年",
+                "year_built_ce": 1871,
+                "address": "栃木県小山市大字押切",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7368011,
+                    36.317615
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206089500306182144",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/KgNInaJcZV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELzj_amUcAATUU4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県小山市大字上泉",
+                "poi": "円満寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.73703,
+                    36.318285
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206090725953114113",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/nE8NYW0wI2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELzlG1gU0AE3mAi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県小山市大字上泉",
+                "poi": "円満寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7651825,
+                    36.312958
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206102793737527296",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7OA0N9HIdV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELzwDXGU0AA8hNs.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ELzwFFIUYAA3Goj.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政三年",
+                "year_built_ce": 1791,
+                "address": "栃木県小山市大字下国府塚",
+                "poi": "興永寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7650909,
+                    36.312978
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206103494819663872",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/dBfKCprxyI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELzwuQIU0AA_EQP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "嘉永四年",
+                "year_built_ce": 1851,
+                "address": "栃木県小山市大字下国府塚",
+                "poi": "興永寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7838593,
+                    36.313118
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1206110561215209474",
+                "tweet_date": "2019-12-15",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/GjoW01mBgj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ELz3JgyUcAEsQY0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保六年",
+                "year_built_ce": 1835,
+                "address": "栃木県小山市大字大行寺",
+                "poi": "路傍"
+            }
         }
     ]
 }
