@@ -16162,8 +16162,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7331543,
-                    36.240438
+                    139.7331696,
+                    36.240433
                 ]
             },
             "properties": {
@@ -16187,8 +16187,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7331543,
-                    36.240438
+                    139.7331696,
+                    36.240433
                 ]
             },
             "properties": {
@@ -16212,8 +16212,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7331543,
-                    36.240438
+                    139.7331696,
+                    36.240433
                 ]
             },
             "properties": {
@@ -40788,7 +40788,7 @@
                 "type": "Point",
                 "coordinates": [
                     139.6125793,
-                    36.2204713
+                    36.22031
                 ]
             },
             "properties": {
@@ -40812,8 +40812,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.6127167,
-                    36.2211781
+                    139.6125793,
+                    36.22031
                 ]
             },
             "properties": {
@@ -76155,6 +76155,31 @@
                 "year_built_ce": 1835,
                 "address": "栃木県小山市大字大行寺",
                 "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8157043,
+                    35.857658
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1207858415751426048",
+                "tweet_date": "2019-12-20",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/aprOXlK7xB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMMs0P0U4AAX3KF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元禄十三年",
+                "year_built_ce": 1700,
+                "address": "埼玉県草加市青柳八丁目",
+                "poi": "青柳町上会館"
             }
         }
     ]

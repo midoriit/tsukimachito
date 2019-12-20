@@ -29760,7 +29760,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7331542969,36.2404380000</coordinates>
+        <coordinates>139.7331695557,36.2404330000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -29806,7 +29806,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7331542969,36.2404380000</coordinates>
+        <coordinates>139.7331695557,36.2404330000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -29852,7 +29852,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7331542969,36.2404380000</coordinates>
+        <coordinates>139.7331695557,36.2404330000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -75070,7 +75070,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.6125793457,36.2204713000</coordinates>
+        <coordinates>139.6125793457,36.2203100000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -75116,7 +75116,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.6127166748,36.2211781000</coordinates>
+        <coordinates>139.6125793457,36.2203100000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -140115,6 +140115,52 @@
       </ExtendedData>
       <Point>
         <coordinates>139.7838592529,36.3131180000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1207858415751426048</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2019-12-20</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/aprOXlK7xB</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EMMs0P0U4AAX3KF.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>元禄十三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1700</value>
+        </Data>
+        <Data name="address">
+          <value>埼玉県草加市青柳八丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>青柳町上会館</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.8157043457,35.8576580000</coordinates>
       </Point>
     </Placemark>
   </Document>
