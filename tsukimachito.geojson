@@ -76181,6 +76181,681 @@
                 "address": "埼玉県草加市青柳八丁目",
                 "poi": "青柳町上会館"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7565308,
+                    36.262591
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208212796967571457",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/IWXnKR4hqc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMRvEzVU8AAsb64.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EMRvHCYVUAAuM8t.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十六夜塔",
+                "year_built": "宝永七年",
+                "year_built_ce": 1710,
+                "address": "栃木県小山市乙女一丁目",
+                "poi": "乙女北浦墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7503204,
+                    36.260461
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208216320426119168",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/AX4559E37M",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMRyU3TU0AExBm0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文久元年",
+                "year_built_ce": 1861,
+                "address": "栃木県小山市大字乙女",
+                "poi": "神明宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7467346,
+                    36.268554
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208220746415104000",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/NbY7LDeOMh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMR2WblUEAA3dZg.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保二年",
+                "year_built_ce": 1831,
+                "address": "栃木県小山市大字網戸",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7474213,
+                    36.270491
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208222119785455617",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/QVR5LDNhyC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMR3l6aVUAAwlhl.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "慶應三年",
+                "year_built_ce": 1867,
+                "address": "栃木県小山市大字網戸",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7474213,
+                    36.270491
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208222475412074496",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/VCGrQtqOiy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMR362-VAAUoUd3.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永二年",
+                "year_built_ce": 1773,
+                "address": "栃木県小山市大字網戸",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7454376,
+                    36.271716
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208228426491912192",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/BA72v9WYGN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMR9U78U4AEJBCR.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政四年",
+                "year_built_ce": 1821,
+                "address": "栃木県小山市大字網戸",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7323303,
+                    36.264215
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208239131467239424",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/y19YN1ASwu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSG_ZhUcAAg8aT.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EMSHBD9U0AcLvFp.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EMSHDjQVUAADYyg.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天明四年",
+                "year_built_ce": 1784,
+                "address": "栃木県小山市大字生良",
+                "poi": "生良公民館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7381592,
+                    36.260682
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208244628589137920",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/3CfdXg2Fi4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSMAHPUcAA8PAy.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EMSMBw-UEAArJVv.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EMSMDfoUwAgIc-C.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化八年",
+                "year_built_ce": 1811,
+                "address": "栃木県小山市大字楢木",
+                "poi": "楢木公民館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7384796,
+                    36.259436
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208246445893009408",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/NiSFbr3qqT",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSNuKIU8AACoGj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十一年",
+                "year_built_ce": 1814,
+                "address": "栃木県小山市大字楢木",
+                "poi": "水神宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7375488,
+                    36.257414
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208248543548301312",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/W2FrDyjwzs",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSPn20U0AUL_M4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化三年",
+                "year_built_ce": 1806,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7375488,
+                    36.257414
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208248634644422661",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/r3ugUgAHOG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSPtR1U4AAzezG.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元文二年",
+                "year_built_ce": 1737,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7372437,
+                    36.258102
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208249873721483269",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/aYjRGF84T9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSQ1XLUYAAjK1D.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治33年",
+                "year_built_ce": 1900,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "水神宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7367706,
+                    36.258127
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208251541708083200",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/gGbXSk1Ltq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSSWw3U4AAsqb6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永六年",
+                "year_built_ce": 1777,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7367706,
+                    36.258127
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208252009838628864",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/JeSfpUTcKO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSSx7XUcAE_1ah.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治38年",
+                "year_built_ce": 1905,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7367706,
+                    36.258127
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208252437812801536",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/eQ7YZNW2Jh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSTKgqVAAE3Yxd.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文久元年",
+                "year_built_ce": 1861,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7367706,
+                    36.258127
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208252905175699456",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/cdc4p48AKv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSTl-5UwAIPI51.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和六年",
+                "year_built_ce": 1931,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7322998,
+                    36.257412
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208261797221814272",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7moqa22rSJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSbrtpU4AA0z66.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化二年",
+                "year_built_ce": 1805,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "水神宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7322998,
+                    36.257412
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208262155536977920",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ngPLWr62Mk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSb_2yUcAMJp9Q.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元文二年",
+                "year_built_ce": 1737,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "水神宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7322998,
+                    36.257412
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208262594202456064",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/xUZnDKczGg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMScZyeUEAAFBUV.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永五年",
+                "year_built_ce": 1776,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "水神宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7322998,
+                    36.257412
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208263198467510272",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/yP5wKUgFZP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSc7gHVAAAYujj.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EMSc9GdU4AAsxV1.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治21年",
+                "year_built_ce": 1888,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "水神宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7322998,
+                    36.257412
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208263595668078592",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/kJn23v8QVz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSdUpMUUAAYDy0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安政三年",
+                "year_built_ce": 1856,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "水神宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7322998,
+                    36.257412
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208263872487968770",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mEzUyDxCq0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSdkqrU0AABAsK.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保四年",
+                "year_built_ce": 1833,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "水神宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7322998,
+                    36.257412
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208264206895632384",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/JDJTuCHvtb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSd4bWU0AAXqvL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "大正十五年",
+                "year_built_ce": 1926,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "水神宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7317657,
+                    36.247404
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208274516519972864",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/S4wLU3sEbM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSnO6YUwAAlSyV.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EMSnQe7U4AA5BX5.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文久元年",
+                "year_built_ce": 1861,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7317657,
+                    36.247404
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208274777065963523",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mkg1dPmB49",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSne1LU8AAHjjm.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7317657,
+                    36.247404
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208275088723701760",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/FEmaUsJiqm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSnxrHU8AAB_p6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永七年",
+                "year_built_ce": 1778,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7359467,
+                    36.24374
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1208279715837931521",
+                "tweet_date": "2019-12-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/5CnbUgAl0R",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMSr-oSU8AAyk76.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十六夜塔",
+                "year_built": "享保十五年",
+                "year_built_ce": 1730,
+                "address": "栃木県下都賀郡野木町大字友沼",
+                "poi": "法音寺"
+            }
         }
     ]
 }
