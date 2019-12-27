@@ -77131,6 +77131,31 @@
                 "address": "福島県伊達市梁川町舟生寺ノ上山",
                 "poi": "昌源寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.419281,
+                    36.2949115
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1210423966050840576",
+                "tweet_date": "2019-12-27",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/jffW6qmfst",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EMxKLpsUUAA8ZlJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字山浦宮沢",
+                "poi": "宮"
+            }
         }
     ]
 }
