@@ -77154,7 +77154,482 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市大字山浦宮沢",
-                "poi": "宮"
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.713501,
+                    36.246885
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211115183571005440",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/OwWYvWBLzx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM6-1HWVAAA5VQk.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安政三年",
+                "year_built_ce": 1856,
+                "address": "栃木県小山市大字下生井",
+                "poi": "薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.713501,
+                    36.246885
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211115423095128066",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/duiMHgs9vM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM6_C-ZUwAAni0o.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永七年",
+                "year_built_ce": 1778,
+                "address": "栃木県小山市大字下生井",
+                "poi": "薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.713501,
+                    36.246885
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211115660706631681",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/0NIIH8EkDz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM6_QKNU4AAdtUo.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化八年",
+                "year_built_ce": 1811,
+                "address": "栃木県小山市大字下生井",
+                "poi": "薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.713501,
+                    36.246885
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211116192355647489",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/lojKQ20NGZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM6_skwUcAAWEZT.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EM6_uTjUEAAph6E.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県小山市大字下生井",
+                "poi": "薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7088623,
+                    36.244869
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211122275774189569",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/3gacmoAqEq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM7FRiCU0AAzLPg.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治二十年",
+                "year_built_ce": 1887,
+                "address": "栃木県小山市大字下生井",
+                "poi": "櫻源寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7088623,
+                    36.244869
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211122699809914880",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/TQ4ejU4bpz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM7FqzuVUAAzywX.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "慶應四年",
+                "year_built_ce": 1868,
+                "address": "栃木県小山市大字下生井",
+                "poi": "櫻源寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7060394,
+                    36.255479
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211133229689753600",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/rmdsQszOCQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM7PO5WVUAAoVxk.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保九年",
+                "year_built_ce": 1838,
+                "address": "栃木県小山市大字白鳥",
+                "poi": "白鳥八幡宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7061005,
+                    36.255479
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211133653998174212",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/NbFt9iyzYQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM7PmqyUEAANYIr.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永五年",
+                "year_built_ce": 1776,
+                "address": "栃木県小山市大字白鳥",
+                "poi": "白鳥八幡宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6970367,
+                    36.252483
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211143513150115840",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/2fDONAYm4l",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM7Yl2QU8AEJfZb.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県栃木市藤岡町石川",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6970367,
+                    36.252483
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211143685552762880",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/DKjJejutjS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM7YtwTUYAA012U.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EM7YvjwVUAE3NhL.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保二十年",
+                "year_built_ce": 1735,
+                "address": "栃木県栃木市藤岡町石川",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.693512,
+                    36.258208
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211147665553031168",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/3WlgXOl2wo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM7cXwoU4AEer1b.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化四年",
+                "year_built_ce": 1807,
+                "address": "栃木県栃木市藤岡町石川",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6989594,
+                    36.259868
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211153472545886209",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/AuY9btR9og",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM7hpIjUUAACOuY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保四年",
+                "year_built_ce": 1833,
+                "address": "栃木県栃木市藤岡町部屋",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6989594,
+                    36.259868
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211153966085505029",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/DTIQHi4lF8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM7iD0NVAAEYtCA.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EM7iGJnUcAAEewy.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元文三年",
+                "year_built_ce": 1738,
+                "address": "栃木県栃木市藤岡町部屋",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.6989594,
+                    36.259868
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211154451177754624",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/TPQqmuKhFp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM7iiQeUUAAlQZh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政四年",
+                "year_built_ce": 1792,
+                "address": "栃木県栃木市藤岡町部屋",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7080383,
+                    36.267103
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211160819527929857",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mvRI4DTToR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM7oVONUYAAzu8Q.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政十三年",
+                "year_built_ce": 1801,
+                "address": "栃木県栃木市藤岡町部屋",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7092285,
+                    36.26788
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211161759639191553",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/8Cy5DPrLUZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM7pMUdUYAEOw8a.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政六年",
+                "year_built_ce": 1794,
+                "address": "栃木県栃木市藤岡町部屋",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7115326,
+                    36.270082
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211164826623336448",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/BF7FWvpQ3t",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM7r-1yUYAoWbIf.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化十三年",
+                "year_built_ce": 1816,
+                "address": "栃木県栃木市藤岡町部屋",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7115326,
+                    36.270082
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211164963483422720",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/sKnqLNTtAv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM7sFIKUEAALffw.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EM7sGStU4AAXa_u.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦六年",
+                "year_built_ce": 1756,
+                "address": "栃木県栃木市藤岡町部屋",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7144012,
+                    36.2707
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1211167391612203009",
+                "tweet_date": "2019-12-29",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/e2wCpvDFgg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EM7uTzVU0AAb0Jt.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政八年",
+                "year_built_ce": 1796,
+                "address": "栃木県栃木市藤岡町部屋",
+                "poi": "路傍"
             }
         }
     ]
