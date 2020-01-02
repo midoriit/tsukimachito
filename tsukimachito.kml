@@ -142831,5 +142831,189 @@
         <coordinates>139.7144012451,36.2707000000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1212599763754831872</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/kVYiRHBGkI</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENQE5lbVUAEeIH1.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県郡山市田村町守山大町</value>
+        </Data>
+        <Data name="poi">
+          <value>守山大町供養塔群</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4078369141,37.3352650000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1212600233642713090</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/h3jfM0eGRH</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENQFbFSVAAAkLQY.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県郡山市田村町守山大町</value>
+        </Data>
+        <Data name="poi">
+          <value>守山大町供養塔群</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4078369141,37.3352650000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1212600637646503937</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/I0qUmChX2N</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENQFqz9UEAAv7Lr.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県郡山市田村町守山大町</value>
+        </Data>
+        <Data name="poi">
+          <value>守山大町供養塔群</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4078369141,37.3352650000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1212601800542449664</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/XFWwT11Uic</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENQGt0RUcAcosGb.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝暦2年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1752</value>
+        </Data>
+        <Data name="address">
+          <value>福島県郡山市田村町守山大町</value>
+        </Data>
+        <Data name="poi">
+          <value>守山大町供養塔群</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4078369141,37.3352650000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

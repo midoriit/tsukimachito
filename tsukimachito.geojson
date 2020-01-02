@@ -77631,6 +77631,106 @@
                 "address": "栃木県栃木市藤岡町部屋",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4078369,
+                    37.335265
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1212599763754831872",
+                "tweet_date": "2020-01-02",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/kVYiRHBGkI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENQE5lbVUAEeIH1.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市田村町守山大町",
+                "poi": "守山大町供養塔群"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4078369,
+                    37.335265
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1212600233642713090",
+                "tweet_date": "2020-01-02",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/h3jfM0eGRH",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENQFbFSVAAAkLQY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市田村町守山大町",
+                "poi": "守山大町供養塔群"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4078369,
+                    37.335265
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1212600637646503937",
+                "tweet_date": "2020-01-02",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/I0qUmChX2N",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENQFqz9UEAAv7Lr.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市田村町守山大町",
+                "poi": "守山大町供養塔群"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4078369,
+                    37.335265
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1212601800542449664",
+                "tweet_date": "2020-01-02",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/XFWwT11Uic",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENQGt0RUcAcosGb.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "宝暦2年",
+                "year_built_ce": 1752,
+                "address": "福島県郡山市田村町守山大町",
+                "poi": "守山大町供養塔群"
+            }
         }
     ]
 }
