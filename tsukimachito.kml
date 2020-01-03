@@ -143015,5 +143015,373 @@
         <coordinates>140.4078369141,37.3352650000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1212924402511298560</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-03</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/8hKymHR1Ur</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENUsR8oU0AAfxVY.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/ENUsTJLUUAAMAC4.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>埼玉県坂戸市四日市場</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.3540496826,35.9310970000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1212947574895702016</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-03</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/QFPAZWh4gg</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENVBTrrU4AA3QO6.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/ENVBVQ-UcAIzly-.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/ENVBXFwVUAA-LfA.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value>https://pbs.twimg.com/media/ENVBYgZU8AAPmco.jpg</value>
+        </Data>
+        <Data name="type">
+          <value>七夜待塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>埼玉県入間郡毛呂山町大字川角</value>
+        </Data>
+        <Data name="poi">
+          <value>苦林古墳</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.3519744873,35.9644120000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1212961994598273024</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-03</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/s0FkSNegKe</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENVOeMJVUAEAzv7.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>埼玉県坂戸市大字成願寺</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.3626251221,35.9580520000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213023536840708102</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-03</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/aUYN82VQCA</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENWGTVdU4AAeZ14.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十六夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1804</value>
+        </Data>
+        <Data name="address">
+          <value>福島県郡山市大槻町弥蔵田</value>
+        </Data>
+        <Data name="poi">
+          <value>子安地蔵堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.3221435547,37.3783030000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213024146646396929</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-03</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/LpOihV10dF</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENWG3lMU4AABGa_.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県郡山市大槻町弥蔵田</value>
+        </Data>
+        <Data name="poi">
+          <value>子安地蔵堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.3221435547,37.3783030000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213025606947885056</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-03</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/1NI2Yrbyqc</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENWILU-U4AEseKN.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県郡山市安積町荒井萬海</value>
+        </Data>
+        <Data name="poi">
+          <value>柴宮神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.3416595459,37.3748340000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213028896045588480</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-03</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/3NyjsnN3l9</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENWLLknU0AAPRzz.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県郡山市大槻町殿町</value>
+        </Data>
+        <Data name="poi">
+          <value>諏訪神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.3205261230,37.3896200000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213029211591413760</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-03</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/C8ZZFDfiAp</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENWLdo8U8AAnia-.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県郡山市大槻町殿町</value>
+        </Data>
+        <Data name="poi">
+          <value>諏訪神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.3205261230,37.3896200000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

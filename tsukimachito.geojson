@@ -77731,6 +77731,206 @@
                 "address": "福島県郡山市田村町守山大町",
                 "poi": "守山大町供養塔群"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3540497,
+                    35.931097
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1212924402511298560",
+                "tweet_date": "2020-01-03",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/8hKymHR1Ur",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENUsR8oU0AAfxVY.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ENUsTJLUUAAMAC4.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県坂戸市四日市場",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3519745,
+                    35.964412
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1212947574895702016",
+                "tweet_date": "2020-01-03",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/QFPAZWh4gg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENVBTrrU4AA3QO6.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ENVBVQ-UcAIzly-.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/ENVBXFwVUAA-LfA.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/ENVBYgZU8AAPmco.jpg",
+                "type": "七夜待塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県入間郡毛呂山町大字川角",
+                "poi": "苦林古墳"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3626251,
+                    35.958052
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1212961994598273024",
+                "tweet_date": "2020-01-03",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/s0FkSNegKe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENVOeMJVUAEAzv7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県坂戸市大字成願寺",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3221436,
+                    37.378303
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213023536840708102",
+                "tweet_date": "2020-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/aUYN82VQCA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENWGTVdU4AAeZ14.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "文化元年",
+                "year_built_ce": 1804,
+                "address": "福島県郡山市大槻町弥蔵田",
+                "poi": "子安地蔵堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3221436,
+                    37.378303
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213024146646396929",
+                "tweet_date": "2020-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/LpOihV10dF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENWG3lMU4AABGa_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市大槻町弥蔵田",
+                "poi": "子安地蔵堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3416595,
+                    37.374834
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213025606947885056",
+                "tweet_date": "2020-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/1NI2Yrbyqc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENWILU-U4AEseKN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市安積町荒井萬海",
+                "poi": "柴宮神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3205261,
+                    37.38962
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213028896045588480",
+                "tweet_date": "2020-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/3NyjsnN3l9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENWLLknU0AAPRzz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市大槻町殿町",
+                "poi": "諏訪神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3205261,
+                    37.38962
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213029211591413760",
+                "tweet_date": "2020-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/C8ZZFDfiAp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENWLdo8U8AAnia-.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市大槻町殿町",
+                "poi": "諏訪神社"
+            }
         }
     ]
 }
