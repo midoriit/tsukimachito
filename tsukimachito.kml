@@ -143383,5 +143383,419 @@
         <coordinates>140.3205261230,37.3896200000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213306651727413248</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/oBEPL9FXSj</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENaH860UcAUwhcT.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>茨城県水戸市袴塚三丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>公園</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4423370361,36.3970670000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213320584408354816</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/HxfOuyliAp</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENaUkj9U4AAjh6-.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/ENaUnyUUUAEezQB.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>茨城県水戸市松本町</value>
+        </Data>
+        <Data name="poi">
+          <value>二十三夜尊桂岸寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4548950195,36.3919990000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213325550606934016</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/O5AVNn4sRX</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENaZIANU0AAxgaN.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>享和二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1802</value>
+        </Data>
+        <Data name="address">
+          <value>茨城県水戸市八幡町</value>
+        </Data>
+        <Data name="poi">
+          <value>祇園寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4584960938,36.3888470000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213358627437740034</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/Xfmt6Qj1ac</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENa3OoRUYAAsqeG.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>享保十六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1731</value>
+        </Data>
+        <Data name="address">
+          <value>福島県相馬市新沼観音前</value>
+        </Data>
+        <Data name="poi">
+          <value>新沼観音堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9305114746,37.8162416000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213358976806449152</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/MHZJQGIObe</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENa3iq4VUAAvlaa.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永八年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1779</value>
+        </Data>
+        <Data name="address">
+          <value>福島県相馬市新沼観音前</value>
+        </Data>
+        <Data name="poi">
+          <value>新沼観音堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9306335449,37.8163645000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213359288200024064</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/1otclL3kqp</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENa31I2UEAAY2YP.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1781</value>
+        </Data>
+        <Data name="address">
+          <value>福島県相馬市新沼観音前</value>
+        </Data>
+        <Data name="poi">
+          <value>新沼観音堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9306335449,37.8163645000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213359563388243969</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/SOyn8VR9BK</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENa4FXGU8AAhES_.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1775</value>
+        </Data>
+        <Data name="address">
+          <value>福島県相馬市新沼観音前</value>
+        </Data>
+        <Data name="poi">
+          <value>新沼観音堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9306030273,37.8163690000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213359980616617984</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/w3LhpAwVsI</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENa4dWAU0AE6kkN.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/ENa4dWBUEAA1hUe.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>安永二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1773</value>
+        </Data>
+        <Data name="address">
+          <value>福島県相馬市新沼観音前</value>
+        </Data>
+        <Data name="poi">
+          <value>新沼観音堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9306030273,37.8163690000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213360911764709377</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/9pKTjMWJ4R</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENa5TckVAAAF3tr.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/ENa5TcpU8AEKjMt.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十八夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>宝永四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1707</value>
+        </Data>
+        <Data name="address">
+          <value>福島県相馬市新沼観音前</value>
+        </Data>
+        <Data name="poi">
+          <value>新沼観音堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9305114746,37.8162416000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

@@ -77931,6 +77931,231 @@
                 "address": "福島県郡山市大槻町殿町",
                 "poi": "諏訪神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.442337,
+                    36.397067
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213306651727413248",
+                "tweet_date": "2020-01-04",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/oBEPL9FXSj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENaH860UcAUwhcT.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市袴塚三丁目",
+                "poi": "公園"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.454895,
+                    36.391999
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213320584408354816",
+                "tweet_date": "2020-01-04",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/HxfOuyliAp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENaUkj9U4AAjh6-.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ENaUnyUUUAEezQB.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県水戸市松本町",
+                "poi": "二十三夜尊桂岸寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4584961,
+                    36.388847
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213325550606934016",
+                "tweet_date": "2020-01-04",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/O5AVNn4sRX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENaZIANU0AAxgaN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和二年",
+                "year_built_ce": 1802,
+                "address": "茨城県水戸市八幡町",
+                "poi": "祇園寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9305115,
+                    37.8162416
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213358627437740034",
+                "tweet_date": "2020-01-04",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/Xfmt6Qj1ac",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENa3OoRUYAAsqeG.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享保十六年",
+                "year_built_ce": 1731,
+                "address": "福島県相馬市新沼観音前",
+                "poi": "新沼観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9306335,
+                    37.8163645
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213358976806449152",
+                "tweet_date": "2020-01-04",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/MHZJQGIObe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENa3iq4VUAAvlaa.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永八年",
+                "year_built_ce": 1779,
+                "address": "福島県相馬市新沼観音前",
+                "poi": "新沼観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9306335,
+                    37.8163645
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213359288200024064",
+                "tweet_date": "2020-01-04",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/1otclL3kqp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENa31I2UEAAY2YP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永十年",
+                "year_built_ce": 1781,
+                "address": "福島県相馬市新沼観音前",
+                "poi": "新沼観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.930603,
+                    37.816369
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213359563388243969",
+                "tweet_date": "2020-01-04",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/SOyn8VR9BK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENa4FXGU8AAhES_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永四年",
+                "year_built_ce": 1775,
+                "address": "福島県相馬市新沼観音前",
+                "poi": "新沼観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.930603,
+                    37.816369
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213359980616617984",
+                "tweet_date": "2020-01-04",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/w3LhpAwVsI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENa4dWAU0AE6kkN.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ENa4dWBUEAA1hUe.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永二年",
+                "year_built_ce": 1773,
+                "address": "福島県相馬市新沼観音前",
+                "poi": "新沼観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9305115,
+                    37.8162416
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213360911764709377",
+                "tweet_date": "2020-01-04",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/9pKTjMWJ4R",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENa5TckVAAAF3tr.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ENa5TcpU8AEKjMt.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "宝永四年",
+                "year_built_ce": 1707,
+                "address": "福島県相馬市新沼観音前",
+                "poi": "新沼観音堂"
+            }
         }
     ]
 }
