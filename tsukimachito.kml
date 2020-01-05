@@ -70135,10 +70135,10 @@
           <value>二十三夜塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文政三年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1820</value>
         </Data>
         <Data name="address">
           <value>宮城県亘理郡山元町</value>
@@ -143091,10 +143091,10 @@
           <value>七夜待塔</value>
         </Data>
         <Data name="year_built">
-          <value/>
+          <value>文化十年</value>
         </Data>
         <Data name="year_built_ce">
-          <value/>
+          <value>1813</value>
         </Data>
         <Data name="address">
           <value>埼玉県入間郡毛呂山町大字川角</value>
@@ -143795,6 +143795,236 @@
       </ExtendedData>
       <Point>
         <coordinates>140.9305114746,37.8162416000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213435989516931074</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/s1QWCZDbjn</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENb9bkUVUAAQ1Q5.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県須賀川市浜尾民南</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4072723389,37.2852280000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213436945562365952</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/YLQauqsp89</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENb-RePUYAAYPQu.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県須賀川市和田宿</value>
+        </Data>
+        <Data name="poi">
+          <value>金剛院</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4039306641,37.2798630000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213437762918965251</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/cJBdBEEyo9</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENb_AflUYAAPvK9.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県須賀川市和田宿</value>
+        </Data>
+        <Data name="poi">
+          <value>薬師堂</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4039306641,37.2798630000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213438413405188098</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/UrbEdFh0CU</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENb_oVXUYAEyzwX.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔 二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県須賀川市和田宿</value>
+        </Data>
+        <Data name="poi">
+          <value>曹洞宗金剛院</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4039306641,37.2798630000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1213439745621020677</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-04</value>
+        </Data>
+        <Data name="contributor">
+          <value>strelitziaaugus</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/GDL0tAfDmx</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ENcAtujU4AAg4e7.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/ENcAtu0UwAAvXMN.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>十九夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>福島県須賀川市和田宿</value>
+        </Data>
+        <Data name="poi">
+          <value>曹洞宗金剛院</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4039306641,37.2798630000</coordinates>
       </Point>
     </Placemark>
   </Document>

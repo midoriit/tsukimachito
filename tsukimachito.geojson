@@ -38126,8 +38126,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文政三年",
+                "year_built_ce": 1820,
                 "address": "宮城県亘理郡山元町",
                 "poi": "青巣稲荷神社"
             }
@@ -77776,8 +77776,8 @@
                 "media_url_3": "https:\/\/pbs.twimg.com\/media\/ENVBXFwVUAA-LfA.jpg",
                 "media_url_4": "https:\/\/pbs.twimg.com\/media\/ENVBYgZU8AAPmco.jpg",
                 "type": "七夜待塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化十年",
+                "year_built_ce": 1813,
                 "address": "埼玉県入間郡毛呂山町大字川角",
                 "poi": "苦林古墳"
             }
@@ -78155,6 +78155,131 @@
                 "year_built_ce": 1707,
                 "address": "福島県相馬市新沼観音前",
                 "poi": "新沼観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4072723,
+                    37.285228
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213435989516931074",
+                "tweet_date": "2020-01-04",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/s1QWCZDbjn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENb9bkUVUAAQ1Q5.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市浜尾民南",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4039307,
+                    37.279863
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213436945562365952",
+                "tweet_date": "2020-01-04",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/YLQauqsp89",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENb-RePUYAAYPQu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市和田宿",
+                "poi": "金剛院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4039307,
+                    37.279863
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213437762918965251",
+                "tweet_date": "2020-01-04",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/cJBdBEEyo9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENb_AflUYAAPvK9.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市和田宿",
+                "poi": "薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4039307,
+                    37.279863
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213438413405188098",
+                "tweet_date": "2020-01-04",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/UrbEdFh0CU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENb_oVXUYAEyzwX.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔 二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市和田宿",
+                "poi": "曹洞宗金剛院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4039307,
+                    37.279863
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1213439745621020677",
+                "tweet_date": "2020-01-04",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/GDL0tAfDmx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ENcAtujU4AAg4e7.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ENcAtu0UwAAvXMN.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市和田宿",
+                "poi": "曹洞宗金剛院"
             }
         }
     ]
