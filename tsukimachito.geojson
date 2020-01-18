@@ -79406,6 +79406,31 @@
                 "address": "千葉県印西市小林",
                 "poi": "西福寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9615326,
+                    38.557184
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1218440049307471872",
+                "tweet_date": "2020-01-18",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/3j6g0B57c0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EOjEw0WVUAACH3L.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永三年",
+                "year_built_ce": 1850,
+                "address": "宮城県大崎市",
+                "poi": "十二宮神社"
+            }
         }
     ]
 }
