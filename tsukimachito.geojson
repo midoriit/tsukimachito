@@ -79431,6 +79431,56 @@
                 "address": "宮城県大崎市",
                 "poi": "十二宮神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4573975,
+                    38.298917
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1218894593623592962",
+                "tweet_date": "2020-01-19",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/X4JR1OGbkW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EOpiKlpUEAAipv_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "延享五年",
+                "year_built_ce": 1748,
+                "address": "山形県山形市",
+                "poi": "二口林道"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.445755,
+                    38.304668
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1219227612205047814",
+                "tweet_date": "2020-01-20",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/ORxiE2sBfA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EOuRCt5U0AYJhNG.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山形県山形市大字山寺",
+                "poi": null
+            }
         }
     ]
 }
