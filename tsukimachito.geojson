@@ -79476,6 +79476,31 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
+                "year_built": "延享五年",
+                "year_built_ce": 1748,
+                "address": "山形県山形市大字山寺",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.445755,
+                    38.304668
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1219585518884642817",
+                "tweet_date": "2020-01-21",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/9bhkoWFkX4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EOzWjhVUwAEoucj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "山形県山形市大字山寺",
