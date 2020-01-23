@@ -79506,6 +79506,31 @@
                 "address": "山形県山形市大字山寺",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.445755,
+                    38.304693
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1220303583985274883",
+                "tweet_date": "2020-01-23",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/YclANPVczb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EO9jobyU0AAJroW.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EO9job0VAAArbz3.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EO9job8UUAApNEV.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山形県山形市大字山寺",
+                "poi": null
+            }
         }
     ]
 }
