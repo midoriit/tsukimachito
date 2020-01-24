@@ -79529,7 +79529,32 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "山形県山形市大字山寺",
-                "poi": null
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.445755,
+                    38.304668
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1220675005542912002",
+                "tweet_date": "2020-01-24",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/nW6TfSU32J",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPC1cLwU4AAiXqh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "享保十六年",
+                "year_built_ce": 1731,
+                "address": "山形県山形市大字山寺",
+                "poi": ""
             }
         }
     ]
