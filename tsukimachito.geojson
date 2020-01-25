@@ -79556,6 +79556,31 @@
                 "address": "山形県山形市大字山寺",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.028656,
+                    38.5551935
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1220957651846066176",
+                "tweet_date": "2020-01-25",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/vg3hOiPDvn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPG2gShVAAI8S__.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EPG2gShUcAA8YTL.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EPG2gSoU0AEX1Hs.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政九年",
+                "year_built_ce": 1826,
+                "address": "宮城県遠田郡美里町",
+                "poi": "神明神社"
+            }
         }
     ]
 }
