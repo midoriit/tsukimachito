@@ -79581,6 +79581,31 @@
                 "address": "宮城県遠田郡美里町",
                 "poi": "神明神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7692719,
+                    38.0104973
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1221296902357975040",
+                "tweet_date": "2020-01-26",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/0Qua6hT0yU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPLrDT9U0AEQTmP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化九年",
+                "year_built_ce": 1812,
+                "address": "宮城県角田市",
+                "poi": "正福寺"
+            }
         }
     ]
 }
