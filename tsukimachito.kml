@@ -66192,7 +66192,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7477416992,36.2026301000</coordinates>
+        <coordinates>139.7468872070,36.2024890000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -66238,7 +66238,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7477416992,36.2026301000</coordinates>
+        <coordinates>139.7468872070,36.2024890000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -66284,7 +66284,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7476196289,36.2026870000</coordinates>
+        <coordinates>139.7468872070,36.2024890000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -66330,7 +66330,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.7477874756,36.2026593000</coordinates>
+        <coordinates>139.7468872070,36.2024890000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -146463,6 +146463,236 @@
       </ExtendedData>
       <Point>
         <coordinates>140.7692718506,38.0104973000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1223133643448582144</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-31</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/1jBtwde8vw</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EPlxguGUUAE6o7h.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EPlxiXSU0AAxFOE.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>佐賀県佐賀市材木一丁目</value>
+        </Data>
+        <Data name="poi">
+          <value>日天神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>130.3102416992,33.2528810000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1223146226591232000</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-31</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/B0hSTQnHkZ</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EPl89EOU0AAVWIt.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EPl8-tnU4AAvypD.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>佐賀県佐賀市本庄町末次</value>
+        </Data>
+        <Data name="poi">
+          <value>持光寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>130.3004913330,33.2329470000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1223146339082457089</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-31</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/oPDXFjnIgw</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EPl9DmOUUAAPr_B.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EPl9FE4UEAAnEga.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>佐賀県佐賀市本庄町末次</value>
+        </Data>
+        <Data name="poi">
+          <value>持光寺</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>130.3004913330,33.2329470000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1223153192424181760</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-31</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/7GSDjB2t2h</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EPmDTDAVAAEYHzU.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/EPmDU1KUEAAynb_.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>佐賀県佐賀市本庄町本庄</value>
+        </Data>
+        <Data name="poi">
+          <value>妙見神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>130.2847900391,33.2401980000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1223162422279598080</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-01-31</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/wh5OgEUdOz</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EPmLuFCUwAEv78A.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>佐賀県佐賀市与賀町</value>
+        </Data>
+        <Data name="poi">
+          <value>与賀神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>130.2949981689,33.2487450000</coordinates>
       </Point>
     </Placemark>
   </Document>

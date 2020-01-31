@@ -35962,8 +35962,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7477417,
-                    36.2026301
+                    139.7468872,
+                    36.202489
                 ]
             },
             "properties": {
@@ -35987,8 +35987,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7477417,
-                    36.2026301
+                    139.7468872,
+                    36.202489
                 ]
             },
             "properties": {
@@ -36012,8 +36012,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7476196,
-                    36.202687
+                    139.7468872,
+                    36.202489
                 ]
             },
             "properties": {
@@ -36037,8 +36037,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.7477875,
-                    36.2026593
+                    139.7468872,
+                    36.202489
                 ]
             },
             "properties": {
@@ -79605,6 +79605,131 @@
                 "year_built_ce": 1812,
                 "address": "宮城県角田市",
                 "poi": "正福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3102417,
+                    33.252881
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1223133643448582144",
+                "tweet_date": "2020-01-31",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/1jBtwde8vw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPlxguGUUAE6o7h.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EPlxiXSU0AAxFOE.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "佐賀県佐賀市材木一丁目",
+                "poi": "日天神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3004913,
+                    33.232947
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1223146226591232000",
+                "tweet_date": "2020-01-31",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/B0hSTQnHkZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPl89EOU0AAVWIt.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EPl8-tnU4AAvypD.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "佐賀県佐賀市本庄町末次",
+                "poi": "持光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.3004913,
+                    33.232947
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1223146339082457089",
+                "tweet_date": "2020-01-31",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/oPDXFjnIgw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPl9DmOUUAAPr_B.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EPl9FE4UEAAnEga.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "佐賀県佐賀市本庄町末次",
+                "poi": "持光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.28479,
+                    33.240198
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1223153192424181760",
+                "tweet_date": "2020-01-31",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7GSDjB2t2h",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPmDTDAVAAEYHzU.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EPmDU1KUEAAynb_.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "佐賀県佐賀市本庄町本庄",
+                "poi": "妙見神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.2949982,
+                    33.248745
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1223162422279598080",
+                "tweet_date": "2020-01-31",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/wh5OgEUdOz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPmLuFCUwAEv78A.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "佐賀県佐賀市与賀町",
+                "poi": "与賀神社"
             }
         }
     ]
