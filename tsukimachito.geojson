@@ -79731,6 +79731,256 @@
                 "address": "佐賀県佐賀市与賀町",
                 "poi": "与賀神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.257309,
+                    33.247301
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1223385465857818625",
+                "tweet_date": "2020-02-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mNzT2fOuGG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPpWi0uU8AEu8nT.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EPpWkixVUAQY6nv.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治十七年",
+                "year_built_ce": 1884,
+                "address": "佐賀県佐賀市嘉瀬町中原",
+                "poi": "四面神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.2541962,
+                    33.242515
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1223389422911049729",
+                "tweet_date": "2020-02-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/TjGMIuWcxZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPpaJB1VAAAFdqf.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EPpaK7MU8AAkqLz.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "佐賀県佐賀市嘉瀬町荻野",
+                "poi": "嘉瀬津神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.253952,
+                    33.242422
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1223390018472824832",
+                "tweet_date": "2020-02-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/9DWviG3LlK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPpauSJUEAEMKqa.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "佐賀県佐賀市嘉瀬町荻野",
+                "poi": "嘉瀬津神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.2664642,
+                    33.244526
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1223393813630050304",
+                "tweet_date": "2020-02-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/m00A9GsHum",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPpeJNBUYAEMDQA.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EPpeKkOU0AA5Ojc.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "佐賀県佐賀市嘉瀬町扇町",
+                "poi": "扇町天満宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.2764282,
+                    33.246967
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1223397256478380033",
+                "tweet_date": "2020-02-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/YCkzNefEAe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPphTDrUUAAW9vL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "佐賀県佐賀市八戸一丁目",
+                "poi": "八戸町公民館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.2764282,
+                    33.246967
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1223397375273684992",
+                "tweet_date": "2020-02-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/sJH7bKG6O7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPphZncVUAEVcn9.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "佐賀県佐賀市八戸一丁目",
+                "poi": "八戸町公民館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.2764282,
+                    33.246967
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1223397453405179904",
+                "tweet_date": "2020-02-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/uZ5fCxSu24",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPpheG3UUAA2lax.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "佐賀県佐賀市八戸一丁目",
+                "poi": "八戸町公民館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.2764282,
+                    33.246967
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1223397537152786432",
+                "tweet_date": "2020-02-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/9VSCbMSEYx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPphiq6U4AAysdh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "佐賀県佐賀市八戸一丁目",
+                "poi": "八戸町公民館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.2840881,
+                    33.250303
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1223400462201716737",
+                "tweet_date": "2020-02-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/NfWcdNseNI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPpkNojU4AEtlX1.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "佐賀県佐賀市長瀬町",
+                "poi": "西念寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.2841034,
+                    33.248135
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1223401893377953797",
+                "tweet_date": "2020-02-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/OtqBgz3xcq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EPpleqhUwAAGL6G.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EPplgcpUEAEq3TZ.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "佐賀県佐賀市道祖元町",
+                "poi": "道祖神社"
+            }
         }
     ]
 }
