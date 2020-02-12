@@ -80131,6 +80131,31 @@
                 "address": "佐賀県佐賀市兵庫町若宮",
                 "poi": "熊野神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4418945,
+                    38.307022
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1227564649924583425",
+                "tweet_date": "2020-02-12",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/zGf0YtFNCp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EQkviTtU0AIfJdA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山形県山形市大字山寺",
+                "poi": null
+            }
         }
     ]
 }
