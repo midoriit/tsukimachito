@@ -80156,6 +80156,31 @@
                 "address": "山形県山形市大字山寺",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2180634,
+                    35.3102072
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1229592107284742145",
+                "tweet_date": "2020-02-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/QxyMMRllzN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ERBjc-dUUAEdS_G.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ERBje05UYAAG39a.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県小田原市沼代",
+                "poi": "路傍"
+            }
         }
     ]
 }
