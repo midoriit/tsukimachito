@@ -80181,6 +80181,156 @@
                 "address": "神奈川県小田原市沼代",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9227142,
+                    37.7247536
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1231388375338213376",
+                "tweet_date": "2020-02-23",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/LWKAmY24At",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ERbFLr4VUAAPjnO.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ERbFLr1VAAED2cU.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政四年",
+                "year_built_ce": 1792,
+                "address": "福島県南相馬市鹿島区山下馬見塚",
+                "poi": "浅間神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9228516,
+                    37.7247483
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1231388882849034240",
+                "tweet_date": "2020-02-23",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/hBx60sQ015",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ERbFqAjUEAENvDK.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治三十四年",
+                "year_built_ce": 1901,
+                "address": "福島県南相馬市鹿島区山下馬見塚",
+                "poi": "浅間神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9333191,
+                    37.7173775
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1231391586447052800",
+                "tweet_date": "2020-02-23",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/udcmrl0cL7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ERbIHFTU4AQYHf0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化三年",
+                "year_built_ce": 1806,
+                "address": "福島県南相馬市鹿島区浮田野中",
+                "poi": "浮田観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9333344,
+                    37.7174043
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1231391875577155584",
+                "tweet_date": "2020-02-23",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/XvzwNiBZaE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ERbIYDeU0AAEQGi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "慶應三年",
+                "year_built_ce": 1867,
+                "address": "福島県南相馬市鹿島区浮田野中",
+                "poi": "浮田観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9333649,
+                    37.7174372
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1231392249532993536",
+                "tweet_date": "2020-02-23",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/E1xNtEMLbC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ERbIt1XVUAAbnXW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十一年",
+                "year_built_ce": 1814,
+                "address": "福島県南相馬市鹿島区浮田野中",
+                "poi": "浮田観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9333649,
+                    37.7174372
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1231392449441873921",
+                "tweet_date": "2020-02-23",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/JPQmLvA96J",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ERbI5UQUcAE8az8.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化九年",
+                "year_built_ce": 1812,
+                "address": "福島県南相馬市鹿島区浮田野中",
+                "poi": "浮田観音堂"
+            }
         }
     ]
 }
