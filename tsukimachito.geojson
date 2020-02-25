@@ -80331,6 +80331,131 @@
                 "address": "福島県南相馬市鹿島区浮田野中",
                 "poi": "浮田観音堂"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4631805,
+                    37.748063
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1231948597131804672",
+                "tweet_date": "2020-02-24",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/QlETE7L2tF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ERjCrl5U4AYX97f.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県福島市清明町",
+                "poi": "羽黒山真浄院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4637451,
+                    37.74931
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1231949525037678593",
+                "tweet_date": "2020-02-24",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/eJghtDuW88",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ERjDQ3oU0AAVX_3.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ERjDQ45U8AUmk0F.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県福島市五月町",
+                "poi": "誓願寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2065887,
+                    35.669845
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1232132900969046016",
+                "tweet_date": "2020-02-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/LSLRVFkjKd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ERlqSVRU0AAAOjE.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ERlqUDIVAAAD-1P.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "東京都八王子市上恩方町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2198792,
+                    35.674568
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1232139731380518912",
+                "tweet_date": "2020-02-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pZhnIsO4r5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ERlwi6fUUAA7t1B.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "東京都八王子市上恩方町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2172852,
+                    35.672372
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1232142666713853952",
+                "tweet_date": "2020-02-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/5pFtc3HTtm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ERlzNHfU4AA6URZ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "東京都八王子市上恩方町",
+                "poi": "お堂"
+            }
         }
     ]
 }
