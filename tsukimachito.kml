@@ -148029,5 +148029,51 @@
         <coordinates>139.2172851562,35.6723720000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1233216151498321920</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-02-28</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/GUvWZqE0JU</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ER1Dg-jU8AAQYzn.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/ER1DicKU8AEE0qt.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>享和三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1803</value>
+        </Data>
+        <Data name="address">
+          <value>東京都八王子市椚田町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.3069763184,35.6345900000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

@@ -80456,6 +80456,31 @@
                 "address": "東京都八王子市上恩方町",
                 "poi": "お堂"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3069763,
+                    35.63459
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1233216151498321920",
+                "tweet_date": "2020-02-28",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/GUvWZqE0JU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ER1Dg-jU8AAQYzn.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ER1DicKU8AEE0qt.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和三年",
+                "year_built_ce": 1803,
+                "address": "東京都八王子市椚田町",
+                "poi": ""
+            }
         }
     ]
 }
