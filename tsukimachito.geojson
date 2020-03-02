@@ -80481,6 +80481,31 @@
                 "address": "東京都八王子市椚田町",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.441925,
+                    38.30705
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1234442719109378048",
+                "tweet_date": "2020-03-02",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/cT6Z3POaeV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ESGe_tOUwAAp4pc.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化元年",
+                "year_built_ce": 1804,
+                "address": "山形県山形市大字山寺",
+                "poi": ""
+            }
         }
     ]
 }

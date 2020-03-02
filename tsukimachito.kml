@@ -148075,5 +148075,51 @@
         <coordinates>139.3069763184,35.6345900000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1234442719109378048</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-02</value>
+        </Data>
+        <Data name="contributor">
+          <value>HaNa87_8</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/cT6Z3POaeV</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ESGe_tOUwAAp4pc.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文化元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1804</value>
+        </Data>
+        <Data name="address">
+          <value>山形県山形市大字山寺</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.4419250488,38.3070500000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
