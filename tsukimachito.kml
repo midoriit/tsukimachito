@@ -148121,5 +148121,97 @@
         <coordinates>140.4419250488,38.3070500000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1235763181701611520</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/uYoSUqLjgD</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ESZQDEGWkAMai4e.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治九年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1876</value>
+        </Data>
+        <Data name="address">
+          <value>神奈川県相模原市緑区</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1491699219,35.5711740000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1235768301504077829</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-06</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/oDP27QeROq</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ESZUtAqWAAIWJrA.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>天保十二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1841</value>
+        </Data>
+        <Data name="address">
+          <value>神奈川県相模原市緑区</value>
+        </Data>
+        <Data name="poi">
+          <value>路傍</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.1470184326,35.5617170000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

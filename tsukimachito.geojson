@@ -80506,6 +80506,56 @@
                 "address": "山形県山形市大字山寺",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1491699,
+                    35.571174
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1235763181701611520",
+                "tweet_date": "2020-03-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/uYoSUqLjgD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ESZQDEGWkAMai4e.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治九年",
+                "year_built_ce": 1876,
+                "address": "神奈川県相模原市緑区",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1470184,
+                    35.561717
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1235768301504077829",
+                "tweet_date": "2020-03-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/oDP27QeROq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ESZUtAqWAAIWJrA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保十二年",
+                "year_built_ce": 1841,
+                "address": "神奈川県相模原市緑区",
+                "poi": "路傍"
+            }
         }
     ]
 }
