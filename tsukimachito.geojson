@@ -32387,8 +32387,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.1987457,
-                    35.8048233
+                    139.1990356,
+                    35.804967
                 ]
             },
             "properties": {
@@ -80555,6 +80555,31 @@
                 "year_built_ce": 1841,
                 "address": "神奈川県相模原市緑区",
                 "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9756317,
+                    35.602491
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1237943430187061248",
+                "tweet_date": "2020-03-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Ri3MkikeRF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ES4O-ZZUUAAl1w0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県大月市猿橋町小沢",
+                "poi": "照光院"
             }
         }
     ]
