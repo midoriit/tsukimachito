@@ -87,8 +87,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.5457458,
-                    35.5350314
+                    139.5457916,
+                    35.53497
                 ]
             },
             "properties": {
@@ -36862,8 +36862,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.5456238,
-                    35.5350914
+                    139.5457916,
+                    35.53497
                 ]
             },
             "properties": {
@@ -80580,6 +80580,31 @@
                 "year_built_ce": "",
                 "address": "山梨県大月市猿橋町小沢",
                 "poi": "照光院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8648071,
+                    38.2770628
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1238741050878902273",
+                "tweet_date": "2020-03-14",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/P2ce2SQeDI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ETDkZERWAAEG6EL.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ETDkZjGWoAEKDT6.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/ETDkZmEWAAULNdp.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明和二年",
+                "year_built_ce": 1765,
+                "address": "宮城県仙台市青葉区",
+                "poi": "熊野神社"
             }
         }
     ]

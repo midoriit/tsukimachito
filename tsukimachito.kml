@@ -182,7 +182,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.5457458496,35.5350314000</coordinates>
+        <coordinates>139.5457916260,35.5349700000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -67848,7 +67848,7 @@
         </Data>
       </ExtendedData>
       <Point>
-        <coordinates>139.5456237793,35.5350914000</coordinates>
+        <coordinates>139.5457916260,35.5349700000</coordinates>
       </Point>
     </Placemark>
     <Placemark>
@@ -148257,6 +148257,52 @@
       </ExtendedData>
       <Point>
         <coordinates>138.9756317139,35.6024910000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1238741050878902273</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-14</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/P2ce2SQeDI</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ETDkZERWAAEG6EL.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/ETDkZjGWoAEKDT6.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value>https://pbs.twimg.com/media/ETDkZmEWAAULNdp.jpg</value>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明和二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1765</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県仙台市青葉区</value>
+        </Data>
+        <Data name="poi">
+          <value>熊野神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8648071289,38.2770628000</coordinates>
       </Point>
     </Placemark>
   </Document>
