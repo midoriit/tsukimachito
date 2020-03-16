@@ -80606,6 +80606,81 @@
                 "address": "宮城県仙台市青葉区",
                 "poi": "熊野神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9731293,
+                    38.5422738
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1239377734729494530",
+                "tweet_date": "2020-03-16",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/KTOvhVmIrv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ETMnddgX0AA--je.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "元治元年",
+                "year_built_ce": 1864,
+                "address": "宮城県大崎市",
+                "poi": "薬師神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9736633,
+                    38.5490567
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1239380359868903424",
+                "tweet_date": "2020-03-16",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/hbxFsDVUVX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ETMp2mpWoAADop0.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ETMp2myXsAAbwfq.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永七年",
+                "year_built_ce": 1854,
+                "address": "宮城県大崎市",
+                "poi": "羽黒神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0310669,
+                    38.4289139
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1239404217669804032",
+                "tweet_date": "2020-03-16",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/J80BjrbqYa",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ETM_jggXYAAMJPm.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政十年",
+                "year_built_ce": 1798,
+                "address": "宮城県黒川郡大郷町",
+                "poi": "熊野神社"
+            }
         }
     ]
 }

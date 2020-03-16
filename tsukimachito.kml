@@ -148305,5 +148305,143 @@
         <coordinates>140.8648071289,38.2770628000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1239377734729494530</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/KTOvhVmIrv</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ETMnddgX0AA--je.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>元治元年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1864</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県大崎市</value>
+        </Data>
+        <Data name="poi">
+          <value>薬師神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9731292725,38.5422738000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1239380359868903424</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/hbxFsDVUVX</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ETMp2mpWoAADop0.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/ETMp2myXsAAbwfq.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>嘉永七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1854</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県大崎市</value>
+        </Data>
+        <Data name="poi">
+          <value>羽黒神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.9736633301,38.5490567000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1239404217669804032</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-16</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/J80BjrbqYa</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ETM_jggXYAAMJPm.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>寛政十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1798</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県黒川郡大郷町</value>
+        </Data>
+        <Data name="poi">
+          <value>熊野神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>141.0310668945,38.4289139000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
