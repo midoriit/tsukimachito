@@ -80681,6 +80681,31 @@
                 "address": "宮城県黒川郡大郷町",
                 "poi": "熊野神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5104523,
+                    35.560107
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1239732387434467328",
+                "tweet_date": "2020-03-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/rbCJyejrOi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ETRqBWLUUAAgzvr.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治三年",
+                "year_built_ce": 1870,
+                "address": "神奈川県横浜市青葉区鴨志田町",
+                "poi": "南慶院"
+            }
         }
     ]
 }
