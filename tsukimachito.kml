@@ -148489,5 +148489,419 @@
         <coordinates>139.5104522705,35.5601070000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1240177137904054273</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/4SzV6AU5ny</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ETX-hW4XkAAEYEo.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治三十六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1903</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value>丸森の大銀杏</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.7686767578,37.8995859000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1240177350995619841</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/cVx6uUwFaB</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ETX-t7IX0AEcK9f.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value/>
+        </Data>
+        <Data name="year_built_ce">
+          <value/>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value>丸森の大銀杏</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.7686767578,37.8995859000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1240185335759294464</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/FHMknUIjw9</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ETYF-1RXQAEpjsK.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>文政十二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1829</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8331756592,37.8614253000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1240188439066075138</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/TQX68tw5Pd</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ETYIyy3X0AAD_tQ.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治十年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1877</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value>大内まちづくりセンター</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8265838623,37.8679917000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1240191834908811266</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/X3Lp5jL0ml</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ETYL4OoX0AAm5AW.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治三十三年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1900</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8251342773,37.8793579000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1240196548178272258</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/9tUJN07rrm</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ETYQLThXYAATxCo.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治二十二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1889</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value>鬼ケ柵山神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8366699219,37.8659254000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1240197765449187328</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/N7sSUQIhvR</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ETYRQf2XsAEV0sR.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value>https://pbs.twimg.com/media/ETYRQnoWkAEljJT.jpg</value>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治二十六年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1893</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value>鬼ケ柵山神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8366546631,37.8659349000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1240197911842963456</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/tP7Ac2peAc</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ETYRaFGWkAA-lrz.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治二十七年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1894</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value>鬼ケ柵山神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8366546631,37.8659349000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1240198234397528064</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-03-18</value>
+        </Data>
+        <Data name="contributor">
+          <value>_mamehito_</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/GPBMWAUjMZ</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/ETYRsh2WAAA9LU6.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>明治二十二年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1889</value>
+        </Data>
+        <Data name="address">
+          <value>宮城県伊具郡丸森町</value>
+        </Data>
+        <Data name="poi">
+          <value>鬼ケ柵山神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>140.8366546631,37.8659349000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
