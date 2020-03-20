@@ -80931,6 +80931,31 @@
                 "address": "宮城県伊具郡丸森町",
                 "poi": "鬼ケ柵山神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.567627,
+                    35.522646
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1240826578004660224",
+                "tweet_date": "2020-03-20",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/DfplXTWMQk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EThNHRRU4AMdUZl.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EThNJVJUcAYCbYv.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EThNLWXUMAAeJ09.jpg",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県横浜市都筑区池辺町",
+                "poi": "福聚院"
+            }
         }
     ]
 }
