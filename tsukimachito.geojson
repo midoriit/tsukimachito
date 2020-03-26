@@ -80956,6 +80956,56 @@
                 "address": "神奈川県横浜市都筑区池辺町",
                 "poi": "福聚院"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.104248,
+                    35.643548
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1243010324929732608",
+                "tweet_date": "2020-03-26",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/n1HgWfNs8k",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EUAPSQZVAAEGMEX.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化六年",
+                "year_built_ce": 1809,
+                "address": "山梨県上野原市上野原",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4345398,
+                    36.322066
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1243038764491931648",
+                "tweet_date": "2020-03-26",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/PgGMPsbL0R",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EUAorBkUcAIVL4K.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市加増二丁目",
+                "poi": null
+            }
         }
     ]
 }
