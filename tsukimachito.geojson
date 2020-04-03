@@ -81131,6 +81131,56 @@
                 "address": "宮城県伊具郡丸森町",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0583496,
+                    35.621816
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1245903384260956160",
+                "tweet_date": "2020-04-03",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/S4pjY3J0F3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EUpWfT9UYAAboYK.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EUpWgpcUEAEwg0i.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県上野原市",
+                "poi": "清泉寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0426025,
+                    35.618016
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1245910146242342912",
+                "tweet_date": "2020-04-03",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/I1niUSRYJt",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EUpcp_gUEAAMT6W.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政四年",
+                "year_built_ce": 1821,
+                "address": "山梨県上野原市",
+                "poi": "路傍"
+            }
         }
     ]
 }
