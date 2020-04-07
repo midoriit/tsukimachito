@@ -149363,5 +149363,51 @@
         <coordinates>139.0426025391,35.6180160000</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="tweet_id">
+          <value>T1247364376568320000</value>
+        </Data>
+        <Data name="tweet_date">
+          <value>2020-04-07</value>
+        </Data>
+        <Data name="contributor">
+          <value>tk01k</value>
+        </Data>
+        <Data name="tweet_url">
+          <value>https://t.co/m0m4Nh54jA</value>
+        </Data>
+        <Data name="media_url_1">
+          <value>https://pbs.twimg.com/media/EU-HR05UcAAMBj6.jpg</value>
+        </Data>
+        <Data name="media_url_2">
+          <value/>
+        </Data>
+        <Data name="media_url_3">
+          <value/>
+        </Data>
+        <Data name="media_url_4">
+          <value/>
+        </Data>
+        <Data name="type">
+          <value>二十三夜塔</value>
+        </Data>
+        <Data name="year_built">
+          <value>嘉永四年</value>
+        </Data>
+        <Data name="year_built_ce">
+          <value>1851</value>
+        </Data>
+        <Data name="address">
+          <value>東京都西多摩郡檜原村</value>
+        </Data>
+        <Data name="poi">
+          <value>五社神社</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.0838928223,35.7124260000</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

@@ -81181,6 +81181,31 @@
                 "address": "山梨県上野原市",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0838928,
+                    35.712426
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1247364376568320000",
+                "tweet_date": "2020-04-07",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/m0m4Nh54jA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EU-HR05UcAAMBj6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永四年",
+                "year_built_ce": 1851,
+                "address": "東京都西多摩郡檜原村",
+                "poi": "五社神社"
+            }
         }
     ]
 }
