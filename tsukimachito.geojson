@@ -81206,6 +81206,56 @@
                 "address": "東京都西多摩郡檜原村",
                 "poi": "五社神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1218414,
+                    35.546634
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1248073400687312897",
+                "tweet_date": "2020-04-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7c0fJfWXRD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EVIMIWTU4AE-wRq.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化三年",
+                "year_built_ce": 1846,
+                "address": "神奈川県相模原市緑区",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1177216,
+                    35.541549
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1248079082295713795",
+                "tweet_date": "2020-04-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/SPVPDenSdb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EVIRSvEU8AAnXin.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十三年",
+                "year_built_ce": 1830,
+                "address": "神奈川県相模原市緑区",
+                "poi": "路傍"
+            }
         }
     ]
 }
