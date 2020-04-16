@@ -81256,6 +81256,56 @@
                 "address": "神奈川県相模原市緑区",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1382904,
+                    35.551677
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1250606882328178690",
+                "tweet_date": "2020-04-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/OdUIKp37be",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EVsMUXtU4AEx2OU.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県相模原市緑区",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7357941,
+                    36.11015
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1250698428377526279",
+                "tweet_date": "2020-04-16",
+                "contributor": "Wpl0JWzdw688IBR",
+                "tweet_url": "https:\/\/t.co\/EKR9E8Ev0O",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EVtfNqHUwAAPdfj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県猿島郡五霞町元栗橋",
+                "poi": null
+            }
         }
     ]
 }
