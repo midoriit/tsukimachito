@@ -26512,8 +26512,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.3859253,
-                    37.4029067
+                    140.386261,
+                    37.4027661
                 ]
             },
             "properties": {
@@ -81304,7 +81304,132 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "茨城県猿島郡五霞町元栗橋",
-                "poi": null
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3865509,
+                    37.402848
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1252231540261543939",
+                "tweet_date": "2020-04-20",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/ecWWIA16lx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWDRyWAU8AEzV5w.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市大町二丁目",
+                "poi": "阿邪詞根(あさかね)神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3865509,
+                    37.402848
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1252232334587293696",
+                "tweet_date": "2020-04-20",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/PwXKH6Nu0o",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWDSWkaVcAEVQBK.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政二年",
+                "year_built_ce": 1855,
+                "address": "福島県郡山市大町二丁目",
+                "poi": "阿邪詞根(あさかね)神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3853302,
+                    37.390991
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1252233803721924609",
+                "tweet_date": "2020-04-20",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/EimWsLfIUG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWDS4ZHVcAMFKmz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市本町一丁目",
+                "poi": "松木稲荷神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.951416,
+                    37.384122
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1252235589803372546",
+                "tweet_date": "2020-04-20",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/bLWMXzyp1l",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWDUwmSU8AMGo5M.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県双葉郡大熊町大川原南平",
+                "poi": "大山祇神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0568237,
+                    35.5332783
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1252428641331408897",
+                "tweet_date": "2020-04-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mhf2VSGHv3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWGFMjoU8AAGBNh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県南都留郡道志村",
+                "poi": "路傍"
             }
         }
     ]
