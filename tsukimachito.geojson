@@ -81431,6 +81431,31 @@
                 "address": "山梨県南都留郡道志村",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3262634,
+                    37.291891
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1254024260617515008",
+                "tweet_date": "2020-04-25",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/Iq9XDfdEVj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWcvuIyUMAEZmsU.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市大桑原西屋敷",
+                "poi": null
+            }
         }
     ]
 }
