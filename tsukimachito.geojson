@@ -81454,7 +81454,282 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "福島県須賀川市大桑原西屋敷",
-                "poi": null
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3893433,
+                    37.194804
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1254316261204357120",
+                "tweet_date": "2020-04-26",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/jJ4dhsA0Sh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWg5XfXUEAU3wSG.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県西白河郡矢吹町神田東",
+                "poi": "慈眼寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3893433,
+                    37.194804
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1254316702625443841",
+                "tweet_date": "2020-04-26",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/l7HtjTnOh6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWg6HbwU4AALEyt.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "宝暦13年",
+                "year_built_ce": 1763,
+                "address": "福島県西白河郡矢吹町神田東",
+                "poi": "慈眼寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3893433,
+                    37.194804
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1254317010550263810",
+                "tweet_date": "2020-04-26",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/pqlbQcB4rF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWg6gsuU0AA8uN4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県西白河郡矢吹町神田東",
+                "poi": "慈眼寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3893433,
+                    37.194804
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1254318071545651200",
+                "tweet_date": "2020-04-26",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/vJrSAiZM7Z",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWg7djvUEAMM8_-.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県西白河郡矢吹町神田東",
+                "poi": "慈眼寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3893433,
+                    37.194804
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1254319129034584065",
+                "tweet_date": "2020-04-26",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/5ads2LMW2W",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWg7vpPU8AEz0RE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県西白河郡矢吹町神田東",
+                "poi": "慈眼寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4067688,
+                    37.287904
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1254324373722259457",
+                "tweet_date": "2020-04-26",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/GjIY3wSbw9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWhA11oUcAASZB4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "三日月塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市浜尾舘",
+                "poi": "鹿島神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4067688,
+                    37.287904
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1254327417142775808",
+                "tweet_date": "2020-04-26",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/ByqueAMqgx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWhD9XKUMAQdI-F.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市浜尾舘",
+                "poi": "長命寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4067688,
+                    37.287904
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1254327802423209986",
+                "tweet_date": "2020-04-26",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/w3xzY5ZLr1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWhEPEtUMAIfWHw.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保11年",
+                "year_built_ce": 1840,
+                "address": "福島県須賀川市浜尾舘",
+                "poi": "長命寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4067688,
+                    37.287904
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1254328364988370944",
+                "tweet_date": "2020-04-26",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/FKkmpyT79a",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWhEni4VcAAPvlW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市浜尾舘",
+                "poi": "長命寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4067688,
+                    37.287904
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1254328676184756224",
+                "tweet_date": "2020-04-26",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/Jw4n0fbLYi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWhFH2TUwAALB7M.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市浜尾舘",
+                "poi": "長命寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4067688,
+                    37.287904
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1254328996990291969",
+                "tweet_date": "2020-04-26",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/t5XQQWqNTd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EWhFYE1U4AEI7ip.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市浜尾舘",
+                "poi": "長命寺"
             }
         }
     ]
