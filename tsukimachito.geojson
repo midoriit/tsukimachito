@@ -81731,6 +81731,56 @@
                 "address": "福島県須賀川市浜尾舘",
                 "poi": "長命寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9950714,
+                    35.507239
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1256038911400239104",
+                "tweet_date": "2020-05-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/RmKMZVXFF3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EW5Yt2tU8AAYYzX.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県南都留郡道志村",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0183716,
+                    35.518598
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1256040800699297794",
+                "tweet_date": "2020-05-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/0gAkkFPp5z",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EW5abJ-U4AAUlUT.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治二十一年",
+                "year_built_ce": 1888,
+                "address": "山梨県南都留郡道志村",
+                "poi": "路傍"
+            }
         }
     ]
 }
