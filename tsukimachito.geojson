@@ -81781,6 +81781,31 @@
                 "address": "山梨県南都留郡道志村",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4064484,
+                    37.340099
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1257215202447122434",
+                "tweet_date": "2020-05-04",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/IfydzS3Z17",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EXKGX39UwAAgE8K.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市田村町山中鬼越",
+                "poi": "国道49号線路傍"
+            }
         }
     ]
 }
