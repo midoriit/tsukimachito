@@ -81806,6 +81806,31 @@
                 "address": "福島県郡山市田村町山中鬼越",
                 "poi": "国道49号線路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3993988,
+                    35.446255
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1258573914327810048",
+                "tweet_date": "2020-05-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/azCZ9HMMBH",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EXdaShBUYAEb1Vi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政二年",
+                "year_built_ce": 1819,
+                "address": "神奈川県海老名市勝瀬",
+                "poi": "鳳勝寺"
+            }
         }
     ]
 }
