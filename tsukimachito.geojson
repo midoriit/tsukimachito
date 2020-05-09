@@ -81831,6 +81831,306 @@
                 "address": "神奈川県海老名市勝瀬",
                 "poi": "鳳勝寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8175201,
+                    37.9469763
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1258920260545024000",
+                "tweet_date": "2020-05-09",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/I1rZ4iOmoK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EXiVSHQUwAIOLjw.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治十八年",
+                "year_built_ce": 1885,
+                "address": "宮城県角田市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8255768,
+                    37.8774554
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1258946517127184384",
+                "tweet_date": "2020-05-09",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/xLOPQcUDxp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EXitLXpVcAEf0oq.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天明三年",
+                "year_built_ce": 1783,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "熊野神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7673798,
+                    37.8943472
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1258961994817757184",
+                "tweet_date": "2020-05-09",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/vGtVLhhLQE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EXi7QEaXgAIcxAb.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保十三年",
+                "year_built_ce": 1842,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7673492,
+                    37.8943495
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1258962262661820416",
+                "tweet_date": "2020-05-09",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/C917WO2IlD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EXi7fySWoAA5QfA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "宮城県伊具郡丸森町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7217865,
+                    37.8776592
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1258972462810673153",
+                "tweet_date": "2020-05-09",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/1SxYueKKVB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EXjEL85XkAE4cWR.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治二十四年",
+                "year_built_ce": 1891,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "聖観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7127838,
+                    37.9040032
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1258982805859561478",
+                "tweet_date": "2020-05-09",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/QRSyPk4c3Z",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EXjOKJbU8AYxhw-.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "大正六年",
+                "year_built_ce": 1917,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "段田原峠"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7127838,
+                    37.9040032
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1258983079579774976",
+                "tweet_date": "2020-05-09",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/AVwIHNktYh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EXjOaMWVcAA-_Fu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治二十年",
+                "year_built_ce": 1887,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "段田原峠"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6803741,
+                    37.8929859
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1258992194079215617",
+                "tweet_date": "2020-05-09",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/hA37v8m8TK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EXjWLmAUMAA_0PO.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EXjWLluVAAAaAMC.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EXjWLmUVcAIOLXY.jpg",
+                "media_url_4": "",
+                "type": "三日月塔",
+                "year_built": "文化十二年",
+                "year_built_ce": 1815,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "八龍神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6628113,
+                    37.903195
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1259000642288287749",
+                "tweet_date": "2020-05-09",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/maAhenfFRQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EXjeZuVUEAcxilL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政二年",
+                "year_built_ce": 1819,
+                "address": "宮城県伊具郡丸森町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6628113,
+                    37.903195
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1259000895880093697",
+                "tweet_date": "2020-05-09",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/9Fnimk733i",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EXjeoZpUwAEfbhX.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治四十一年",
+                "year_built_ce": 1908,
+                "address": "宮城県伊具郡丸森町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6177826,
+                    37.9204824
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1259029075299090432",
+                "tweet_date": "2020-05-09",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/RBRDma6PR1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EXj4PwCUcAIPEkw.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化六年",
+                "year_built_ce": 1809,
+                "address": "宮城県白石市",
+                "poi": "白鳥明神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6907501,
+                    38.0061485
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1259050009724456961",
+                "tweet_date": "2020-05-09",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/Kyj9IcJRWi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EXkLTaQVcAAzXsC.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十夜塔",
+                "year_built": "宝暦三年",
+                "year_built_ce": 1753,
+                "address": "宮城県白石市",
+                "poi": ""
+            }
         }
     ]
 }
