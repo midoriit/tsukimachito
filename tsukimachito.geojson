@@ -82131,6 +82131,31 @@
                 "address": "宮城県白石市",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2421112,
+                    35.6019386
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1260388825001455617",
+                "tweet_date": "2020-05-13",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/SNpXpjZDCf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EX3M8I3VcAEvoNI.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治三十四年",
+                "year_built_ce": 1901,
+                "address": "神奈川県相模原市緑区三井",
+                "poi": "東光寺"
+            }
         }
     ]
 }
