@@ -82156,6 +82156,356 @@
                 "address": "神奈川県相模原市緑区三井",
                 "poi": "東光寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4405365,
+                    36.3083292
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261541344935243776",
+                "tweet_date": "2020-05-16",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/fIS8umkYry",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYHlKucUEAYAqb4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市甲",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.3391266,
+                    38.4221507
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261588432045789187",
+                "tweet_date": "2020-05-16",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/Gdl2LnneMB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYIP-51VcAImzBW.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EYIP-7sUcAAqn_h.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "文化七年",
+                "year_built_ce": 1810,
+                "address": "宮城県石巻市",
+                "poi": "鹿妻山南麓"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2634277,
+                    37.34936
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261629108997378048",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/aigaSb7eFa",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYI0Vj_VcAERv0V.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市三穂田町富岡南鍜治内",
+                "poi": "亀賀森神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2634277,
+                    37.34936
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261629308277190657",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/pHARyF75sF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYI1DUPUYAEo3V4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市三穂田町富岡南鍜治内",
+                "poi": "亀賀森神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2849274,
+                    37.348373
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261633249962385413",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/q9CQzz1iXN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYI4aohUwAE6guJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市三穂田町鍋山上屋敷",
+                "poi": "普賢寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2849274,
+                    37.348373
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261633801798615042",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/4o5UQwjrMq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYI4_nIU4AEE-j2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市三穂田町鍋山上屋敷",
+                "poi": "普賢寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2849274,
+                    37.348373
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261634001174847493",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/SBESz1BV4a",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYI5W9EU4AAI9rS.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市三穂田町鍋山上屋敷",
+                "poi": "普賢寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2849274,
+                    37.348373
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261634285108264960",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/Mq3RdrwBPp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYI5gnQUYAAsJYD.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市三穂田町鍋山上屋敷",
+                "poi": "普賢寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2849274,
+                    37.348373
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261634448421826561",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/9vZO34TP9n",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYI5wsMUYAAfFq5.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市三穂田町鍋山上屋敷",
+                "poi": "普賢寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2849274,
+                    37.348373
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261634644664967169",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/KgOzoZLNFo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYI58piU0AEKfc3.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政9年",
+                "year_built_ce": 1797,
+                "address": "福島県郡山市三穂田町鍋山上屋敷",
+                "poi": "普賢寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2849274,
+                    37.348373
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261635004884373504",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/zgUivhvmZm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYI6QCNVcAAmKFl.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市三穂田町鍋山上屋敷",
+                "poi": "普賢寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2849274,
+                    37.348373
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261635212275900417",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/kvL8kQ5mVp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYI6ctSUEAEa3sJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市三穂田町鍋山上屋敷",
+                "poi": "普賢寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2849274,
+                    37.348373
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261635367062495232",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/Nxrx6OWuSZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYI6nRFUcAAliPd.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市三穂田町鍋山上屋敷",
+                "poi": "普賢寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2849274,
+                    37.348373
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261635540803174400",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/QmNTbQEYZq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYI6wwaUwAQW3RN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市三穂田町鍋山上屋敷",
+                "poi": "普賢寺"
+            }
         }
     ]
 }
