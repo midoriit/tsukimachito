@@ -82506,6 +82506,231 @@
                 "address": "福島県郡山市三穂田町鍋山上屋敷",
                 "poi": "普賢寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4451447,
+                    37.31341
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261661921968701442",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/k3bwxh9O6S",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYJSoy0UEAA04cF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市",
+                "poi": "牛頭天王路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4451447,
+                    37.31341
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261662060296822784",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/pbMcj3kdZj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYJS6FRVAAAIn_d.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市",
+                "poi": "牛頭天王路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4407806,
+                    37.313146
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261662419538984962",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/k7j8oFeeY7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYJTC0SUYAEISQ_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市",
+                "poi": "長命寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4407806,
+                    37.313146
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261662545019990016",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/Q3gXt6WlBs",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYJTXsvUcAIM8tA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市",
+                "poi": "長命寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4407806,
+                    37.313146
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261662788306350087",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/SQRnEEMiiP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYJTlnEU4AU-eG1.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市",
+                "poi": "長命寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4291992,
+                    37.291495
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261664571044933636",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/PqSRQEWuuV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYJUEVyUMAAegEY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市",
+                "poi": "正覚寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4432678,
+                    37.284534
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261665045118763008",
+                "tweet_date": "2020-05-16",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/KtGGPKIr6r",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYJVTWMU4AAT64_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市",
+                "poi": "大慈寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4238434,
+                    37.286554
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261900194959855616",
+                "tweet_date": "2020-05-17",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/nVBpef1bLJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYMrKTCU4AEkYoF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政6年",
+                "year_built_ce": 1859,
+                "address": "福島県須賀川市",
+                "poi": "小塩江郵便局前"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4238434,
+                    37.286554
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1261900377437290499",
+                "tweet_date": "2020-05-17",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/cvLmlupaHT",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYMrn4eU8AMn8qV.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市",
+                "poi": "小塩江郵便局前"
+            }
         }
     ]
 }
