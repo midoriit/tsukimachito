@@ -82731,6 +82731,31 @@
                 "address": "福島県須賀川市",
                 "poi": "小塩江郵便局前"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2361603,
+                    35.5712326
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1262931868988526592",
+                "tweet_date": "2020-05-20",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/lyaKXqXWlv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EYbV1DSU4AIBDJL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県相模原市緑区青山",
+                "poi": "路傍"
+            }
         }
     ]
 }
