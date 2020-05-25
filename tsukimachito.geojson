@@ -83106,6 +83106,31 @@
                 "address": "福島県西白河郡矢吹町白山",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8916321,
+                    35.74061
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1264707349446397952",
+                "tweet_date": "2020-05-25",
+                "contributor": "tsmie22",
+                "tweet_url": "https:\/\/t.co\/sLQKwzN4kY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EY0kmz5U8AA3RRt.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EY0kmz0UEAEs5tc.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "東京都江戸川区北小岩五丁目",
+                "poi": "十念寺"
+            }
         }
     ]
 }
