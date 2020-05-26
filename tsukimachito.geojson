@@ -83131,6 +83131,31 @@
                 "address": "東京都江戸川区北小岩五丁目",
                 "poi": "十念寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4178162,
+                    36.3380614
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1265204857952022530",
+                "tweet_date": "2020-05-26",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/NJmU1msKFq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EY7pHPVU4AMvDcQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字諸",
+                "poi": null
+            }
         }
     ]
 }
