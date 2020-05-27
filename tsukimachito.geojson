@@ -83154,7 +83154,82 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市大字諸",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2340393,
+                    35.5567318
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1265463322658267138",
+                "tweet_date": "2020-05-27",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/cqOch09TXx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EY_UJ9KU0AAIVGT.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県相模原市緑区鳥屋",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4177856,
+                    36.3379966
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1265471842682155009",
+                "tweet_date": "2020-05-27",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/HOml9CSns2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EY_b7zEU0AEEkZ7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字諸",
                 "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9354706,
+                    38.5451208
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1265583774693113856",
+                "tweet_date": "2020-05-27",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/PlMukjplru",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZBBu0JU0AA9gTF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十三年",
+                "year_built_ce": 1816,
+                "address": "宮城県大崎市",
+                "poi": "鹿嶋神社"
             }
         }
     ]
