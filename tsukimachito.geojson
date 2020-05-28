@@ -83204,7 +83204,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市大字諸",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -83230,6 +83230,56 @@
                 "year_built_ce": 1816,
                 "address": "宮城県大崎市",
                 "poi": "鹿嶋神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3228455,
+                    37.21061
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1265937743705567232",
+                "tweet_date": "2020-05-28",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/jrrWVDOqHR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZGC28OUMAERE59.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県西白河郡矢吹町滝八幡",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3102417,
+                    37.252871
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1265939271380160512",
+                "tweet_date": "2020-05-28",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/3AGbxrGKZO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZGEwdGUEAILwxJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市",
+                "poi": "茂林院"
             }
         }
     ]
