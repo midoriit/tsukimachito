@@ -83281,6 +83281,331 @@
                 "address": "福島県須賀川市",
                 "poi": "茂林院"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1823425,
+                    35.668915
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266523339406716930",
+                "tweet_date": "2020-05-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/Pv8oZpVxBq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZOYOqBUwAACqBf.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EZOYP5LVcAA4R10.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "慶応三年",
+                "year_built_ce": 1867,
+                "address": "千葉県四街道市鹿渡",
+                "poi": "善光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1823425,
+                    35.668915
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266524192083570688",
+                "tweet_date": "2020-05-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/0NNN6UZsxN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZOZAHCU0AADLik.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EZOZBw6UYAExPmz.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保六年",
+                "year_built_ce": 1835,
+                "address": "千葉県四街道市鹿渡",
+                "poi": "善光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1811218,
+                    35.6573311
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266558296216858624",
+                "tweet_date": "2020-05-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/qZGB6FSiRK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZO4C2gVAAAgHz3.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政二年",
+                "year_built_ce": 1819,
+                "address": "千葉県四街道市小名木",
+                "poi": "全宅寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1811218,
+                    35.6573311
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266559226236682240",
+                "tweet_date": "2020-05-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/dWXrjDfQbN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZO45HzU4AEn2s6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治九年",
+                "year_built_ce": 1876,
+                "address": "千葉県四街道市小名木",
+                "poi": "全宅寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1811218,
+                    35.6573311
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266559705888911362",
+                "tweet_date": "2020-05-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/f7Ph4zaAHj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZO5VCYUEAAzWTi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "大正二年",
+                "year_built_ce": 1913,
+                "address": "千葉県四街道市小名木",
+                "poi": "全宅寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1811218,
+                    35.6573311
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266560372523143168",
+                "tweet_date": "2020-05-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/RCfYBau44Q",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZO57vzVAAA1vuH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和十年",
+                "year_built_ce": 1935,
+                "address": "千葉県四街道市小名木",
+                "poi": "全宅寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1811218,
+                    35.6573311
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266560844101378048",
+                "tweet_date": "2020-05-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/tYQuaZsFqU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZO6XKEU0AAVqJv.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和三十一年",
+                "year_built_ce": 1956,
+                "address": "千葉県四街道市小名木",
+                "poi": "全宅寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.184494,
+                    35.6789056
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266625420742410241",
+                "tweet_date": "2020-05-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/yX1jRGxwRi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZP1DC0VAAMkBLm.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EZP1EaBU8AEo1fh.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EZP1F9gU4AEELss.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天明二年",
+                "year_built_ce": 1782,
+                "address": "千葉県四街道市栗山",
+                "poi": "蓮花寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.184494,
+                    35.6789056
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266627045670322183",
+                "tweet_date": "2020-05-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/EIWfw9iqnB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZP2hF9UMAEy-Wb.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EZP2iyeU8AAXCSk.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EZP2kcjVcAAtJKO.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛保三年",
+                "year_built_ce": 1743,
+                "address": "千葉県四街道市栗山",
+                "poi": "蓮花寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.184494,
+                    35.6789056
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266627910527365124",
+                "tweet_date": "2020-05-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/SczbsvtzRu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZP3TY2U4AA4EXo.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EZP3VGHVAAAYW7-.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EZP3WsBUwAEA-w0.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政五年",
+                "year_built_ce": 1822,
+                "address": "千葉県四街道市栗山",
+                "poi": "蓮花寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1908569,
+                    35.680407
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266630956829405184",
+                "tweet_date": "2020-05-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/2NvmJYTiFF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZP6IZpUMAACdij.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政六年",
+                "year_built_ce": 1823,
+                "address": "千葉県四街道市長岡",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1908569,
+                    35.680407
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266631278666735617",
+                "tweet_date": "2020-05-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/lxjFWAnsmW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZP6a6_U8AECeYm.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛保三年",
+                "year_built_ce": 1743,
+                "address": "千葉県四街道市長岡",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1908569,
+                    35.680407
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266631603893067776",
+                "tweet_date": "2020-05-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/8slOQVYbUY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZP6rAqU0AAL-V9.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EZP6sM3U4AAvAUA.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EZP6tgcU0AAa8R4.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文久三年",
+                "year_built_ce": 1863,
+                "address": "千葉県四街道市長岡",
+                "poi": null
+            }
         }
     ]
 }
