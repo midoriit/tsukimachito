@@ -83554,7 +83554,7 @@
                 "year_built": "文政六年",
                 "year_built_ce": 1823,
                 "address": "千葉県四街道市長岡",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -83579,7 +83579,7 @@
                 "year_built": "寛保三年",
                 "year_built_ce": 1743,
                 "address": "千葉県四街道市長岡",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -83604,7 +83604,207 @@
                 "year_built": "文久三年",
                 "year_built_ce": 1863,
                 "address": "千葉県四街道市長岡",
-                "poi": null
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.127594,
+                    37.151023
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266714778690449408",
+                "tweet_date": "2020-05-30",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/aCJZVq7Udl",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZRFxCcVAAAHchj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県西白河郡西郷村真船上屋敷",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.127594,
+                    37.151023
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266714885448069121",
+                "tweet_date": "2020-05-30",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/rf5HHA2kmq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZRGaxUUYAAC4nv.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県西白河郡西郷村真船上屋敷",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.127594,
+                    37.151023
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266715352802553862",
+                "tweet_date": "2020-05-30",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/5fqZsgU13U",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZRGsyNU4AILkml.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保14年",
+                "year_built_ce": 1843,
+                "address": "福島県西白河郡西郷村真船上屋敷",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3211517,
+                    35.7846958
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266938270136467456",
+                "tweet_date": "2020-05-31",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/YntFYvDTYo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZURk60VAAEQH6Z.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EZURmv_UwAIPbho.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EZURoOoVAAI2aJc.jpg",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和四年",
+                "year_built_ce": 1767,
+                "address": "千葉県成田市田町",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.330246,
+                    35.820258
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1266947585853411333",
+                "tweet_date": "2020-05-31",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/xH9nfOsmPM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZUaFEaUEAUDS4o.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十五夜塔",
+                "year_built": "寛政十二年",
+                "year_built_ce": 1800,
+                "address": "千葉県成田市芦田",
+                "poi": "芦田共同利用施設"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4244385,
+                    35.8379779
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1267029727425908737",
+                "tweet_date": "2020-05-31",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/Gu8bHJHOxR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZVkztTUcAAWOrE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県成田市伊能",
+                "poi": "圓應寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4244385,
+                    35.8379779
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1267031306891784198",
+                "tweet_date": "2020-05-31",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/VkTS04m9sW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZVmPs8UYAE2uw7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十一夜塔",
+                "year_built": "明和年間",
+                "year_built_ce": 1771,
+                "address": "千葉県成田市伊能",
+                "poi": "圓應寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4239502,
+                    35.838656
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1267033321684365313",
+                "tweet_date": "2020-05-31",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/SdmVP0xkaP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZVoEwLVAAI1t9t.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十五夜塔 二十二夜塔",
+                "year_built": "",
+                "year_built_ce": 1734,
+                "address": "千葉県成田市伊能",
+                "poi": "圓應寺"
             }
         }
     ]
