@@ -83806,6 +83806,181 @@
                 "address": "千葉県成田市伊能",
                 "poi": "圓應寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4334259,
+                    36.2897232
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1267368041865568257",
+                "tweet_date": "2020-06-01",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/EwapXzISMK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZaYhHiU0AAPObo.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字耳取",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9385223,
+                    38.5558529
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1267398278292750337",
+                "tweet_date": "2020-06-01",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/1jpWsWcF9J",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZa0AxYVcAMKo1c.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化二年",
+                "year_built_ce": 1805,
+                "address": "宮城県大崎市",
+                "poi": "鹿嶋神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2116547,
+                    35.755222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1267418985902903298",
+                "tweet_date": "2020-06-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/52On7AQhxD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZbGYgEU0AA8vom.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県佐倉市土浮",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2116547,
+                    35.755222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1267419543330119683",
+                "tweet_date": "2020-06-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/A8aoeArxsX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZbHFhoU0AM83FG.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EZbHHbWUYAAsIN0.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県佐倉市土浮",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2116547,
+                    35.755222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1267419953566629888",
+                "tweet_date": "2020-06-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/W8o07FWTvg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZbHlf1UYAAIg0u.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EZbHmB_UcAEYreE.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県佐倉市土浮",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2116547,
+                    35.755222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1267420330936565761",
+                "tweet_date": "2020-06-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/dHgjlrviA7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZbH9JtUcAA52Fs.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EZbH9f4U4AASB1e.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県佐倉市土浮",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2116547,
+                    35.755222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1267420685422350336",
+                "tweet_date": "2020-06-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/ANsCr5Pxnn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZbIHM4U0AAiriO.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EZbIHmCU8AIauUb.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県佐倉市土浮",
+                "poi": null
+            }
         }
     ]
 }
