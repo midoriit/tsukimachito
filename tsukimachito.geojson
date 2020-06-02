@@ -83829,7 +83829,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市大字耳取",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -83876,10 +83876,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "嘉永三年",
+                "year_built_ce": 1850,
                 "address": "千葉県佐倉市土浮",
-                "poi": null
+                "poi": "正福寺"
             }
         },
         {
@@ -83901,10 +83901,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明治十二年",
+                "year_built_ce": 1879,
                 "address": "千葉県佐倉市土浮",
-                "poi": null
+                "poi": "正福寺"
             }
         },
         {
@@ -83926,10 +83926,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明治三十一年",
+                "year_built_ce": 1898,
                 "address": "千葉県佐倉市土浮",
-                "poi": null
+                "poi": "正福寺"
             }
         },
         {
@@ -83951,10 +83951,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "昭和四年",
+                "year_built_ce": 1929,
                 "address": "千葉県佐倉市土浮",
-                "poi": null
+                "poi": "正福寺"
             }
         },
         {
@@ -83976,9 +83976,34 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
+                "year_built": "昭和二十七年",
+                "year_built_ce": 1952,
+                "address": "千葉県佐倉市土浮",
+                "poi": "正福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4111938,
+                    36.319919
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1267737718634606593",
+                "tweet_date": "2020-06-02",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/DETWzJRePX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZfculoUYAA5M4z.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
                 "year_built": "",
                 "year_built_ce": "",
-                "address": "千葉県佐倉市土浮",
+                "address": "長野県小諸市大字山浦",
                 "poi": null
             }
         }
