@@ -84004,6 +84004,81 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市大字山浦",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4181976,
+                    36.3101535
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1267997018309324800",
+                "tweet_date": "2020-06-03",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/msfssuOTWc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZjUkXwUYAE5vai.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字山浦",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4164734,
+                    36.308859
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1268098848456503302",
+                "tweet_date": "2020-06-03",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/nEF6sCFdy2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZj2A3wU8AA-ioz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字山浦",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4200592,
+                    36.270818
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1268105141305126912",
+                "tweet_date": "2020-06-03",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/73B7mc6U08",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZj3fcfU4AERTDb.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市塩名田",
                 "poi": null
             }
         }
