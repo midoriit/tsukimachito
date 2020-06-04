@@ -84029,7 +84029,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市大字山浦",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -84054,7 +84054,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市大字山浦",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -84079,7 +84079,157 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県佐久市塩名田",
-                "poi": null
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8443604,
+                    36.063965
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1268477366537355265",
+                "tweet_date": "2020-06-04",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/DC60AvUdwO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZqIv41U4AAa9C_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県坂東市長須",
+                "poi": "長須八幡香取神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8441925,
+                    36.063433
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1268479218553204738",
+                "tweet_date": "2020-06-04",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/mNCWUgYwST",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZqKx47UcAALL27.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県坂東市長須",
+                "poi": "長須八幡香取神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8416901,
+                    36.054861
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1268483266580897792",
+                "tweet_date": "2020-06-04",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/VeNbepvV3u",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZqOa9FVAAIwvXB.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県坂東市長須",
+                "poi": "星神社・八坂神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8506165,
+                    36.052176
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1268484778480680961",
+                "tweet_date": "2020-06-04",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/Axg9e2ePzE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZqPlzPU8AMHBIR.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県坂東市長須",
+                "poi": "陽泉寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8504944,
+                    36.052343
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1268485385258250241",
+                "tweet_date": "2020-06-04",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/zF1MO978Z5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZqQQXdU4AApZJB.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県坂東市長須",
+                "poi": "陽泉寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8443604,
+                    36.063965
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1268511955389538305",
+                "tweet_date": "2020-06-04",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/SOOB18ceGf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZqodZGXsAMvj6Q.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県坂東市長須",
+                "poi": "長須八幡香取神社"
             }
         }
     ]
