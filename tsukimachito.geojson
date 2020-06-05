@@ -84231,6 +84231,56 @@
                 "address": "茨城県坂東市長須",
                 "poi": "長須八幡香取神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.219696,
+                    35.5473024
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1268718334788268032",
+                "tweet_date": "2020-06-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/SeXGQK7Iqu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZtklzZVcAABI8M.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県相模原市緑区鳥屋",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.432312,
+                    36.353778
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1268831425454911488",
+                "tweet_date": "2020-06-05",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/56gUwg3q0I",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZuUUfCU0AA56uF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字菱平",
+                "poi": null
+            }
         }
     ]
 }
