@@ -84279,7 +84279,157 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市大字菱平",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0279999,
+                    38.8130496
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1269119280932458497",
+                "tweet_date": "2020-06-06",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/SUAvkzPAm5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZzRQCAUYAA-46K.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十三年",
+                "year_built_ce": 1830,
+                "address": "宮城県栗原市",
+                "poi": "八坂神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0430145,
+                    38.8218875
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1269123482953977858",
+                "tweet_date": "2020-06-06",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/9OjQutUMJy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZzVE3uU4AAUTRB.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政五年",
+                "year_built_ce": 1822,
+                "address": "宮城県栗原市",
+                "poi": "猿田彦神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0666809,
+                    38.8236653
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1269126978847686656",
+                "tweet_date": "2020-06-06",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/PgNKxdpBRW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZzYNDtUcAAcvQu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永四年",
+                "year_built_ce": 1851,
+                "address": "宮城県栗原市",
+                "poi": "熊野神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1249847,
+                    38.8701924
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1269135988955070464",
+                "tweet_date": "2020-06-06",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/tQY5LCkutU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZzgcWDUEAAHE8y.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "宮城県栗原市",
+                "poi": "観音寺木月堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1267548,
+                    38.8731925
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1269139434995240966",
+                "tweet_date": "2020-06-06",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/bgpSxI6PRi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZzjkibVcAE36wq.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EZzjkiaU4AAPsBA.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化四年",
+                "year_built_ce": 1847,
+                "address": "宮城県栗原市",
                 "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1066284,
+                    38.7818705
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1269153516125184001",
+                "tweet_date": "2020-06-06",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/B3DSN63LsK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZzwZB6UwAARrYe.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和元年",
+                "year_built_ce": 1801,
+                "address": "宮城県栗原市",
+                "poi": "熊野神社"
             }
         }
     ]
