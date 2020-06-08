@@ -84431,6 +84431,106 @@
                 "address": "宮城県栗原市",
                 "poi": "熊野神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.933197,
+                    37.465509
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1269631857890476032",
+                "tweet_date": "2020-06-07",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/fJF4TtuSKN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZ6ii50U4AANlp2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県会津若松市門田町御山村下",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9181519,
+                    35.807227
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1269834294685339651",
+                "tweet_date": "2020-06-08",
+                "contributor": "tsmie22",
+                "tweet_url": "https:\/\/t.co\/acmReob9D6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZ9bi8lUEAASjMA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛保元年",
+                "year_built_ce": 1741,
+                "address": "千葉県松戸市中根",
+                "poi": "妙見神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9179535,
+                    35.807175
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1269834982727413760",
+                "tweet_date": "2020-06-08",
+                "contributor": "tsmie22",
+                "tweet_url": "https:\/\/t.co\/MFb6RkJEyJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZ9cLBTUYAArItN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県松戸市中根",
+                "poi": "妙見神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4624634,
+                    35.884287
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1269950270361858051",
+                "tweet_date": "2020-06-08",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/ieGbnK0LnW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZ--liDVcAEEbVU.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EZ--o0HUcAAipFc.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EZ_Ek7XU8AACfgU.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EZ_EmRVVcAA3-8n.jpg",
+                "type": "十五夜塔",
+                "year_built": "明和六年",
+                "year_built_ce": 1769,
+                "address": "千葉県香取市大戸",
+                "poi": "大戸神社"
+            }
         }
     ]
 }
