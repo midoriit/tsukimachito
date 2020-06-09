@@ -84531,6 +84531,81 @@
                 "address": "千葉県香取市大戸",
                 "poi": "大戸神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5315399,
+                    35.899315
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1269983498397310977",
+                "tweet_date": "2020-06-08",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/9xh9smEAFq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZ_fuHsUEAAot6o.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EZ_jLhdUcAApoqX.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "文化六年",
+                "year_built_ce": 1809,
+                "address": "千葉県香取市津宮",
+                "poi": "龍田神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.545166,
+                    35.877142
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1269986660499902466",
+                "tweet_date": "2020-06-08",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/SNAbJfk3IQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EZ_lgtlVcAUnCz_.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EZ_likXUMAAAqjS.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EZ_lk-TUEAIbikk.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EZ_lm-BUMAAeiYQ.jpg",
+                "type": "七夜待塔",
+                "year_built": "正徳二年",
+                "year_built_ce": 1712,
+                "address": "千葉県香取市多田",
+                "poi": "光明院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1868591,
+                    35.6783489
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1270175861531017217",
+                "tweet_date": "2020-06-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/QenBFPAAQv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaCSGjWU4AEywSs.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "東京都八王子市",
+                "poi": "路傍"
+            }
         }
     ]
 }
