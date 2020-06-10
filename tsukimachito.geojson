@@ -84606,6 +84606,256 @@
                 "address": "東京都八王子市",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.545578,
+                    35.850973
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1270330730728484866",
+                "tweet_date": "2020-06-09",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/Hzid96wvUQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaEZaPzUMAEDT_n.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EaEezQrVcAEK79j.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EaEe1uHU0AE-Evu.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EaEe3X_VAAE7sXp.jpg",
+                "type": "十九夜塔",
+                "year_built": "寛延三年",
+                "year_built_ce": 1750,
+                "address": "千葉県香取市織幡",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.545578,
+                    35.850973
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1270331191602802689",
+                "tweet_date": "2020-06-09",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/bXMTGThRfY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaEfUFLUMAAQfQQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十五夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県香取市織幡",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5946655,
+                    35.841448
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1270342976628117505",
+                "tweet_date": "2020-06-09",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/UhiBlXLyHs",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaEmI6SUMAAzscE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永五年",
+                "year_built_ce": 1776,
+                "address": "千葉県香取市下小川",
+                "poi": "血当寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5946655,
+                    35.841448
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1270374005149544449",
+                "tweet_date": "2020-06-10",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/Pe9Lla9uaX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaFEWrcUEAAhI8H.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EaFFAotU4AAOA_J.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県香取市下小川",
+                "poi": "血当寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5946655,
+                    35.841448
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1270374804189704193",
+                "tweet_date": "2020-06-10",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/sO8tlUYi45",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaFG1t9UEAMCLjl.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元文元年",
+                "year_built_ce": 1736,
+                "address": "千葉県香取市下小川",
+                "poi": "血当寺(墓地)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.5946655,
+                    35.841448
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1270654303070564352",
+                "tweet_date": "2020-06-10",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/q9CYVYmIyg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaJEql_UEAIP9LR.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十夜塔",
+                "year_built": "正徳元年",
+                "year_built_ce": 1711,
+                "address": "千葉県香取市下小川",
+                "poi": "血当寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6026001,
+                    35.802473
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1270655648695332865",
+                "tweet_date": "2020-06-10",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/h81mOn8fMQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaJGE2cU8AU4xGn.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EaJGMBXUcAQezZu.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化二年",
+                "year_built_ce": 1845,
+                "address": "千葉県香取市長岡",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.651825,
+                    35.831624
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1270661150422622209",
+                "tweet_date": "2020-06-10",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/unmY9vuUkb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaJKU0RVAAEVPNV.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EaJKXFVUwAA_19r.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EaJKgZGUcAAbScv.jpg",
+                "media_url_4": "",
+                "type": "二十夜塔",
+                "year_built": "寛文四年",
+                "year_built_ce": 1664,
+                "address": "千葉県香取郡東庄町笹川い",
+                "poi": "東福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.651825,
+                    35.831624
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1270663154888892417",
+                "tweet_date": "2020-06-10",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/PtpV7fUCLk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaJNBr7U4AAKudM.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EaJNCI-VAAEYE1p.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EaJNCuVUwAEOcG6.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛文六年",
+                "year_built_ce": 1666,
+                "address": "千葉県香取郡東庄町笹川い",
+                "poi": "東福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6511688,
+                    35.721207
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1270672145715130368",
+                "tweet_date": "2020-06-10",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/GQ45rdAoo9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaJVk_RU4AU-KUS.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政八年",
+                "year_built_ce": 1796,
+                "address": "千葉県旭市ロ",
+                "poi": "真福寺"
+            }
         }
     ]
 }
