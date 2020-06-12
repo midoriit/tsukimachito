@@ -84856,6 +84856,156 @@
                 "address": "千葉県旭市ロ",
                 "poi": "真福寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7076721,
+                    35.799902
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271080265574518785",
+                "tweet_date": "2020-06-11",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/uGIkFwr2YB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaPGLnXU4AA2Yuc.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EaPGMaPU8AADctj.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EaPGPnHWAAYxzV8.jpg",
+                "media_url_4": "",
+                "type": "十五夜塔",
+                "year_built": "宝永元年",
+                "year_built_ce": 1704,
+                "address": "千葉県銚子市諸持町",
+                "poi": "六所大神"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7076721,
+                    35.799902
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271080756517822465",
+                "tweet_date": "2020-06-11",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/n1SkL739nP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaPJDO3U8AEOhva.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦六年",
+                "year_built_ce": 1756,
+                "address": "千葉県銚子市諸持町",
+                "poi": "六所大神"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7076721,
+                    35.799902
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271094129569615872",
+                "tweet_date": "2020-06-11",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/WKLjm1W7CV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaPT86VU4AI1Pif.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県銚子市諸持町",
+                "poi": "六所大神"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8305817,
+                    35.734168
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271103822291537921",
+                "tweet_date": "2020-06-12",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/OROkvzZL9l",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaPdzUAVcAE5fbF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和二年",
+                "year_built_ce": 1802,
+                "address": "千葉県銚子市中央町",
+                "poi": "庚申神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7341461,
+                    35.745144
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271105067928576000",
+                "tweet_date": "2020-06-12",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/xMhhhV4LTq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaPfPBKVcAAhJ4f.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県銚子市猿田町",
+                "poi": "南坊院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6509247,
+                    35.720877
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271105980831420416",
+                "tweet_date": "2020-06-12",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/OXvxCJaPth",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaPf4DhU8AE6ECi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦四年",
+                "year_built_ce": 1754,
+                "address": "千葉県旭市ロ",
+                "poi": "真福寺"
+            }
         }
     ]
 }
