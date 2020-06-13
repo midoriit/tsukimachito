@@ -62767,31 +62767,6 @@
                 ]
             },
             "properties": {
-                "tweet_id": "T1165518989339942912",
-                "tweet_date": "2019-08-25",
-                "contributor": "_mamehito_",
-                "tweet_url": "https:\/\/t.co\/1p5TsvAuoz",
-                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ECzBVAiU4AEi-vz.jpg",
-                "media_url_2": "",
-                "media_url_3": "",
-                "media_url_4": "",
-                "type": "二十三夜塔",
-                "year_built": "安政三年",
-                "year_built_ce": 1856,
-                "address": "宮城県伊具郡丸森町",
-                "poi": "稲荷神社"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    140.8295441,
-                    37.84126333
-                ]
-            },
-            "properties": {
                 "tweet_id": "T1165519505369354240",
                 "tweet_date": "2019-08-25",
                 "contributor": "_mamehito_",
@@ -85005,6 +84980,281 @@
                 "year_built_ce": 1754,
                 "address": "千葉県旭市ロ",
                 "poi": "真福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2752686,
+                    37.450446
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271782661242056706",
+                "tweet_date": "2020-06-13",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/81b4hPO2hL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaZHWDtU8AAF2m6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市逢瀬町夏出舘下",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2752686,
+                    37.450446
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271782885717012481",
+                "tweet_date": "2020-06-13",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/HSPLABncEu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaZHpG8UMAYo3wj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市逢瀬町夏出舘下",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2752686,
+                    37.450446
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271783479676514305",
+                "tweet_date": "2020-06-13",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/hS2P0hkwqC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaZIMMuVcAAqfvj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市逢瀬町夏出舘下",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2752686,
+                    37.450446
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271783755405901824",
+                "tweet_date": "2020-06-13",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/XyDHVRv74n",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaZIcjBUMAE_nv2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市逢瀬町夏出舘下",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2752686,
+                    37.450446
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271784023862341632",
+                "tweet_date": "2020-06-13",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/ThcWJm8vq5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaZIqE1UcAA2EFd.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市逢瀬町夏出舘下",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2752686,
+                    37.450446
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271784730627723264",
+                "tweet_date": "2020-06-13",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/jGbvNI4W3j",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaZJSIBUYAMjvzC.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市逢瀬町夏出舘下",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3109741,
+                    37.45959
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271786563932835841",
+                "tweet_date": "2020-06-13",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/RgDJ51GEgM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaZKsIEUwAEy9cw.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市熱海町安子島四ツ背山",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3109741,
+                    37.45959
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271786851720818691",
+                "tweet_date": "2020-06-13",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/RGIV7CSGmH",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaZLP7IUEAE7aIH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市熱海町安子島四ツ背山",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3109741,
+                    37.45959
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271787091706343429",
+                "tweet_date": "2020-06-13",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/Ms87JfI9uA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaZLdtpU4AAkxyq.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市熱海町安子島四ツ背山",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3109741,
+                    37.45959
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271787302616829953",
+                "tweet_date": "2020-06-13",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/UhRukEbCAK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaZLraoU0AUJNDY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市熱海町安子島四ツ背山",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3109741,
+                    37.45959
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1271788211459616772",
+                "tweet_date": "2020-06-13",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/dkQJDtaKhJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EaZMfCJUEAMzPSy.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市熱海町安子島四ツ背山",
+                "poi": null
             }
         }
     ]
