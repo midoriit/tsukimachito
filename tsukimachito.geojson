@@ -83076,8 +83076,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天明5",
+                "year_built_ce": 1785,
                 "address": "福島県西白河郡矢吹町白山",
                 "poi": "路傍"
             }
@@ -83776,7 +83776,7 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十五夜塔 二十二夜塔",
-                "year_built": "",
+                "year_built": "享保十二",
                 "year_built_ce": 1734,
                 "address": "千葉県成田市伊能",
                 "poi": "圓應寺"
@@ -84676,8 +84676,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天明二壬寅",
+                "year_built_ce": 1782,
                 "address": "千葉県香取市下小川",
                 "poi": "血当寺"
             }
@@ -85004,7 +85004,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "福島県郡山市逢瀬町夏出舘下",
-                "poi": null
+                "poi": "薬師如来堂"
             }
         },
         {
@@ -85026,10 +85026,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
+                "year_built": "安政8年",
                 "year_built_ce": "",
                 "address": "福島県郡山市逢瀬町夏出舘下",
-                "poi": null
+                "poi": "薬師如来堂"
             }
         },
         {
@@ -85054,7 +85054,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "福島県郡山市逢瀬町夏出舘下",
-                "poi": null
+                "poi": "薬師如来堂"
             }
         },
         {
@@ -85079,7 +85079,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "福島県郡山市逢瀬町夏出舘下",
-                "poi": null
+                "poi": "薬師如来堂"
             }
         },
         {
@@ -85104,7 +85104,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "福島県郡山市逢瀬町夏出舘下",
-                "poi": null
+                "poi": "薬師如来堂"
             }
         },
         {
@@ -85129,7 +85129,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "福島県郡山市逢瀬町夏出舘下",
-                "poi": null
+                "poi": "薬師如来堂"
             }
         },
         {
@@ -85151,10 +85151,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天保9年",
+                "year_built_ce": 1838,
                 "address": "福島県郡山市熱海町安子島四ツ背山",
-                "poi": null
+                "poi": "山神社"
             }
         },
         {
@@ -85176,10 +85176,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文政5年",
+                "year_built_ce": 1822,
                 "address": "福島県郡山市熱海町安子島四ツ背山",
-                "poi": null
+                "poi": "山神社"
             }
         },
         {
@@ -85201,10 +85201,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化4年",
+                "year_built_ce": 1807,
                 "address": "福島県郡山市熱海町安子島四ツ背山",
-                "poi": null
+                "poi": "山神社"
             }
         },
         {
@@ -85226,10 +85226,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "天保12年",
+                "year_built_ce": 1841,
                 "address": "福島県郡山市熱海町安子島四ツ背山",
-                "poi": null
+                "poi": "山神社"
             }
         },
         {
@@ -85251,10 +85251,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "嘉永元年",
+                "year_built_ce": 1848,
                 "address": "福島県郡山市熱海町安子島四ツ背山",
-                "poi": null
+                "poi": "山神社"
             }
         }
     ]
