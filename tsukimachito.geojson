@@ -85306,6 +85306,31 @@
                 "address": "千葉県四街道市旭ケ丘五丁目",
                 "poi": "大隆寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4446259,
+                    36.3570283
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1273180844266586113",
+                "tweet_date": "2020-06-17",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/VJopvE59Xl",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eas_OwuU8AAx_CZ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字菱平",
+                "poi": null
+            }
         }
     ]
 }
