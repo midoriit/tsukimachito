@@ -85329,7 +85329,57 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市大字菱平",
-                "poi": null
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.269928,
+                    35.833724
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1273520577681092608",
+                "tweet_date": "2020-06-18",
+                "contributor": "tsmie22",
+                "tweet_url": "https:\/\/t.co\/H55hEWCLuS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eax0M3nVcAMhzNL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "明治22年",
+                "year_built_ce": 1889,
+                "address": "千葉県印旛郡栄町龍角寺",
+                "poi": "龍角寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.269989,
+                    35.833724
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1273522288432799745",
+                "tweet_date": "2020-06-18",
+                "contributor": "tsmie22",
+                "tweet_url": "https:\/\/t.co\/aVhy5wCebz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eax1wfVVAAA5s8s.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十五夜塔",
+                "year_built": "文化七年",
+                "year_built_ce": 1810,
+                "address": "千葉県印旛郡栄町龍角寺",
+                "poi": "龍角寺"
             }
         }
     ]
