@@ -85381,6 +85381,106 @@
                 "address": "千葉県印旛郡栄町龍角寺",
                 "poi": "龍角寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1275177,
+                    35.69468
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1274995307856556032",
+                "tweet_date": "2020-06-22",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/zlFtp6BqB0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EbGxO_FUEAAHO-j.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治二十九年",
+                "year_built_ce": 1896,
+                "address": "千葉県千葉市花見川区内山町",
+                "poi": "第六天神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1276398,
+                    35.69496
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1274996645386575873",
+                "tweet_date": "2020-06-22",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/W3w6hhxn9L",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EbGyUPCUwAAMh_-.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EbGyU0jUwAE0O9B.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保四年",
+                "year_built_ce": 1833,
+                "address": "千葉県千葉市花見川区内山町",
+                "poi": "第六天神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1276398,
+                    35.69496
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1274997582469623808",
+                "tweet_date": "2020-06-22",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/uCiVLejgde",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EbGzSn3U0AYOINh.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EbGzUHzUMAAo-O2.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治十六年",
+                "year_built_ce": 1883,
+                "address": "千葉県千葉市花見川区内山町",
+                "poi": "第六天神社脇"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.174469,
+                    35.695059
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1275004103454715904",
+                "tweet_date": "2020-06-22",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/A3ssGVyMKK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EbG44apUMAEkWoN.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EbG447NUwAA7uw2.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化十四年",
+                "year_built_ce": 1817,
+                "address": "千葉県四街道市内黒田",
+                "poi": "西光院"
+            }
         }
     ]
 }
