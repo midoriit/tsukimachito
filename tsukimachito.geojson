@@ -85481,6 +85481,81 @@
                 "address": "千葉県四街道市内黒田",
                 "poi": "西光院"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.201416,
+                    35.710614
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1275054521056505857",
+                "tweet_date": "2020-06-22",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/kljRPC8Zir",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EbHmmf1U0AIx6HU.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EbHmnI-VAAE1wOz.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "嘉永六丑年",
+                "year_built_ce": 1853,
+                "address": "千葉県佐倉市羽鳥",
+                "poi": "普門院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.201416,
+                    35.710614
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1275054783242448901",
+                "tweet_date": "2020-06-22",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/haFkGJrNjT",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EbHndE9U4AId8jz.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EbHnewzUwAAzEvL.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治十二年",
+                "year_built_ce": 1879,
+                "address": "千葉県佐倉市羽鳥",
+                "poi": "普門院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.201416,
+                    35.710614
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1275056207699472385",
+                "tweet_date": "2020-06-22",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/Fv3OusklNI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EbHoxTKU0AArhN0.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EbHozE2VAAQr6FR.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治四十二年",
+                "year_built_ce": 1909,
+                "address": "千葉県佐倉市羽鳥",
+                "poi": "普門院"
+            }
         }
     ]
 }
