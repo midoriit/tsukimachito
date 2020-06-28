@@ -86256,6 +86256,56 @@
                 "address": "群馬県利根郡みなかみ町",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.1506653,
+                    36.489326
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1276943089542639616",
+                "tweet_date": "2020-06-28",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/EKAhCEhXGF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EbicMTXVAAAZ1MP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "三日月塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県千曲市大字戸倉",
+                "poi": "水上布奈山神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.0837402,
+                    36.518741
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1277170139620753409",
+                "tweet_date": "2020-06-28",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/sgzJoLX6lc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eblq9bBU4AAX6RI.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Eblq-OwU4AELrOC.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県千曲市大字八幡",
+                "poi": null
+            }
         }
     ]
 }
