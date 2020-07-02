@@ -86306,6 +86306,81 @@
                 "address": "長野県千曲市大字八幡",
                 "poi": "霊諍山"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9729309,
+                    36.0138727
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1278533905163759616",
+                "tweet_date": "2020-07-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/OzClvtBTWN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eb5DzzbUEAAhwPP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文政三年",
+                "year_built_ce": 1820,
+                "address": "埼玉県秩父郡小鹿野町",
+                "poi": "傘松地蔵尊"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9744415,
+                    36.00948
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1278537437585653761",
+                "tweet_date": "2020-07-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/kd8FVlp6oX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eb5HAkVUYAAlAVv.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Eb5HBUnUwAAnhr4.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "弘化四年",
+                "year_built_ce": 1847,
+                "address": "埼玉県秩父郡小鹿野町",
+                "poi": "八幡神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1661682,
+                    35.656094
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1278632280282431488",
+                "tweet_date": "2020-07-02",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/NEwnTTrUT2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eb6cz2vVcAAmoRu.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Eb6c0mrUcAA-o-Q.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県四街道市和良比",
+                "poi": "吉祥院"
+            }
         }
     ]
 }
