@@ -86381,6 +86381,106 @@
                 "address": "千葉県四街道市和良比",
                 "poi": "吉祥院"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4047852,
+                    37.788037
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1279408800760336384",
+                "tweet_date": "2020-07-04",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/JvTrrVfNb8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EcFfDtvUYAAUtZK.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県福島市大笹生東荒",
+                "poi": "薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4047852,
+                    37.788037
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1279410600322326528",
+                "tweet_date": "2020-07-04",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/dpXpKHv4WX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EcFg5UiUEAUmmLm.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県福島市大笹生東荒",
+                "poi": "薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1929932,
+                    35.6606513
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1279638900256858113",
+                "tweet_date": "2020-07-05",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/vNhwsUpeNn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EcIwychU0AAFoMj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明和二年",
+                "year_built_ce": 1765,
+                "address": "千葉県四街道市上野",
+                "poi": "薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.197525,
+                    35.6606104
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1279642149936492545",
+                "tweet_date": "2020-07-05",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/arzZgpnNbc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EcIzvrLUMAEZvSH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛延三年",
+                "year_built_ce": 1750,
+                "address": "千葉県四街道市南波佐間",
+                "poi": "墓地"
+            }
         }
     ]
 }
