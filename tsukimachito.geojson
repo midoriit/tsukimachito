@@ -86481,6 +86481,156 @@
                 "address": "千葉県四街道市南波佐間",
                 "poi": "墓地"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1743164,
+                    35.6950984
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1282084193044885504",
+                "tweet_date": "2020-07-12",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/JH2Qi20cPn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EcrgvggVcAI8fvw.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ecrgw2mU4AEnluf.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "正徳五年",
+                "year_built_ce": 1715,
+                "address": "",
+                "poi": "西光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1804047,
+                    35.6558007
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1282115386041700352",
+                "tweet_date": "2020-07-12",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/gaMgINSj0A",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ecr9I4rVAAACC34.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦十年",
+                "year_built_ce": 1760,
+                "address": "",
+                "poi": "小名木青年館(吉祥寺)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9863434,
+                    35.7809484
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1282135873044115456",
+                "tweet_date": "2020-07-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/9jU3Cl7iqW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EcsPx6QU0AE31RG.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永七年",
+                "year_built_ce": 1854,
+                "address": "",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3029633,
+                    35.661075
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1282168037748043778",
+                "tweet_date": "2020-07-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/dcST66pOd2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EcstBXoU0AASyjS.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EcstCHgUwAEUasK.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "平成十一年",
+                "year_built_ce": 1999,
+                "address": "",
+                "poi": "吉祥院二十三夜堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1805267,
+                    35.7137918
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1282189912502964225",
+                "tweet_date": "2020-07-12",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/saVavp3zMP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EctAy_UU8AUPJrJ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EctA0imUYAAMR29.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EctA4sWUcAEC2zm.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EctA6j9UMAEPtNB.jpg",
+                "type": "十九夜塔",
+                "year_built": "安政七年",
+                "year_built_ce": 1860,
+                "address": "",
+                "poi": "専栄寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4022827,
+                    37.799522
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1282298297026179075",
+                "tweet_date": "2020-07-12",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/JIawzyPoPL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EcuiiZ3U0AEn_YN.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ecuim58UwAEJm_E.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "",
+                "poi": "大福寺"
+            }
         }
     ]
 }
