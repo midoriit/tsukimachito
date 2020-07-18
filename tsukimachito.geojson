@@ -1387,8 +1387,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.2008362,
-                    35.7323158
+                    139.2012177,
+                    35.732964
                 ]
             },
             "properties": {
@@ -1412,8 +1412,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.2138062,
-                    35.7275664
+                    139.2136078,
+                    35.728108
                 ]
             },
             "properties": {
@@ -86630,6 +86630,81 @@
                 "year_built_ce": "",
                 "address": "",
                 "poi": "大福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1694336,
+                    35.5990244
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1284419998295810051",
+                "tweet_date": "2020-07-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/9V09qXUgdD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EdMtKzMUMAASoOI.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EdMtLe_UMAcI81F.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "延宝四年",
+                "year_built_ce": 1676,
+                "address": "",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1384735,
+                    35.632166
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1284430008061026304",
+                "tweet_date": "2020-07-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/t6eITcdl2M",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EdM2FpyVcAAFEzJ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EdM2IHNVAAA39wY.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EdM2JjoU0AAD5GF.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永五年",
+                "year_built_ce": 1776,
+                "address": "",
+                "poi": "正徳寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1384735,
+                    35.632166
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1284430646245376001",
+                "tweet_date": "2020-07-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/ipkCr9xl47",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EdM2VFCUEAANvoH.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EdM2aZDUYAEu388.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EdM2a7xU0AADMJT.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元禄十年",
+                "year_built_ce": 1697,
+                "address": "",
+                "poi": "正徳寺"
             }
         }
     ]
