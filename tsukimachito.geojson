@@ -86706,6 +86706,56 @@
                 "address": "",
                 "poi": "正徳寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9680786,
+                    35.7585382
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1284675528281034752",
+                "tweet_date": "2020-07-19",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mu8gq3Lc8d",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EdQVlWCUMAAdNx5.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化九年",
+                "year_built_ce": 1812,
+                "address": "",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.987915,
+                    35.7254022
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1284680448992399362",
+                "tweet_date": "2020-07-19",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/RcskKdx46X",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EdQaDvGUEAEBiX4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和三年",
+                "year_built_ce": 1803,
+                "address": "",
+                "poi": "長作観音堂"
+            }
         }
     ]
 }
