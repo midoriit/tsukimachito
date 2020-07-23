@@ -86756,6 +86756,31 @@
                 "address": "",
                 "poi": "長作観音堂"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.357193,
+                    36.3616785
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1286110832279998464",
+                "tweet_date": "2020-07-23",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/l9fTYFFrgf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Edku_GoU0AAn3JC.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "",
+                "poi": null
+            }
         }
     ]
 }
