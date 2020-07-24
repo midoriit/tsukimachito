@@ -86779,7 +86779,307 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "",
-                "poi": null
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2145996,
+                    35.5394639
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1286487222049480705",
+                "tweet_date": "2020-07-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/0rdsU9A8jV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EdqFS5rVoAAZLxb.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EdqFTs5VAAA995I.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十一年",
+                "year_built_ce": 1828,
+                "address": "",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.966217,
+                    37.8240445
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1286533465609924609",
+                "tweet_date": "2020-07-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/bTIAMQRsuO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EdqvWMwVAAAnbXS.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EdqvWvrU4AAxbmN.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政七年",
+                "year_built_ce": 1824,
+                "address": "",
+                "poi": "船越観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9662476,
+                    37.8239923
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1286533956427370497",
+                "tweet_date": "2020-07-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/hlOSUscged",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EdqvzpNUYAA0fXM.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和二年",
+                "year_built_ce": 1802,
+                "address": "",
+                "poi": "船越観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9662476,
+                    37.8239815
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1286534473304088578",
+                "tweet_date": "2020-07-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/T08LsnmrDC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EdqwQ_XUcAAAyPr.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EdqwRpVUMAECly2.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "昭和十三年",
+                "year_built_ce": 1938,
+                "address": "",
+                "poi": "船越観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9664612,
+                    37.8239982
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1286535300106215429",
+                "tweet_date": "2020-07-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/xe403nCrm7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EdqxB4EVoAEwEkV.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EdqxB4GUwAAbLTi.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政十一年",
+                "year_built_ce": 1799,
+                "address": "",
+                "poi": "船越観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9664612,
+                    37.8239982
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1286535883248635904",
+                "tweet_date": "2020-07-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/pmeye0MUAi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EdqxiumVoAE4D1D.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和年間",
+                "year_built_ce": "",
+                "address": "",
+                "poi": "船越観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9664459,
+                    37.8239018
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1286536354428366848",
+                "tweet_date": "2020-07-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/r6K13K3U2S",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Edqx_UdUwAA68-d.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "元治二年",
+                "year_built_ce": 1865,
+                "address": "",
+                "poi": "船越観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9664459,
+                    37.8239018
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1286536842712498178",
+                "tweet_date": "2020-07-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/iX92Ya24hi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EdqybzRU8AE6IUI.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永二年",
+                "year_built_ce": 1849,
+                "address": "",
+                "poi": "船越観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9384003,
+                    37.8050747
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1286549281109770240",
+                "tweet_date": "2020-07-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/BZJjcQcyU8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Edq9vMNU0AAuc2H.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化七年",
+                "year_built_ce": 1810,
+                "address": "",
+                "poi": "御両大権現神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9332275,
+                    37.7900206
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1286555104619839488",
+                "tweet_date": "2020-07-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/2qVO3qg8m3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EdrDCyJU0AIZrjv.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政四年",
+                "year_built_ce": 1821,
+                "address": "",
+                "poi": "麓山神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9332275,
+                    37.7900206
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1286555280059187201",
+                "tweet_date": "2020-07-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/ZLkvus1hWM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EdrDM_HVoAAdjcz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永五年",
+                "year_built_ce": 1852,
+                "address": "",
+                "poi": "麓山神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9332275,
+                    37.7900206
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1286555499115110400",
+                "tweet_date": "2020-07-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/wwF8qs4OMA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EdrDZKJVoAEkZ2C.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永七年",
+                "year_built_ce": 1854,
+                "address": "",
+                "poi": "麓山神社"
             }
         }
     ]
