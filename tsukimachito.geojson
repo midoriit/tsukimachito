@@ -87081,6 +87081,31 @@
                 "address": "",
                 "poi": "麓山神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.3774872,
+                    36.269309
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1287255152659795969",
+                "tweet_date": "2020-07-26",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/RZZQAZOu9T",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ed0_t3UU0AAp-V3.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "",
+                "poi": ""
+            }
         }
     ]
 }
