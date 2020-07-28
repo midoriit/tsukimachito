@@ -17512,8 +17512,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.0761566,
-                    35.7240467
+                    140.0759277,
+                    35.7238127
                 ]
             },
             "properties": {
@@ -17562,8 +17562,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.0757751,
-                    35.7236
+                    140.0759735,
+                    35.7237467
                 ]
             },
             "properties": {
@@ -87155,6 +87155,31 @@
                 "year_built_ce": 1861,
                 "address": "",
                 "poi": "石神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1525574,
+                    35.5829619
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1287937496567787521",
+                "tweet_date": "2020-07-28",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/gMWFkQpLCy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ed-sU3QU8AE7irl.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "",
+                "poi": "路傍"
             }
         }
     ]
