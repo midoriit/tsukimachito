@@ -87181,6 +87181,31 @@
                 "address": "",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5661621,
+                    35.8284246
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1288677599661527041",
+                "tweet_date": "2020-07-30",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/YtGMZhottb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EeJNa2KVoAA5phr.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EeJNbntUMAAcqTq.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EeJNcdSUMAAa8Yf.jpg",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "延宝七年",
+                "year_built_ce": 1679,
+                "address": "",
+                "poi": "神明神社"
+            }
         }
     ]
 }
