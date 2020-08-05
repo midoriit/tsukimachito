@@ -87256,6 +87256,106 @@
                 "address": "",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.342865,
+                    36.3255286
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1290825764665831424",
+                "tweet_date": "2020-08-05",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/8Is8fwUJQF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EenvMSoU0AExeFn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.3427582,
+                    36.3254358
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1290826102751936512",
+                "tweet_date": "2020-08-05",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/bcWUG9WXY7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eenvf-yUcAE7IPN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.3427429,
+                    36.3254491
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1290826377067806720",
+                "tweet_date": "2020-08-05",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/owi4frzDOd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eenvv8GUwAAc3I1.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.3427887,
+                    36.32547
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1290865730540335105",
+                "tweet_date": "2020-08-05",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/ygdXtbJl9D",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EeoTg5kUwAUsbe6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "",
+                "poi": null
+            }
         }
     ]
 }
