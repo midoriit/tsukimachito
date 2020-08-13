@@ -87279,7 +87279,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -87304,7 +87304,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -87329,7 +87329,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -87354,7 +87354,57 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "",
-                "poi": null
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7780609,
+                    36.378094
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1293781025688936448",
+                "tweet_date": "2020-08-13",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/Z0Ph8DIt3Q",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EfRu-edU4Ac1Igt.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EfRu_CRVAAESkDE.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "",
+                "poi": "薬師如来"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1847687,
+                    36.383478
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1293783523480891393",
+                "tweet_date": "2020-08-13",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/Ddf33gV8TU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EfRxQdiVoAELVTC.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "",
+                "poi": "鏡ヶ池"
             }
         }
     ]
