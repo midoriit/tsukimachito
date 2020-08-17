@@ -462,8 +462,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.4892731,
-                    35.5211558
+                    139.4897308,
+                    35.520914
                 ]
             },
             "properties": {
@@ -487,8 +487,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.4889832,
-                    35.5151978
+                    139.4889069,
+                    35.515181
                 ]
             },
             "properties": {
@@ -36687,8 +36687,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.5296936,
-                    35.5175316
+                    139.5298004,
+                    35.517395
                 ]
             },
             "properties": {
@@ -36712,8 +36712,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.5207062,
-                    35.5253419
+                    139.5206299,
+                    35.525481
                 ]
             },
             "properties": {
@@ -87405,6 +87405,106 @@
                 "year_built_ce": "",
                 "address": "茨城県桜川市山口",
                 "poi": "鏡ヶ池"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9038849,
+                    38.590985
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1295336133203615744",
+                "tweet_date": "2020-08-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/mnJbKmSQNd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Efn0c1XU0AALm_d.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山形県鶴岡市",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3739777,
+                    38.354772
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1295339322099433480",
+                "tweet_date": "2020-08-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/FJiHAuKKoD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Efn4MyYU4AIcTXb.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山形県天童市小路一丁目",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3730927,
+                    38.351048
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1295340199447154688",
+                "tweet_date": "2020-08-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/WqQH55zSgw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Efn5AyMVAAExF_8.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Efn5B4nVAAAws5U.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山形県天童市北目一丁目",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3730927,
+                    38.351048
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1295340889259180033",
+                "tweet_date": "2020-08-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/Ox78D6rR6e",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Efn5lNBVAAALhoG.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Efn5ngWVAAAE2dr.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "七夜待塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山形県天童市北目一丁目",
+                "poi": null
             }
         }
     ]
