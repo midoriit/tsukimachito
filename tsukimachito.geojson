@@ -87426,10 +87426,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "安政三年",
+                "year_built_ce": 1856,
                 "address": "山形県鶴岡市",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -87451,10 +87451,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十八夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦十一年",
+                "year_built_ce": 1761,
                 "address": "山形県天童市小路一丁目",
-                "poi": null
+                "poi": "佛向寺大日堂"
             }
         },
         {
@@ -87479,7 +87479,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "山形県天童市北目一丁目",
-                "poi": null
+                "poi": "薬師神社"
             }
         },
         {
@@ -87501,9 +87501,84 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "七夜待塔",
+                "year_built": "宝暦十二年",
+                "year_built_ce": 1762,
+                "address": "山形県天童市北目一丁目",
+                "poi": "薬師神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9480438,
+                    35.7568163
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1295563479466745857",
+                "tweet_date": "2020-08-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/88Hrho5ZIE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EfrEHeJVoAEo7W9.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
                 "year_built": "",
                 "year_built_ce": "",
-                "address": "山形県天童市北目一丁目",
+                "address": "山梨県北都留郡小菅村",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8056641,
+                    36.304139
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1295694672807903232",
+                "tweet_date": "2020-08-18",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/wsKtYWmf1O",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Efs7Y2-U4AAUFkL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県小山市駅南町一丁目",
+                "poi": "白山神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7782593,
+                    36.379899
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1295697390557466624",
+                "tweet_date": "2020-08-18",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/aG03SDpb4C",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Efs94f-VAAI36-v.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県栃木市寄居町",
                 "poi": null
             }
         }
