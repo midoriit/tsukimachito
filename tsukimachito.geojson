@@ -87579,7 +87579,157 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "栃木県栃木市寄居町",
-                "poi": null
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.371994,
+                    38.354618
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1295736932190679040",
+                "tweet_date": "2020-08-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/JDOUmxyR3v",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EfthhkOU8AEzXfm.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山形県天童市小路一丁目",
+                "poi": "和光院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.371994,
+                    38.354618
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1295737431837163520",
+                "tweet_date": "2020-08-19",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/UZLsASNvaI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EftiAVwUYAEMr2l.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EftiCuwUYAIcm-0.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EftiRF_UEAAbjhR.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EftiR0PUMAE7MO_.jpg",
+                "type": "十八夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山形県天童市小路一丁目",
+                "poi": "和光院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4002686,
+                    38.384137
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1295746900461666306",
+                "tweet_date": "2020-08-19",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/gFhWDqwxK8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EftqqBTVoAE7yE-.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EftqqmVUcAA4krP.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "寛政十午年",
+                "year_built_ce": 1798,
+                "address": "山形県天童市大字山口",
+                "poi": "新山神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3965302,
+                    38.391289
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1295763460240764928",
+                "tweet_date": "2020-08-19",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/ajkI8xSP6W",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eft3ycjUcAEl7jH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "享和二戌年",
+                "year_built_ce": 1802,
+                "address": "山形県天童市道満",
+                "poi": "新源寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3965302,
+                    38.391289
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1295765153200222214",
+                "tweet_date": "2020-08-19",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/Yo9jVWdC2v",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eft7bMuUwAUeJTl.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "延享三年",
+                "year_built_ce": 1746,
+                "address": "山形県天童市道満",
+                "poi": "新源寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3966217,
+                    38.389598
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1295770430687424512",
+                "tweet_date": "2020-08-19",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/9e4TTCtZAg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eft__D0UwAAzDTK.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EfuAAmZUcAA0cg8.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "寛政十二年",
+                "year_built_ce": 1800,
+                "address": "山形県天童市大字道満",
+                "poi": "春日神社"
             }
         }
     ]
