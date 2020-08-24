@@ -87756,6 +87756,406 @@
                 "address": "静岡県伊豆市",
                 "poi": "柿木神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9829559,
+                    37.207256
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297757323046223872",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/lP961yn6Yt",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgKPY9pU4AAaT1m.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EgKPZ7RU8AAGEvM.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治三十九年",
+                "year_built_ce": 1906,
+                "address": "新潟県魚沼市干溝",
+                "poi": "宝泉寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9709167,
+                    37.208092
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297761370818007041",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/dLUV2hieb4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgKTFlvUMAA3ltV.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化七年",
+                "year_built_ce": 1810,
+                "address": "新潟県魚沼市干溝",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9536743,
+                    37.1911876
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297773364140847104",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/xve4chMQxz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgKd_tOVoAAR9lS.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十二年",
+                "year_built_ce": 1815,
+                "address": "新潟県魚沼市大浦",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9536743,
+                    37.1911876
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297773486560051201",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/2UvX42Waq7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgKeGcyU8AA4VSP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県魚沼市大浦",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9494629,
+                    37.1867346
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297773817280884736",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/hISpVeH45V",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgKeaD-UwAAsXq2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県魚沼市大浦新田",
+                "poi": "八海神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9364166,
+                    37.1393293
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297777743703076864",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/bspHeXrtBS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgKh-hBU0AAHghI.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県南魚沼市大崎",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9364166,
+                    37.1393293
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297777839995985920",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/l9zBHs138Z",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgKiENTU0AEIwAb.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政六年",
+                "year_built_ce": 1859,
+                "address": "新潟県南魚沼市大崎",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9191284,
+                    37.1010468
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297781607923716096",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/3RdxWv63xx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgKlfj0UwAAlaLD.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政二年",
+                "year_built_ce": 1819,
+                "address": "新潟県南魚沼市下原新田",
+                "poi": "稲荷神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9191284,
+                    37.1010468
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297781823825539074",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/v3FXXrbML2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgKlsFvUcAIWZpz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県南魚沼市下原新田",
+                "poi": "稲荷神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9191284,
+                    37.1010468
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297781924996366336",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/IMZvM6dz2V",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgKlx-cU0AARXSn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県南魚沼市下原新田",
+                "poi": "稲荷神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9191284,
+                    37.1010468
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297782128977960961",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/cldwSasxxY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgKl90hVoAAGv5T.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県南魚沼市下原新田",
+                "poi": "稲荷神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8767853,
+                    37.060056
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297794697117626369",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/sAj8lD1N03",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgKxZW5UEAEAyv7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県南魚沼市六日町",
+                "poi": "八坂神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8857574,
+                    37.064097
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297799365759664133",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/sTWIGqDEjN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgK1pKpVAAIVJXq.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県南魚沼市坂戸",
+                "poi": "薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8917236,
+                    37.0794554
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297808784941694976",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/060KaPaKWL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgK-NbKUcAEdxsG.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県南魚沼市美佐島",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8883057,
+                    37.0773342
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297812485647417344",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/bfrans98VD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgLBk32U4AAXOVu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政四年",
+                "year_built_ce": 1821,
+                "address": "新潟県南魚沼市美佐島",
+                "poi": "諏訪神社十二神社合殿"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8883057,
+                    37.0773342
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1297812596377100288",
+                "tweet_date": "2020-08-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/TnRnR9QdA2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgLBrVqVAAAeNw3.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "平成二年",
+                "year_built_ce": 1990,
+                "address": "新潟県南魚沼市美佐島",
+                "poi": "諏訪神社十二神社合殿"
+            }
         }
     ]
 }
