@@ -88356,6 +88356,131 @@
                 "address": "群馬県利根郡みなかみ町",
                 "poi": "但馬院"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.349697,
+                    38.380958
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1298631166438776832",
+                "tweet_date": "2020-08-26",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/kHiOKFLogE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgWqJZQU4AIyKRN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "安政二年",
+                "year_built_ce": 1855,
+                "address": "山形県天童市大字成生",
+                "poi": "薬師神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.319009,
+                    38.353283
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1298634699686817793",
+                "tweet_date": "2020-08-26",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/swhN69Z70N",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgWtJ4sU4AAKSyr.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EgWtVdZVAAAa2a-.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "文化十四年",
+                "year_built_ce": 1817,
+                "address": "山形県天童市大字成生",
+                "poi": "深山神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.311611,
+                    38.347802
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1298635902286094336",
+                "tweet_date": "2020-08-26",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/zS8buTBtDy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgWuK45U8AANBj_.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EgWuPrKUYAIxIHq.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十夜塔",
+                "year_built": "文化元年",
+                "year_built_ce": 1804,
+                "address": "山形県天童市大字寺津",
+                "poi": "砂川原地蔵"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.336365,
+                    38.333338
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1298637079568515073",
+                "tweet_date": "2020-08-27",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/spxXZRDb0y",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgWvZFeUwAAhVw-.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EgWvZt6UcAApBBf.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "弘化三年",
+                "year_built_ce": 1846,
+                "address": "山形県天童市大字高擶",
+                "poi": "安楽寺 "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.299849,
+                    38.255097
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1298638078995623936",
+                "tweet_date": "2020-08-27",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/bSPRLSkSmo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgWwawsU4AA5Wi0.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EgWwbb2VAAAa_LY.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "明治二十一年",
+                "year_built_ce": 1888,
+                "address": "山形県山形市飯塚町",
+                "poi": "楊柳寺"
+            }
         }
     ]
 }
