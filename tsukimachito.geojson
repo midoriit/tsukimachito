@@ -88506,6 +88506,56 @@
                 "address": "山形県山形市大字山寺",
                 "poi": "COZAB GELATO(コザブジェラート)"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.835603,
+                    36.430602
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1299625567541575680",
+                "tweet_date": "2020-08-29",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/le85iJtTqK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgkyjTAUMAAtZ5I.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県下野市細谷",
+                "poi": "星宮神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6784277,
+                    37.3835197
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1299633737588641793",
+                "tweet_date": "2020-08-29",
+                "contributor": "fragment1873",
+                "tweet_url": "https:\/\/t.co\/OIfRTQm8gT",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Egk5_n4VkAE3myA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県柏崎市",
+                "poi": "五社"
+            }
         }
     ]
 }
