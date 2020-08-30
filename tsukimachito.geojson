@@ -88556,6 +88556,106 @@
                 "address": "新潟県柏崎市",
                 "poi": "五社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6197219,
+                    37.4805789
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1300026479145672706",
+                "tweet_date": "2020-08-30",
+                "contributor": "fragment1873",
+                "tweet_url": "https:\/\/t.co\/Jn8Vd2EIpy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgqfMDLU4AAf_Pc.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県柏崎市",
+                "poi": "香取神社・椎谷観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6197185,
+                    37.4806007
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1300026852782686208",
+                "tweet_date": "2020-08-30",
+                "contributor": "fragment1873",
+                "tweet_url": "https:\/\/t.co\/cH3MTtM0r6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Egqfh3dUcAANSx7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県柏崎市",
+                "poi": "香取神社・椎谷観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6197343,
+                    37.4806177
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1300027178357121024",
+                "tweet_date": "2020-08-30",
+                "contributor": "fragment1873",
+                "tweet_url": "https:\/\/t.co\/1Z7SLDU4Ej",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Egqf01hU8AIb4GD.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県柏崎市",
+                "poi": "香取神社・椎谷観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.6196387,
+                    37.4807117
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1300027539574857728",
+                "tweet_date": "2020-08-30",
+                "contributor": "fragment1873",
+                "tweet_url": "https:\/\/t.co\/FVYn3Go6gP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgqgJzrVgAAV0t5.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県柏崎市",
+                "poi": "香取神社・椎谷観音堂"
+            }
         }
     ]
 }
