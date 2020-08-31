@@ -88656,6 +88656,131 @@
                 "address": "新潟県柏崎市",
                 "poi": "香取神社・椎谷観音堂"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.918963,
+                    37.115889
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1300078869672652802",
+                "tweet_date": "2020-08-30",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/xGCB5VYzld",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgrN2gRVoAMkfHA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "七夜待塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町薬王寺塙",
+                "poi": "薬王寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.918365,
+                    35.362543
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1300179564723724288",
+                "tweet_date": "2020-08-31",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/0O6MZF6KaY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Egsp8gzVkAAUwqJ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Egsp_NNU0AAIhl9.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Egsp_12UMAAmJOK.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EgsqCEQU4AAbxVS.jpg",
+                "type": "七夜待塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県木更津市桜井",
+                "poi": "光福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.918365,
+                    35.362543
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1300180188882296832",
+                "tweet_date": "2020-08-31",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/GLBwz21EUB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgsqqRVUMAAB_qu.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EgsqrBzVoAA2c0a.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EgsqrqpVgAA0LY2.jpg",
+                "media_url_4": "",
+                "type": "七夜待塔",
+                "year_built": "文政五年",
+                "year_built_ce": 1822,
+                "address": "千葉県木更津市桜井",
+                "poi": "光福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1198813,
+                    38.5538075
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1300289334730305536",
+                "tweet_date": "2020-08-31",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/gwYCe0l780",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EguOQCxVgAEs4Ih.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EguOQCvUMAAMpG3.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永七年",
+                "year_built_ce": 1854,
+                "address": "宮城県遠田郡涌谷町",
+                "poi": "江合川堤防"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.448453,
+                    38.314331
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1300409684155752453",
+                "tweet_date": "2020-08-31",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/YXYxBTmSVI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Egv7tgDUcAA5twq.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Egv7tgBVgAEkr5s.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "文政十年",
+                "year_built_ce": 1827,
+                "address": "山形県山形市大字山寺",
+                "poi": "岩瀧宮"
+            }
         }
     ]
 }
