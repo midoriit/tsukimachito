@@ -88781,6 +88781,81 @@
                 "address": "山形県山形市大字山寺",
                 "poi": "岩瀧宮"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.04934,
+                    35.726539
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1300631213720264704",
+                "tweet_date": "2020-09-01",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/CVjUXunOz8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgzFMdHU8AAmvr-.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保三年",
+                "year_built_ce": 1832,
+                "address": "東京都西多摩郡檜原村",
+                "poi": "民家裏"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.5080827,
+                    36.2557062
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1300669952689496064",
+                "tweet_date": "2020-09-01",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/ymVRa7F0Q8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EgzobdkU0AIDUZV.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市新子田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.44965,
+                    38.312983
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1300754300923125761",
+                "tweet_date": "2020-09-01",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/BIjaE5XrTt",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eg01I1FU8AAl2y7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "安永四年",
+                "year_built_ce": 1775,
+                "address": "山形県山形市大字山寺",
+                "poi": "岩瀧宮"
+            }
         }
     ]
 }
