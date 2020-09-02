@@ -88856,6 +88856,31 @@
                 "address": "山形県山形市大字山寺",
                 "poi": "岩瀧宮"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1749813,
+                    35.7078614
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1301029576680722434",
+                "tweet_date": "2020-09-02",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/LY4EcliPHJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eg4veYxUYAcuPl6.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Eg4vfjpU4AAXQCk.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県佐倉市畔田",
+                "poi": "正光寺"
+            }
         }
     ]
 }
