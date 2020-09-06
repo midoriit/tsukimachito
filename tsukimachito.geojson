@@ -88981,6 +88981,31 @@
                 "address": "新潟県柏崎市",
                 "poi": "椎谷崎観音"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1788852,
+                    38.5653832
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1302476475858210816",
+                "tweet_date": "2020-09-06",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/Imj9VqbEEY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EhNTbThVgAAKKqB.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EhNTbTiUwAIWw9O.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EhNTbVKU8AEuSTe.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政四年",
+                "year_built_ce": 1857,
+                "address": "宮城県遠田郡涌谷町",
+                "poi": "箟岳観音堂"
+            }
         }
     ]
 }
