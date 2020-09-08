@@ -89006,6 +89006,31 @@
                 "address": "宮城県遠田郡涌谷町",
                 "poi": "箟岳観音堂"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1886563,
+                    35.867529
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1303170855401259008",
+                "tweet_date": "2020-09-08",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/wvMlFFyjI9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EhXK_CDUMAA1C4_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "元治元年",
+                "year_built_ce": 1864,
+                "address": "埼玉県飯能市",
+                "poi": "熊野神社"
+            }
         }
     ]
 }
