@@ -89031,6 +89031,31 @@
                 "address": "埼玉県飯能市",
                 "poi": "熊野神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1633912,
+                    37.7311712
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1304801749119631363",
+                "tweet_date": "2020-09-13",
+                "contributor": "3fenyMTduJ9gug7",
+                "tweet_url": "https:\/\/t.co\/9pH4bHCsOS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EhuWRbZUwAAwxud.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治37年",
+                "year_built_ce": 1904,
+                "address": "新潟県五泉市能代",
+                "poi": "諏訪神社"
+            }
         }
     ]
 }
