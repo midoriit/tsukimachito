@@ -3662,8 +3662,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.2715607,
-                    35.5680255
+                    139.27164,
+                    35.567963
                 ]
             },
             "properties": {
@@ -3687,8 +3687,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.2718353,
-                    35.5680887
+                    139.27164,
+                    35.567963
                 ]
             },
             "properties": {
@@ -9887,8 +9887,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.2547913,
-                    35.5661997
+                    139.25446,
+                    35.566122
                 ]
             },
             "properties": {
@@ -89055,6 +89055,106 @@
                 "year_built_ce": 1904,
                 "address": "新潟県五泉市能代",
                 "poi": "諏訪神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.459052,
+                    37.601944
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1305873052408766465",
+                "tweet_date": "2020-09-15",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/UlWVQG6GrS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eh9kdVXXsAAm8KR.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県二本松市油井秋葉腰",
+                "poi": "秋葉神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.285674,
+                    37.452238
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1305874700757692417",
+                "tweet_date": "2020-09-15",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/o41pXEHmmR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eh9lzPGVkAAZAGS.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政4年",
+                "year_built_ce": 1792,
+                "address": "福島県郡山市熱海町長橋舘",
+                "poi": "慈眼寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.285674,
+                    37.452238
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1305874838427320320",
+                "tweet_date": "2020-09-15",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/Dlmafp98X7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eh9mLVmUwAE0J_y.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市熱海町長橋舘",
+                "poi": "慈眼寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.285674,
+                    37.452238
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1305874967792201728",
+                "tweet_date": "2020-09-15",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/zZTHpofgIa",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eh9mS6UVoAE-w3N.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市熱海町長橋舘",
+                "poi": "慈眼寺"
             }
         }
     ]
