@@ -89156,6 +89156,106 @@
                 "address": "福島県郡山市熱海町長橋舘",
                 "poi": "慈眼寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.24142,
+                    35.667948
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1306418945419702273",
+                "tweet_date": "2020-09-17",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/R5FNutfYY0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EiFVGwWVgAADAcn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十年",
+                "year_built_ce": 1827,
+                "address": "東京都八王子市上恩方町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4772031,
+                    36.2733299
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1306469589593726977",
+                "tweet_date": "2020-09-17",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/m0GNOptLg5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EiGDKvjU4AEWxzL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市岩村田",
+                "poi": "西念寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4772283,
+                    36.2733318
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1306469878753239040",
+                "tweet_date": "2020-09-17",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/UAVI1hx05d",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EiGDbl5UwAAK2SP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市岩村田",
+                "poi": "西念寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4772153,
+                    36.2733145
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1306470304416292864",
+                "tweet_date": "2020-09-17",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/kLEckWDPFm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EiGD0WuUMAI1btv.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市岩村田",
+                "poi": "西念寺"
+            }
         }
     ]
 }
