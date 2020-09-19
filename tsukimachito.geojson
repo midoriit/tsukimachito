@@ -22762,8 +22762,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.2842255,
-                    36.147865
+                    140.284243,
+                    36.148664
                 ]
             },
             "properties": {
@@ -22787,8 +22787,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    140.2845612,
-                    36.1488188
+                    140.284609,
+                    36.148783
                 ]
             },
             "properties": {
@@ -27912,8 +27912,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    137.0363464,
-                    35.2535904
+                    137.036357,
+                    35.253093
                 ]
             },
             "properties": {
@@ -27987,8 +27987,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    136.9208832,
-                    35.1170365
+                    136.920808,
+                    35.116942
                 ]
             },
             "properties": {
@@ -89255,6 +89255,31 @@
                 "year_built_ce": "",
                 "address": "長野県佐久市岩村田",
                 "poi": "西念寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.621131,
+                    36.079594
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1306963535126093826",
+                "tweet_date": "2020-09-18",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/XxZQpgTzTu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EiNEZuVUMAAPL6x.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県久喜市大字北中曽根",
+                "poi": ""
             }
         }
     ]
