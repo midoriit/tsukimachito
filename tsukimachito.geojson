@@ -89281,6 +89281,181 @@
                 "address": "埼玉県久喜市大字北中曽根",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0869359,
+                    37.5493834
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1308020239599202305",
+                "tweet_date": "2020-09-21",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/kzLd5Ny3GS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EicFXdUU8AAtKEp.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県三条市",
+                "poi": "道路脇"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.998092,
+                    37.2894411
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1308023917852782592",
+                "tweet_date": "2020-09-21",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/BLOiZ8R325",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EicIuT1U4AA0EG2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県魚沼市赤土",
+                "poi": "道路脇"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9820829,
+                    37.253878
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1308029416736354309",
+                "tweet_date": "2020-09-21",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/9waBCVz38w",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EicNwazVgAEU-v2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県魚沼市今泉",
+                "poi": "真福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9785699,
+                    37.2339046
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1308034124582535170",
+                "tweet_date": "2020-09-21",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/p8hR6hwx6r",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EicSEO3U4AUeVMn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県魚沼市七日市",
+                "poi": "不動院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9785853,
+                    37.2339439
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1308035295204372480",
+                "tweet_date": "2020-09-21",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/eVRqSbhS35",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EicTHzQUMAIB_sy.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県魚沼市七日市",
+                "poi": "不動院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9785753,
+                    37.2339652
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1308036792172515329",
+                "tweet_date": "2020-09-21",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/0GHYhTAgOI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EicUf14UYAA1WSH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県魚沼市七日市",
+                "poi": "不動院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9785632,
+                    37.2339871
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1308037521478049793",
+                "tweet_date": "2020-09-21",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/ukjuibwN0j",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EicVIw3VkAE0ITE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県魚沼市七日市",
+                "poi": null
+            }
         }
     ]
 }
