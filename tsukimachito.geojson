@@ -88894,7 +88894,7 @@
             "properties": {
                 "tweet_id": "T1302231892029091840",
                 "tweet_date": "2020-09-05",
-                "contributor": "3fenyMTduJ9gug7",
+                "contributor": "tsukimachi_low",
                 "tweet_url": "https:\/\/t.co\/DCq44gxcnk",
                 "media_url_1": "https:\/\/pbs.twimg.com\/media\/EhJ0_6PU8AAz6BB.jpg",
                 "media_url_2": "",
@@ -88919,7 +88919,7 @@
             "properties": {
                 "tweet_id": "T1302232370020401154",
                 "tweet_date": "2020-09-05",
-                "contributor": "3fenyMTduJ9gug7",
+                "contributor": "tsukimachi_low",
                 "tweet_url": "https:\/\/t.co\/KdU8yOXPxe",
                 "media_url_1": "https:\/\/pbs.twimg.com\/media\/EhJ1b1zU0AAWvn5.jpg",
                 "media_url_2": "",
@@ -88944,7 +88944,7 @@
             "properties": {
                 "tweet_id": "T1302232953242578945",
                 "tweet_date": "2020-09-05",
-                "contributor": "3fenyMTduJ9gug7",
+                "contributor": "tsukimachi_low",
                 "tweet_url": "https:\/\/t.co\/DI16Vad3JJ",
                 "media_url_1": "https:\/\/pbs.twimg.com\/media\/EhJ19uzVkAATMcs.jpg",
                 "media_url_2": "",
@@ -88969,7 +88969,7 @@
             "properties": {
                 "tweet_id": "T1302233771983302657",
                 "tweet_date": "2020-09-05",
-                "contributor": "3fenyMTduJ9gug7",
+                "contributor": "tsukimachi_low",
                 "tweet_url": "https:\/\/t.co\/yMnc6WB1Wn",
                 "media_url_1": "https:\/\/pbs.twimg.com\/media\/EhJ2tUWVkAEI-st.jpg",
                 "media_url_2": "",
@@ -89044,7 +89044,7 @@
             "properties": {
                 "tweet_id": "T1304801749119631363",
                 "tweet_date": "2020-09-13",
-                "contributor": "3fenyMTduJ9gug7",
+                "contributor": "tsukimachi_low",
                 "tweet_url": "https:\/\/t.co\/9pH4bHCsOS",
                 "media_url_1": "https:\/\/pbs.twimg.com\/media\/EhuWRbZUwAAwxud.jpg",
                 "media_url_2": "",
@@ -90101,10 +90101,10 @@
                 "media_url_3": "https:\/\/pbs.twimg.com\/media\/EimGtP_U4AAgS4K.jpg",
                 "media_url_4": "https:\/\/pbs.twimg.com\/media\/EimGv-TUMAAhSEK.jpg",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明治三年",
+                "year_built_ce": 1870,
                 "address": "栃木県宇都宮市駒生町",
-                "poi": null
+                "poi": "湯殿神社"
             }
         },
         {
@@ -90126,10 +90126,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "享保二年",
+                "year_built_ce": 1717,
                 "address": "栃木県塩谷郡塩谷町佐貫",
-                "poi": null
+                "poi": "佐貫観音"
             }
         },
         {
@@ -90151,10 +90151,85 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十八夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "文化四年",
+                "year_built_ce": 1807,
                 "address": "山形県山形市大字山寺",
-                "poi": null
+                "poi": "コザブジェラート裏"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.713369,
+                    36.742607
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1308746472326795264",
+                "tweet_date": "2020-09-23",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/59Gu0Ebi3B",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EimVfarUwAAbtkn.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EimVgyFVgAEtzxQ.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EimViZhUYAA0h4O.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EimVwqUU4AAEq-c.jpg",
+                "type": "十九夜塔",
+                "year_built": "文化六年",
+                "year_built_ce": 1809,
+                "address": "栃木県日光市芹沼",
+                "poi": "路傍墓地脇"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.713369,
+                    36.742607
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1308754660233109504",
+                "tweet_date": "2020-09-23",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/CVsode6CO8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EimgsZzUcAAA8bA.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Eimg9Q7VgAAlehQ.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Eimg9vRVgAIISv-.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/Eimg-H5VgAYhCxQ.jpg",
+                "type": "十九夜塔",
+                "year_built": "天保十三年",
+                "year_built_ce": 1842,
+                "address": "栃木県日光市芹沼",
+                "poi": "路傍墓地脇"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.713369,
+                    36.742607
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1308759680710139905",
+                "tweet_date": "2020-09-23",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/KvNj5xV59j",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eimh2tZVgAAWVZS.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Eimh52WUcAIe6Ft.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Eimh6VyVkAAJXuf.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "延享四年",
+                "year_built_ce": 1747,
+                "address": "栃木県日光市芹沼",
+                "poi": "路傍墓地脇"
             }
         }
     ]
