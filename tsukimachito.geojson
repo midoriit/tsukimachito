@@ -90231,6 +90231,31 @@
                 "address": "栃木県日光市芹沼",
                 "poi": "路傍墓地脇"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.682205,
+                    37.329052
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1310229588249731072",
+                "tweet_date": "2020-09-27",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/B1NJEDWtOj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ei7e3GtU4AEmWKs.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県大沼郡昭和村",
+                "poi": "道路脇"
+            }
         }
     ]
 }
