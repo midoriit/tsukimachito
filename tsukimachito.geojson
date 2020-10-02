@@ -90256,6 +90256,56 @@
                 "address": "福島県大沼郡昭和村",
                 "poi": "道路脇"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.878083,
+                    36.336304
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1311706663661916160",
+                "tweet_date": "2020-10-02",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/6N5M3xY5tK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjQbjt7UwAElNcC.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjQbnTzUcAEmVR4.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EjQc2wpUYAANHR4.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十二年",
+                "year_built_ce": 1829,
+                "address": "長野県安曇野市穂高",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.12058,
+                    35.612536
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1311859866902822912",
+                "tweet_date": "2020-10-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/deAFE3TSl3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjSpmFDUcAAjLR0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政十一年",
+                "year_built_ce": 1799,
+                "address": "山梨県上野原市鶴島",
+                "poi": "路傍"
+            }
         }
     ]
 }
