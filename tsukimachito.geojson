@@ -90306,6 +90306,281 @@
                 "address": "山梨県上野原市鶴島",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.130381,
+                    36.027675
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1312964848305664000",
+                "tweet_date": "2020-10-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/PBHZEM5Hu6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjiWkeOUYAUiOOd.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県諏訪市大字四賀",
+                "poi": "岩久保観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.130381,
+                    36.027675
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1312964997320830978",
+                "tweet_date": "2020-10-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Kp86rn6M4t",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjiWsUZUYAABHdY.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjiWtH2VkAAWyND.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化五年",
+                "year_built_ce": 1808,
+                "address": "長野県諏訪市大字四賀",
+                "poi": "岩久保観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.130934,
+                    36.028013
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1312966435795214337",
+                "tweet_date": "2020-10-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/e9jypVqhWc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjiYA29UwAAheth.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県諏訪市大字四賀",
+                "poi": "岩久保観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.130934,
+                    36.028013
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1312966550949826560",
+                "tweet_date": "2020-10-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/SKQGUzLw5l",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjiYGgaVgAMU1fz.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjiYHfqUwAAekAI.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永二年",
+                "year_built_ce": 1773,
+                "address": "長野県諏訪市大字四賀",
+                "poi": "岩久保観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.130855,
+                    36.027949
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1312967385456934914",
+                "tweet_date": "2020-10-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/iiE0awLZ4r",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjiY2uDU8Ac4tMj.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjiY4GEU8AA86Ri.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政八年",
+                "year_built_ce": 1796,
+                "address": "長野県諏訪市大字四賀",
+                "poi": "岩久保観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.131112,
+                    36.027952
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1312968294626816000",
+                "tweet_date": "2020-10-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pCSwzCyttD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjiZtC3U4AAnFx0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県諏訪市大字四賀",
+                "poi": "岩久保観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.061591,
+                    36.068467
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1312982475044343808",
+                "tweet_date": "2020-10-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/1gzmfxJkB6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjimlB4UcAEiBOT.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjimmXuVcAEwU0l.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "宝暦五年",
+                "year_built_ce": 1755,
+                "address": "長野県岡谷市堀ノ内二丁目",
+                "poi": "西堀八幡宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.979114,
+                    36.107122
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1312992725822664704",
+                "tweet_date": "2020-10-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/M9LTflcXpE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ejiv7IDVoAEvqQ6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県塩尻市大字塩尻町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.937139,
+                    36.134882
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313001532061708288",
+                "tweet_date": "2020-10-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/YiqdZ6Olhz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eji37vnU0AA0Fon.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県塩尻市大字広丘郷原",
+                "poi": "郷福寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1655761,
+                    38.6199938
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313004425674252288",
+                "tweet_date": "2020-10-05",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/3sYGybgHZI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eji6j4qU0AQviVc.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Eji6j4rVkAAye86.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永九年",
+                "year_built_ce": 1780,
+                "address": "宮城県登米市",
+                "poi": "金華山黄金山神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.897245,
+                    36.140633
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313008282261360640",
+                "tweet_date": "2020-10-05",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Y4ILwEZTaf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eji-EoUVoAAfb0P.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政六年",
+                "year_built_ce": 1859,
+                "address": "長野県松本市大字今井",
+                "poi": "路傍"
+            }
         }
     ]
 }
