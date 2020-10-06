@@ -90581,6 +90581,581 @@
                 "address": "長野県松本市大字今井",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.903008,
+                    36.067972
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313257209711616000",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/eZBteeW0IJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjmgeHlVcAA3dqW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県塩尻市",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.834013,
+                    35.9831847
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313265028452163585",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/u0BERwb9Cd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjmnkWjU0AAcZdB.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjmnlNtUYAAJGay.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県塩尻市",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.81524,
+                    35.969846
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313275142382870528",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/2MMnykgqUG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjmwxQ2U4AAgzLE.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ejmwx-eU0AE78kN.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化三年",
+                "year_built_ce": 1846,
+                "address": "長野県塩尻市",
+                "poi": "二百地蔵尊"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.81524,
+                    35.969846
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313275538706841601",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/3xAojX7iKl",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjmxIHjVcAUbTO3.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjmxJDxUwAEN4Og.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治五年",
+                "year_built_ce": 1872,
+                "address": "長野県塩尻市",
+                "poi": "二百地蔵尊"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.81524,
+                    35.969846
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313275878244114438",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/wUEFKoq1cy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjmxbqYU0AECKEr.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ejmxc0TU8AA1ETH.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "昭和八年",
+                "year_built_ce": 1933,
+                "address": "長野県塩尻市",
+                "poi": "二百地蔵尊"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.81524,
+                    35.969846
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313276424287993856",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/QWGDuiIL6r",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ejmx7mPUYAIU0W1.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ejmx8k1UwAAmOKH.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化三年",
+                "year_built_ce": 1846,
+                "address": "長野県塩尻市",
+                "poi": "二百地蔵尊"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.808098,
+                    35.962207
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313284335831674880",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/1tI9LyhF4i",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ejm5JBRVoAA9hFj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保十五年",
+                "year_built_ce": 1844,
+                "address": "長野県塩尻市",
+                "poi": "奈良井宿 高札場"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.760098,
+                    35.889425
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313295174093561857",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/xsoPOuyLgD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjnC_15UYAEUI-l.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県木曽郡木曽町",
+                "poi": "徳音寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.758398,
+                    35.88373
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313297977323085824",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/OresL1l4K2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjnFhyoVcAUzJgF.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjnFjEGVkAEthnG.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十三年",
+                "year_built_ce": 1816,
+                "address": "長野県木曽郡木曽町",
+                "poi": "下町会館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.700012,
+                    35.849646
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313305652953899008",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/rPJIwZdxB6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjnMgxkVkAAwnlR.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjnMhy8VgAA09ht.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政元年",
+                "year_built_ce": 1818,
+                "address": "長野県木曽郡木曽町福島",
+                "poi": "久昌院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.697517,
+                    35.848876
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313308557257760768",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/hvAOR6gOuA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjnPK9cU4AAxp3J.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県木曽郡木曽町福島",
+                "poi": "大通寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.677667,
+                    35.885693
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313315976285306880",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/LYD3iMQ0Ni",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjnV6nCVoAEsA0V.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県木曽郡木曽町",
+                "poi": "公民館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.676635,
+                    35.873797
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313318071331823617",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/dHf0dkNC0Z",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjnX0o0VkAI0Gpu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県木曽郡木曽町",
+                "poi": "東山観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.728425,
+                    35.863008
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313321613064982529",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/nQ6s2EHAds",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjnbCMyU0AIBZbP.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjnbC7cUwAAGOce.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県木曽郡木曽町",
+                "poi": "薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.004129,
+                    35.923286
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313353856022052866",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/3ONS0HdDv6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ejn4XryUwAA5SPn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県上伊那郡箕輪町大字東箕輪",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.004129,
+                    35.923286
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313354564343525377",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/iwEaR979f6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ejn5A6pVcAI4V4M.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県上伊那郡箕輪町大字東箕輪",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.004129,
+                    35.923286
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313354805230800896",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/nqPGW3BX6q",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ejn5O4SVkAInno3.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県上伊那郡箕輪町大字東箕輪",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.004129,
+                    35.923286
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313354982943457283",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/8RiVRNn8hN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ejn5ZPhVgAEukDW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県上伊那郡箕輪町大字東箕輪",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.00581,
+                    35.923884
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313356440552128512",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mYdwOwOKYw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ejn6s7fVoAUXKBS.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ejn6uIKVgAUk6WX.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県上伊那郡箕輪町大字東箕輪",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.008278,
+                    35.923724
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313359246474403842",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/5Rym52Zkgv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ejn9Rb-VgAA5c2K.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "慶應三年",
+                "year_built_ce": 1867,
+                "address": "長野県上伊那郡箕輪町大字東箕輪",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.991618,
+                    35.908978
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313382155876065280",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/YF0bS0UruL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjoSFflU8AEmmbW.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjoSG8WUcAAsnkr.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県上伊那郡箕輪町大字中箕輪",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.987257,
+                    35.905795
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313385178341892096",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/TNBG01b8iY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjoU18DVoAE_SsT.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjoU22RUwAInGTN.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明治三十三年",
+                "year_built_ce": 1900,
+                "address": "長野県上伊那郡箕輪町大字中箕輪",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.984539,
+                    35.915647
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313390059144450049",
+                "tweet_date": "2020-10-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/70TaYWVkw2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjoZQJxU4AE3hvH.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjoZRBEVgAAQurn.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EjoZSDxVcAApcjl.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EjoZS4vVgAAjCGZ.jpg",
+                "type": "二十二夜塔",
+                "year_built": "昭和六年",
+                "year_built_ce": 1931,
+                "address": "長野県上伊那郡箕輪町大字中箕輪",
+                "poi": "松島神社"
+            }
         }
     ]
 }
