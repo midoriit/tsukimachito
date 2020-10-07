@@ -90504,7 +90504,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県塩尻市大字塩尻町",
-                "poi": null
+                "poi": "馬捨場跡"
             }
         },
         {
@@ -91155,6 +91155,231 @@
                 "year_built_ce": 1931,
                 "address": "長野県上伊那郡箕輪町大字中箕輪",
                 "poi": "松島神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.9976298,
+                    35.9621332
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313621697484873734",
+                "tweet_date": "2020-10-07",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/LAWOf3shCD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ejrr9P_UwAE02ps.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ejrr-E-U4AEGt6u.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "宝暦十三年",
+                "year_built_ce": 1763,
+                "address": "長野県上伊那郡辰野町大字樋口",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.0021999,
+                    35.9789235
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313625873430396928",
+                "tweet_date": "2020-10-07",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/JJjeBzVGML",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjrvwUtUcAAajgB.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjrvxK2U0AACO4x.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県上伊那郡辰野町大字平出",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.215817,
+                    35.959909
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313639787664826368",
+                "tweet_date": "2020-10-07",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7lUrtS3qUd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ejr8bFQUwAEVk_Q.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県諏訪郡原村",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.232573,
+                    35.956541
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313646673961181185",
+                "tweet_date": "2020-10-07",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/lKmDUY8xCu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjsCr7CUwAA5gsE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十年",
+                "year_built_ce": 1813,
+                "address": "長野県諏訪郡原村",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.440387,
+                    35.775454
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313675866996572160",
+                "tweet_date": "2020-10-07",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/tsCTGPgs9T",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjsdOXeVgAAjEcC.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjsdPL5U4AEJq-k.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "正徳五年",
+                "year_built_ce": 1715,
+                "address": "山梨県北杜市",
+                "poi": "浄居寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.438204,
+                    35.7791834
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313679151929253889",
+                "tweet_date": "2020-10-07",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Hmlc4GaIfL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjsgM1FUYAIep7z.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjsgOTvUwAMMaoj.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文化九年",
+                "year_built_ce": 1812,
+                "address": "山梨県北杜市",
+                "poi": "墓地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4395116,
+                    35.7830228
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313682161082351617",
+                "tweet_date": "2020-10-07",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/HF980VEY3v",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ejsi8okVcAErv_g.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ejsi9kRUwAABGcN.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "七夜待塔",
+                "year_built": "正徳五年",
+                "year_built_ce": 1715,
+                "address": "山梨県北杜市",
+                "poi": "金剛寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4395116,
+                    35.7830228
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313682432562925568",
+                "tweet_date": "2020-10-07",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/XhrQVBExa9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjsjLmdUwAIFXjX.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjsjNVvUcAEMMK_.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文化九年",
+                "year_built_ce": 1812,
+                "address": "山梨県北杜市",
+                "poi": "金剛寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.432062,
+                    35.773598
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313693497514311680",
+                "tweet_date": "2020-10-07",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/C3IK6uY8gp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjstP0LVgAES-fn.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjstQnqVcAAPWYz.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EjstRaPU0AIFsgR.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明和二年",
+                "year_built_ce": 1765,
+                "address": "山梨県北杜市",
+                "poi": "大林寺"
             }
         }
     ]
