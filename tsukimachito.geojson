@@ -45212,8 +45212,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    138.314209,
-                    35.8053264
+                    138.31487,
+                    35.805105
                 ]
             },
             "properties": {
@@ -45237,8 +45237,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    138.3149261,
-                    35.8050823
+                    138.31487,
+                    35.805105
                 ]
             },
             "properties": {
@@ -91380,6 +91380,31 @@
                 "year_built_ce": 1765,
                 "address": "山梨県北杜市",
                 "poi": "大林寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.234534,
+                    35.675094
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1313957022375702528",
+                "tweet_date": "2020-10-08",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/t0LdAlwI6f",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EjwcN4rU8AAqB9z.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EjwcRHDUwAA0DDn.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EjwcTCNVoAAiWv7.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EjwcaAQUcAM6qSA.jpg",
+                "type": "十九夜塔",
+                "year_built": "宝暦二年",
+                "year_built_ce": 1752,
+                "address": "千葉県佐倉市神門",
+                "poi": "玉蔵院"
             }
         }
     ]
