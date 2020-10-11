@@ -91406,6 +91406,31 @@
                 "address": "千葉県佐倉市神門",
                 "poi": "玉蔵院"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.378167,
+                    38.347143
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1315218022940864516",
+                "tweet_date": "2020-10-11",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/J0lkRURGaW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EkCX0aIU4AA-y_M.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山形県天童市北目三丁目",
+                "poi": "舞鶴山ふもと"
+            }
         }
     ]
 }
