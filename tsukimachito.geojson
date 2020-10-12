@@ -91431,6 +91431,181 @@
                 "address": "山形県天童市北目三丁目",
                 "poi": "舞鶴山ふもと"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.124909,
+                    36.000287
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1315515242131066880",
+                "tweet_date": "2020-10-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/vfiWrnHpdS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EkGmH6iU0AAWH6s.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EkGmI36UYAAHVMf.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明和八年",
+                "year_built_ce": 1771,
+                "address": "長野県諏訪市大字中洲",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.1140457,
+                    36.012514
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1315519868679024641",
+                "tweet_date": "2020-10-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/iexe9KlBgP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EkGqWGrUcAAq7f-.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県諏訪市大字中洲",
+                "poi": "下金子公民館"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.090996,
+                    36.023021
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1315524265073020928",
+                "tweet_date": "2020-10-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/gp1f7Ts44g",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EkGuV_2UYAANtrw.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政二年",
+                "year_built_ce": 1819,
+                "address": "長野県諏訪市大字豊田",
+                "poi": "下組集会所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.030377,
+                    36.046585
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1315532053387960320",
+                "tweet_date": "2020-10-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/abOZHMOFTB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EkG1baxVoAA_XPi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天明元年",
+                "year_built_ce": 1781,
+                "address": "長野県岡谷市川岸東二丁目",
+                "poi": "お堂脇"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.060436,
+                    36.06632
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1315544915728723968",
+                "tweet_date": "2020-10-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/DcDf33FcA5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EkHBHMGVgAIzZR7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県岡谷市大栄町二丁目",
+                "poi": "若宮八幡社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.0510761,
+                    36.0629635
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1315546744684380160",
+                "tweet_date": "2020-10-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/rgY5TM10c3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EkHCwjpU8AAHTXM.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EkHCykVVgAIeCiV.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永四年",
+                "year_built_ce": 1851,
+                "address": "長野県岡谷市中央町三丁目",
+                "poi": "浜天満宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.055505,
+                    36.068806
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1315548009992613888",
+                "tweet_date": "2020-10-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7lS7MCSG1Q",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EkHD8NwVkAIQs6S.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天明元年",
+                "year_built_ce": 1781,
+                "address": "長野県岡谷市銀座二丁目",
+                "poi": "小口薬師堂"
+            }
         }
     ]
 }
