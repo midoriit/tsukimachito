@@ -92056,6 +92056,81 @@
                 "address": "山形県山形市大字山寺",
                 "poi": "千手院"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.439601,
+                    35.75791
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1316190061931585536",
+                "tweet_date": "2020-10-14",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/rXzpeKzmKU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EkQL3R0U8AAJqUX.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EkQL4iuU8AE-Fxq.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "(二十)三夜塔",
+                "year_built": "安永八年",
+                "year_built_ce": 1779,
+                "address": "山梨県北杜市",
+                "poi": "道祖神場"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.45387,
+                    35.758749
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1316204163890466816",
+                "tweet_date": "2020-10-14",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/MpxViwOcC2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EkQYtdoU0AE_ZMU.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "寛政十一年",
+                "year_built_ce": 1799,
+                "address": "山梨県北杜市",
+                "poi": "大内集会所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.45387,
+                    35.758749
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1316204317888573440",
+                "tweet_date": "2020-10-14",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/dzfWFGSILZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EkQY1ejVkAAecQj.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EkQY2YvUYAIEUcc.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "七夜待塔",
+                "year_built": "享保十年",
+                "year_built_ce": 1725,
+                "address": "山梨県北杜市",
+                "poi": "大内集会所"
+            }
         }
     ]
 }
