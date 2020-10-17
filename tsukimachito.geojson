@@ -92131,6 +92131,31 @@
                 "address": "山梨県北杜市",
                 "poi": "大内集会所"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.8452369,
+                    37.6706672
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1317359414932688896",
+                "tweet_date": "2020-10-17",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/nSLviNQ3xD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EkgzULTUUAICghd.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県喜多方市上三宮町吉川南中",
+                "poi": "鳥居脇"
+            }
         }
     ]
 }
