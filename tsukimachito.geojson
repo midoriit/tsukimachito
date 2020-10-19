@@ -92156,6 +92156,31 @@
                 "address": "福島県喜多方市上三宮町吉川南中",
                 "poi": "熊野神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.816175,
+                    37.001612
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1317817138464215040",
+                "tweet_date": "2020-10-18",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/1UFdbMR5SQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EknTs78VgAAwmrI.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県南魚沼市下一日市",
+                "poi": "田んぼ"
+            }
         }
     ]
 }
