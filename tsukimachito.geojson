@@ -92181,6 +92181,56 @@
                 "address": "新潟県南魚沼市下一日市",
                 "poi": "田んぼ"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.310588,
+                    35.152969
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1320009654928199683",
+                "tweet_date": "2020-10-24",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/iI2BFSYT73",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ElGV7xQUcAEyf5T.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ElGWTjuUYAA0w6A.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/ElGY-mPVMAAGFhX.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十一年",
+                "year_built_ce": 1828,
+                "address": "千葉県勝浦市墨名",
+                "poi": "熊野貴船神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.85813,
+                    35.680278
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1320349321502470144",
+                "tweet_date": "2020-10-25",
+                "contributor": "tsmie22",
+                "tweet_url": "https:\/\/t.co\/gkPPTemVgz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ElLSsu0VkAA_P-D.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明和八年",
+                "year_built_ce": 1771,
+                "address": "東京都江戸川区北葛西一丁目",
+                "poi": "豊栄稲荷神社"
+            }
         }
     ]
 }
