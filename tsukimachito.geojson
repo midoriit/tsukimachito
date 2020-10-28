@@ -12712,8 +12712,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.1804352,
-                    35.5595135
+                    139.180694,
+                    35.55966
                 ]
             },
             "properties": {
@@ -12737,8 +12737,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.2002411,
-                    35.5633167
+                    139.200548,
+                    35.563146
                 ]
             },
             "properties": {
@@ -92230,6 +92230,56 @@
                 "year_built_ce": 1771,
                 "address": "東京都江戸川区北葛西一丁目",
                 "poi": "豊栄稲荷神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2036119,
+                    35.5669965
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1321278601665232897",
+                "tweet_date": "2020-10-28",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/jGvAmtiThX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ElYf4ldVMAExeAQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県相模原市緑区寸沢嵐",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.3264996,
+                    38.7832303
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1321361874554744832",
+                "tweet_date": "2020-10-28",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/sYFl9csUtQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ElZrnDTUUAENhae.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ElZrnDTVgAA3WDR.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "慶應三年",
+                "year_built_ce": 1867,
+                "address": "宮城県登米市",
+                "poi": null
             }
         }
     ]
