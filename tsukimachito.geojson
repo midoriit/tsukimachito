@@ -10087,8 +10087,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.2173004,
-                    35.5415771
+                    139.217042,
+                    35.541638
                 ]
             },
             "properties": {
@@ -92279,7 +92279,32 @@
                 "year_built": "慶應三年",
                 "year_built_ce": 1867,
                 "address": "宮城県登米市",
-                "poi": null
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.776265,
+                    37.397021
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1322637185133158401",
+                "tweet_date": "2020-11-01",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/5NGA7qHymb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ElrzgaRVcAAzRef.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県長岡市朝日",
+                "poi": "道路脇"
             }
         }
     ]
