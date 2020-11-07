@@ -92306,6 +92306,31 @@
                 "address": "新潟県長岡市朝日",
                 "poi": "道路脇"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.445237,
+                    38.315899
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1325021628183441409",
+                "tweet_date": "2020-11-07",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/9v6s7xGTQk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EmNsI50UYAINR6r.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EmNsI5zVcAAraf4.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "天明元年",
+                "year_built_ce": 1781,
+                "address": "山形県山形市大字山寺",
+                "poi": "千手院"
+            }
         }
     ]
 }
