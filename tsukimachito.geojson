@@ -92331,6 +92331,31 @@
                 "address": "山形県山形市大字山寺",
                 "poi": "千手院"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.373094,
+                    38.351048
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1325373124175568898",
+                "tweet_date": "2020-11-08",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/9KkEAXK8sx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EmSrGsHUcAIOvuJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "享保十二年",
+                "year_built_ce": 1727,
+                "address": "山形県天童市北目一丁目",
+                "poi": "薬師神社"
+            }
         }
     ]
 }
