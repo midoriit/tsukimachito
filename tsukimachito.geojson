@@ -92356,6 +92356,31 @@
                 "address": "山形県天童市北目一丁目",
                 "poi": "薬師神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0127973,
+                    35.7788504
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1326370988657881092",
+                "tweet_date": "2020-11-11",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/wYpfMAYOmv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Emg3XlyWEAEj7IV.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Emg3YeGXYAAQt5A.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保六年",
+                "year_built_ce": 1835,
+                "address": "東京都西多摩郡奥多摩町",
+                "poi": "愛宕神社"
+            }
         }
     ]
 }
