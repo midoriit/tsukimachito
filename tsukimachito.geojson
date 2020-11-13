@@ -92381,6 +92381,31 @@
                 "address": "東京都西多摩郡奥多摩町",
                 "poi": "愛宕神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4178134,
+                    36.3380755
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1327084615161450496",
+                "tweet_date": "2020-11-13",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/yHsizZmFuZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EmrAbLrVcAMt2Da.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字諸",
+                "poi": null
+            }
         }
     ]
 }
