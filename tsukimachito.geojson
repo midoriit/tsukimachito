@@ -92404,7 +92404,32 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市大字諸",
-                "poi": null
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6276155,
+                    35.9686804
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1327439829458583557",
+                "tweet_date": "2020-11-14",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/kt7yNtFmn5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EmwDb1zVoAExSnA.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EmwDdPBVoAAQXOB.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EmwDeYJUwAAMIOZ.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保二年",
+                "year_built_ce": 1831,
+                "address": "茨城県鹿嶋市宮中一丁目",
+                "poi": "稲生神社"
             }
         }
     ]
