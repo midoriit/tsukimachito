@@ -92431,6 +92431,31 @@
                 "address": "茨城県鹿嶋市宮中一丁目",
                 "poi": "稲生神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.3133873,
+                    38.7417318
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1327874445952761858",
+                "tweet_date": "2020-11-15",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/ovCJUsrLtf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Em2Ow0ZVcAAadds.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Em2Ow2CVoAAoFXT.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "三日月塔",
+                "year_built": "寛政十二年",
+                "year_built_ce": 1800,
+                "address": "宮城県登米市",
+                "poi": null
+            }
         }
     ]
 }
