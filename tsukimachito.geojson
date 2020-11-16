@@ -92454,6 +92454,206 @@
                 "year_built": "寛政十二年",
                 "year_built_ce": 1800,
                 "address": "宮城県登米市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.545306,
+                    35.93311
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1327969474956279808",
+                "tweet_date": "2020-11-15",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/9OzK0bK2YW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Em3kogmVoAEZW-X.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十五夜塔",
+                "year_built": "明和七年",
+                "year_built_ce": 1770,
+                "address": "千葉県香取市加藤洲",
+                "poi": "長善院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.545306,
+                    35.93311
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1327970504439840768",
+                "tweet_date": "2020-11-15",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/xiziFVX2xd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Em3mGnDVgAAYkQO.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "元文五年",
+                "year_built_ce": 1740,
+                "address": "千葉県香取市加藤洲",
+                "poi": "長善院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.544914,
+                    35.933056
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1327971843358093313",
+                "tweet_date": "2020-11-15",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/arLyZ5Bcj0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Em3nVY6VQAIqChE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永五年",
+                "year_built_ce": 1776,
+                "address": "千葉県香取市加藤洲",
+                "poi": "長善院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.545306,
+                    35.93311
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1327984727471505408",
+                "tweet_date": "2020-11-15",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/NM4zrXRTDi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Em3yH9CUUAEIYad.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Em3yJzTVgAIqaIR.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Em3yKx-VoAEKNeO.jpg",
+                "media_url_4": "",
+                "type": "二十一夜塔",
+                "year_built": "延宝四年",
+                "year_built_ce": 1676,
+                "address": "千葉県香取市加藤洲",
+                "poi": "長善院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.772154,
+                    36.363686
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328002863671308289",
+                "tweet_date": "2020-11-16",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/2rEA8QHNlA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Em4DkO_VEAMfy57.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治十三年",
+                "year_built_ce": 1880,
+                "address": "栃木県小山市大字小薬",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.984651,
+                    36.053598
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328319405017554946",
+                "tweet_date": "2020-11-16",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/pY9rOE71tg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Em8jUMZVgAAHdnP.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Em8jWl9VEAINFkA.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Em8jZ1eUYAEvGT4.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛文九年",
+                "year_built_ce": 1669,
+                "address": "茨城県常総市中妻町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.984651,
+                    36.053598
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328320436661219329",
+                "tweet_date": "2020-11-16",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/nL614rigjg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Em8jj5_VQAE34s0.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Em8jkqmVEAYh7Vu.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Em8jmbPUcAAbDd-.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政5年",
+                "year_built_ce": 1822,
+                "address": "茨城県常総市中妻町",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.984651,
+                    36.053598
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328323883955490818",
+                "tweet_date": "2020-11-16",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/4thHSRO9a0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Em8nUK4UcAAIc0a.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県常総市中妻町",
                 "poi": null
             }
         }
