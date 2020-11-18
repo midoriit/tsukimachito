@@ -92604,7 +92604,7 @@
                 "year_built": "寛文九年",
                 "year_built_ce": 1669,
                 "address": "茨城県常総市中妻町",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -92629,7 +92629,7 @@
                 "year_built": "文政5年",
                 "year_built_ce": 1822,
                 "address": "茨城県常総市中妻町",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -92654,7 +92654,382 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "茨城県常総市中妻町",
-                "poi": null
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.106423,
+                    36.191407
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328705064475652097",
+                "tweet_date": "2020-11-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/PTLUazTDd0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnCCAdZUcAAE_8h.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "文化元年",
+                "year_built_ce": 1804,
+                "address": "茨城県つくば市神郡",
+                "poi": "蠶影神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.094695,
+                    36.189379
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328705789012312065",
+                "tweet_date": "2020-11-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/j39fDzVB2p",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnCCwz0VcAUpQhw.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnCCzM3VgAE0dA8.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EnCCzqwUwAEjzlO.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EnCC0F6UcAE5EMO.jpg",
+                "type": "十九夜塔",
+                "year_built": "嘉永二年",
+                "year_built_ce": 1849,
+                "address": "茨城県つくば市神郡",
+                "poi": "普門寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.094479,
+                    36.177307
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328710142829809666",
+                "tweet_date": "2020-11-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/UI9DxyITa2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnCGoDjUUAM9IRc.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnCGqDGUwAEUycF.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EnCGreZUcAAcUuc.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EnCGr7EUwAA6gOR.jpg",
+                "type": "十九夜塔",
+                "year_built": "寛政十年",
+                "year_built_ce": 1798,
+                "address": "茨城県つくば市北条",
+                "poi": "八坂神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.094544,
+                    36.177298
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328713174674145283",
+                "tweet_date": "2020-11-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/yoDTegJb5u",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnCJOHyUwAIP6zb.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnCJPjsVoAQswpv.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EnCJQTqVcAM3Bm5.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "貞享元年",
+                "year_built_ce": 1684,
+                "address": "茨城県つくば市北条",
+                "poi": "八坂神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.080151,
+                    36.184216
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328714223719837706",
+                "tweet_date": "2020-11-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/Mhx7dU6sGj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnCKge1VkAAFUg6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明和五年",
+                "year_built_ce": 1768,
+                "address": "茨城県つくば市北条",
+                "poi": "熊野神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.069788,
+                    36.176588
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328715887277273090",
+                "tweet_date": "2020-11-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/GSpjYls3ZQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnCLxLbUUAIIepy.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "弘化四年",
+                "year_built_ce": 1847,
+                "address": "茨城県つくば市田中",
+                "poi": "日枝神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.069788,
+                    36.176588
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328716218983858176",
+                "tweet_date": "2020-11-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/CNNX2rxhbu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnCMKxWVkAAH4u2.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnCMLYbUcAA4KG-.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県つくば市田中",
+                "poi": "日枝神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.069566,
+                    36.176516
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328717108759252995",
+                "tweet_date": "2020-11-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/q2uylTxEbl",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnCMqMoUYAM-RK8.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnCMrrSVcAALYLX.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EnCMs0FUYAAh7zf.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元禄十一年",
+                "year_built_ce": 1698,
+                "address": "茨城県つくば市田中",
+                "poi": "三日月神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.29684,
+                    36.064346
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328889445781651457",
+                "tweet_date": "2020-11-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Y8FGhVHRfi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnEp2zZVcAAiUuv.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnEp5BMVkAQQgaX.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EnEp57wUwAE6JGY.jpg",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "宝暦二年",
+                "year_built_ce": 1752,
+                "address": "埼玉県比企郡小川町大字中爪",
+                "poi": "普光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.294378,
+                    36.080303
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328893527648976896",
+                "tweet_date": "2020-11-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/KbOZ9szSgO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnEtliGUwAIybgX.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnEtnUxVoAIhbUI.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安永九年",
+                "year_built_ce": 1780,
+                "address": "埼玉県比企郡嵐山町越畑",
+                "poi": "集会所脇"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2992,
+                    36.074417
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328895164551610368",
+                "tweet_date": "2020-11-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/KHGEerJGdc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnEvFG_VEAI0VDy.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnEvG2JUwAACCFM.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県比企郡嵐山町大字越畑",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.307873,
+                    36.079637
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328898519231434758",
+                "tweet_date": "2020-11-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/uIjLwh32OD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnEyGobVgAA28Vu.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnEyHvpVcAAoKJ4.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EnEyJzjUcAA7Nlo.jpg",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文政八年",
+                "year_built_ce": 1825,
+                "address": "埼玉県比企郡嵐山町越畑",
+                "poi": "八宮神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.303413,
+                    36.078906
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1328902124596445185",
+                "tweet_date": "2020-11-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/eDwOBnozdk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnE1a8wUcAE7n61.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnE1b1wVkAEukdT.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "寛政三年",
+                "year_built_ce": 1791,
+                "address": "埼玉県比企郡嵐山町大字越畑",
+                "poi": "薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.064488,
+                    36.168021
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1329038456962486272",
+                "tweet_date": "2020-11-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/qsUBvFWT9E",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnGtbXzVEAADxYs.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnGtcrQUcAE9TrI.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "弘化二年",
+                "year_built_ce": 1845,
+                "address": "茨城県つくば市水守",
+                "poi": "医王寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.064438,
+                    36.168118
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1329038767978516480",
+                "tweet_date": "2020-11-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/iXLXVgHPvx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnGxgbkVQAEcf0D.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県つくば市水守",
+                "poi": "医王寺"
             }
         }
     ]
