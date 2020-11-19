@@ -93031,6 +93031,81 @@
                 "address": "茨城県つくば市水守",
                 "poi": "医王寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.155481,
+                    36.094514
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1329054591724314626",
+                "tweet_date": "2020-11-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/doTwgThXNU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnG62KfVgAAEZ1X.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnG_V6dUYAAgWmF.png",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県土浦市矢作",
+                "poi": "鹿島神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.210731,
+                    36.055527
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1329058719271841793",
+                "tweet_date": "2020-11-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/K5oAB3n93e",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnHDonXVEAMYeC2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元禄三年",
+                "year_built_ce": 1690,
+                "address": "茨城県土浦市大岩田",
+                "poi": "法泉寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.19936,
+                    35.961074
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1329059831462850562",
+                "tweet_date": "2020-11-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/ZtjfECl95X",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnHEy3pVEAEyFjz.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnHE0ZIVoAAihK2.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EnHE1_PVgAA6bOq.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永五年",
+                "year_built_ce": 1852,
+                "address": "茨城県龍ケ崎市泉町",
+                "poi": "鹿島神社"
+            }
         }
     ]
 }
