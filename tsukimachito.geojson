@@ -20037,8 +20037,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.1749268,
-                    35.5845471
+                    139.174987,
+                    35.584165
                 ]
             },
             "properties": {
@@ -93105,6 +93105,31 @@
                 "year_built_ce": 1852,
                 "address": "茨城県龍ケ崎市泉町",
                 "poi": "鹿島神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.250357,
+                    35.681671
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1330456129818800130",
+                "tweet_date": "2020-11-22",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/cxOaI6ziB0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ena6yNvUcAAn-qL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県佐倉市天辺",
+                "poi": null
             }
         }
     ]
