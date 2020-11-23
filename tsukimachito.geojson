@@ -93129,7 +93129,57 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "千葉県佐倉市天辺",
-                "poi": null
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.133689,
+                    35.878125
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1330538544612466688",
+                "tweet_date": "2020-11-23",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/vRPqV9O38i",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EncEuHDXUAgovPB.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EncEzE1XcAMyuPC.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EncFTuOVoAYsqUD.jpg",
+                "media_url_4": "",
+                "type": "十六夜塔",
+                "year_built": "延宝五年",
+                "year_built_ce": 1677,
+                "address": "茨城県北相馬郡利根町羽根野",
+                "poi": "諏訪神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.035965,
+                    35.930996
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1330540382707347462",
+                "tweet_date": "2020-11-23",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/5jXIgaMAAm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EncGYUfW4AUIxlJ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EncGaTPWEAI3sLb.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十五夜塔",
+                "year_built": "寛文五年",
+                "year_built_ce": 1665,
+                "address": "茨城県取手市下高井",
+                "poi": "高源寺"
             }
         }
     ]
