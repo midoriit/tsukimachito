@@ -93181,6 +93181,106 @@
                 "address": "茨城県取手市下高井",
                 "poi": "高源寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.093203,
+                    35.778053
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1330895467828236291",
+                "tweet_date": "2020-11-24",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/5Y4GicNtbz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnhKLohVgAYEKg0.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnhKNcuVcAUFi28.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EnhKPdRVQAAEaoD.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EnhKQ8YVgAIXYAn.jpg",
+                "type": "二十三夜塔",
+                "year_built": "明治四十一年",
+                "year_built_ce": 1908,
+                "address": "千葉県八千代市小池",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.036049,
+                    35.930409
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1330896944412069888",
+                "tweet_date": "2020-11-24",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/fOPNmOSqhP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnhLdcnVoAIrAri.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnhLes7UcAICiP5.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EnhLhiyUUAUvBya.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "延宝九年",
+                "year_built_ce": 1681,
+                "address": "茨城県取手市下高井",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.040503,
+                    35.929926
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1330898297460953088",
+                "tweet_date": "2020-11-24",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/o7SYQAx0bd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnhMkmQVkAAy16D.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnhMnS9UcAAATKW.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EnhMp9eVQAEfgQ1.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県取手市下高井",
+                "poi": "妙見八幡宮"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.041581,
+                    35.928201
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1330899171172204544",
+                "tweet_date": "2020-11-24",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/My5MYjcXJr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnhNq6SVoAIy3mq.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnhNsGfVQAA-qmW.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "正徳五年",
+                "year_built_ce": 1715,
+                "address": "茨城県取手市下高井",
+                "poi": "墓地"
+            }
         }
     ]
 }
