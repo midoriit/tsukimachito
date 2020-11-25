@@ -93281,6 +93281,306 @@
                 "address": "茨城県取手市下高井",
                 "poi": "墓地"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.051001,
+                    35.92519
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1331244328212070400",
+                "tweet_date": "2020-11-24",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/gZkfJbtIBo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnmHk-RXMAA7G_N.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnmHnJ9XYAAlSYm.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文久二年",
+                "year_built_ce": 1862,
+                "address": "茨城県取手市岡",
+                "poi": "岡神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.051001,
+                    35.92519
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1331244894174801922",
+                "tweet_date": "2020-11-24",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/oS7BNfPgb6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnmH5KTW8AEiu1h.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnmH8RMXIAgqlJy.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十二年",
+                "year_built_ce": 1829,
+                "address": "茨城県取手市岡",
+                "poi": "岡神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.051001,
+                    35.92519
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1331245066678046720",
+                "tweet_date": "2020-11-24",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/NU4EGwEzks",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnmIOUZWMAU3iqh.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnmIRJPXYAYLivm.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政八年",
+                "year_built_ce": 1825,
+                "address": "茨城県取手市岡",
+                "poi": "岡神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.051001,
+                    35.92519
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1331245309939363850",
+                "tweet_date": "2020-11-24",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/AHHtnGtLU6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnmIbLvW8AEYPS7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化三年",
+                "year_built_ce": 1806,
+                "address": "茨城県取手市岡",
+                "poi": "岡神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.051001,
+                    35.92519
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1331245503577776132",
+                "tweet_date": "2020-11-24",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/qP0Rh9pRFu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnmIoIfW8AUGozK.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnmIo6XXIAI2F_c.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EnmIpgIXcAIxJFZ.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享保五年",
+                "year_built_ce": 1720,
+                "address": "茨城県取手市岡",
+                "poi": "岡神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.051001,
+                    35.92519
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1331245857983913989",
+                "tweet_date": "2020-11-24",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/PvlJScaPns",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnmI2jzXIAAjlNB.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnmI35uW4AIzsXh.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化九年",
+                "year_built_ce": 1812,
+                "address": "茨城県取手市岡",
+                "poi": "岡神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7544672,
+                    38.0047423
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1331480772281208832",
+                "tweet_date": "2020-11-25",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/AaLc6Qq8Xn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnpesvnVkAAGI83.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnpesvnVkAEmU1F.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "平成八年",
+                "year_built_ce": 1996,
+                "address": "宮城県角田市",
+                "poi": "薬師如来堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7544789,
+                    38.0047471
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1331481355079671810",
+                "tweet_date": "2020-11-25",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/D5LSKoN3id",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnpfOx9VgAUNYO9.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治十九年",
+                "year_built_ce": 1886,
+                "address": "宮城県角田市",
+                "poi": "薬師如来堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8014501,
+                    37.9451216
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1331503274239791105",
+                "tweet_date": "2020-11-25",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/AOiCE0Mjti",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnpzKj7UYAAEGBJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治三十三年",
+                "year_built_ce": 1900,
+                "address": "宮城県角田市",
+                "poi": "薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8013465,
+                    37.9451279
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1331503885991567360",
+                "tweet_date": "2020-11-25",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/blaw9VZkYl",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnpzuGnVoAEsnHH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "宮城県角田市",
+                "poi": "薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8013361,
+                    37.9451314
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1331504260559695877",
+                "tweet_date": "2020-11-25",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/eDroHs4D28",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Enp0EC3VcAA2bYS.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治五年",
+                "year_built_ce": 1872,
+                "address": "宮城県角田市",
+                "poi": "薬師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.081426,
+                    35.942184
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1331562768802091008",
+                "tweet_date": "2020-11-25",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/PfWt66EmjV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Enqo3XQUwAUlnJg.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Enqo7DFUUAAZ2M4.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "茨城県取手市神住",
+                "poi": null
+            }
         }
     ]
 }
