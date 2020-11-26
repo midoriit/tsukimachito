@@ -93576,10 +93576,85 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
+                "year_built": "文化二年",
+                "year_built_ce": 1805,
+                "address": "茨城県取手市神住",
+                "poi": "稲荷神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.088015,
+                    35.934494
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1331569348939448351",
+                "tweet_date": "2020-11-25",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/FD2x9hYJJx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EnqsN4pUcAAKaUN.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnqsOjsVoAAo83z.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化四年",
+                "year_built_ce": 1807,
+                "address": "茨城県取手市中内",
+                "poi": "香取神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.088389,
+                    35.934483
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1331570970943864837",
+                "tweet_date": "2020-11-25",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/5NTm0JgsGS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Enqvxo6VcAEGbaN.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EnqvyPEVoAcLJz1.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Enqvy0qUYActMFU.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/Enqv1McUYAEHKdP.jpg",
+                "type": "十九夜塔",
+                "year_built": "延宝元年",
+                "year_built_ce": 1673,
+                "address": "茨城県取手市中内",
+                "poi": "明光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3589269,
+                    35.5607794
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1331787056062758912",
+                "tweet_date": "2020-11-26",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/bmCr71LX84",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ent1RI3VQAICNaj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
                 "year_built": "",
                 "year_built_ce": "",
-                "address": "茨城県取手市神住",
-                "poi": null
+                "address": "神奈川県相模原市中央区上溝五丁目",
+                "poi": "路傍"
             }
         }
     ]
