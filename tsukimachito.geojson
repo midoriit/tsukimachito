@@ -93656,6 +93656,81 @@
                 "address": "神奈川県相模原市中央区上溝五丁目",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.135267,
+                    35.967431
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1332346980740206593",
+                "tweet_date": "2020-11-28",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/byPLjbFk6j",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/En1yPQMUUAAUCso.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/En1yZDvUwAAf7Fw.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/En1yacQVcAAvIag.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "延宝九年",
+                "year_built_ce": 1681,
+                "address": "茨城県牛久市牛久町",
+                "poi": "正源寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.135267,
+                    35.967431
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1332347719122239488",
+                "tweet_date": "2020-11-28",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/ec3BmKlu7e",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/En1y29nUYAIbDlC.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/En1y7RiUcAUS9JS.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元禄四年",
+                "year_built_ce": 1691,
+                "address": "茨城県牛久市牛久町",
+                "poi": "正源寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.133689,
+                    35.878125
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1332350118759067649",
+                "tweet_date": "2020-11-28",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/aOw1nXHgSE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/En10y2WVcAEnM4P.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/En11Pn_UUAMNsE1.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/En11QROUYAERzNc.jpg",
+                "media_url_4": "",
+                "type": "十五夜塔",
+                "year_built": "寛政十二年",
+                "year_built_ce": 1800,
+                "address": "茨城県北相馬郡利根町羽根野",
+                "poi": "諏訪神社"
+            }
         }
     ]
 }
