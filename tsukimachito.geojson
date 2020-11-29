@@ -93731,6 +93731,56 @@
                 "address": "茨城県北相馬郡利根町羽根野",
                 "poi": "諏訪神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.7517828,
+                    37.118854
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1332984861083062274",
+                "tweet_date": "2020-11-29",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/cxH1MQNcaj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/En-2qaXVEAIQR8K.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県十日町市川治",
+                "poi": "国道117号道路脇"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.058939,
+                    36.389277
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1333003864065273857",
+                "tweet_date": "2020-11-29",
+                "contributor": "kochizufan",
+                "tweet_url": "https:\/\/t.co\/JZ0e24pFHv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/En_H7fqVkAAa7Ik.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/En_H7fqUcAA3qKL.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県前橋市大手町一丁目",
+                "poi": "長壁神社脇"
+            }
         }
     ]
 }
