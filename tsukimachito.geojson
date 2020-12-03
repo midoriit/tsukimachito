@@ -93781,6 +93781,31 @@
                 "address": "群馬県前橋市大手町一丁目",
                 "poi": "長壁神社脇"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.210236,
+                    35.593845
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1334336268814090241",
+                "tweet_date": "2020-12-03",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/LGvdOONYog",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EoSDw13VgAMBFNd.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県相模原市緑区寸沢嵐",
+                "poi": "集会所"
+            }
         }
     ]
 }
