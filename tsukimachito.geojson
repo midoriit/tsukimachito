@@ -93831,6 +93831,31 @@
                 "address": "福島県会津若松市河東町浅山堂ケ入",
                 "poi": "祈りの里会津村内蔵王権現堂脇"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.160092,
+                    35.730026
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1335777630151315457",
+                "tweet_date": "2020-12-07",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/SwIZ6W4BgX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eomiqc7UwAMSECF.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EomirIXVoAAlUQB.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政五年",
+                "year_built_ce": 1858,
+                "address": "東京都西多摩郡檜原村",
+                "poi": "貴布祢伊龍神社"
+            }
         }
     ]
 }
