@@ -93856,6 +93856,31 @@
                 "address": "東京都西多摩郡檜原村",
                 "poi": "貴布祢伊龍神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0556,
+                    35.32716
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1336678685466771456",
+                "tweet_date": "2020-12-09",
+                "contributor": "sagami_yashiro",
+                "tweet_url": "https:\/\/t.co\/LVjVy7jhqr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EozUpFbVoAEPku6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県南足柄市矢倉沢",
+                "poi": ""
+            }
         }
     ]
 }
