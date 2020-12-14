@@ -93881,6 +93881,81 @@
                 "address": "神奈川県南足柄市矢倉沢",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.727377,
+                    35.696473
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1338132874332008451",
+                "tweet_date": "2020-12-13",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/VkTS0xSzpo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EpIAtqlVEAAng2B.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EpIAuaWUwAAPJ3r.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EpIAvONUwAABRly.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EpIAwC3VoAUkn4n.jpg",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県旭市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7276,
+                    35.696262
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1338136462630371329",
+                "tweet_date": "2020-12-13",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/5KsTLLSu5Q",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EpID_t4UcAMAT_c.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EpIEA3IVgAAva0t.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県旭市",
+                "poi": "金毘羅大権現脇"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.116029,
+                    35.613782
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1338317153561313280",
+                "tweet_date": "2020-12-14",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/cSRyeom33L",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EpKoW0FVgAAGXkg.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県上野原市鶴島",
+                "poi": "駒門薬師堂"
+            }
         }
     ]
 }
