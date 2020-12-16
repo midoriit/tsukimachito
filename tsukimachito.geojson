@@ -93956,6 +93956,56 @@
                 "address": "山梨県上野原市鶴島",
                 "poi": "駒門薬師堂"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.113244,
+                    35.79972
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1339044882334142465",
+                "tweet_date": "2020-12-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/BC4TuBgD7v",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EpU-MpIUYAES9WA.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EpU-N6LUwAIvhLc.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治32年",
+                "year_built_ce": 1899,
+                "address": "東京都西多摩郡奥多摩町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.108708,
+                    35.802899
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1339053232148992006",
+                "tweet_date": "2020-12-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/TVko6UOLNf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EpVFzyWVgAYH1tC.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "東京都西多摩郡奥多摩町",
+                "poi": "路傍"
+            }
         }
     ]
 }
