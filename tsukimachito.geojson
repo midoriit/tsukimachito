@@ -94006,6 +94006,56 @@
                 "address": "東京都西多摩郡奥多摩町",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.297516,
+                    35.865475
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1339774288929247233",
+                "tweet_date": "2020-12-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/8ua6eT7CZQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EpfVnRGVoAAJR3C.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県飯能市飯能",
+                "poi": "御嶽八幡神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.297516,
+                    35.865475
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1339774385859674112",
+                "tweet_date": "2020-12-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Z7NBoMivZN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EpfVs6_UUAEEigR.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県飯能市飯能",
+                "poi": "御嶽八幡神社"
+            }
         }
     ]
 }
