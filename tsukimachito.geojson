@@ -94056,6 +94056,31 @@
                 "address": "埼玉県飯能市飯能",
                 "poi": "御嶽八幡神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8059177,
+                    37.9463367
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1340546225146216448",
+                "tweet_date": "2020-12-20",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/mxuHQ1zjgC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EpqTrgUVQAIwbWk.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保五年",
+                "year_built_ce": 1834,
+                "address": "宮城県角田市",
+                "poi": "三寶大荒神社"
+            }
         }
     ]
 }
