@@ -94081,6 +94081,231 @@
                 "address": "宮城県角田市",
                 "poi": "三寶大荒神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.439576,
+                    36.053001
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1341229009175158784",
+                "tweet_date": "2020-12-22",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/wuhF6YEmtC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ep0ApXZU0AAm7X9.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ep0ArJrVoAESEdx.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県比企郡吉見町御所",
+                "poi": "吉見観音 安楽寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.439576,
+                    36.053001
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1341229210656903168",
+                "tweet_date": "2020-12-22",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/1nAMrRDXpx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ep0A1KPVQAAv0MX.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ep0A2pqUwAIILJK.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県比企郡吉見町御所",
+                "poi": "吉見観音 安楽寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.439576,
+                    36.053001
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1341229619685380103",
+                "tweet_date": "2020-12-22",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/oFpeJiY9xj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ep0BNPmUYAEUCz2.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ep0BOqrVgAErpuv.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十一夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県比企郡吉見町御所",
+                "poi": "吉見観音 安楽寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.439576,
+                    36.053001
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1341229945079488512",
+                "tweet_date": "2020-12-22",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/rWMvfWr5mM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ep0BgOAUcAE8TVT.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ep0Bhj4U0AEpsoA.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県比企郡吉見町御所",
+                "poi": "吉見観音 安楽寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.439576,
+                    36.053001
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1341230155637743617",
+                "tweet_date": "2020-12-22",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mNMd5X4vTR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ep0BsxHUUAA4NvU.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ep0Bt2RUYAAhgQL.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県比企郡吉見町御所",
+                "poi": "吉見観音 安楽寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.439576,
+                    36.053001
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1341230915805057027",
+                "tweet_date": "2020-12-22",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/P1UXIe1qod",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ep0CY4_U0AETY22.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ep0CZ4_UwAE_TrR.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県比企郡吉見町御所",
+                "poi": "吉見観音 安楽寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.439576,
+                    36.053001
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1341231399089496064",
+                "tweet_date": "2020-12-22",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/rT9Yw1NE61",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ep0C1KEVoAE17pj.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ep0C2SJUwAI6rR3.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県比企郡吉見町御所",
+                "poi": "吉見観音 安楽寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.575585,
+                    35.632726
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1341255681240776705",
+                "tweet_date": "2020-12-22",
+                "contributor": "hinata8841",
+                "tweet_url": "https:\/\/t.co\/xCtoBOQw9R",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ep0YzUHUcAAwI5u.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ep0Y6R3VQAEzsa5.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "東京都狛江市元和泉一丁目",
+                "poi": "泉龍寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.439576,
+                    36.053001
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1341307057459228673",
+                "tweet_date": "2020-12-22",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/kc2tbsN1Mo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ep1GrzhU0AItS4T.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ep1Gu_RUUAIJ4ec.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Ep1Gx39VEAIv6uo.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/Ep1G0oDUwAIb9vX.jpg",
+                "type": "七夜待塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県比企郡吉見町御所",
+                "poi": "吉見観音 安楽寺"
+            }
         }
     ]
 }
