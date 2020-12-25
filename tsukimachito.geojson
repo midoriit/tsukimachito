@@ -94306,6 +94306,56 @@
                 "address": "埼玉県比企郡吉見町御所",
                 "poi": "吉見観音 安楽寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.150001,
+                    35.726022
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1342306199170146304",
+                "tweet_date": "2020-12-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ryv7m2DG6H",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EqDUX0WUwAIYh4r.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政三年",
+                "year_built_ce": 1856,
+                "address": "東京都西多摩郡檜原村",
+                "poi": "日枝神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.444813,
+                    36.271192
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1342370568209764352",
+                "tweet_date": "2020-12-25",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/LCrDsYIYj2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EqEO6wdU8AEjVvl.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市塚原",
+                "poi": ""
+            }
         }
     ]
 }
