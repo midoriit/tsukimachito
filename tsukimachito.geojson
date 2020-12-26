@@ -94356,6 +94356,106 @@
                 "address": "長野県佐久市塚原",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.940168,
+                    35.790121
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1342676066138087425",
+                "tweet_date": "2020-12-26",
+                "contributor": "tsmie22",
+                "tweet_url": "https:\/\/t.co\/RVEBqiSvYW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EqIkvsRVQAI_Ut-.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EqIkvsUVQAIiJMB.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県松戸市日暮五丁目",
+                "poi": "白髪神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0522068,
+                    38.5582267
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1342758721366048770",
+                "tweet_date": "2020-12-26",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/M2FixFGz75",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EqJv7v_VEAABuYF.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EqJv7v_UcAUECOT.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EqJv7wBUUAAuqXE.jpg",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "宝暦十三年",
+                "year_built_ce": 1763,
+                "address": "宮城県遠田郡美里町",
+                "poi": "愛宕神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0522182,
+                    38.5582487
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1342759479885012992",
+                "tweet_date": "2020-12-26",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/cdEts5NXfz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EqJwn5nU0AAsELh.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EqJwn5oUUAA08pf.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EqJwn5oUYAIm0U2.jpg",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "天明八年",
+                "year_built_ce": 1788,
+                "address": "宮城県遠田郡美里町",
+                "poi": "愛宕神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.0522283,
+                    38.5582657
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1342760354997125121",
+                "tweet_date": "2020-12-26",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/dAYRK9COxu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EqJxa-_VEAI48RU.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EqJxa-_VEAEM2Y0.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "嘉永二年",
+                "year_built_ce": 1849,
+                "address": "宮城県遠田郡美里町",
+                "poi": "愛宕神社"
+            }
         }
     ]
 }
