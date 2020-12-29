@@ -30062,8 +30062,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.9422607,
-                    35.7889442
+                    139.941136,
+                    35.788209
                 ]
             },
             "properties": {
@@ -94455,6 +94455,31 @@
                 "year_built_ce": 1849,
                 "address": "宮城県遠田郡美里町",
                 "poi": "愛宕神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.474539,
+                    38.283825
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1343873883628158976",
+                "tweet_date": "2020-12-29",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/wFMAkaQwVR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EqZl6tqUcAE8brn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "天明元年",
+                "year_built_ce": 1781,
+                "address": "山形県山形市",
+                "poi": ""
             }
         }
     ]
