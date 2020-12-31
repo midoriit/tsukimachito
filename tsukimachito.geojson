@@ -94481,6 +94481,56 @@
                 "address": "山形県山形市",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3902119,
+                    35.6840359
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1344540602247962625",
+                "tweet_date": "2020-12-31",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Onz3KszWS1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EqjEjSQUYAUH68i.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "東京都日野市栄町二丁目",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.001542,
+                    35.814146
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1344571899729256450",
+                "tweet_date": "2020-12-31",
+                "contributor": "tsmie22",
+                "tweet_url": "https:\/\/t.co\/ClXeNEkUkz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EqjhAXnVgAI8tDT.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化元年",
+                "year_built_ce": 1804,
+                "address": "千葉県柏市高柳",
+                "poi": "路傍"
+            }
         }
     ]
 }
