@@ -94531,6 +94531,81 @@
                 "address": "千葉県柏市高柳",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4669068,
+                    36.2699035
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1344904837800972289",
+                "tweet_date": "2021-01-01",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/5GZZ4an9X7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EqoP0qHVkAA8ndW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市岩村田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.466724,
+                    36.2698263
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1344905248125566976",
+                "tweet_date": "2021-01-01",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/RQdWvlT4lO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EqoQMiLVEAEYElb.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市岩村田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.428206,
+                    36.353413
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1344951777381126144",
+                "tweet_date": "2021-01-01",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/JWaZIGOK6p",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eqo6fPAVgAE57ki.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字菱平",
+                "poi": ""
+            }
         }
     ]
 }
