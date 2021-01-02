@@ -94606,6 +94606,106 @@
                 "address": "長野県小諸市大字菱平",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2598051,
+                    37.49053129
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345354582776455169",
+                "tweet_date": "2021-01-02",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/HbidNQkQEd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Equm-ELVEAAtts1.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市熱海町熱海五丁目",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.270312,
+                    37.482752
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345355718090661890",
+                "tweet_date": "2021-01-02",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/2thC30Pzyj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Equps1RVoAA4JTP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政7年",
+                "year_built_ce": 1824,
+                "address": "福島県郡山市熱海町熱海四丁目",
+                "poi": "湯泉神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.270312,
+                    37.482752
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345356549674291206",
+                "tweet_date": "2021-01-02",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/nDxCzfazKI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EquqhUyVkAA8c3b.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化7年",
+                "year_built_ce": 1810,
+                "address": "福島県郡山市熱海町熱海四丁目",
+                "poi": "湯泉神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.270312,
+                    37.482752
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345356845259526149",
+                "tweet_date": "2021-01-02",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/BlRmuxUQPx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EquqyW0VoAEL0ab.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市熱海町熱海四丁目",
+                "poi": "湯泉神社"
+            }
         }
     ]
 }
