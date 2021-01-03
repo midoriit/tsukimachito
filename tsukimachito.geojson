@@ -94629,7 +94629,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "福島県郡山市熱海町熱海五丁目",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -94651,8 +94651,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十三夜塔",
-                "year_built": "文政7年",
-                "year_built_ce": 1824,
+                "year_built": "文化7年",
+                "year_built_ce": 1810,
                 "address": "福島県郡山市熱海町熱海四丁目",
                 "poi": "湯泉神社"
             }
@@ -94705,6 +94705,81 @@
                 "year_built_ce": "",
                 "address": "福島県郡山市熱海町熱海四丁目",
                 "poi": "湯泉神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.501045,
+                    37.301376
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345367002211237888",
+                "tweet_date": "2021-01-02",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/xxNs6Y1RGg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EquzlUUU0AEfFeF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化9年",
+                "year_built_ce": 1812,
+                "address": "福島県郡山市",
+                "poi": "国道49号線路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.57717,
+                    37.233083
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345369522765586432",
+                "tweet_date": "2021-01-02",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/oyOiFFVxds",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Equ2JRKUUAEyDZ_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県石川郡平田村上蓬田遅沢前",
+                "poi": "国道49号線路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.19378,
+                    37.290064
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345370960203927553",
+                "tweet_date": "2021-01-02",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/7J8yZVPvoj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Equ3bbuUcAAE7gU.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市",
+                "poi": "白河街道路傍"
             }
         }
     ]
