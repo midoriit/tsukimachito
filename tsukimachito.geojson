@@ -94781,6 +94781,531 @@
                 "address": "福島県須賀川市",
                 "poi": "白河街道路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.761611,
+                    37.11137
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345714980608307200",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/35SEaw6K1g",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eqzu_yPVkAEinVk.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.938811,
+                    37.109988
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345717148308492288",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/zcl38rfUov",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EqzxdpDVgAAlOra.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町長友磯田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.938811,
+                    37.109988
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345717596448980992",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/IGhitBSYfQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eqzy8KVVoAEnCBG.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町長友磯田",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.943961,
+                    37.114608
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345718441500504064",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/OoEqeiqlhU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EqzzutdUcAAFFeh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町玉山林崎",
+                "poi": "金光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.943961,
+                    37.114608
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345718599697141760",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/Z7i8IoxzDn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eqzz3i0VgAIIGMl.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町玉山林崎",
+                "poi": "金光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.943961,
+                    37.114608
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345718746657116160",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/CqsXASu1Ub",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eqz0BFpVgAA4L2h.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町玉山林崎",
+                "poi": "金光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.943961,
+                    37.114608
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345718916199288832",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/B4dHAcWv0Q",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eqz0LLMVoAEknQY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町玉山林崎",
+                "poi": "金光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.943961,
+                    37.114608
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345719055844458496",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/QmvzxdB75e",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eqz0R8NVQAMsZdp.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町玉山林崎",
+                "poi": "金光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.943961,
+                    37.114608
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345719255258472450",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/ksokBRiWwD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eqz0eiYVkAIAKYB.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町玉山林崎",
+                "poi": "金光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.943961,
+                    37.114608
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345719376670932999",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/jEbUKHUoQP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eqz0l4oVQAA5o2y.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町玉山林崎",
+                "poi": "金光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.943961,
+                    37.114608
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345720345899065344",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/b081oFAhgo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eqz1dxoVoAU4o1z.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町玉山林崎",
+                "poi": "金光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.984601,
+                    37.106805
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345726953777627136",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/FtWwaOt1VO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eqz7LoJUYAICuJj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町北向",
+                "poi": "北辰妙見尊"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.976254,
+                    37.093404
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345728095525904391",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/Rz9on9N7jN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eqz8hiAVEAASnkv.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "嘉永6年",
+                "year_built_ce": 1853,
+                "address": "福島県いわき市四倉町上仁井田家ノ前",
+                "poi": "最勝院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.976254,
+                    37.093404
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345728236605456384",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/E488fWKIgE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eqz8qaEUUAcjzhk.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町上仁井田家ノ前",
+                "poi": "最勝院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.976254,
+                    37.093404
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345728687992238082",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/hV75Gsvdau",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eqz89NyUwAE9pYo.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町上仁井田家ノ前",
+                "poi": "最勝院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.990824,
+                    37.110056
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345732296150695937",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/C6GyN56S4R",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eq0AKHxUcAAi9db.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町五丁目",
+                "poi": "如来寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.93746,
+                    37.07039
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345735435251638275",
+                "tweet_date": "2021-01-03",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/IQrbGuNvFn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eq0C_TiVoAAiFYy.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市平下神谷岸前",
+                "poi": "沢村神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.99426,
+                    37.10989
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345908261023674369",
+                "tweet_date": "2021-01-04",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/DRdfu2Lz8L",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eq2gIsHVgAEjVv9.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町志津",
+                "poi": "三宝荒神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.99426,
+                    37.10989
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345908503886479361",
+                "tweet_date": "2021-01-04",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/NkgDhpYBRj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eq2gghPVEAIS7S9.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町志津",
+                "poi": "三宝荒神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.99426,
+                    37.10989
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345908742752071681",
+                "tweet_date": "2021-01-04",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/hgmczxsedM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eq2gthgVgAEOqIN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町志津",
+                "poi": "三宝荒神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.99426,
+                    37.10989
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1345909190280192002",
+                "tweet_date": "2021-01-04",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/NfiT4knyd2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eq2hHTDUcAAujrm.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県いわき市四倉町志津",
+                "poi": "三宝荒神社"
+            }
         }
     ]
 }
