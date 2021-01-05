@@ -95306,6 +95306,31 @@
                 "address": "福島県いわき市四倉町志津",
                 "poi": "三宝荒神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.445135,
+                    38.316121
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1346260414774951936",
+                "tweet_date": "2021-01-05",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/WbWuGk7Tru",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eq7gD0lUwAQ4Udy.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Eq7gIRxVgAArwii.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Eq7gJtZUYAIUFJQ.jpg",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "寛政十二年",
+                "year_built_ce": 1800,
+                "address": "山形県山形市大字山寺",
+                "poi": "最上三十三観音第二札所「千手院"
+            }
         }
     ]
 }
