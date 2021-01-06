@@ -95329,7 +95329,32 @@
                 "year_built": "寛政十二年",
                 "year_built_ce": 1800,
                 "address": "山形県山形市大字山寺",
-                "poi": "最上三十三観音第二札所「千手院"
+                "poi": "千手院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.135138,
+                    35.620076
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1346653969901264896",
+                "tweet_date": "2021-01-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/zYHohGbZ4h",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ErBGpcEVgAAzhwY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "神奈川県相模原市緑区小渕",
+                "poi": "路傍"
             }
         }
     ]
