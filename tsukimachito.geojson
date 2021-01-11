@@ -1337,8 +1337,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    139.1885834,
-                    35.7290944
+                    139.188843,
+                    35.729063
                 ]
             },
             "properties": {
@@ -95355,6 +95355,81 @@
                 "year_built_ce": "",
                 "address": "神奈川県相模原市緑区小渕",
                 "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.211688,
+                    35.647619
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1348566725730594816",
+                "tweet_date": "2021-01-11",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/xhRDpZVJ44",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ErcRkJGUcAIgdrp.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ErcRo0PUcAEW9cP.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/ErcRsMBVoAAcLg1.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦四年",
+                "year_built_ce": 1754,
+                "address": "千葉県千葉市若葉区旦谷町",
+                "poi": "薬王院・大師堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.221342,
+                    35.641293
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1348569006135865344",
+                "tweet_date": "2021-01-11",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/1qReZGqYrW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ErcUD4gUcAE1kxV.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ErcUINsUYAADPYc.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/ErcUK9dVcAMebi3.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/ErcUMx8VgAIUSdW.jpg",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県千葉市若葉区谷当町",
+                "poi": "真照院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.221342,
+                    35.641293
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1348569476782907392",
+                "tweet_date": "2021-01-11",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/b6OZqqZ3IJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ErcUnmsUcAIoCHv.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ErcUqX9U0AE3YJR.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/ErcUrMhVcAAkLqF.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "延享元年",
+                "year_built_ce": 1744,
+                "address": "千葉県千葉市若葉区谷当町",
+                "poi": "真照院"
             }
         }
     ]
