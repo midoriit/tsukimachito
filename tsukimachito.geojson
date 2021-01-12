@@ -95431,6 +95431,56 @@
                 "address": "千葉県千葉市若葉区谷当町",
                 "poi": "真照院"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.318537,
+                    35.658703
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1348659180324864001",
+                "tweet_date": "2021-01-12",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/FizzIYz2v4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ErdlcVUVgAEyxVH.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ErdldwgU0AAnZtX.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/ErdlfNSUUAAPS07.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/Erdlf_aVoAEr3wg.jpg",
+                "type": "二十三夜塔",
+                "year_built": "大正八年",
+                "year_built_ce": 1919,
+                "address": "千葉県八街市八街ほ",
+                "poi": "三光稲荷神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.237905,
+                    35.652656
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1348668268991549441",
+                "tweet_date": "2021-01-12",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/kgo7RTbu6h",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ErdtYGLUcAENnhJ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ErduHJXVQAIjYp9.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/ErduI-eVEAAb_GW.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/ErduMr_VQAYVxE3.jpg",
+                "type": "二十三夜塔",
+                "year_built": "元文二年",
+                "year_built_ce": 1737,
+                "address": "千葉県佐倉市岩富町",
+                "poi": "教蔵寺"
+            }
         }
     ]
 }
