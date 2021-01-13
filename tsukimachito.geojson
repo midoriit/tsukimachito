@@ -95481,6 +95481,31 @@
                 "address": "千葉県佐倉市岩富町",
                 "poi": "教蔵寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.201418,
+                    35.730596
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1349184432385650690",
+                "tweet_date": "2021-01-13",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/OKbC1a45yn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ErlEFSQUUAA3LOB.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "三日月塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "東京都あきる野市戸倉",
+                "poi": "民家脇"
+            }
         }
     ]
 }
