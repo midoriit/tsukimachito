@@ -95506,6 +95506,106 @@
                 "address": "東京都あきる野市戸倉",
                 "poi": "民家脇"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4383043,
+                    36.2365503
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1352096206906826752",
+                "tweet_date": "2021-01-21",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/whu96SWMtr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EsOcVauVEAQsFwY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "(二十)三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市伴野",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.372506,
+                    36.012751
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1352098948966608896",
+                "tweet_date": "2021-01-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/1teq6FdDjV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EsOezPlVgAIUFZ-.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EsOe0JdVkAAC01u.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EsOe04PUYAAcJLn.jpg",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和八年",
+                "year_built_ce": 1771,
+                "address": "埼玉県東松山市葛袋",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.274515,
+                    36.016373
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1352107969480048642",
+                "tweet_date": "2021-01-21",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/p4IkgBalAy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EsOm8sIVcAAhMdV.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EsOnApWVQAE1pqb.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EsOnBwYVoAA98WX.jpg",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "安永九年",
+                "year_built_ce": 1780,
+                "address": "埼玉県比企郡ときがわ町大字五明",
+                "poi": "白石神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.438281,
+                    36.236546
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1352132981129764864",
+                "tweet_date": "2021-01-21",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/bGjJ9Mavzf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EsO9rXsU0AAe1Su.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市伴野",
+                "poi": ""
+            }
         }
     ]
 }
