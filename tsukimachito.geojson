@@ -95606,6 +95606,56 @@
                 "address": "長野県佐久市伴野",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6551269,
+                    38.273185
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1352853659332186114",
+                "tweet_date": "2021-01-23",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/yWX7P2FmPE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EsZMv9EU0AEt0Ly.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EsZMv9aVoAAO31f.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EsZMv9zU4AAhtFu.jpg",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "文久三年",
+                "year_built_ce": 1863,
+                "address": "宮城県仙台市太白区",
+                "poi": "加沢溜池"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6817183,
+                    38.1801264
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1352878559052722176",
+                "tweet_date": "2021-01-23",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/0oFFBpmHcl",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EsZj3mjVEAAdaZl.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永七年",
+                "year_built_ce": 1854,
+                "address": "宮城県柴田郡川崎町",
+                "poi": ""
+            }
         }
     ]
 }
