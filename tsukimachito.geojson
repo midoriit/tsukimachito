@@ -95656,6 +95656,106 @@
                 "address": "宮城県柴田郡川崎町",
                 "poi": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4218401,
+                    38.3120471
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1352982467322343424",
+                "tweet_date": "2021-01-23",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/0DdrBcBkro",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EsbCYLcVcAAVZlf.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EsbCYLcUYAAg3N8.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "明和二年",
+                "year_built_ce": 1765,
+                "address": "山形県山形市大字山寺",
+                "poi": "子安観音参道入口"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7767795,
+                    37.9470472
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1353251847696310272",
+                "tweet_date": "2021-01-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/y8Gry7kxUL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ese3YRAVcAAswM7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "延享五年",
+                "year_built_ce": 1748,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "関場熊野権現社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7767738,
+                    37.9470403
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1353252446168961025",
+                "tweet_date": "2021-01-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/DRo7TBK6ND",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ese36-5VEAIfyfC.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永七年",
+                "year_built_ce": 1778,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "関場熊野権現社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.434578,
+                    38.273116
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1353279837234860033",
+                "tweet_date": "2021-01-24",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/kdQYe5XaOz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EsfQVegUcAEywdr.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "文化二年",
+                "year_built_ce": 1805,
+                "address": "山形県山形市",
+                "poi": "二口街道沿い"
+            }
         }
     ]
 }
