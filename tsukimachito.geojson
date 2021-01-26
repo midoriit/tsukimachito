@@ -95756,6 +95756,31 @@
                 "address": "山形県山形市",
                 "poi": "二口街道沿い"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.121522,
+                    35.623821
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1353892412192563201",
+                "tweet_date": "2021-01-26",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/fXSNMSEVyX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Esn98uGUYAA6tiQ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Esn99cvVoAAbHYr.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Esn9-PSVkAAwEfE.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化11年",
+                "year_built_ce": 1814,
+                "address": "山梨県上野原市上野原",
+                "poi": "塚場碑林園"
+            }
         }
     ]
 }
