@@ -95781,6 +95781,56 @@
                 "address": "山梨県上野原市上野原",
                 "poi": "塚場碑林園"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.430749,
+                    38.275676
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1354051071417618434",
+                "tweet_date": "2021-01-26",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/NwPqErJEKV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EsqN4eoVEA0EUEn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "天保十三年",
+                "year_built_ce": 1842,
+                "address": "山形県山形市",
+                "poi": "新明神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.430859,
+                    38.275603
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1354052510873341952",
+                "tweet_date": "2021-01-26",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/hq9EUaM4Yz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EsqPgQUU4AAvuYr.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "天明二年",
+                "year_built_ce": 1782,
+                "address": "山形県山形市",
+                "poi": "新明神社"
+            }
         }
     ]
 }
