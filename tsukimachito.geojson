@@ -95831,6 +95831,156 @@
                 "address": "山形県山形市",
                 "poi": "新明神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.28629,
+                    37.328528
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1355493175628976128",
+                "tweet_date": "2021-01-30",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/9yHYnhKwiq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Es-tH1zVEAI9uP_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市舘ケ岡本郷",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.304139,
+                    37.344699
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1355497745931399171",
+                "tweet_date": "2021-01-30",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/BKu1V1SGzz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Es-xpyjUcAQV6ex.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市三穂田町野田中沢目",
+                "poi": "光伝寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.304139,
+                    37.344699
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1355497866974822402",
+                "tweet_date": "2021-01-30",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/cdgU6wDQVb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Es-yEvvVEAQp4VS.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市三穂田町野田中沢目",
+                "poi": "光伝寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.304139,
+                    37.344699
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1355497996796841984",
+                "tweet_date": "2021-01-30",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/tLKGaGxTkb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Es-yMtGUcAIcq-y.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市三穂田町野田中沢目",
+                "poi": "光伝寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.304139,
+                    37.344699
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1355498193564229633",
+                "tweet_date": "2021-01-30",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/TRgG0XZ8qn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Es-ySpHUwAcwuT2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市三穂田町野田中沢目",
+                "poi": "光伝寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.322297,
+                    37.375988
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1355505481750466560",
+                "tweet_date": "2021-01-30",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/OyyYCYaeng",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Es-4zGKVEAU83QR.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市大槻町南地蔵谷地",
+                "poi": "子安地蔵観音堂"
+            }
         }
     ]
 }
