@@ -95981,6 +95981,56 @@
                 "address": "福島県郡山市大槻町南地蔵谷地",
                 "poi": "子安地蔵観音堂"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.560978,
+                    36.235222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1356455039032647680",
+                "tweet_date": "2021-02-02",
+                "contributor": "kochizufan",
+                "tweet_url": "https:\/\/t.co\/SimMtzWonc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EtMYqd9U0AAWvOH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県館林市花山町",
+                "poi": "富士嶽神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.580671,
+                    36.223837
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1356497303557693441",
+                "tweet_date": "2021-02-02",
+                "contributor": "kochizufan",
+                "tweet_url": "https:\/\/t.co\/3McIeaL03S",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EtM_GjoU4AAvRnh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県館林市赤生田町",
+                "poi": "釈迦堂"
+            }
         }
     ]
 }
