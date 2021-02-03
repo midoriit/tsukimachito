@@ -96031,6 +96031,56 @@
                 "address": "群馬県館林市赤生田町",
                 "poi": "釈迦堂"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.111809,
+                    36.034623
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1356808070182051843",
+                "tweet_date": "2021-02-03",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/CpTGsmZXYd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EtRZvrmUUActZfB.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父市黒谷",
+                "poi": "瑞岩寺不動堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8723024,
+                    38.2864324
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1356935208927285249",
+                "tweet_date": "2021-02-03",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/4dkJbqXEpT",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EtTNTyrVoAEZS1V.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EtTNTytUYAs3QDE.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EtTNTywUUAEnuT_.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EtTNTy_UUAIUeGe.jpg",
+                "type": "二十三夜塔",
+                "year_built": "明暦元年",
+                "year_built_ce": 1655,
+                "address": "宮城県仙台市青葉区",
+                "poi": "杉添神社"
+            }
         }
     ]
 }
