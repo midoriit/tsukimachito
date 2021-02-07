@@ -96081,6 +96081,156 @@
                 "address": "宮城県仙台市青葉区",
                 "poi": "杉添神社"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.25216,
+                    35.700497
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1358298452334051328",
+                "tweet_date": "2021-02-07",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/WGCqliegdX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EtmlOF_VgAIXKYY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "昭和八年",
+                "year_built_ce": 1933,
+                "address": "千葉県佐倉市八木",
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.767441,
+                    36.393955
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1358367579811684355",
+                "tweet_date": "2021-02-07",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/BYKJCHOaJ8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EtnkGZrVkAED0vH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県栃木市国府町",
+                "poi": "勝光寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.760996,
+                    36.387846
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1358370751955546113",
+                "tweet_date": "2021-02-07",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/Tj3N6PSpib",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Etnm_FMU0AEOOrE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県栃木市大宮町",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.234534,
+                    35.675094
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1358375595298545673",
+                "tweet_date": "2021-02-07",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/B4uzH1ZKX0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Etnq5jpVIAQaoOA.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EtnrGWiVkAA07oD.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "正徳五年",
+                "year_built_ce": 1715,
+                "address": "千葉県佐倉市神門",
+                "poi": "玉蔵院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0440255,
+                    37.9258187
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1358379205361213443",
+                "tweet_date": "2021-02-07",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/DyDPsvjTnA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Etnurq_U0AA5MA1.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県新潟市中央区西堀通八番町",
+                "poi": "真城院"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.265204,
+                    35.695742
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1358390217195937799",
+                "tweet_date": "2021-02-07",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/ja2lcTjcKe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Etn4nhNVcAEmTeo.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保十年",
+                "year_built_ce": 1725,
+                "address": "千葉県佐倉市下勝田",
+                "poi": "西光寺"
+            }
         }
     ]
 }
