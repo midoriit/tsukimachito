@@ -96231,6 +96231,31 @@
                 "address": "千葉県佐倉市下勝田",
                 "poi": "西光寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9678602,
+                    35.5931291
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1359343139899674624",
+                "tweet_date": "2021-02-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/zxhysy1ChP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Et1bYVLVkAQeuKk.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県大月市",
+                "poi": "路傍"
+            }
         }
     ]
 }
