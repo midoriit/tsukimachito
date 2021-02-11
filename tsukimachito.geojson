@@ -96256,6 +96256,81 @@
                 "address": "山梨県大月市",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.276701,
+                    35.695866
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1359497439426715657",
+                "tweet_date": "2021-02-10",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/KobC6scbBE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Et3mEs5VEAUaP4A.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治二十九年",
+                "year_built_ce": 1896,
+                "address": "千葉県佐倉市上勝田",
+                "poi": "大宮神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.278505,
+                    35.68509
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1359499329682083842",
+                "tweet_date": "2021-02-10",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/lM1iKMZzvj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Et3oQwYUYAA3469.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Et3oSKnUcAMrNz4.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Et3oTIqVcAAWxH1.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保三年",
+                "year_built_ce": 1832,
+                "address": "千葉県佐倉市瓜坪新田",
+                "poi": "諏訪神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.264665,
+                    35.678668
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1359500890034458626",
+                "tweet_date": "2021-02-10",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/Jdf9ra3t2d",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Et3qPiBUYAMADiN.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Et3qzvdUYAUzyPN.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治十年",
+                "year_built_ce": 1877,
+                "address": "千葉県佐倉市上別所",
+                "poi": "路傍"
+            }
         }
     ]
 }
