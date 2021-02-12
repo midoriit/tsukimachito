@@ -96331,6 +96331,31 @@
                 "address": "千葉県佐倉市上別所",
                 "poi": "路傍"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.929321,
+                    35.829112
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1359881345179156493",
+                "tweet_date": "2021-02-12",
+                "contributor": "tsmie22",
+                "tweet_url": "https:\/\/t.co\/Tv16qhqlFT",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Et9E37BUcAY4RdF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永四年",
+                "year_built_ce": 1775,
+                "address": "千葉県松戸市小金",
+                "poi": "東漸寺"
+            }
         }
     ]
 }
