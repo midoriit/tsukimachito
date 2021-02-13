@@ -96356,6 +96356,81 @@
                 "address": "千葉県松戸市小金",
                 "poi": "東漸寺"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7243142,
+                    38.1228559
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1360483085326815234",
+                "tweet_date": "2021-02-13",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/NG88uRU3xg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EuFoJgwVgAMCyJk.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政七年",
+                "year_built_ce": 1795,
+                "address": "宮城県柴田郡村田町",
+                "poi": "白鳥神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.402267,
+                    35.703966
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1360537342855946243",
+                "tweet_date": "2021-02-13",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/FCBz81zbey",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EuGZc3iVIAMAleq.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EuGZeFaVIAQZWSN.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EuGZfkhVEAAM1mi.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永五子年",
+                "year_built_ce": 1852,
+                "address": "千葉県山武郡芝山町高田",
+                "poi": "千葉県山武郡芝山町高田八〇〇番台路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.385709,
+                    35.699225
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1360538866613067777",
+                "tweet_date": "2021-02-13",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/duAkbY5ndE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EuGa2MWVEAERWxI.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EuGa3OFUcAA3ggb.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EuGa4MkVIAQGgeT.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県山武郡芝山町新井田新田",
+                "poi": "石上神社境内十九夜堂"
+            }
         }
     ]
 }
