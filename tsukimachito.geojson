@@ -96404,7 +96404,7 @@
                 "year_built": "嘉永五子年",
                 "year_built_ce": 1852,
                 "address": "千葉県山武郡芝山町高田",
-                "poi": "千葉県山武郡芝山町高田八〇〇番台路傍"
+                "poi": "路傍"
             }
         },
         {
@@ -96426,10 +96426,60 @@
                 "media_url_3": "https:\/\/pbs.twimg.com\/media\/EuGa4MkVIAQGgeT.jpg",
                 "media_url_4": "",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "寛政十二年",
+                "year_built_ce": 1800,
                 "address": "千葉県山武郡芝山町新井田新田",
                 "poi": "石上神社境内十九夜堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.314878,
+                    35.723425
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1360980599440248836",
+                "tweet_date": "2021-02-15",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/EaPhOI1CN2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EuMslSlVoAM3dGU.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EuMsmqBVIAIlyxI.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EuMsoPqVEAEjuXY.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政三年",
+                "year_built_ce": 1820,
+                "address": "千葉県富里市中沢",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.30431,
+                    35.722608
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1361238329186869252",
+                "tweet_date": "2021-02-15",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/gSkFVQzQTB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EuQW8hkUcAMtQJt.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EuQW95sVIAQYoG-.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EuQW_tlVoAcVJvf.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EuQXBr-UUAA_TGn.jpg",
+                "type": "十五夜塔",
+                "year_built": "延享四卯年",
+                "year_built_ce": 1747,
+                "address": "千葉県富里市新橋",
+                "poi": "新橋観音堂"
             }
         }
     ]
