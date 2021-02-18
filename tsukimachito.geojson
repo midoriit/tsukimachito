@@ -96481,6 +96481,56 @@
                 "address": "千葉県富里市新橋",
                 "poi": "新橋観音堂"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3646089,
+                    36.0605562
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1362229846965854213",
+                "tweet_date": "2021-02-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/aayS84UTXG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EueczOeUYAUX_Ue.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Euec0AjVIAYjWPo.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Euec0wSVgAIifUW.jpg",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和三年",
+                "year_built_ce": 1766,
+                "address": "埼玉県比企郡滑川町大字羽尾",
+                "poi": "路傍"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3540735,
+                    36.0639335
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1362236557076226048",
+                "tweet_date": "2021-02-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pSrKLH4hUe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Euei6WvVoAIFWaV.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Euei7UUVEAY4pkO.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和五年",
+                "year_built_ce": 1768,
+                "address": "埼玉県比企郡滑川町中尾",
+                "poi": "お堂"
+            }
         }
     ]
 }
