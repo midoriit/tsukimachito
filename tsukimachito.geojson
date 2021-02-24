@@ -96554,7 +96554,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "宮城県伊具郡丸森町",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -96755,6 +96755,81 @@
                 "year_built_ce": 1875,
                 "address": "宮城県伊具郡丸森町",
                 "poi": "神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4104777,
+                    36.352604
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1364401113689022464",
+                "tweet_date": "2021-02-24",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/acCp6Ei6oI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eu9TlRgVkAUb6vv.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字滝原",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.332469,
+                    36.053737
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1364408455201611778",
+                "tweet_date": "2021-02-24",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/0chgMmVMTr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eu9aO52UUAI83-4.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Eu9aPq3U4AIyXbd.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Eu9aQcwVkAUH1ix.jpg",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明和五年",
+                "year_built_ce": 1768,
+                "address": "埼玉県比企郡嵐山町川島",
+                "poi": "御堂山聖観音堂"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.4135014,
+                    38.7051337
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1364446632176099331",
+                "tweet_date": "2021-02-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/xLibvRsVMp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eu98-UcVoAMseAK.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十二年",
+                "year_built_ce": 1829,
+                "address": "宮城県本吉郡南三陸町",
+                "poi": "入谷八幡神社"
             }
         }
     ]
