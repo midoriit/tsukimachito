@@ -96779,7 +96779,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市大字滝原",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -96830,6 +96830,56 @@
                 "year_built_ce": 1829,
                 "address": "宮城県本吉郡南三陸町",
                 "poi": "入谷八幡神社"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4288398,
+                    36.3319267
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1365114570432385027",
+                "tweet_date": "2021-02-26",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/QtRnH1JpTc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EvHcd6XU4AEvCYA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市六供二丁目",
+                "poi": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.428866,
+                    36.3319351
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1365115126303531011",
+                "tweet_date": "2021-02-26",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/nazOSpGoht",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EvHc-QqVoAIIpL4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市六供二丁目",
+                "poi": null
             }
         }
     ]
