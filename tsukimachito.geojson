@@ -96854,7 +96854,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市六供二丁目",
-                "poi": null
+                "poi": ""
             }
         },
         {
@@ -96879,7 +96879,57 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市六供二丁目",
-                "poi": null
+                "poi": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.234472,
+                    35.698065
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1365976250020323330",
+                "tweet_date": "2021-02-28",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/jQvpXBy1aI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EvTrf0oUcAEhCk6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "元禄五年",
+                "year_built_ce": 1692,
+                "address": "千葉県佐倉市春路一丁目",
+                "poi": "円城寺"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.234472,
+                    35.698065
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1365977724603441159",
+                "tweet_date": "2021-02-28",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/IMRlhPlwS2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EvTtW3gVkAkDcLV.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EvTtXhjVIAIYBpE.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EvTtYKJVEAA9kjX.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EvTtY_7VEAYpPsX.jpg",
+                "type": "二十三夜塔",
+                "year_built": "貞享三年",
+                "year_built_ce": 1686,
+                "address": "",
+                "poi": "円城寺"
             }
         }
     ]
