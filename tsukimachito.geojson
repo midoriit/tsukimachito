@@ -100828,10 +100828,10 @@
                 "media_url_3": "https:\/\/pbs.twimg.com\/media\/EvUg2A_UUAEj4Sl.jpg",
                 "media_url_4": "https:\/\/pbs.twimg.com\/media\/EvUg3U8VoAIrCyE.jpg",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明治六年",
+                "year_built_ce": 1873,
                 "address": "千葉県山武郡芝山町岩山",
-                "poi": null,
+                "poi": "祭神不明神社脇",
                 "ai_tags": null
             }
         },
@@ -100857,7 +100857,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市大字八満",
-                "poi": null,
+                "poi": "",
                 "ai_tags": null
             }
         }
