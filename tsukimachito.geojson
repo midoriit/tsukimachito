@@ -100860,6 +100860,32 @@
                 "poi": "",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.211762,
+                    36.026432
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1367306976766480391",
+                "tweet_date": "2021-03-04",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/OiaXHOeTrH",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EvmmbxuVgAMDrSW.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Evmmco0VIAEYe9g.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "天保三年",
+                "year_built_ce": 1832,
+                "address": "埼玉県比企郡小川町",
+                "poi": "路傍",
+                "ai_tags": null
+            }
         }
     ]
 }
