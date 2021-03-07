@@ -100886,6 +100886,188 @@
                 "poi": "路傍",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.317042,
+                    35.81534
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1368354302222237698",
+                "tweet_date": "2021-03-07",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/c72Gms6Gdr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ev1e4tRUcAYug3J.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ev1e6QpVgAYeDdk.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Ev1e9C0U8AE4vG6.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永八亥年",
+                "year_built_ce": 1779,
+                "address": "千葉県成田市新妻",
+                "poi": "諏訪神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.334613,
+                    35.809374
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1368390094848098304",
+                "tweet_date": "2021-03-07",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/pcfJER4ANO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ev1_eL_VcAIh-cg.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ev1_fo3VIAED3kr.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Ev1_hWUUcAQ6pm4.jpg",
+                "media_url_4": "",
+                "type": "十五夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県成田市赤荻",
+                "poi": "稲荷神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.843861,
+                    36.341583
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1368503745084989440",
+                "tweet_date": "2021-03-07",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/jHFmYhi65O",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ev3m5qNU8AEKpNL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県小山市大字出井",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.787743,
+                    36.384223
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1368505537587933186",
+                "tweet_date": "2021-03-07",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/kPe8OGmxs0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ev3ohonU8AQPlPX.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ev3oiDOVgAcERfq.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治三十三年",
+                "year_built_ce": 1900,
+                "address": "栃木県栃木市大光寺町",
+                "poi": "道安寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.786453,
+                    36.385795
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1368508135002968064",
+                "tweet_date": "2021-03-07",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/1kIfMZuGMV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ev3q5QtU8AQaTfO.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県栃木市田村町",
+                "poi": "田下公民館",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.783709,
+                    36.389474
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1368509136393007104",
+                "tweet_date": "2021-03-07",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/eJECFB4EQL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ev3rzDmUcAAdvq9.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ev3rzi8VcAA4EHW.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県栃木市田村町",
+                "poi": "丸山古墳（丸山観音堂）",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.786453,
+                    36.385795
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1368530212099481601",
+                "tweet_date": "2021-03-07",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/4f1ftUpTvm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ev3--UOVIAMsPC2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県栃木市田村町",
+                "poi": "田下公民館",
+                "ai_tags": null
+            }
         }
     ]
 }
