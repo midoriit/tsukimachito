@@ -101068,6 +101068,58 @@
                 "poi": "田下公民館",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.7291587,
+                    37.1046973
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1368569943134937095",
+                "tweet_date": "2021-03-07",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/kSvBhzcBxV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ev4jGvqVEAUmfUu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県十日町市新宮甲",
+                "poi": "山王社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.7446498,
+                    37.1097573
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1368571069204860929",
+                "tweet_date": "2021-03-07",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/cimWcQhUpi",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ev4kIZyVkAIglKN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県十日町市大黒沢",
+                "poi": "消防団防災器具置場",
+                "ai_tags": null
+            }
         }
     ]
 }
