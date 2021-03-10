@@ -101120,6 +101120,110 @@
                 "poi": "消防団防災器具置場",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.3633242,
+                    36.3652572
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1369467055540371458",
+                "tweet_date": "2021-03-10",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/lLILkJgRIr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EwFTB5WUYAI82uT.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県東御市鞍掛",
+                "poi": null,
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.275533,
+                    36.0536353
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1369479606537887746",
+                "tweet_date": "2021-03-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7alX8sPMB7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EwFea6_VgAoZl7T.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EwFeboXUcAIX-bk.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EwFecVcVcAABq3X.jpg",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "宝暦七年",
+                "year_built_ce": 1757,
+                "address": "埼玉県比企郡小川町大字小川",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5286,
+                    36.2493
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1369490464248754178",
+                "tweet_date": "2021-03-10",
+                "contributor": "kochizufan",
+                "tweet_url": "https:\/\/t.co\/rp8Hj0fWOI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EwFoMt5UUAEKgcu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保14年",
+                "year_built_ce": 1843,
+                "address": "群馬県館林市仲町",
+                "poi": "観性寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5340278,
+                    36.25422222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1369491662762745859",
+                "tweet_date": "2021-03-10",
+                "contributor": "kochizufan",
+                "tweet_url": "https:\/\/t.co\/WJRTWVaaOZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EwFoweDVEAg5E48.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治17年",
+                "year_built_ce": 1884,
+                "address": "群馬県館林市台宿町",
+                "poi": "五宝寺",
+                "ai_tags": null
+            }
         }
     ]
 }
