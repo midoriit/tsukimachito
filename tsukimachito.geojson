@@ -101143,7 +101143,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県東御市鞍掛",
-                "poi": null,
+                "poi": "",
                 "ai_tags": null
             }
         },
@@ -101222,6 +101222,32 @@
                 "year_built_ce": 1884,
                 "address": "群馬県館林市台宿町",
                 "poi": "五宝寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.1742136,
+                    37.7387808
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1370677948320075778",
+                "tweet_date": "2021-03-13",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/qSza7wpP0j",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EwWgUyVUUAYActl.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県五泉市錦町",
+                "poi": "興泉寺",
                 "ai_tags": null
             }
         }
