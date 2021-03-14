@@ -101250,6 +101250,32 @@
                 "poi": "興泉寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.72841,
+                    35.699307
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1370928740201504770",
+                "tweet_date": "2021-03-14",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/x04yC9K2c6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EwaEZInVoAAbIqF.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EwaEaLmUYAEKBWV.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文久二戌年",
+                "year_built_ce": 1862,
+                "address": "千葉県旭市",
+                "poi": "定慶寺前地蔵堂",
+                "ai_tags": null
+            }
         }
     ]
 }
