@@ -101276,6 +101276,32 @@
                 "poi": "定慶寺前地蔵堂",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.431221,
+                    35.801286
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1371115500277690368",
+                "tweet_date": "2021-03-15",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/qlTR53PL4Q",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EwcuOONU8AIXQsM.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EwcuPlSVkAABPtb.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EwcuRA4VEAEwZX1.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県成田市前林",
+                "poi": "諏訪神社",
+                "ai_tags": null
+            }
         }
     ]
 }
