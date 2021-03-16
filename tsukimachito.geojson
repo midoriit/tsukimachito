@@ -101302,6 +101302,32 @@
                 "poi": "諏訪神社",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4462724,
+                    36.3127042
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1371643324600225793",
+                "tweet_date": "2021-03-16",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/WNrvYkS17X",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EwkOVaGVIAAblC0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字柏木",
+                "poi": "四ッ谷公民館",
+                "ai_tags": null
+            }
         }
     ]
 }
