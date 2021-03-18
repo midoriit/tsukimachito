@@ -101478,8 +101478,8 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "二十二夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "大正十二年",
+                "year_built_ce": 1923,
                 "address": "長野県上伊那郡辰野町大字赤羽",
                 "poi": "真金寺",
                 "ai_tags": null
@@ -101534,6 +101534,136 @@
                 "year_built_ce": 1934,
                 "address": "長野県上伊那郡辰野町大字辰野",
                 "poi": "秋葉神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.9837232,
+                    35.9728612
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1372333263042211841",
+                "tweet_date": "2021-03-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/IQJtm4pzDp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EwuB0-EVoAEAHx7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "大正七年",
+                "year_built_ce": 1918,
+                "address": "長野県上伊那郡辰野町大字伊那富",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.977941,
+                    35.991768
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1372336394891227136",
+                "tweet_date": "2021-03-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ppixDj7PGL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EwuErSRVIAILaif.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天明五年",
+                "year_built_ce": 1785,
+                "address": "長野県上伊那郡辰野町大字辰野",
+                "poi": "樋田不動尊堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.976735,
+                    35.992847
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1372337392544194564",
+                "tweet_date": "2021-03-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Ez9UgSRc72",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EwuFlUJVIAEP5M5.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十一年",
+                "year_built_ce": 1828,
+                "address": "長野県上伊那郡辰野町大字伊那富",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.137917,
+                    36.021319
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1372354317944954884",
+                "tweet_date": "2021-03-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/XA1AYJKwyG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EwuU-iwVIAIpTg6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県諏訪市大字四賀",
+                "poi": "仏法紹隆寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.25806,
+                    35.908635
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1372377178730496000",
+                "tweet_date": "2021-03-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/BJ8oZ91Mg3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EwupxOEVIAYHrL6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県諏訪郡富士見町乙事",
+                "poi": "諏訪神社下社",
                 "ai_tags": null
             }
         }
