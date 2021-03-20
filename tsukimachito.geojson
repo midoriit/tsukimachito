@@ -100804,7 +100804,7 @@
                 "type": "二十三夜塔",
                 "year_built": "貞享三年",
                 "year_built_ce": 1686,
-                "address": "",
+                "address": "千葉県佐倉市春路一丁目",
                 "poi": "円城寺",
                 "ai_tags": ""
             }
@@ -101664,6 +101664,110 @@
                 "year_built_ce": "",
                 "address": "長野県諏訪郡富士見町乙事",
                 "poi": "諏訪神社下社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.422423,
+                    35.729862
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1373155252988387331",
+                "tweet_date": "2021-03-20",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/ZqsQQge4N4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ew5tYGvVcAAxMaG.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ew5tZNWVgAE3W0I.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Ew5taOAVgAY3Kck.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政九年",
+                "year_built_ce": 1826,
+                "address": "千葉県山武郡芝山町飯櫃",
+                "poi": "高野神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.424792,
+                    35.743554
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1373155296806236167",
+                "tweet_date": "2021-03-20",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/L7QvCelHKY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ew5tb3-VIAA0zl4.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ew5tcwVVoAAYB_X.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化十三年",
+                "year_built_ce": 1816,
+                "address": "千葉県山武郡芝山町大里",
+                "poi": "普賢院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.938221,
+                    34.722682
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1373162495091744772",
+                "tweet_date": "2021-03-20",
+                "contributor": "kochizufan",
+                "tweet_url": "https:\/\/t.co\/2qZxkGYQa3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ew50AdzUcAYWt2_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "奈良県奈良市阪原町",
+                "poi": "長尾神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7630613,
+                    37.9419239
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1373194217338531841",
+                "tweet_date": "2021-03-20",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/XEf2FlJdNL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ew6Q0RzVgAAJZsn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化八年",
+                "year_built_ce": 1811,
+                "address": "宮城県伊具郡丸森町",
+                "poi": "松掛集会所裏小堂",
                 "ai_tags": null
             }
         }
