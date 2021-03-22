@@ -101770,6 +101770,84 @@
                 "poi": "松掛集会所裏小堂",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.1563261,
+                    36.3501641
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1373795312779681793",
+                "tweet_date": "2021-03-22",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/OtAPY8litv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ExCzjnxVEAMD0uI.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県上田市別所温泉",
+                "poi": null,
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.339967,
+                    36.63644
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1373933309768601600",
+                "tweet_date": "2021-03-22",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/phdmrZHSf4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ExExDp5UYAMT1WH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治五壬申",
+                "year_built_ce": 1872,
+                "address": "長野県須坂市",
+                "poi": "道路脇",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.316596,
+                    36.674062
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1373935181543870465",
+                "tweet_date": "2021-03-22",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/0G1jhGm7pd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ExEywpNVcAQi4RV.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県須坂市大字日滝",
+                "poi": "道路脇",
+                "ai_tags": null
+            }
         }
     ]
 }
