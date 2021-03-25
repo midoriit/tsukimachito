@@ -101926,6 +101926,32 @@
                 "poi": "路傍",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.21165,
+                    35.755378
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1374748987652116482",
+                "tweet_date": "2021-03-25",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/fVwBJqQ1QU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ExQV_h1W8AEQbu9.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ExQWAYDWgAASk5H.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/ExQWA6fW8AYRhIi.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元禄四年",
+                "year_built_ce": 1691,
+                "address": "千葉県佐倉市土浮",
+                "poi": "正福寺",
+                "ai_tags": null
+            }
         }
     ]
 }
