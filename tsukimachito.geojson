@@ -101952,6 +101952,32 @@
                 "poi": "正福寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.438283,
+                    38.310797
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1376478772472410112",
+                "tweet_date": "2021-03-29",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/nFHMmzN9s6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Exo7_T4VoAIYWsg.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Exo7_T5UYAAsRGY.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "寛政四年",
+                "year_built_ce": 1792,
+                "address": "山形県山形市大字山寺",
+                "poi": "",
+                "ai_tags": null
+            }
         }
     ]
 }
