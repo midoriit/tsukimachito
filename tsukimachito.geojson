@@ -101978,6 +101978,32 @@
                 "poi": "",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0139771,
+                    35.7894761
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1377097755252781057",
+                "tweet_date": "2021-03-31",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/oK8z1lTglI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/ExxvF5aVEAAYNE7.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/ExxvG7rUcAMgjKH.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保十五年",
+                "year_built_ce": 1844,
+                "address": "東京都西多摩郡奥多摩町",
+                "poi": "路傍",
+                "ai_tags": null
+            }
         }
     ]
 }
