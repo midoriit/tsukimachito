@@ -102004,6 +102004,58 @@
                 "poi": "路傍",
                 "ai_tags": ""
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.240016,
+                    35.714852
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1377972838951362560",
+                "tweet_date": "2021-04-02",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/zWTq7N1VxO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ex-K0RbVcAEIhg1.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ex-K2BkVgAUH29q.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Ex-K21EUYAM5Dit.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政四年",
+                "year_built_ce": 1821,
+                "address": "千葉県佐倉市高岡",
+                "poi": "要行寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.002951,
+                    36.42472477
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1378205269478371329",
+                "tweet_date": "2021-04-03",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/qKqMYUUW3B",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EyBdzfTU8AIcKeO.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政四年",
+                "year_built_ce": 1792,
+                "address": "栃木県真岡市東沼",
+                "poi": "八坂神社",
+                "ai_tags": null
+            }
         }
     ]
 }
