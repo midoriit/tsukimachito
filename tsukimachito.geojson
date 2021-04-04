@@ -102056,6 +102056,162 @@
                 "poi": "八坂神社",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9874986,
+                    36.63042796
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1378546381820846082",
+                "tweet_date": "2021-04-04",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/FMQ39rD2S5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EyGTv3JUUAEw05-.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EyGT09VUcAAM7Du.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "享保五年",
+                "year_built_ce": 1720,
+                "address": "栃木県塩谷郡高根沢町大字石末",
+                "poi": "熊野神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6068532,
+                    37.9792703
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1378624104631181312",
+                "tweet_date": "2021-04-04",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/jGSEiqfWbL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EyHbT-JVoAAagTg.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治二十一年",
+                "year_built_ce": 1888,
+                "address": "宮城県白石市",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6089453,
+                    37.9800509
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1378625392928387072",
+                "tweet_date": "2021-04-04",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/eROmpCR5sz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EyHce1FUUAE09bQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治二十一年",
+                "year_built_ce": 1888,
+                "address": "宮城県白石市",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.042949,
+                    36.425139
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1378650448807088128",
+                "tweet_date": "2021-04-04",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/pPYdLjfoWN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EyHzRbKUUAIxci3.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EyHzRbMUYAEPZOK.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EyHzRdYVEAE5hty.jpg",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県前橋市川原町一丁目",
+                "poi": "大興寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.19145,
+                    35.706389
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1378692027722784775",
+                "tweet_date": "2021-04-04",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/5IfC9QCV1j",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EyIY9CdVcAAYDgL.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EyIY-kWVcAk0cGL.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EyIY_41UUAAos8P.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和十七年",
+                "year_built_ce": 1942,
+                "address": "千葉県佐倉市吉見",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.19145,
+                    35.706389
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1378692484880945159",
+                "tweet_date": "2021-04-04",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/GaU7brHGmt",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EyIZRRgU4AQXmw2.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EyIZSGyUcAcyB6h.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EyIZS34VcAEjyya.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治九年",
+                "year_built_ce": 1876,
+                "address": "千葉県佐倉市吉見",
+                "poi": "",
+                "ai_tags": null
+            }
         }
     ]
 }
