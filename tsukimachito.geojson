@@ -102212,6 +102212,58 @@
                 "poi": "",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.19145,
+                    35.706389
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1378704100406128649",
+                "tweet_date": "2021-04-04",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/v9g72Rzw9X",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EyIaBdCVEAEPbb1.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EyIaDcKU4AA3TC_.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EyIeUXiU4AEWQLa.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "正徳四年",
+                "year_built_ce": 1714,
+                "address": "千葉県佐倉市吉見",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.19145,
+                    35.706389
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1378704499427082244",
+                "tweet_date": "2021-04-04",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/WPUVKYsbdF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EyIkSvfUYAMpHrI.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EyIkT-3U4AU7T4Z.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和四十一年",
+                "year_built_ce": 1966,
+                "address": "千葉県佐倉市吉見",
+                "poi": "",
+                "ai_tags": null
+            }
         }
     ]
 }
