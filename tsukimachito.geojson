@@ -102264,6 +102264,58 @@
                 "poi": "",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8824328,
+                    35.5389117
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1379621769640734723",
+                "tweet_date": "2021-04-07",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/yfRTICEIlN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EyVmr9JUcAMgyCA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県都留市十日市場",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8266308,
+                    35.497225
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1379632612935790598",
+                "tweet_date": "2021-04-07",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ETKn27EIAD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EyVwiszUYAU7ulh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県富士吉田市小明見",
+                "poi": "路傍",
+                "ai_tags": null
+            }
         }
     ]
 }
