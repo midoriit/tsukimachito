@@ -102342,6 +102342,84 @@
                 "poi": "",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.05356,
+                    36.549343
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1380748724733800448",
+                "tweet_date": "2021-04-10",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/fwnvUCYi2E",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EylnMtaVcAEmbRV.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EylnPiyVcAcKrUC.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EylnRM1U4AEMRER.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文久二年",
+                "year_built_ce": 1862,
+                "address": "栃木県芳賀郡芳賀町大字上延生",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.05356,
+                    36.549343
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1380749313748267008",
+                "tweet_date": "2021-04-10",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/8oMSIP5pyQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EyloDcrU8AAI85H.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文久三年",
+                "year_built_ce": 1863,
+                "address": "栃木県芳賀郡芳賀町大字上延生",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7916487,
+                    38.3492384
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1380765477442482178",
+                "tweet_date": "2021-04-10",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/glteXhJjmC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eyl24CUUcAQd-HL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "宮城県仙台市泉区",
+                "poi": "和泉薬師堂",
+                "ai_tags": null
+            }
         }
     ]
 }
