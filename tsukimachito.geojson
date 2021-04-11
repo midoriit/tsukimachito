@@ -102420,6 +102420,58 @@
                 "poi": "和泉薬師堂",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.416528,
+                    38.056725
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1381213794999824384",
+                "tweet_date": "2021-04-11",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/kIr5riEdTx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EysOn1XVIAEjgH5.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県胎内市羽黒",
+                "poi": "道路脇",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.416515,
+                    38.0567264
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1381228410538663936",
+                "tweet_date": "2021-04-11",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/XPTJ9yhNQH",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eysb6foVcAIsmHZ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県胎内市羽黒",
+                "poi": "道路脇",
+                "ai_tags": null
+            }
         }
     ]
 }
