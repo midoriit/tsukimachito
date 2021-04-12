@@ -102472,6 +102472,84 @@
                 "poi": "道路脇",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9628522,
+                    35.7500624
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1381451591480344583",
+                "tweet_date": "2021-04-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/sCrivZvjxs",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eyvm5lpUUAIkHRS.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治四十四年",
+                "year_built_ce": 1911,
+                "address": "山梨県北都留郡小菅村",
+                "poi": "瑠璃殿",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9601981,
+                    35.7468766
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1381453902495674369",
+                "tweet_date": "2021-04-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/MeIx8L9cwy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EyvpAHVVoAAoIxg.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県北都留郡小菅村",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.9583139,
+                    35.746927
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1381454884893904898",
+                "tweet_date": "2021-04-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Sb3SEt2CFV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eyvp5S7UYAEmAmY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "慶応三年",
+                "year_built_ce": 1867,
+                "address": "山梨県北都留郡小菅村",
+                "poi": "路傍",
+                "ai_tags": null
+            }
         }
     ]
 }
