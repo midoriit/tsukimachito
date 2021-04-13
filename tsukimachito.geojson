@@ -102550,6 +102550,58 @@
                 "poi": "路傍",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.258826,
+                    35.725597
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1381940416086298628",
+                "tweet_date": "2021-04-13",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/p22yi4G35P",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ey2eKmwVoAAABM3.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ey2gyR5UUAQqwnC.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Ey2gzaXU8AQoJJq.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/Ey2g0tCU4AISoaZ.jpg",
+                "type": "二十三夜塔",
+                "year_built": "安政三年",
+                "year_built_ce": 1856,
+                "address": "千葉県印旛郡酒々井町本佐倉",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.253881,
+                    35.730769
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1381944234710757379",
+                "tweet_date": "2021-04-13",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/EP8CryFfcU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ey2m5iXU4AIG5fn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛延二年",
+                "year_built_ce": 1749,
+                "address": "千葉県佐倉市大佐倉",
+                "poi": "麻賀多神社",
+                "ai_tags": null
+            }
         }
     ]
 }
