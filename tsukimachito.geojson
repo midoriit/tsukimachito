@@ -103148,6 +103148,240 @@
                 "poi": "千手寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9877,
+                    35.698575
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1382682533117128711",
+                "tweet_date": "2021-04-15",
+                "contributor": "tsmie22",
+                "tweet_url": "https:\/\/t.co\/qDVa3757Ls",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzBGYxkUYAklUnd.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzBGYxfVoAAmwZv.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "文化八年",
+                "year_built_ce": 1811,
+                "address": "千葉県船橋市本町四丁目",
+                "poi": "道祖神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.799211,
+                    37.311713
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1382824114931437579",
+                "tweet_date": "2021-04-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7jWRfAvuaW",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzDHM9mUUAcbSZF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県小千谷市城内一丁目",
+                "poi": "真福寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8005095,
+                    37.3080698
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1382827134444457984",
+                "tweet_date": "2021-04-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/WX5i96FcDx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzDJ8tYVUAIu7Z0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県小千谷市元町",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8005095,
+                    37.3080698
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1382827230082994177",
+                "tweet_date": "2021-04-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/uMybrnjhIr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzDKCQZVgAMwi8J.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県小千谷市元町",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.930556,
+                    37.240236
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1382856558099386374",
+                "tweet_date": "2021-04-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/6KUM4c9PyN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzDktYDVcAI6JsJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県魚沼市堀之内",
+                "poi": "八幡宮",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.953223,
+                    37.20062
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1382863598012178432",
+                "tweet_date": "2021-04-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/AMIC8a2IlA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzDrBewVIAMv5Uc.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzDrHHcVkAMoVEG.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化二年",
+                "year_built_ce": 1805,
+                "address": "新潟県魚沼市虫野",
+                "poi": "虫野高陽会館脇",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8859982,
+                    37.0316584
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1382874828005199872",
+                "tweet_date": "2021-04-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/EeLNHvoVAX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzD1S8UVgAIDN6S.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzD1UuDVoAMweBn.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政６年",
+                "year_built_ce": 1794,
+                "address": "新潟県南魚沼市雲洞",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.19145,
+                    35.706389
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1382979866262339588",
+                "tweet_date": "2021-04-16",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/MbgPWr4bxe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzFU2pJVUAANG-3.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzFU2pJUUAAVOzN.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EzFU2qVVgAgMcun.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和十八年",
+                "year_built_ce": 1943,
+                "address": "千葉県佐倉市吉見",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.192555,
+                    35.711132
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1383042891002515456",
+                "tweet_date": "2021-04-16",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/VcqIU7FCVm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzGKVV0UUAAT6sO.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzGKXCiUUAoVrCB.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政十年",
+                "year_built_ce": 1798,
+                "address": "千葉県佐倉市吉見",
+                "poi": "万福寺",
+                "ai_tags": null
+            }
         }
     ]
 }
