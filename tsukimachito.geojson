@@ -103382,6 +103382,84 @@
                 "poi": "万福寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.252542,
+                    35.731342
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1383070957993021444",
+                "tweet_date": "2021-04-16",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/5to0WZ7EJm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzGmlMsVUAIzsu2.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzGmoK0VUAI0A02.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EzGnRwqVgAkRB8V.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EzGnSO1VEAA-ayI.jpg",
+                "type": "二十三夜塔",
+                "year_built": "元禄六年",
+                "year_built_ce": 1693,
+                "address": "千葉県佐倉市大佐倉",
+                "poi": "宝珠院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.252647,
+                    35.73121
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1383074425692573697",
+                "tweet_date": "2021-04-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/9Ui1Z7EAVo",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzGp6e7VIAQLmt1.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzGqE2MVkAA6iEv.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EzGqFdwVIAEy20d.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保二十年",
+                "year_built_ce": 1735,
+                "address": "千葉県佐倉市大佐倉",
+                "poi": "宝珠院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.91851,
+                    36.437705
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1383259813937770499",
+                "tweet_date": "2021-04-17",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/aMv2wdrkKN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzJTHrGUcAQTL9o.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzJTJFwVoAA6uGb.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EzJTK1OVIAMywhT.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県河内郡上三川町大字上三川",
+                "poi": "大日如来堂",
+                "ai_tags": null
+            }
         }
     ]
 }
