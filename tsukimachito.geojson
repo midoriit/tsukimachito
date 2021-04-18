@@ -103460,6 +103460,110 @@
                 "poi": "大日如来堂",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.957377,
+                    36.580692
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1383635769600798726",
+                "tweet_date": "2021-04-18",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/GQzezgLVMv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzOoWGXVgAQDZ0D.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzOoXWvVgAMOyiS.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EzOoYpAVcAAR_Yr.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EzOoZ18UYAQ3Jvi.jpg",
+                "type": "二十六夜塔",
+                "year_built": "天保十五甲辰",
+                "year_built_ce": 1844,
+                "address": "栃木県宇都宮市平出町",
+                "poi": "鷲子神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.957377,
+                    36.580692
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1383637130061045764",
+                "tweet_date": "2021-04-18",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/6i7wBVNFQL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzOqL73UYAI5vU7.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzOqM_sUUAUeQtt.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EzOqOCPVgAA4Wy8.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EzOqO83VgAQ6O4p.jpg",
+                "type": "十九夜塔",
+                "year_built": "嘉永五壬子",
+                "year_built_ce": 1852,
+                "address": "栃木県宇都宮市平出町",
+                "poi": "鷲子神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.028731,
+                    36.59579
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1383639310545477641",
+                "tweet_date": "2021-04-18",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/teLrgdPdS8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzOsM-5UYAQApx5.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzOsORIVoAEsXNb.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化七庚午",
+                "year_built_ce": 1810,
+                "address": "栃木県塩谷郡高根沢町大字上高根沢",
+                "poi": "高根沢小学校前",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.510636,
+                    35.783537
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1383736574676930571",
+                "tweet_date": "2021-04-18",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/ww5r1S3MqB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzQFCxrUUAk2D79.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzQFDuPVgAQcsuk.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EzQFEgaUcAgnDLo.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化五申年",
+                "year_built_ce": 1848,
+                "address": "千葉県香取郡多古町南玉造",
+                "poi": "第六神社",
+                "ai_tags": null
+            }
         }
     ]
 }
