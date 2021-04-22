@@ -103798,6 +103798,136 @@
                 "poi": "",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.487441,
+                    36.213245
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1385012899907702785",
+                "tweet_date": "2021-04-22",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Q63Tubrcsj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EziN4_kVEAYu7e-.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十一年",
+                "year_built_ce": 1814,
+                "address": "長野県佐久市清川",
+                "poi": "五稜の里直売所",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.472086,
+                    36.189655
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1385017907151659009",
+                "tweet_date": "2021-04-22",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/vKgEVvhKQF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EziSbdaUUAIO6CY.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EziScdeVcAM2uhX.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治二十年",
+                "year_built_ce": 1887,
+                "address": "長野県佐久市湯原滝",
+                "poi": "大慈庵滝観音堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.510754,
+                    36.061338
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1385031777077534721",
+                "tweet_date": "2021-04-22",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/YGivaboHOJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzifDycVgAEWFsl.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県南佐久郡北相木村",
+                "poi": "小社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.510754,
+                    36.061338
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1385031882513940480",
+                "tweet_date": "2021-04-22",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/i7XyX5Gv1p",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzifJ8zVgAEADBt.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県南佐久郡北相木村",
+                "poi": "小社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.445117,
+                    35.719935
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1385052527394131970",
+                "tweet_date": "2021-04-22",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/y84PRQ6kLj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ezix63yUUAEqX-A.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ezix7ouVUAgtP2Y.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県韮崎市藤井町南下條",
+                "poi": "三光寺",
+                "ai_tags": null
+            }
         }
     ]
 }
