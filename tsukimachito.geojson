@@ -103928,6 +103928,136 @@
                 "poi": "三光寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.252731,
+                    35.722989
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1385229742236831745",
+                "tweet_date": "2021-04-22",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/WJXttqpWJz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzlTClIUUAcxa1L.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzlTDxzVcAwNPOR.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EzlTFPPVUAA6nG9.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EzlTGE-VoAY9TAB.jpg",
+                "type": "二十三夜塔",
+                "year_built": "明治四十二年",
+                "year_built_ce": 1909,
+                "address": "千葉県印旛郡酒々井町本佐倉",
+                "poi": "妙見神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.230844,
+                    35.771882
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1385246254402203653",
+                "tweet_date": "2021-04-22",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/cE5Owx2GN1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzliGFKVgAMagQn.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzliHSfUUAoTZ-C.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印西市山田",
+                "poi": "第六天神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.259686,
+                    35.785835
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1385250245894758401",
+                "tweet_date": "2021-04-23",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/xaQINrlOfj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ezllu7zVkAYDHcv.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzllvwtVIAMPfc0.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治八年",
+                "year_built_ce": 1875,
+                "address": "千葉県成田市北須賀",
+                "poi": "子安堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.278984,
+                    35.802979
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1385253961830072324",
+                "tweet_date": "2021-04-23",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/Qf5Jho5AK0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzlpFnWUUAYpWjg.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzlpGtjVcAYAwPK.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EzlpH5eVkAAESmo.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県成田市松崎",
+                "poi": "稲荷神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.27862,
+                    35.804197
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1385255653980065797",
+                "tweet_date": "2021-04-23",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/jmq2kKWSqf",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzlqqdyUcAMSfY5.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治三年",
+                "year_built_ce": 1870,
+                "address": "千葉県成田市大竹",
+                "poi": "路傍",
+                "ai_tags": null
+            }
         }
     ]
 }
