@@ -104058,6 +104058,136 @@
                 "poi": "路傍",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.84548,
+                    36.423944
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1385809997741789190",
+                "tweet_date": "2021-04-24",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/cfNgnOsIbF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EztiU9gVcAIoe0C.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EztiWTZVgAIRdgp.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦十三癸未",
+                "year_built_ce": 1763,
+                "address": "栃木県下野市石橋",
+                "poi": "星宮神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.84548,
+                    36.423944
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1385811272218804228",
+                "tweet_date": "2021-04-24",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/yDJIyzVLbb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Eztja9lUYAAUN4S.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EztjdX7VkAE8GZX.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EztjevrUYAEYeJX.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保三年",
+                "year_built_ce": 1718,
+                "address": "栃木県下野市石橋",
+                "poi": "星宮神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.3764024,
+                    38.4845532
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1385894448362516489",
+                "tweet_date": "2021-04-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/e6ou3k4S6W",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzuvpE3VUAAhJEi.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzuvpE2VcAARmeI.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EzuvpFZVgAIMbPT.jpg",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "元文四年",
+                "year_built_ce": 1739,
+                "address": "宮城県石巻市",
+                "poi": "安楽寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.371383,
+                    38.364
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1385908953578545156",
+                "tweet_date": "2021-04-24",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/ONK41mmGgz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ezu8x1QVgAINiO8.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ezu8x1VVgAAhleG.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "寛政七",
+                "year_built_ce": 1795,
+                "address": "山形県天童市老野森三丁目",
+                "poi": "加茂神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.36459,
+                    38.366969
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1385929268798967808",
+                "tweet_date": "2021-04-24",
+                "contributor": "HaNa87_8",
+                "tweet_url": "https:\/\/t.co\/yaYCTPgL1O",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzvOhmjVUAMywTj.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzvOiXYVkAkKtVo.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "文化五年",
+                "year_built_ce": 1808,
+                "address": "山形県天童市小関二丁目",
+                "poi": "八幡神社",
+                "ai_tags": null
+            }
         }
     ]
 }
