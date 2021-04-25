@@ -104188,6 +104188,110 @@
                 "poi": "八幡神社",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.94456,
+                    36.534395
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1386162565441490947",
+                "tweet_date": "2021-04-25",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/mUFFarCTXq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ezyi-_DVEAQhl9X.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzyjCm6VoAU73zf.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EzyjGoYVkAIceUj.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治九丙子",
+                "year_built_ce": 1876,
+                "address": "栃木県宇都宮市石井町",
+                "poi": null,
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.283174,
+                    35.81566
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1386173625808527361",
+                "tweet_date": "2021-04-25",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/8RUXK4VHBh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/EzytgGaVcAs3Qqg.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/EzythNrUcAMUSpo.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/EzytiQhUYAoncjk.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/EzytjkSVoAE3EO3.jpg",
+                "type": "二十三夜塔",
+                "year_built": "元治元子年",
+                "year_built_ce": 1864,
+                "address": "千葉県成田市上福田",
+                "poi": "八坂神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.270694,
+                    35.852385
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1386276617496924162",
+                "tweet_date": "2021-04-25",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/NODY19kZ5v",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ez0LOEDVUAAA5lI.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印旛郡栄町興津",
+                "poi": null,
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.278893,
+                    35.864891
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1386287515582095362",
+                "tweet_date": "2021-04-25",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/fbAwbaUZKO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ez0VH_fUcAAJBBA.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ez0VI8qVkAET1RK.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印旛郡栄町矢口",
+                "poi": null,
+                "ai_tags": null
+            }
         }
     ]
 }
