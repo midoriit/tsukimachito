@@ -104211,7 +104211,7 @@
                 "year_built": "明治九丙子",
                 "year_built_ce": 1876,
                 "address": "栃木県宇都宮市石井町",
-                "poi": null,
+                "poi": "三方稲荷",
                 "ai_tags": null
             }
         },
@@ -104263,7 +104263,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "千葉県印旛郡栄町興津",
-                "poi": null,
+                "poi": "路傍",
                 "ai_tags": null
             }
         },
@@ -104286,10 +104286,114 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十九夜塔",
+                "year_built": "享保二十乙卯年",
+                "year_built_ce": 1735,
+                "address": "千葉県印旛郡栄町矢口",
+                "poi": "一宮神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.354482,
+                    37.294214
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1386668101467467780",
+                "tweet_date": "2021-04-26",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/5gxgwN3DxU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ez5umRsVkAczWCY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
                 "year_built": "",
                 "year_built_ce": "",
-                "address": "千葉県印旛郡栄町矢口",
-                "poi": null,
+                "address": "福島県須賀川市新町",
+                "poi": "西川神炊館神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.354482,
+                    37.294214
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1386668282376192011",
+                "tweet_date": "2021-04-26",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/wYqGpvH9Ae",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ez5vX-IVEAIVqiL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "元治2年",
+                "year_built_ce": 1865,
+                "address": "福島県須賀川市新町",
+                "poi": "西川神炊館神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.26162,
+                    37.285886
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1386672543277359107",
+                "tweet_date": "2021-04-26",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/a1kyeXR6ph",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ez5y9I-VcAIAXU1.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市",
+                "poi": "護真寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.26162,
+                    37.285886
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1386672940893151235",
+                "tweet_date": "2021-04-26",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/RklPsctwfG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ez5zknUVIAAZaxH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市",
+                "poi": "護真寺",
                 "ai_tags": null
             }
         }
