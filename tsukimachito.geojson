@@ -104396,6 +104396,136 @@
                 "poi": "護真寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.248315,
+                    35.717134
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1387009066199785477",
+                "tweet_date": "2021-04-27",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/cDfa1vA4eN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ez-ktQVUUAQAWLE.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ez-kvibVkAMx14n.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Ez-kxTEVkAYqwZq.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化九年",
+                "year_built_ce": 1812,
+                "address": "千葉県佐倉市大蛇町",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.236119,
+                    35.719931
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1387019514865352706",
+                "tweet_date": "2021-04-27",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/o2PeCWcVKT",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ez-uEETVkAQB3Yj.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ez-uGuHVUAAn9rO.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Ez-uKzNUYAAw2GX.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "元禄五年",
+                "year_built_ce": 1692,
+                "address": "千葉県佐倉市弥勒町",
+                "poi": "松林寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.236119,
+                    35.719931
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1387020908645150722",
+                "tweet_date": "2021-04-27",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/UmHT5fc2np",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ez-vHddVcAAsWYl.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ez-vMPTVcAIp6iJ.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/Ez-wBS8VIAEik9k.jpg",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "文化八年",
+                "year_built_ce": 1811,
+                "address": "千葉県佐倉市弥勒町",
+                "poi": "松林寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.233307,
+                    35.72042
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1387023796113068034",
+                "tweet_date": "2021-04-27",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/pQ4TfsS0Zb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ez-ymjWVoAIW2pk.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/Ez-yoOVVEAMhT6A.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "元治二年",
+                "year_built_ce": 1865,
+                "address": "千葉県佐倉市新町",
+                "poi": "宗圓寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.233307,
+                    35.72042
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1387025186508009474",
+                "tweet_date": "2021-04-27",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/0rdAnB4RuZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/Ez-zZ1XVkAIyyIa.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦八年",
+                "year_built_ce": 1758,
+                "address": "千葉県佐倉市新町",
+                "poi": "宗圓寺",
+                "ai_tags": null
+            }
         }
     ]
 }
