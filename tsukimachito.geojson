@@ -104526,6 +104526,32 @@
                 "poi": "宗圓寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.001772,
+                    36.447026
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1387628943839166465",
+                "tweet_date": "2021-04-29",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/gRpvwTarT4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0HYrBzVUAA76Bn.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E0HYt_YVEAQZUwf.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E0HYvBDUUAUN0bn.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天明三癸卯年",
+                "year_built_ce": 1783,
+                "address": "栃木県真岡市並木町四丁目",
+                "poi": "",
+                "ai_tags": null
+            }
         }
     ]
 }
