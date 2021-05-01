@@ -104552,6 +104552,84 @@
                 "poi": "",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.9270724,
+                    38.5505704
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1388339150995087361",
+                "tweet_date": "2021-05-01",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/NVt3pyCWu6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0RfGBkVkAUuNhA.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E0RfGBmVEAAZunA.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "慶應三年",
+                "year_built_ce": 1867,
+                "address": "宮城県大崎市",
+                "poi": "高倉排水機場",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.106782,
+                    36.486662
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1388444822826938373",
+                "tweet_date": "2021-05-01",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/Ape3iI8iuu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0S-0efVIAA44Mb.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E0S-2uUUcAI1Sp3.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政三",
+                "year_built_ce": 1820,
+                "address": "栃木県芳賀郡益子町大字大沢",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.106918,
+                    36.49122
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1388445215774502912",
+                "tweet_date": "2021-05-01",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/BLB3FENPpg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0S_O0uVEAAd4BH.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E0S_QRWUcAARPFE.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県芳賀郡益子町大沢",
+                "poi": "",
+                "ai_tags": null
+            }
         }
     ]
 }
