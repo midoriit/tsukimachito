@@ -104630,6 +104630,110 @@
                 "poi": "",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.299051,
+                    37.268602
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1388479934847275008",
+                "tweet_date": "2021-05-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/GkZqSdX9Iz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0TeIYFUYAAkOB7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市",
+                "poi": null,
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.299051,
+                    37.268602
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1388480127583936513",
+                "tweet_date": "2021-05-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/UYi44ZTrES",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0TfPmRVoAoK3a9.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市",
+                "poi": null,
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.445008,
+                    37.245515
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1388482242113015813",
+                "tweet_date": "2021-05-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/Fd2VsHr8Iw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0ThJ0BVcAQLuGp.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市",
+                "poi": null,
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.442054,
+                    37.24786
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1388484099539562497",
+                "tweet_date": "2021-05-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/OYGIoLK5uR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0TiPuhUcAEWIvj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県須賀川市",
+                "poi": null,
+                "ai_tags": null
+            }
         }
     ]
 }
