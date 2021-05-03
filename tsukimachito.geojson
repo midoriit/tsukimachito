@@ -104653,7 +104653,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "福島県須賀川市",
-                "poi": null,
+                "poi": "",
                 "ai_tags": null
             }
         },
@@ -104679,7 +104679,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "福島県須賀川市",
-                "poi": null,
+                "poi": "",
                 "ai_tags": null
             }
         },
@@ -104705,7 +104705,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "福島県須賀川市",
-                "poi": null,
+                "poi": "",
                 "ai_tags": null
             }
         },
@@ -104731,7 +104731,85 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "福島県須賀川市",
-                "poi": null,
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.094855,
+                    36.493549
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1388860054317592577",
+                "tweet_date": "2021-05-02",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/dRAdRg92t5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0Y4npFVcAE-7Ig.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E0Y4rEXUUAYPZdG.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天明四甲辰年",
+                "year_built_ce": 1784,
+                "address": "栃木県芳賀郡益子町大字七井",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.101721,
+                    36.495152
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1388860363844710400",
+                "tweet_date": "2021-05-02",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/atRoKkFDm9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0Y4-ggUUAIVDt6.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E0Y4_rSUUAAEis-.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化四",
+                "year_built_ce": 1847,
+                "address": "栃木県芳賀郡益子町七井",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.10401,
+                    36.497544
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1388860795434323983",
+                "tweet_date": "2021-05-02",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/gKYyt2ybxJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0Y5ToGVUAcqobP.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E0Y5UyKVoAEGiE6.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保九年",
+                "year_built_ce": 1838,
+                "address": "栃木県芳賀郡益子町大字七井",
+                "poi": "薬師堂",
                 "ai_tags": null
             }
         }
