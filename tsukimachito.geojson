@@ -104812,6 +104812,266 @@
                 "poi": "薬師堂",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.236429,
+                    37.123184
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1389741448468176896",
+                "tweet_date": "2021-05-05",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/XydYIQMMBa",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0laDAsUUAQfNiZ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県白河市大鹿島",
+                "poi": "白河鹿島神宮",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.236429,
+                    37.123184
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1389741895870386176",
+                "tweet_date": "2021-05-05",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/mwuHBvxvYa",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0lasy4VUAM4J3p.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E0laszAUUAELl-l.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県白河市大鹿島",
+                "poi": "白河鹿島神宮",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.236429,
+                    37.123184
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1389742075801849860",
+                "tweet_date": "2021-05-05",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/iVpS65AOjz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0la9_uVEAIWCb0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県白河市大鹿島",
+                "poi": "白河鹿島神宮",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.241034,
+                    37.116069
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1389747161412214784",
+                "tweet_date": "2021-05-05",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/rwj1hKV0Gu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0lfNbfUcAIvBDh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永6年",
+                "year_built_ce": 1853,
+                "address": "福島県白河市大搦目",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.242228,
+                    37.112912
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1389747848875372545",
+                "tweet_date": "2021-05-05",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/OcHX9yfhs2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0lf7k4UcAEt7-5.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県白河市大搦目",
+                "poi": "松林寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.327687,
+                    37.112733
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1389748543041142784",
+                "tweet_date": "2021-05-05",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/7WLQp1e9vn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0lgZ_QUcAI3Efb.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県白河市東栃本",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.327687,
+                    37.112733
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1389748787455815681",
+                "tweet_date": "2021-05-05",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/lzCnxOjJpD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0lhBwGUYAQ0J1a.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県白河市東栃本",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.333226,
+                    37.216266
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1389757867335438341",
+                "tweet_date": "2021-05-05",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/4MyhkZHeEx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0lo-OWVgAQNw_I.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県西白河郡矢吹町大池",
+                "poi": "大池公園",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.333226,
+                    37.216266
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1389758080674451460",
+                "tweet_date": "2021-05-05",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/y2WWneX1Al",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0lpkVgVgAQJp87.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県西白河郡矢吹町大池",
+                "poi": "大池公園",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.7945015,
+                    38.6058991
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1389874348752789504",
+                "tweet_date": "2021-05-05",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/7y1QSwND4v",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0nTWIYVIAIMcxt.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政四年",
+                "year_built_ce": 1821,
+                "address": "宮城県加美郡加美町",
+                "poi": "香林寺",
+                "ai_tags": null
+            }
         }
     ]
 }
