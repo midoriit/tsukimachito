@@ -105072,6 +105072,58 @@
                 "poi": "香林寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0545314,
+                    35.9698138
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390132386176770054",
+                "tweet_date": "2021-05-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/Q5jUupCAdM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0q-CV-VcAE2j2E.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父市久那",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.7833406,
+                    35.730048
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390159827351990273",
+                "tweet_date": "2021-05-06",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/uugCIf6sVc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0rW_qiVgAMz52G.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県甲州市塩山上萩原",
+                "poi": "路傍",
+                "ai_tags": null
+            }
         }
     ]
 }
