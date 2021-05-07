@@ -105124,6 +105124,32 @@
                 "poi": "路傍",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.027292,
+                    36.446923
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390632072939675648",
+                "tweet_date": "2021-05-07",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/IG1qzUoGD5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E0yDz0NVIAYxQ3l.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永四年",
+                "year_built_ce": 1775,
+                "address": "栃木県真岡市東郷",
+                "poi": "大前神社",
+                "ai_tags": null
+            }
         }
     ]
 }
