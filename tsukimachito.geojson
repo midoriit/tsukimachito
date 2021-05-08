@@ -105150,6 +105150,344 @@
                 "poi": "大前神社",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.1602147,
+                    38.6679412
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390921182854057988",
+                "tweet_date": "2021-05-08",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/y8vW7Ju9af",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E02LcKtVoAEskfF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文久三年",
+                "year_built_ce": 1863,
+                "address": "宮城県登米市",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.37254,
+                    37.431996
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390949675675447299",
+                "tweet_date": "2021-05-08",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/dCbeXcSPeN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E02lHK6VEAEhSZ0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永9年",
+                "year_built_ce": "",
+                "address": "福島県郡山市八山田三丁目",
+                "poi": "金剛寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.37254,
+                    37.431996
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390949803480076291",
+                "tweet_date": "2021-05-08",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/5IPbNYlGwX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E02lakcVkAEkYlY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "嘉永9年",
+                "year_built_ce": "",
+                "address": "福島県郡山市八山田三丁目",
+                "poi": "金剛寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.37254,
+                    37.431996
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390950031683854340",
+                "tweet_date": "2021-05-08",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/Iay1UnlZbe",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E02llXvUUAEqxJv.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天明7年",
+                "year_built_ce": 1787,
+                "address": "福島県郡山市八山田三丁目",
+                "poi": "金剛寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.37254,
+                    37.431996
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390950256255279110",
+                "tweet_date": "2021-05-08",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/n1qFl6ATG8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E02lycVVcAI23n0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市八山田三丁目",
+                "poi": "金剛寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.37254,
+                    37.431996
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390950765791899651",
+                "tweet_date": "2021-05-08",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/ddnibcs3EE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E02mQItVIAcwQTW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政11年",
+                "year_built_ce": 1828,
+                "address": "福島県郡山市八山田三丁目",
+                "poi": "金剛寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.37254,
+                    37.431996
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390950850420297728",
+                "tweet_date": "2021-05-08",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/kJTimL4dig",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E02mZykVcAQud2r.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市八山田三丁目",
+                "poi": "金剛寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.37254,
+                    37.431996
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390950971866447872",
+                "tweet_date": "2021-05-08",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/maZ3Uznhbn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E02md7hVUAEbVKP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市八山田三丁目",
+                "poi": "金剛寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.37254,
+                    37.431996
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390951128624336905",
+                "tweet_date": "2021-05-08",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/d1ZLb5dHYS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E02mnnlUYAArzW0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市八山田三丁目",
+                "poi": "金剛寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.37254,
+                    37.431996
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390951369717129216",
+                "tweet_date": "2021-05-08",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/mu9WXXK232",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E02m1oGVgAEosyw.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政2年",
+                "year_built_ce": 1819,
+                "address": "福島県郡山市八山田三丁目",
+                "poi": "金剛寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.969919,
+                    36.485478
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390983647642087430",
+                "tweet_date": "2021-05-08",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/HVOgQYIwG6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E03Dx6oVcAIs7bt.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E03DzOdVoAAt6Q8.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政八",
+                "year_built_ce": 1796,
+                "address": "栃木県真岡市下籠谷",
+                "poi": "観音堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.969919,
+                    36.485478
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390984000244576256",
+                "tweet_date": "2021-05-08",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/4qoEgyjAm9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E03ESHwVcAAQC6i.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E03ETSqVgAA18PT.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県真岡市下籠谷",
+                "poi": "観音堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.969919,
+                    36.485478
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1390984634092060674",
+                "tweet_date": "2021-05-08",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/oRZ1N5JCsd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E03EmiCVEAc8aAv.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E03EnxdVUAAp0sd.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "三日月塔",
+                "year_built": "文政六癸未",
+                "year_built_ce": 1823,
+                "address": "栃木県真岡市下籠谷",
+                "poi": "観音堂",
+                "ai_tags": null
+            }
         }
     ]
 }
