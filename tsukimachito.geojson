@@ -105488,6 +105488,188 @@
                 "poi": "観音堂",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.228796,
+                    35.744918
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1391052298026057728",
+                "tweet_date": "2021-05-09",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/HPJKJSkiVE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E04B5PhVoAI6xiq.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦九年",
+                "year_built_ce": 1759,
+                "address": "千葉県佐倉市飯野",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.222325,
+                    35.743917
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1391054828080537604",
+                "tweet_date": "2021-05-09",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/WFVxRUVPbA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E04EZ26VcAAzwDn.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E04EecRUcAUeg_c.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元文二年",
+                "year_built_ce": 1737,
+                "address": "千葉県佐倉市萩山新田",
+                "poi": "民家前路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.227891,
+                    35.738786
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1391063640070004740",
+                "tweet_date": "2021-05-09",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/QMGec8Ilnc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E04M2nqVUAEfxbx.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E04M7YIVoAIQh1a.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦十三年",
+                "year_built_ce": 1763,
+                "address": "千葉県佐倉市岩名",
+                "poi": "玉泉寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.328667,
+                    35.711716
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1391238154028388352",
+                "tweet_date": "2021-05-09",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/dwCQ0rG2pP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E06rs_dVIAYi8pk.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E06rtsTVcAMAz5a.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永三戌年",
+                "year_built_ce": 1850,
+                "address": "千葉県富里市立沢",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.007056,
+                    36.491729
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1391242790164570118",
+                "tweet_date": "2021-05-09",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/o6Fz4LSbyL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E06vSXHVcAInimr.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E06vUmBVoAQgPXP.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天明六年",
+                "year_built_ce": 1786,
+                "address": "栃木県芳賀郡芳賀町西高橋",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.010539,
+                    36.492535
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1391243103294480386",
+                "tweet_date": "2021-05-09",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/0a0bWj6NyA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E06wGvRUUAEDxSH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県芳賀郡芳賀町大字西高橋",
+                "poi": "お堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.313032,
+                    35.767808
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1391250215902990336",
+                "tweet_date": "2021-05-09",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/OPYw4aMmEP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E062po8VEAMqNx0.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E062qufVgAEy09T.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E062ry8VcAMrsUK.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保二年",
+                "year_built_ce": 1717,
+                "address": "千葉県成田市不動ケ岡",
+                "poi": "薬師堂",
+                "ai_tags": null
+            }
         }
     ]
 }
