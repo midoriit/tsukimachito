@@ -105670,6 +105670,32 @@
                 "poi": "薬師堂",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.226045,
+                    35.728496
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1391776758702043143",
+                "tweet_date": "2021-05-11",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/ldERB5kvEc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1CVd5sVcAAws3K.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛延三年",
+                "year_built_ce": 1750,
+                "address": "千葉県佐倉市山崎",
+                "poi": "隆祥寺",
+                "ai_tags": null
+            }
         }
     ]
 }
