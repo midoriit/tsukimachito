@@ -105696,6 +105696,32 @@
                 "poi": "隆祥寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.548699,
+                    36.065199
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1392327143363809280",
+                "tweet_date": "2021-05-12",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7BW49uP2bQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1KKI_YUYAAj0zQ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1KKJhSVUAQiHCi.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E1KKKDiUUAEzuyb.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政二年",
+                "year_built_ce": 1790,
+                "address": "埼玉県鴻巣市笠原",
+                "poi": "東光寺",
+                "ai_tags": null
+            }
         }
     ]
 }
