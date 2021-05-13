@@ -105722,6 +105722,58 @@
                 "poi": "東光寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.21166,
+                    35.755222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1392485119051456514",
+                "tweet_date": "2021-05-12",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/LZKtvPlT2O",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1MZkDFVUAAXIML.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "正徳四年",
+                "year_built_ce": 1714,
+                "address": "千葉県佐倉市土浮",
+                "poi": "正福寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.21166,
+                    35.755222
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1392485478553702401",
+                "tweet_date": "2021-05-12",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/zRBNSVouiQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1MaF6mUUAE-h7n.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1MaGb8VgAYrqMI.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和五十五年",
+                "year_built_ce": 1980,
+                "address": "千葉県佐倉市土浮",
+                "poi": "正福寺",
+                "ai_tags": null
+            }
         }
     ]
 }
