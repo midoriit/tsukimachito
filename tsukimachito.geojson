@@ -105774,6 +105774,318 @@
                 "poi": "正福寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.217391,
+                    35.769268
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1392830143853260801",
+                "tweet_date": "2021-05-13",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/UOQUa9hQRD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1RTJDHVEAQcX1_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "大正十一年",
+                "year_built_ce": 1922,
+                "address": "千葉県印西市瀬戸",
+                "poi": "徳性院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.217391,
+                    35.769268
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1392830862274678789",
+                "tweet_date": "2021-05-13",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/41oQUJv98o",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1RUE0wUcAIHVSH.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1RUFOiVcAQiXRL.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "明治十三年",
+                "year_built_ce": 1880,
+                "address": "千葉県印西市瀬戸",
+                "poi": "徳性院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.217391,
+                    35.769268
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1392833643320516612",
+                "tweet_date": "2021-05-13",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/R4Fsrm34rz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1RWxpQVIAEKZre.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "七夜待塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印西市瀬戸",
+                "poi": "徳性院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.217391,
+                    35.769268
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1392834046351142915",
+                "tweet_date": "2021-05-13",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/n397cH2ILM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1RXKOXVIA8gxD4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政六年",
+                "year_built_ce": 1794,
+                "address": "千葉県印西市瀬戸",
+                "poi": "徳性院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.215967,
+                    35.77194
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1392838838184075264",
+                "tweet_date": "2021-05-13",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/M19vlIjBOD",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1RapI6UYAc5Gmk.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1RbFcIVgAI9f1-.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E1RbHDoUcAkoT1d.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/E1RbK4KVgAkKzxM.jpg",
+                "type": "二十三夜塔",
+                "year_built": "明治二十年",
+                "year_built_ce": 1887,
+                "address": "千葉県印西市瀬戸",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.220496,
+                    35.77397
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1392843782207328257",
+                "tweet_date": "2021-05-13",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/aSycei3GTx",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1Rf_XhVIAEakAI.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1RgBCZUYAEhlqu.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治三十一年",
+                "year_built_ce": 1898,
+                "address": "千葉県印西市瀬戸",
+                "poi": "宗像神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.22002,
+                    35.775997
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1393159355537580032",
+                "tweet_date": "2021-05-14",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/CrBJEWLx0q",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1V91XXVEAEUwsh.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1V919AVkAE0-s9.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E1V92q_VkAUCu8q.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元禄年間",
+                "year_built_ce": "",
+                "address": "千葉県印西市瀬戸",
+                "poi": "願定院(山門脇)",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.220033,
+                    35.776161
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1393160665028653062",
+                "tweet_date": "2021-05-14",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/muIq0CYCrr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1V_03_VUAgINZK.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1V_6D8UYAMcrBu.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政七年",
+                "year_built_ce": 1824,
+                "address": "千葉県印西市瀬戸",
+                "poi": "願定院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.220033,
+                    35.776161
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1393161442870759426",
+                "tweet_date": "2021-05-14",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/QaHl2K5wQF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1WAx05VoAUp2Wg.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1WAycvUUAEgjhe.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "大正十二年",
+                "year_built_ce": 1923,
+                "address": "千葉県印西市瀬戸",
+                "poi": "願定院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.220033,
+                    35.776161
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1393162610300784640",
+                "tweet_date": "2021-05-14",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/ooSnDTWM5v",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1WBy01VEAEQWa7.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1WBzgjVkAIXIE8.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E1WB0L0VcAI-1S6.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦十年",
+                "year_built_ce": 1760,
+                "address": "千葉県印西市瀬戸",
+                "poi": "願定院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.220033,
+                    35.776161
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1393176712939147264",
+                "tweet_date": "2021-05-14",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/duTjX79gWO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1WO1ekVgAErNAD.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1WO1ekVcAI1UpM.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E1WO1e1UUAEYOhm.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政二年",
+                "year_built_ce": 1819,
+                "address": "千葉県印西市瀬戸",
+                "poi": "願定院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.220033,
+                    35.776161
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1393178601483169799",
+                "tweet_date": "2021-05-14",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/AK6A7fueXO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1WQetdUUAYqEHJ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1WQfazVoAIuDkp.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "明治十三年",
+                "year_built_ce": 1880,
+                "address": "千葉県印西市瀬戸",
+                "poi": "願定院",
+                "ai_tags": null
+            }
         }
     ]
 }
