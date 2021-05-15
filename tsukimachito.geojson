@@ -106086,6 +106086,84 @@
                 "poi": "願定院",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.966537,
+                    36.371444
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1393461073651527683",
+                "tweet_date": "2021-05-15",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/f9FUrBQYdy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1aRDRGVEAI5AYW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政三辛亥年",
+                "year_built_ce": 1791,
+                "address": "栃木県真岡市久下田",
+                "poi": "全水寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.966749,
+                    36.371213
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1393461654277349380",
+                "tweet_date": "2021-05-15",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/sshF2dSLGI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1aRgtKVoAIqT1N.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛保元",
+                "year_built_ce": 1741,
+                "address": "栃木県真岡市久下田",
+                "poi": "全水寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.234756,
+                    35.784624
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1393517843732340736",
+                "tweet_date": "2021-05-15",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/l7GoRqKCc9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1bE2lEVkAkuAtK.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "元禄十三年",
+                "year_built_ce": 1700,
+                "address": "千葉県印西市吉高",
+                "poi": null,
+                "ai_tags": null
+            }
         }
     ]
 }
