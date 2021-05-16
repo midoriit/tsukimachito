@@ -106161,7 +106161,33 @@
                 "year_built": "元禄十三年",
                 "year_built_ce": 1700,
                 "address": "千葉県印西市吉高",
-                "poi": null,
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.049602,
+                    36.590882
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1393786678125359106",
+                "tweet_date": "2021-05-16",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/x4z6xXDKiZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1e49-lVUAYpdRt.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1e4_P-VIA0FIm2.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "元治元甲子",
+                "year_built_ce": 1864,
+                "address": "栃木県芳賀郡芳賀町大字芳志戸",
+                "poi": "手彦子橋",
                 "ai_tags": null
             }
         }
