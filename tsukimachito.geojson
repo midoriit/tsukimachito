@@ -106190,6 +106190,58 @@
                 "poi": "手彦子橋",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.7558481,
+                    36.40857752
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1393931787244511233",
+                "tweet_date": "2021-05-16",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/kxCEkfgxlS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1g9jSNVIAMYgcN.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1g9j36UUAM1-tt.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E1g9kjHVcAMfmYw.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治四十三年",
+                "year_built_ce": 1910,
+                "address": "栃木県栃木市都賀町平川",
+                "poi": "平川公民館",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.607378,
+                    36.210964
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1394260660591022082",
+                "tweet_date": "2021-05-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/2IIQK0VjCY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1lhGf2VUAQDjnT.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1lhItkVcAUBBKX.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E1ln-B_VgAQu9Pp.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/E1logAzVkAMWlaQ.jpg",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県邑楽郡板倉町大字飯野",
+                "poi": null,
+                "ai_tags": null
+            }
         }
     ]
 }
