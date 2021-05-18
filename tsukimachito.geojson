@@ -106236,10 +106236,140 @@
                 "media_url_3": "https:\/\/pbs.twimg.com\/media\/E1ln-B_VgAQu9Pp.jpg",
                 "media_url_4": "https:\/\/pbs.twimg.com\/media\/E1logAzVkAMWlaQ.jpg",
                 "type": "十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "宝暦十二年",
+                "year_built_ce": 1762,
                 "address": "群馬県邑楽郡板倉町大字飯野",
-                "poi": null,
+                "poi": "地蔵院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.579638,
+                    36.236045
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1394281643049840642",
+                "tweet_date": "2021-05-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/drYVJDFNmh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1l7pW8VUAAdW8F.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1l7rSIVoAE7BjM.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保十一年",
+                "year_built_ce": 1840,
+                "address": "群馬県邑楽郡板倉町大字籾谷",
+                "poi": "安勝寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.579638,
+                    36.236045
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1394282155094601729",
+                "tweet_date": "2021-05-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/NjTTQSGdC1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1l7--oUcAE2hFf.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1l8AhQVkAE9D3-.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦十二年",
+                "year_built_ce": 1762,
+                "address": "群馬県邑楽郡板倉町大字籾谷",
+                "poi": "安勝寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.588951,
+                    36.235232
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1394602019491500035",
+                "tweet_date": "2021-05-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/TCpVb2rGSB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1qe_0VVUAEtANv.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1qfAiHUYAEjCJN.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治十八年",
+                "year_built_ce": 1885,
+                "address": "群馬県邑楽郡板倉町大字内蔵新田",
+                "poi": "集会所",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.596833,
+                    36.230268
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1394617127043158016",
+                "tweet_date": "2021-05-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/85eCCjGjLN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1qszD1VUAMHlf2.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1qsz1GVoAA1CiV.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E1qs0nmVIAIRNSS.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化九年",
+                "year_built_ce": 1812,
+                "address": "群馬県邑楽郡板倉町大字板倉",
+                "poi": "墓地",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.596833,
+                    36.230268
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1394617681051996167",
+                "tweet_date": "2021-05-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/EiUfEdjEbj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1qtFarVEAAv-Jv.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1qtGMXVIAMaoQV.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛延二年",
+                "year_built_ce": 1749,
+                "address": "群馬県邑楽郡板倉町大字板倉",
+                "poi": "墓地",
                 "ai_tags": null
             }
         }
