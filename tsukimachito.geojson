@@ -106372,6 +106372,32 @@
                 "poi": "墓地",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.623965,
+                    36.263242
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1394704545171709956",
+                "tweet_date": "2021-05-19",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/Zaj4wp6Sud",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1r8H-cUUAI9vF7.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1r8JgTVUAY10Mj.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政元年",
+                "year_built_ce": 1789,
+                "address": "群馬県邑楽郡板倉町除川",
+                "poi": "花蔵院",
+                "ai_tags": null
+            }
         }
     ]
 }
