@@ -106398,6 +106398,110 @@
                 "poi": "花蔵院",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.968617,
+                    36.377061
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1395968051787407365",
+                "tweet_date": "2021-05-22",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/ZYWbCoOiBT",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E1944X6VcAYbOlv.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E1945ubVIAAAPTK.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保十一年",
+                "year_built_ce": 1840,
+                "address": "栃木県真岡市久下田",
+                "poi": "薬師如来堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.95909,
+                    36.37108
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1395968679255314439",
+                "tweet_date": "2021-05-22",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/JxZcpHHwL1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E195pLDVEAAWqMf.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E195qcoUYAA-0AC.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "元禄二巳",
+                "year_built_ce": 1689,
+                "address": "栃木県真岡市長島",
+                "poi": "薬師堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.95909,
+                    36.37108
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1395968961641017346",
+                "tweet_date": "2021-05-22",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/8MMfKIcqtv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E196LEJVgAEs8Pg.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保四己亥",
+                "year_built_ce": 1719,
+                "address": "栃木県真岡市長島",
+                "poi": "薬師堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.95909,
+                    36.37108
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1395970514951151619",
+                "tweet_date": "2021-05-22",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/rbHwDMyzu1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E197gZ1VoAQ6nKW.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛保元",
+                "year_built_ce": 1741,
+                "address": "栃木県真岡市長島",
+                "poi": "薬師堂",
+                "ai_tags": null
+            }
         }
     ]
 }
