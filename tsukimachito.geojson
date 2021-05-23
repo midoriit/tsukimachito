@@ -106502,6 +106502,162 @@
                 "poi": "薬師堂",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.916448,
+                    36.392655
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1396305049379241987",
+                "tweet_date": "2021-05-23",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/Ctyq7jB8DY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2Crea0VUAMVoB6.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E2CrhMxVcAIx8Rd.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔 二十六夜塔",
+                "year_built": "享和三年",
+                "year_built_ce": 1803,
+                "address": "栃木県下野市三王山",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.368854,
+                    35.789146
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1396354364961296384",
+                "tweet_date": "2021-05-23",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/37kZGPplvv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2DY0M1UYAEp1ac.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E2DY1SNVkAA8JgT.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E2DY23IUUAAsIQ8.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/E2DY4FOVUAEiOz6.jpg",
+                "type": "十九夜塔",
+                "year_built": "元禄七甲年",
+                "year_built_ce": 1694,
+                "address": "千葉県成田市堀之内",
+                "poi": "不動山西福寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.368854,
+                    35.789146
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1396354394409504769",
+                "tweet_date": "2021-05-23",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/BIGxll7sEs",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2DY511VEAEyhPG.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保十六辛亥年",
+                "year_built_ce": 1731,
+                "address": "千葉県成田市堀之内",
+                "poi": "不動山西福寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.368854,
+                    35.789146
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1396354425975762947",
+                "tweet_date": "2021-05-23",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/6hPQcZPtMK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2DY7meVEAAWpZJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "天明七丁未年",
+                "year_built_ce": 1787,
+                "address": "千葉県成田市堀之内",
+                "poi": "不動山西福寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.371279,
+                    35.791655
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1396367914836512771",
+                "tweet_date": "2021-05-23",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/mXumk1vUHv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2DlJCWUUAEYe8O.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E2DlK4vVoAEUIvc.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E2DlMdqVEAMkKpl.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十三丙年",
+                "year_built_ce": 1816,
+                "address": "千葉県成田市堀之内",
+                "poi": "千葉県成田市堀之内路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.375756,
+                    35.83804
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1396383760745046016",
+                "tweet_date": "2021-05-23",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/ZMWjiJe52N",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2Dzm0nVkAgf56u.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E2DznwdUcAM8c9D.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝永七寅年",
+                "year_built_ce": 1710,
+                "address": "千葉県成田市大室",
+                "poi": "大室青年館",
+                "ai_tags": null
+            }
         }
     ]
 }
