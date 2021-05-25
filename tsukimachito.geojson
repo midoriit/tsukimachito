@@ -106658,6 +106658,188 @@
                 "poi": "大室青年館",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.178734,
+                    36.120867
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1397035522791403523",
+                "tweet_date": "2021-05-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/8R7jv6dgM7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2NEZt_VoAESXS4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "明治三十五年",
+                "year_built_ce": 1902,
+                "address": "埼玉県大里郡寄居町大字末野",
+                "poi": "墓地",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.176347,
+                    36.120781
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1397035686629318656",
+                "tweet_date": "2021-05-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/mmIp1rWzt2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2NEi5rUYAAXCq5.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E2NEjWhVoAIBeC7.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "嘉永五年",
+                "year_built_ce": 1852,
+                "address": "埼玉県大里郡寄居町大字末野",
+                "poi": "善導寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.176347,
+                    36.120781
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1397036024585359365",
+                "tweet_date": "2021-05-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/0reDuLUOB6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2NE2ckUYAIGXkY.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E2NE2_LUcAAOgzw.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県大里郡寄居町大字末野",
+                "poi": "善導寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.163314,
+                    36.157086
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1397042650381910017",
+                "tweet_date": "2021-05-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/liDHDdXqhp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2NK4omVcAMxd7n.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "享保十二年",
+                "year_built_ce": 1727,
+                "address": "埼玉県児玉郡美里町大字白石",
+                "poi": "宗清寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.988708,
+                    36.237984
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1397057791634788353",
+                "tweet_date": "2021-05-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/SWpCXtsUXa",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2NYp9dUUAUeA_T.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県高崎市吉井町多胡",
+                "poi": "龍源寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.988754,
+                    36.238172
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1397058298822610945",
+                "tweet_date": "2021-05-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pEmHHLJ9gT",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2NZGs2UYAYcRrn.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E2NZHgRVoAAjbS5.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "群馬県高崎市吉井町多胡",
+                "poi": "龍源寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.466037,
+                    36.2811075
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1397103752679608325",
+                "tweet_date": "2021-05-25",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/emualBRuaP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2OCcCtVIAABFWt.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E2OCcnyUYAAEA41.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E2OCdPfUcAAAzuR.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天保五年",
+                "year_built_ce": 1834,
+                "address": "長野県佐久市長土呂",
+                "poi": "路傍",
+                "ai_tags": null
+            }
         }
     ]
 }
