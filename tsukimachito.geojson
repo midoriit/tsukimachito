@@ -106840,6 +106840,110 @@
                 "poi": "路傍",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4418257,
+                    36.2721185
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1397338294426341377",
+                "tweet_date": "2021-05-26",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/vLUsBOlK4u",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2RXxAAUYAEQpo5.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E2RXxZ7UYAAzKQR.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保十年",
+                "year_built_ce": 1839,
+                "address": "長野県佐久市塚原",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.20126,
+                    36.0346423
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1397360639174070277",
+                "tweet_date": "2021-05-26",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/vtrNaZ7Lj4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2RsGDFVcAQfSlL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政六年",
+                "year_built_ce": 1859,
+                "address": "長野県茅野市米沢",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.3774369,
+                    35.8498623
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1397400472223293445",
+                "tweet_date": "2021-05-26",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/llSmiqXcaS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2SQUn2UYAYuhd6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県北杜市",
+                "poi": "竜沢寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.3945769,
+                    35.8496554
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1397408941957468164",
+                "tweet_date": "2021-05-26",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/uNU0kxsng7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2SYBlBVEAkDL5J.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享保年間",
+                "year_built_ce": "",
+                "address": "山梨県北杜市",
+                "poi": "観音寺",
+                "ai_tags": null
+            }
         }
     ]
 }
