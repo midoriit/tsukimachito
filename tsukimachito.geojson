@@ -106629,7 +106629,7 @@
                 "year_built": "文化十三丙年",
                 "year_built_ce": 1816,
                 "address": "千葉県成田市堀之内",
-                "poi": "千葉県成田市堀之内路傍",
+                "poi": "路傍",
                 "ai_tags": null
             }
         },
@@ -106942,6 +106942,58 @@
                 "year_built_ce": "",
                 "address": "山梨県北杜市",
                 "poi": "観音寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.962325,
+                    36.680272
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1398529395015389188",
+                "tweet_date": "2021-05-29",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/eYRARD0uFl",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2iSnjiVoAIWBZ0.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E2iSowgUYAMPduu.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和八年",
+                "year_built_ce": 1933,
+                "address": "栃木県さくら市卯の里三丁目",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.962325,
+                    36.680272
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1398529773115113473",
+                "tweet_date": "2021-05-29",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/oZvudZgTU1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2iTGRaUcAMGC93.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E2iTHq_VkAM9Twn.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政九年",
+                "year_built_ce": 1797,
+                "address": "栃木県さくら市卯の里三丁目",
+                "poi": "",
                 "ai_tags": null
             }
         }
