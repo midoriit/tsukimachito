@@ -106996,6 +106996,32 @@
                 "poi": "",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.934788,
+                    36.453207
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1398902110138212352",
+                "tweet_date": "2021-05-30",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/gruxku18dU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E2nlo_nVIAAjLCl.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E2nlqMRVkAIaZvR.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明和二年",
+                "year_built_ce": 1765,
+                "address": "栃木県河内郡上三川町上郷",
+                "poi": "ねずみ観音（馬頭観音）お堂",
+                "ai_tags": null
+            }
         }
     ]
 }
