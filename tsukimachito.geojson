@@ -107464,6 +107464,136 @@
                 "poi": "成福院",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.9834667,
+                    36.1011691
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1399875754293301249",
+                "tweet_date": "2021-06-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ZUk7r6Ordr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E21bk6aUYAU5OR7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県塩尻市大字柿沢",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.980535,
+                    36.0989683
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1399881161065734148",
+                "tweet_date": "2021-06-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/GP4TNbMOi1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E21gftLVoAEdv6W.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治元年",
+                "year_built_ce": 1868,
+                "address": "長野県塩尻市大字金井",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.974656,
+                    36.1123097
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1399888636036882437",
+                "tweet_date": "2021-06-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/XPUd1N1ZzX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E21nSsJVUAITzWc.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治二年",
+                "year_built_ce": 1869,
+                "address": "長野県塩尻市大字長畝",
+                "poi": "集会所脇",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.293444,
+                    35.828476
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1399935526757490689",
+                "tweet_date": "2021-06-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/1LGgJZsYSb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E22R8OPUUAA4iLj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天明五年",
+                "year_built_ce": 1785,
+                "address": "山梨県北杜市",
+                "poi": "福昌寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.423533,
+                    35.7883101
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1399935650359484416",
+                "tweet_date": "2021-06-02",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/tO9H03bzfM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E22SDWtUcAAtlum.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永三年",
+                "year_built_ce": 1774,
+                "address": "山梨県北杜市",
+                "poi": "三輪神社",
+                "ai_tags": null
+            }
         }
     ]
 }
