@@ -107594,6 +107594,58 @@
                 "poi": "三輪神社",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.054016,
+                    36.450948
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1401027527557013509",
+                "tweet_date": "2021-06-05",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/94d2jJKWHV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3Fy0ZVVIAc_bms.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E3Fy1uoVgAAtsCP.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治三年",
+                "year_built_ce": 1870,
+                "address": "栃木県真岡市西田井",
+                "poi": null,
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.054016,
+                    36.450948
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1401028069976989696",
+                "tweet_date": "2021-06-05",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/DmEunTDVTg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3FzLSwVkAUse_X.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政四壬子",
+                "year_built_ce": 1792,
+                "address": "栃木県真岡市西田井",
+                "poi": null,
+                "ai_tags": null
+            }
         }
     ]
 }
