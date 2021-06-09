@@ -108452,6 +108452,58 @@
                 "poi": "路傍",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4428166,
+                    36.2849021
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1402441941145382915",
+                "tweet_date": "2021-06-09",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/shBtJ02cTw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3Z5g2wVkAUfznA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字市",
+                "poi": null,
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.3234239,
+                    36.4329075
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1402526062685298688",
+                "tweet_date": "2021-06-09",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/xCeAEpdCrM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3bGBS2VEAEVoyH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県上田市",
+                "poi": "路傍",
+                "ai_tags": null
+            }
         }
     ]
 }
