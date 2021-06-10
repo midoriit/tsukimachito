@@ -108475,7 +108475,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市大字市",
-                "poi": null,
+                "poi": "",
                 "ai_tags": null
             }
         },
@@ -108502,6 +108502,32 @@
                 "year_built_ce": "",
                 "address": "長野県上田市",
                 "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.301905,
+                    36.422785
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1402774425162829824",
+                "tweet_date": "2021-06-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/jhbzfF34e1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3en5y3UUAIr8AZ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政二年",
+                "year_built_ce": 1855,
+                "address": "長野県上田市",
+                "poi": "自性院",
                 "ai_tags": null
             }
         }
