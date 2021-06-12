@@ -108530,6 +108530,136 @@
                 "poi": "自性院",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.889968,
+                    36.515653
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1403586914733551616",
+                "tweet_date": "2021-06-12",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/wP3GKFI1XG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3qKgStUcAItlmP.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E3qKiJpVoAEx2mh.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治三十一年",
+                "year_built_ce": 1898,
+                "address": "栃木県宇都宮市上横田町",
+                "poi": null,
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.889968,
+                    36.515653
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1403587144153591810",
+                "tweet_date": "2021-06-12",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/swMSorZfB4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3qK42oVEAE-iWC.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治九年",
+                "year_built_ce": 1876,
+                "address": "栃木県宇都宮市上横田町",
+                "poi": null,
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.889968,
+                    36.515653
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1403587736473198595",
+                "tweet_date": "2021-06-12",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/2GS4sn7jZY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3qLHkPVcAAltT-.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E3qLJKPUcAEjAkO.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保三年",
+                "year_built_ce": 1718,
+                "address": "栃木県宇都宮市上横田町",
+                "poi": null,
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6003948,
+                    37.9800816
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1403634212377300995",
+                "tweet_date": "2021-06-12",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/Mon18A0bso",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3q13GeVkAAkLIj.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E3q13G_VIAA4tD2.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "宝暦十年",
+                "year_built_ce": 1760,
+                "address": "宮城県白石市",
+                "poi": "毘沙門堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.6047939,
+                    37.9468491
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1403643394753138690",
+                "tweet_date": "2021-06-12",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/g7N7a2uqRO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3q-OH1UYAgNx4_.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "万延元年",
+                "year_built_ce": 1860,
+                "address": "宮城県白石市",
+                "poi": "八雲神社",
+                "ai_tags": null
+            }
         }
     ]
 }
