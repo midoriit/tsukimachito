@@ -108553,7 +108553,7 @@
                 "year_built": "明治三十一年",
                 "year_built_ce": 1898,
                 "address": "栃木県宇都宮市上横田町",
-                "poi": null,
+                "poi": "",
                 "ai_tags": null
             }
         },
@@ -108579,7 +108579,7 @@
                 "year_built": "明治九年",
                 "year_built_ce": 1876,
                 "address": "栃木県宇都宮市上横田町",
-                "poi": null,
+                "poi": "",
                 "ai_tags": null
             }
         },
@@ -108605,7 +108605,7 @@
                 "year_built": "享保三年",
                 "year_built_ce": 1718,
                 "address": "栃木県宇都宮市上横田町",
-                "poi": null,
+                "poi": "",
                 "ai_tags": null
             }
         },
@@ -108658,6 +108658,266 @@
                 "year_built_ce": 1860,
                 "address": "宮城県白石市",
                 "poi": "八雲神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.406014,
+                    35.750348
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1403928899831025665",
+                "tweet_date": "2021-06-13",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/uwVNLxhpjI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3vB1nAUUAMAmBX.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E3vB24IVcAQE_Qs.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E3vB4RsUYAM21Fr.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県山武郡芝山町香山新田",
+                "poi": "御山神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.101313,
+                    36.463968
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1403948937585709066",
+                "tweet_date": "2021-06-13",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/mmN8xfEAhE",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3vTtYPVEAMZzFi.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E3vTuqWVoAAUbjz.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政四年",
+                "year_built_ce": 1792,
+                "address": "栃木県芳賀郡益子町城内坂",
+                "poi": "観音寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.2410073,
+                    35.9719414
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1403951508228501506",
+                "tweet_date": "2021-06-13",
+                "contributor": "jadefoxtrot",
+                "tweet_url": "https:\/\/t.co\/KDq7FpxFX5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3vWdKRVEAowoBV.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県入間郡越生町麦原",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.177651,
+                    35.737609
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1403976384142139397",
+                "tweet_date": "2021-06-13",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/4EGurHyMU9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3vs---VcAUe-VC.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E3vs_mSVEAceXTq.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治七年",
+                "year_built_ce": 1874,
+                "address": "千葉県佐倉市臼井田",
+                "poi": "古峯神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.177651,
+                    35.737609
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1403981682454110211",
+                "tweet_date": "2021-06-13",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/rq8NZQesuM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3vtWH6VoAgltPw.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明治十八年",
+                "year_built_ce": 1885,
+                "address": "千葉県佐倉市臼井田",
+                "poi": "古峯神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.177651,
+                    35.737609
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1403985482606813190",
+                "tweet_date": "2021-06-13",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/r1s86TSG7a",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3v1US-VoAM9auk.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政二年",
+                "year_built_ce": 1819,
+                "address": "千葉県佐倉市臼井田",
+                "poi": "古峯神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.173103,
+                    35.735942
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1403989609214664706",
+                "tweet_date": "2021-06-13",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/GoOmVnfGrv",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3v48UpVgAEsjpm.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E3v485IVgAAQCbF.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E3v49jCUUAAF0RP.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永六年",
+                "year_built_ce": 1777,
+                "address": "千葉県佐倉市臼井",
+                "poi": "実蔵院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.173103,
+                    35.735942
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1403990003676434433",
+                "tweet_date": "2021-06-13",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/dW7zrIHi7i",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3v5TDMVEAULHj_.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E3v5Tm0VgAMrmtV.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦六年",
+                "year_built_ce": 1756,
+                "address": "千葉県佐倉市臼井",
+                "poi": "実蔵院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.17266,
+                    35.73636
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1403993513369374720",
+                "tweet_date": "2021-06-13",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/DTa5NyRZ6J",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3v8eTzUUAE4V_P.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E3v8feHUcAAmeZd.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E3v8f_QVEAgxEth.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛文九年",
+                "year_built_ce": 1669,
+                "address": "千葉県佐倉市臼井台",
+                "poi": "実蔵院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.541932,
+                    35.71295
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1404032113549070344",
+                "tweet_date": "2021-06-13",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/5rPgBGSHQp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E3wfuFeVoAciUqS.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E3wfvQRVcAkxT-6.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E3wfwXqUUAMaHeE.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十一戌",
+                "year_built_ce": 1828,
+                "address": "千葉県匝瑳市山桑",
+                "poi": "稲荷神社",
                 "ai_tags": null
             }
         }
