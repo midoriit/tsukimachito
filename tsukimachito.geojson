@@ -109047,7 +109047,33 @@
                 "year_built": "寛政六年",
                 "year_built_ce": 1794,
                 "address": "千葉県佐倉市臼井",
-                "poi": "墓地(歓喜院",
+                "poi": "墓地(歓喜院跡)",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.378252,
+                    35.882232
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1404762288335167491",
+                "tweet_date": "2021-06-15",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/tgwfzd0bHX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E363KSZUYAMShwF.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E363K-4UcAIEpQh.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十三夜塔 十七夜塔 十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県成田市高",
+                "poi": null,
                 "ai_tags": null
             }
         }
