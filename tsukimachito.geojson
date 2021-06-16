@@ -109070,10 +109070,10 @@
                 "media_url_3": "",
                 "media_url_4": "",
                 "type": "十三夜塔 十七夜塔 十九夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "明和元年",
+                "year_built_ce": 1764,
                 "address": "千葉県成田市高",
-                "poi": null,
+                "poi": "四つ辻路傍",
                 "ai_tags": null
             }
         }
