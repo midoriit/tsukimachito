@@ -109076,6 +109076,84 @@
                 "poi": "四つ辻路傍",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.378252,
+                    35.882232
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405473838868008964",
+                "tweet_date": "2021-06-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/UdEIUOhRbp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4E-w3RUcAUgguy.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4E-xbHUUAQJP8x.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E4E-x5JVoAkb_Qz.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "延享三年",
+                "year_built_ce": 1746,
+                "address": "千葉県成田市高",
+                "poi": "四つ辻路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.378252,
+                    35.882232
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405477779584413696",
+                "tweet_date": "2021-06-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/rtZXmqNzQc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4FCTwtVkAE7Jr-.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4FCWPRVUAMd6zd.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E4FCix_VoAcja_0.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "延享元年",
+                "year_built_ce": 1744,
+                "address": "千葉県成田市高",
+                "poi": "四つ辻路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.378196,
+                    35.882171
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405480430032150531",
+                "tweet_date": "2021-06-17",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/NxGyQYBOW0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4FE69MVoAQVE5J.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "延享三年",
+                "year_built_ce": 1746,
+                "address": "千葉県成田市高",
+                "poi": "四つ辻路傍",
+                "ai_tags": null
+            }
         }
     ]
 }
