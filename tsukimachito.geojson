@@ -109154,6 +109154,370 @@
                 "poi": "四つ辻路傍",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.8598084,
+                    35.4566773
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405721163926413314",
+                "tweet_date": "2021-06-18",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/eGFg4x3DFn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4If8myVoAQ7FYE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山梨県南都留郡忍野村内野",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4027233,
+                    38.4396116
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405761760313765888",
+                "tweet_date": "2021-06-18",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/pf8UnKenGz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4JE3ZNUYAQkEzP.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4JE3ZLVUAkB7rX.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "文化三年",
+                "year_built_ce": 1806,
+                "address": "山形県東根市本丸南一丁目",
+                "poi": "日塔橋",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4032759,
+                    38.4397122
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405762482476515336",
+                "tweet_date": "2021-06-18",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/B2YsyV66n9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4JFhhfUUAQSq7y.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4JFhhjVIAUg3Wg.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "明和六年",
+                "year_built_ce": 1769,
+                "address": "山形県東根市本丸南一丁目",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3938647,
+                    38.4258635
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405765110325383180",
+                "tweet_date": "2021-06-18",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/SW38zupjEA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4JH6YmUUAQUmrQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "寛政五年",
+                "year_built_ce": 1793,
+                "address": "山形県東根市小林一丁目",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4094429,
+                    38.4313571
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405770295990919172",
+                "tweet_date": "2021-06-18",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/u2v3aTLjqq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4JMoGaVoAQH4bT.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十五年",
+                "year_built_ce": 1818,
+                "address": "山形県東根市本丸南二丁目",
+                "poi": "黒鳥観音堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.4094429,
+                    38.4313571
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405770598714798080",
+                "tweet_date": "2021-06-18",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/A0EAPoMy6b",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4JM54rUcAIiJmM.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "山形県東根市本丸南二丁目",
+                "poi": "黒鳥観音堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3539521,
+                    38.3278076
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405782030558760968",
+                "tweet_date": "2021-06-18",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/l7oPaWXWd2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4JXTOgVcAAoMH-.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "寛政十三年",
+                "year_built_ce": 1801,
+                "address": "山形県天童市大字清池",
+                "poi": "清本寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.3728573,
+                    38.3509393
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405798820491845633",
+                "tweet_date": "2021-06-18",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/dpYVf4jgp5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4JmkPjVcAIFcxt.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "享保二十一年",
+                "year_built_ce": 1736,
+                "address": "山形県天童市北目一丁目",
+                "poi": "薬師神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1752459,
+                    38.4164355
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405811301960409091",
+                "tweet_date": "2021-06-18",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/19PmvPky4X",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4Jx7GjVEAEODvK.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明和四年",
+                "year_built_ce": 1767,
+                "address": "山形県西村山郡西川町大字吉川",
+                "poi": "吉祥院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1963548,
+                    38.406558
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405814678312259585",
+                "tweet_date": "2021-06-18",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/HLnPvjBxvr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4J0_oyUUAcPuvZ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "延享二年",
+                "year_built_ce": 1745,
+                "address": "山形県西村山郡西川町大字吉川",
+                "poi": "地蔵堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.398402,
+                    35.879846
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405822875337035776",
+                "tweet_date": "2021-06-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/R2bxwCMXOb",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4J8VDLVEAEROuP.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政二年",
+                "year_built_ce": 1790,
+                "address": "千葉県香取郡神崎町",
+                "poi": "専蔵院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.398402,
+                    35.879846
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405832982640795648",
+                "tweet_date": "2021-06-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/plDMU2ZHiA",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4KFBwjVcAU23Zo.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4KFnvuVIAE6g6c.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県香取郡神崎町",
+                "poi": "専蔵院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2771564,
+                    38.2840675
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405834204865187846",
+                "tweet_date": "2021-06-18",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/15JzyHSSlc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4KGwNsVIAcdMp8.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十八夜塔",
+                "year_built": "明和六年",
+                "year_built_ce": 1769,
+                "address": "山形県東村山郡山辺町三河尻",
+                "poi": "三河村観音堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.398402,
+                    35.879846
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1405848860820348935",
+                "tweet_date": "2021-06-18",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/HRgt6mVzf6",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4KRgg8UcAARiYz.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4KRlwqVcAg7C2T.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E4KRqmsVkAYbWMh.jpg",
+                "media_url_4": "",
+                "type": "十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県香取郡神崎町",
+                "poi": null,
+                "ai_tags": null
+            }
         }
     ]
 }
