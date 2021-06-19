@@ -109512,10 +109512,114 @@
                 "media_url_3": "https:\/\/pbs.twimg.com\/media\/E4KRqmsVkAYbWMh.jpg",
                 "media_url_4": "",
                 "type": "十三夜塔",
-                "year_built": "",
-                "year_built_ce": "",
+                "year_built": "元禄二年",
+                "year_built_ce": 1689,
                 "address": "千葉県香取郡神崎町",
-                "poi": null,
+                "poi": "専蔵院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.179262,
+                    35.736531
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406209706570387457",
+                "tweet_date": "2021-06-19",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/j3MvQeT7T0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4PcNcgVUAQAr16.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化元年",
+                "year_built_ce": 1804,
+                "address": "千葉県佐倉市臼井",
+                "poi": "常楽寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.179262,
+                    35.736531
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406213673215959043",
+                "tweet_date": "2021-06-19",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/fvRxWNF4xg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4PfxjYVcAghzNw.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4Pf1n1VoAMcbOA.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E4Pf3oCVcAIF4we.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛文十二年",
+                "year_built_ce": 1672,
+                "address": "千葉県佐倉市臼井",
+                "poi": "常楽寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.179262,
+                    35.736531
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406218514495512578",
+                "tweet_date": "2021-06-19",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/oHq6eYeRMO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4PkJLmUYAMfZQM.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4PkRNbVEAMZg9F.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明和三年",
+                "year_built_ce": 1766,
+                "address": "千葉県佐倉市臼井",
+                "poi": "常楽寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.179948,
+                    35.739356
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406234137216765958",
+                "tweet_date": "2021-06-19",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/klBDbBCIcy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4PuGm4VcAI2Jtn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保六年",
+                "year_built_ce": 1835,
+                "address": "千葉県佐倉市臼井田",
+                "poi": "稲荷神社",
                 "ai_tags": null
             }
         }
