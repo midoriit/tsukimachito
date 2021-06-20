@@ -109622,6 +109622,240 @@
                 "poi": "稲荷神社",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.161922,
+                    36.513138
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406519084716486660",
+                "tweet_date": "2021-06-20",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/IMmJBoT67g",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4T1aiyVIAMMG8Z.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4T1b1EVgAAmMMD.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "慶応二年",
+                "year_built_ce": 1866,
+                "address": "栃木県芳賀郡茂木町大字北高岡",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.161922,
+                    36.513138
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406519466297479168",
+                "tweet_date": "2021-06-20",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/MAfCldTvhI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4T1rg3VIAoJsgB.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4T1tmxUcAEKYvY.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政八年",
+                "year_built_ce": 1825,
+                "address": "栃木県芳賀郡茂木町大字北高岡",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.161922,
+                    36.513138
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406519883148398601",
+                "tweet_date": "2021-06-20",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/hWKVC6O3VV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4T2BpuVUAc3bzl.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県芳賀郡茂木町大字北高岡",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.161379,
+                    36.510074
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406520050945642508",
+                "tweet_date": "2021-06-20",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/YsA06SDE0Z",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4T2ZtEVkAI8u9e.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化九年",
+                "year_built_ce": 1812,
+                "address": "栃木県芳賀郡茂木町大字北高岡",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.315693,
+                    35.724052
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406562851003592708",
+                "tweet_date": "2021-06-20",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/aLeGTUzypg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4UdaPXUUAYsp31.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4UdbZNVoAYuR71.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E4UdcbeVkAUQIoO.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保二十卯年",
+                "year_built_ce": 1735,
+                "address": "千葉県富里市中沢",
+                "poi": "稲荷山昌福寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.315693,
+                    35.724052
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406562873984180232",
+                "tweet_date": "2021-06-20",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/YTjivomjXP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4Udd1xVcAcT1jw.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明和七庚寅年",
+                "year_built_ce": 1770,
+                "address": "千葉県富里市中沢",
+                "poi": "稲荷山昌福寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.278469,
+                    35.711905
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406572490550177798",
+                "tweet_date": "2021-06-20",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/dJ9H5r8eeF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4UmLsMVkAAXIh6.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4UmMnYUcAsGk9V.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E4UmNm1VgAIilzB.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政二年",
+                "year_built_ce": 1855,
+                "address": "千葉県印旛郡酒々井町墨",
+                "poi": "六所神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.278469,
+                    35.711905
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406572526596083713",
+                "tweet_date": "2021-06-20",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/tXBYh44Klq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4UmO70VcAAWInv.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4UmP9wVIAIjcKt.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天和三癸亥年",
+                "year_built_ce": 1683,
+                "address": "千葉県印旛郡酒々井町墨",
+                "poi": "六所神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.290083,
+                    35.717532
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406599748614705161",
+                "tweet_date": "2021-06-20",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/sC35WoiUNg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4U-_OVVcAYY3B6.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4U_AUIUUAooNdA.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "正徳四年",
+                "year_built_ce": 1714,
+                "address": "千葉県印旛郡酒々井町飯積",
+                "poi": "伊豆神社脇墓地",
+                "ai_tags": null
+            }
         }
     ]
 }
