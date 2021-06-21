@@ -109856,6 +109856,188 @@
                 "poi": "伊豆神社脇墓地",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.342402,
+                    35.866626
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406623921252671490",
+                "tweet_date": "2021-06-20",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/usIiI9lx2R",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4VU8tCVcAMBiOn.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4VU9_8UUAgj32Q.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E4VU_GrUUAgD6II.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦十一辛巳年",
+                "year_built_ce": 1761,
+                "address": "千葉県成田市滑川",
+                "poi": "滑河山龍正院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.342402,
+                    35.866626
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406623944560443397",
+                "tweet_date": "2021-06-20",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/VhpCKlafbM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4VVAmMVIAApZUY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦二壬申年",
+                "year_built_ce": 1752,
+                "address": "千葉県成田市滑川",
+                "poi": "滑河山龍正院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.342402,
+                    35.866626
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406623964646965256",
+                "tweet_date": "2021-06-20",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/tDa4DthAI0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4VVB7eVUAIVezX.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県成田市滑川",
+                "poi": "滑河山龍正院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.342402,
+                    35.866626
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406623984251146240",
+                "tweet_date": "2021-06-20",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/mUImjuxQQJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4VVDFQVoAE05YV.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明和五戌",
+                "year_built_ce": 1768,
+                "address": "千葉県成田市滑川",
+                "poi": "滑河山龍正院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.293168,
+                    35.849105
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406816040969924608",
+                "tweet_date": "2021-06-21",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/RkApYop90N",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4YDqTxUYAA6947.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4YDr-CVcAcYWhw.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E4YDt-RVEAEJxtJ.jpg",
+                "media_url_4": "",
+                "type": "十五夜塔",
+                "year_built": "享和三亥年",
+                "year_built_ce": 1803,
+                "address": "千葉県成田市北羽鳥",
+                "poi": "香取神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.291982,
+                    35.847878
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406819746046087171",
+                "tweet_date": "2021-06-21",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/4GEU5i5M7z",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4YHCZRVUAAqVkg.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4YHE1HVEAQOuc6.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "慶応三年",
+                "year_built_ce": 1867,
+                "address": "千葉県成田市北羽鳥",
+                "poi": "豊住山常蓮寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.9619993,
+                    37.47961887
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1406931658276708353",
+                "tweet_date": "2021-06-21",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/jixXpO8zRp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4Zs4LQUUAs7AzC.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県会津若松市東山町湯本寺屋敷",
+                "poi": "羽黒神社遥拝所",
+                "ai_tags": null
+            }
         }
     ]
 }
