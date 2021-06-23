@@ -110038,6 +110038,32 @@
                 "poi": "羽黒神社遥拝所",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4547363,
+                    36.3188603
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1407529901914136578",
+                "tweet_date": "2021-06-23",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/JrhnrEiarN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4iM_JbVEAIBYGu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県小諸市大字八満",
+                "poi": null,
+                "ai_tags": null
+            }
         }
     ]
 }
