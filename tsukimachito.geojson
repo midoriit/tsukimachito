@@ -110061,6 +110061,32 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県小諸市大字八満",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.933879,
+                    36.48764
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1408667259040538628",
+                "tweet_date": "2021-06-26",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/uEh9pNbrJR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E4yW2GRVcAgpnQg.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E4yW3bTUUAIo5mV.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文久元年",
+                "year_built_ce": 1861,
+                "address": "栃木県宇都宮市西刑部町",
                 "poi": null,
                 "ai_tags": null
             }
