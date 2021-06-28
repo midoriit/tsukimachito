@@ -110165,7 +110165,7 @@
                 "year_built": "昭和三年",
                 "year_built_ce": 1928,
                 "address": "栃木県塩谷郡高根沢町大字石末",
-                "poi": null,
+                "poi": "",
                 "ai_tags": null
             }
         },
@@ -110191,7 +110191,7 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県上田市西内",
-                "poi": null,
+                "poi": "",
                 "ai_tags": null
             }
         },
@@ -110217,7 +110217,59 @@
                 "year_built": "",
                 "year_built_ce": "",
                 "address": "長野県上田市東内",
-                "poi": null,
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0372389,
+                    36.0168813
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1409342595155648512",
+                "tweet_date": "2021-06-28",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/aLB9o8Amjc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E479nVaVkAEstSm.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E479ntWVoAULYtC.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県秩父郡小鹿野町下小鹿野",
+                "poi": "二十三夜堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.4638073,
+                    36.1839276
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1409356501773283329",
+                "tweet_date": "2021-06-28",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/swNxu1qn3f",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E48KROnVoAIW8gO.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県佐久市湯原",
+                "poi": "",
                 "ai_tags": null
             }
         }
