@@ -110272,6 +110272,136 @@
                 "poi": "",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.166302,
+                    35.725599
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1409887931922358282",
+                "tweet_date": "2021-06-29",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/HM9sNQUeuw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5DtYBGWUAk7bcQ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5DtZKfWYAobaTX.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "昭和5年",
+                "year_built_ce": 1930,
+                "address": "千葉県佐倉市上座",
+                "poi": "寶樹院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.166302,
+                    35.725599
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1409888449201643527",
+                "tweet_date": "2021-06-29",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/qGHRgyoWxK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5Dt9WLXEAYQLG1.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5Dt97ZXwAcs4VD.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政四年",
+                "year_built_ce": 1857,
+                "address": "千葉県佐倉市上座",
+                "poi": "寶樹院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.166302,
+                    35.725599
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1409889148710834190",
+                "tweet_date": "2021-06-29",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/BBzl3ANvus",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5Duj0_X0Aofnyx.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5Dukd8XoBQASJn.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十年",
+                "year_built_ce": 1827,
+                "address": "千葉県佐倉市上座",
+                "poi": "寶樹院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.166528,
+                    35.725906
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1409892680188915717",
+                "tweet_date": "2021-06-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/9uabdsUHEj",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5DxlNDVcAcfgIH.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化九年",
+                "year_built_ce": 1812,
+                "address": "千葉県佐倉市上座",
+                "poi": "寶樹院(墓地) ",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.166528,
+                    35.725906
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1409893381107437575",
+                "tweet_date": "2021-06-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/NE4oMXVSWy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5DySoWUYAQAVyT.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保十九年",
+                "year_built_ce": 1734,
+                "address": "千葉県佐倉市上座",
+                "poi": "寶樹院(墓地) ",
+                "ai_tags": null
+            }
         }
     ]
 }
