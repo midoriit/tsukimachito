@@ -110402,6 +110402,240 @@
                 "poi": "寶樹院(墓地) ",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.166099,
+                    35.733259
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1410235197920976896",
+                "tweet_date": "2021-06-30",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/igxx1GavBy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5IpRAkVUAIASy5.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5IpRdiVUAIKopA.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化十二年",
+                "year_built_ce": 1815,
+                "address": "千葉県佐倉市小竹",
+                "poi": "三叉路",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.164897,
+                    35.735814
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1410259358911406083",
+                "tweet_date": "2021-07-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/hQFMlsvkqc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5I_W6xVEAALpdr.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5I_XknVIAQ22RQ.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "大正十年",
+                "year_built_ce": 1921,
+                "address": "千葉県佐倉市小竹",
+                "poi": "念仏堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.164897,
+                    35.735814
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1410259780258516996",
+                "tweet_date": "2021-07-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/JphiiQOOAX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5I_sa5VcAAZova.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5I_tAEVgAU3rqo.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和八年",
+                "year_built_ce": 1933,
+                "address": "千葉県佐倉市小竹",
+                "poi": "念仏堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.164897,
+                    35.735814
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1410260015785549825",
+                "tweet_date": "2021-07-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/j5q9nci3yn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5I_-OyUUAYNA0m.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和二十年",
+                "year_built_ce": 1945,
+                "address": "千葉県佐倉市小竹",
+                "poi": "念仏堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.164897,
+                    35.735814
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1410260458020368390",
+                "tweet_date": "2021-07-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/Ds2xRxRH6J",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5JAX5UVUAM6EWY.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和三十二年",
+                "year_built_ce": 1957,
+                "address": "千葉県佐倉市小竹",
+                "poi": "念仏堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.164897,
+                    35.735814
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1410260656704524296",
+                "tweet_date": "2021-07-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/mvy6ZYigDT",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5JAkoxVUAcxy9Y.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和四十四年",
+                "year_built_ce": 1969,
+                "address": "千葉県佐倉市小竹",
+                "poi": "念仏堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.164897,
+                    35.735814
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1410260883557666817",
+                "tweet_date": "2021-07-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/XiQSOuP0ZR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5JAudeUUAYO5GF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和五十六年",
+                "year_built_ce": 1981,
+                "address": "千葉県佐倉市小竹",
+                "poi": "念仏堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.164897,
+                    35.735814
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1410261374975070219",
+                "tweet_date": "2021-07-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/9qTFpPSiX8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5JA-klUYAE3nTz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "平成五年",
+                "year_built_ce": 1993,
+                "address": "千葉県佐倉市小竹",
+                "poi": "念仏堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.547719,
+                    36.340853
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1410457929237504002",
+                "tweet_date": "2021-07-01",
+                "contributor": "komoro",
+                "tweet_url": "https:\/\/t.co\/JwflkdvL73",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5L0AojVoAQieD6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "長野県北佐久郡軽井沢町大字追分",
+                "poi": null,
+                "ai_tags": null
+            }
         }
     ]
 }
