@@ -110844,6 +110844,162 @@
                 "poi": "岩村田御嶽神社",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.163194,
+                    35.738121
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1410984066602573826",
+                "tweet_date": "2021-07-03",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/k9Vy1FijcI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5TSczAUYAkJ9ga.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5TSdRsVgAAV98e.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治十八年",
+                "year_built_ce": 1885,
+                "address": "千葉県佐倉市小竹",
+                "poi": "西福寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.163194,
+                    35.738121
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1410984590517280768",
+                "tweet_date": "2021-07-03",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/eg77xgGMyR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5TSuvtVkAQ3lMy.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和三十二年",
+                "year_built_ce": 1957,
+                "address": "千葉県佐倉市小竹",
+                "poi": "西福寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.163194,
+                    35.738121
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1410984866389270528",
+                "tweet_date": "2021-07-03",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/qVnnZWdzml",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5TTJydVkAAu74t.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "昭和五十六年",
+                "year_built_ce": 1981,
+                "address": "千葉県佐倉市小竹",
+                "poi": "西福寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.163194,
+                    35.738121
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1410985093439492105",
+                "tweet_date": "2021-07-03",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/Uv93qVfgA2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5TTbXdUUAI32nJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "平成五年",
+                "year_built_ce": 1993,
+                "address": "千葉県佐倉市小竹",
+                "poi": "西福寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.163194,
+                    35.738121
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1410987542183243777",
+                "tweet_date": "2021-07-03",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/bG7naIRUTJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5TTyYxVEAAVrUF.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5TT0rrVoAsBtFM.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "平成十七年",
+                "year_built_ce": 2005,
+                "address": "千葉県佐倉市小竹",
+                "poi": "西福寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.879467,
+                    36.473338
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411239561494032387",
+                "tweet_date": "2021-07-03",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/aEAOb1pQBp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5W6payUUAY0qha.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5W6qgqVEAAQ3oX.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安政三年",
+                "year_built_ce": 1856,
+                "address": "栃木県宇都宮市茂原町",
+                "poi": "",
+                "ai_tags": null
+            }
         }
     ]
 }
