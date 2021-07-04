@@ -111000,6 +111000,422 @@
                 "poi": "",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.462083,
+                    35.921704
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411321151582658564",
+                "tweet_date": "2021-07-03",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/sxzmnn4bJZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5YFDr9UYAkMnzH.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5YFE-UUYAAiUmY.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E5YFGQ2VgAYCsut.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "承応元年",
+                "year_built_ce": 1652,
+                "address": "千葉県香取市石納",
+                "poi": "結佐大明神境内裏",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.462083,
+                    35.921704
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411321176060698626",
+                "tweet_date": "2021-07-03",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/nkyL2NQPxd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5YFHceVIAE1F7e.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "正徳三巳年",
+                "year_built_ce": 1713,
+                "address": "千葉県香取市石納",
+                "poi": "結佐大明神境内裏",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.462083,
+                    35.921704
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411321198458269697",
+                "tweet_date": "2021-07-03",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/0O9dVExvrL",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5YFI1gVgAY_0H3.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政四壬子年",
+                "year_built_ce": 1792,
+                "address": "千葉県香取市石納",
+                "poi": "結佐大明神境内裏",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.462083,
+                    35.921704
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411347897963008002",
+                "tweet_date": "2021-07-04",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/yuCe5ELda4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5Yda0uVkAQSx8p.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政十一年",
+                "year_built_ce": 1799,
+                "address": "千葉県香取市石納",
+                "poi": "結佐大明神境内裏",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.462083,
+                    35.921704
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411347922902417413",
+                "tweet_date": "2021-07-04",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/dvmEP0lNHY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5YdcSgUUAAtcKw.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十七夜塔",
+                "year_built": "延享三丙寅年",
+                "year_built_ce": 1746,
+                "address": "千葉県香取市石納",
+                "poi": "結佐大明神境内裏",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.462083,
+                    35.921704
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411347941491572737",
+                "tweet_date": "2021-07-04",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/SqgBEkmoYp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5YddqVVUAMLyw1.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十一夜塔",
+                "year_built": "宝永四丁亥年",
+                "year_built_ce": 1707,
+                "address": "千葉県香取市石納",
+                "poi": "結佐大明神境内裏",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.462083,
+                    35.921704
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411347986064371714",
+                "tweet_date": "2021-07-04",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/r4KPxXfuFS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5Ydey1VgAAVxz3.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5Ydf9UVkAga4BK.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "元禄五壬申年",
+                "year_built_ce": 1692,
+                "address": "千葉県香取市石納",
+                "poi": "結佐大明神境内裏",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.158168,
+                    35.740852
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411396066549796865",
+                "tweet_date": "2021-07-04",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/m2MIDMuaq7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5ZI93oVEAEeMNN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦八年",
+                "year_built_ce": 1758,
+                "address": "千葉県佐倉市小竹",
+                "poi": "地蔵堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.158168,
+                    35.740852
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411396253288583169",
+                "tweet_date": "2021-07-04",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/5oQdJ2T6y5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5ZJYsZUYAceCjI.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5ZJZQCVUAQlR7p.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治三十二年",
+                "year_built_ce": 1899,
+                "address": "千葉県佐倉市小竹",
+                "poi": "地蔵堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5878723,
+                    37.4665324
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411463720220250112",
+                "tweet_date": "2021-07-04",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/Qi8TsuGfbp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5aGxDIUcAIdw2r.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5aGxDHVIAYvH4E.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政六年",
+                "year_built_ce": 1823,
+                "address": "福島県大沼郡金山町",
+                "poi": "子安観音堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.46065,
+                    35.920778
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411538241262481413",
+                "tweet_date": "2021-07-04",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/FMXdNyxMGZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5bKioYVkAIWD2H.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十五夜塔",
+                "year_built": "文化七庚午年",
+                "year_built_ce": 1810,
+                "address": "千葉県香取市石納",
+                "poi": "観照院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.498893,
+                    35.93712
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411555137873534981",
+                "tweet_date": "2021-07-04",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/NOXOoP4fi0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5bZ5EqVoAUdMfJ.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5bZ6FPVoAMLLRr.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県香取市八筋川",
+                "poi": "宝蔵寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.498893,
+                    35.93712
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411555162787770373",
+                "tweet_date": "2021-07-04",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/Fe1J1ZZWA0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5bZ7NuVoAIQrtM.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明和六己丑年",
+                "year_built_ce": 1769,
+                "address": "千葉県香取市八筋川",
+                "poi": "宝蔵寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.947299,
+                    36.493954
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411582609520435205",
+                "tweet_date": "2021-07-04",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/0xzlekNA2h",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5byDK7VEAEE-jp.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5bynjPVIAIfOBO.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文久元年",
+                "year_built_ce": 1861,
+                "address": "栃木県宇都宮市東刑部町",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.947299,
+                    36.493954
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411582781751119872",
+                "tweet_date": "2021-07-04",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/12pofrzMNn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5by7VjUcAMdEf2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "正徳四年",
+                "year_built_ce": 1714,
+                "address": "栃木県宇都宮市東刑部町",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.330349,
+                    35.794068
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411596433275244554",
+                "tweet_date": "2021-07-04",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/KhbuoN6PNn",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5b_bM7UcAUsZ5x.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5b_cW3UUAIczDf.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E5b_dgSUYAE3Eh0.jpg",
+                "media_url_4": "",
+                "type": "十三夜塔",
+                "year_built": "明和九辰年",
+                "year_built_ce": 1772,
+                "address": "千葉県成田市関戸",
+                "poi": "地蔵堂",
+                "ai_tags": null
+            }
         }
     ]
 }
