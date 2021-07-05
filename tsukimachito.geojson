@@ -111416,6 +111416,266 @@
                 "poi": "地蔵堂",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.4262769,
+                    37.3141463
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411681937626783744",
+                "tweet_date": "2021-07-04",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/hQftcSHWDg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5dNOpJVkAAkaDi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県南会津郡只見町",
+                "poi": "八幡神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.158469,
+                    35.736895
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411700735000014855",
+                "tweet_date": "2021-07-04",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/5DyvEhIz1o",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5dePyQVkAUwdnd.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5deRCXVoBEbFmf.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "天保十一年",
+                "year_built_ce": 1840,
+                "address": "千葉県佐倉市小竹",
+                "poi": "三叉路 ",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.158469,
+                    35.736895
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411701117981925377",
+                "tweet_date": "2021-07-04",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/JkHSAvySaY",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5dekP_UcAcJjW7.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5dek0cUUAANu30.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政九年",
+                "year_built_ce": 1797,
+                "address": "千葉県佐倉市小竹",
+                "poi": "三叉路 ",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.158469,
+                    35.736895
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411701791595524103",
+                "tweet_date": "2021-07-05",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/C6R7dX3Rhc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5dfNGFVUAIY00y.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5dfNtrVIAcNa29.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政元年",
+                "year_built_ce": 1818,
+                "address": "千葉県佐倉市小竹",
+                "poi": "三叉路 ",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.158469,
+                    35.736895
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411702317842243586",
+                "tweet_date": "2021-07-05",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/3BLtZ4pD8j",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5dfhYvVkAMCHjH.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5dfiFsVIAQ7cl0.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政五年",
+                "year_built_ce": 1822,
+                "address": "千葉県佐倉市小竹",
+                "poi": "三叉路 ",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.360551,
+                    37.307285
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411885067912155138",
+                "tweet_date": "2021-07-05",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/owpnZMCf47",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5gF-WuVcAIy_4j.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県南会津郡只見町",
+                "poi": "国道289号線脇",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3605591,
+                    37.3072828
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1411885422657998861",
+                "tweet_date": "2021-07-05",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/T3bdP8I4g4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5gGTJCUYAAWYr2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県南会津郡只見町",
+                "poi": "国道289号線脇",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3442854,
+                    37.3152281
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1412004675130298369",
+                "tweet_date": "2021-07-05",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/rgjVG3piE5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5hywhiVIAMCKN5.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E5hywhgUUAQkmD9.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政八年",
+                "year_built_ce": 1796,
+                "address": "福島県南会津郡只見町",
+                "poi": "国道289号線脇",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3359025,
+                    37.3246479
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1412006541843070976",
+                "tweet_date": "2021-07-05",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/PS3nFv7PKy",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5h0dKsVEAcaoA9.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県南会津郡只見町",
+                "poi": "楢戸堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3329454,
+                    37.32633
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1412008688445845508",
+                "tweet_date": "2021-07-05",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/JfmNMaRXYT",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E5h2Z8MVIAMnh_6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県南会津郡只見町",
+                "poi": "国道289号線脇",
+                "ai_tags": null
+            }
         }
     ]
 }
