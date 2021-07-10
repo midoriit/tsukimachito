@@ -111676,6 +111676,58 @@
                 "poi": "国道289号線脇",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.923556,
+                    36.416325
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1413748828654555139",
+                "tweet_date": "2021-07-10",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/jE2fuixY9Q",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E56kjbwUcAIpwj4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十六夜塔",
+                "year_built": "元文二年",
+                "year_built_ce": 1737,
+                "address": "栃木県河内郡上三川町大字上三川",
+                "poi": "氷神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.923556,
+                    36.416325
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1413749119420493824",
+                "tweet_date": "2021-07-10",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/6woBYxYmCV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E56lGJnVoAAdSVv.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E56lHO4UYAAMY6r.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県河内郡上三川町大字上三川",
+                "poi": "氷神社",
+                "ai_tags": null
+            }
         }
     ]
 }
