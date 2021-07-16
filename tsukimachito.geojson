@@ -111936,6 +111936,58 @@
                 "poi": "公民館",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3116644,
+                    36.0917953
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1415890043596525573",
+                "tweet_date": "2021-07-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/pcpnhH5oNg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E6ZAfVKVIAAumVL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "埼玉県比企郡嵐山町大字吉田",
+                "poi": "日影堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3215269,
+                    36.088847
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1415892811765878784",
+                "tweet_date": "2021-07-16",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/coGrdLfZag",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E6ZC-SGUUAc8nUY.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E6ZC_N8VUAEZrFn.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E6ZDAaNUcAMnZBm.jpg",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文政十一年",
+                "year_built_ce": 1828,
+                "address": "埼玉県比企郡嵐山町大字吉田",
+                "poi": "路傍",
+                "ai_tags": null
+            }
         }
     ]
 }
