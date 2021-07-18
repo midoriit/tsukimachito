@@ -111988,6 +111988,58 @@
                 "poi": "路傍",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.672843,
+                    37.464483
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1416383826968727555",
+                "tweet_date": "2021-07-17",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/1s27zGOF18",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E6gBGviUUAczeFk.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県田村市",
+                "poi": "ムシムシランド",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.980181,
+                    36.3787
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1416615425891205120",
+                "tweet_date": "2021-07-18",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/AVFWu4B5DJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E6jTpVUUcAYRiLr.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E6jTqxKUUAUqtum.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政元年",
+                "year_built_ce": 1789,
+                "address": "栃木県真岡市大根田",
+                "poi": "長栄寺",
+                "ai_tags": null
+            }
         }
     ]
 }
