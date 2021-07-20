@@ -112040,6 +112040,32 @@
                 "poi": "長栄寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0322738,
+                    35.9860868
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1417338423006793738",
+                "tweet_date": "2021-07-20",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/eDcHtsRGfB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E6tlyHKVIAM3x5Z.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "天保六年",
+                "year_built_ce": 1835,
+                "address": "埼玉県秩父郡小鹿野町長留",
+                "poi": "路傍",
+                "ai_tags": null
+            }
         }
     ]
 }
