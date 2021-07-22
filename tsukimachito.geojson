@@ -112066,6 +112066,58 @@
                 "poi": "路傍",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.319558,
+                    35.798991
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1418126678715293699",
+                "tweet_date": "2021-07-22",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/UNTnI0OYdJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E64yryMVIAIVTJ-.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十五夜塔",
+                "year_built": "寛政三亥年",
+                "year_built_ce": 1791,
+                "address": "千葉県成田市下金山",
+                "poi": "金峰山龍金寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.281125,
+                    35.815764
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1418194331530235904",
+                "tweet_date": "2021-07-22",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/ZPovZdi5vI",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E65wNmuUYAItR35.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県成田市大竹",
+                "poi": "埴生山円光寺",
+                "ai_tags": null
+            }
         }
     ]
 }
