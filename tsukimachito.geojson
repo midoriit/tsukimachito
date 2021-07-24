@@ -112118,6 +112118,84 @@
                 "poi": "埴生山円光寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.8562933,
+                    38.4716796
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1418796373143658497",
+                "tweet_date": "2021-07-24",
+                "contributor": "_mamehito_",
+                "tweet_url": "https:\/\/t.co\/w2PUc5gyEN",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7CTu_CXsAA9sE9.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十六夜塔",
+                "year_built": "慶應元年",
+                "year_built_ce": 1865,
+                "address": "宮城県黒川郡大衡村",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.015101,
+                    36.449656
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1418814077904687104",
+                "tweet_date": "2021-07-24",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/qi99bMl7Cq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7CjpdjXMAk06do.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永九年",
+                "year_built_ce": 1780,
+                "address": "栃木県真岡市荒町四丁目",
+                "poi": "大日堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.015101,
+                    36.449656
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1418814393760972800",
+                "tweet_date": "2021-07-24",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/UJYGp8vxeg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7Cj6Q3XoBAj3tY.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E7Cj8LmWEAgCl7M.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政四年",
+                "year_built_ce": 1792,
+                "address": "栃木県真岡市荒町四丁目",
+                "poi": "大日堂",
+                "ai_tags": null
+            }
         }
     ]
 }
