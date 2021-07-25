@@ -112196,6 +112196,84 @@
                 "poi": "大日堂",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.267934,
+                    35.72484
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1419141662501007367",
+                "tweet_date": "2021-07-25",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/mi8NqdNNcw",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7HNwcQVIAUVqUo.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E7HNxj7VkAEdUuz.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E7HNyugVoAA8gsK.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/E7HNzsRVgAE2K7k.jpg",
+                "type": "二十三夜塔",
+                "year_built": "安政六年",
+                "year_built_ce": 1859,
+                "address": "千葉県印旛郡酒々井町酒々井",
+                "poi": "朝日神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.959745,
+                    36.672863
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1419153652489412610",
+                "tweet_date": "2021-07-25",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/cIEytge6oB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7HYZXoUYAAdBNS.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E7HYbCAVoAMM4Ra.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治四十二年",
+                "year_built_ce": 1909,
+                "address": "栃木県さくら市氏家",
+                "poi": "歩道橋",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.336099,
+                    35.761984
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1419254594346000386",
+                "tweet_date": "2021-07-25",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/XgLLaN8iOF",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7I0hT7VkAA1sfF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保三戌年",
+                "year_built_ce": 1718,
+                "address": "千葉県富里市久能",
+                "poi": "観久山潮音寺",
+                "ai_tags": null
+            }
         }
     ]
 }
