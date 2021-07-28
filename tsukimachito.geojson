@@ -112274,6 +112274,32 @@
                 "poi": "観久山潮音寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.23749,
+                    35.790989
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1420327550312615938",
+                "tweet_date": "2021-07-28",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/vyTvgsoqWk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7YDpUuVUAMHNSu.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E7YDsQeVcAUHTTc.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E7YDsvoVEAY5tYg.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和三年",
+                "year_built_ce": 1803,
+                "address": "千葉県印西市吉高",
+                "poi": "宗像神社",
+                "ai_tags": null
+            }
         }
     ]
 }
