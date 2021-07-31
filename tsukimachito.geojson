@@ -112300,6 +112300,136 @@
                 "poi": "宗像神社",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1111,
+                    36.534777
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421343593755648003",
+                "tweet_date": "2021-07-31",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/lclZCQ3EKJ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7mfwkvVoAEDxVw.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E7mfyPaVoAIBjRy.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政四年",
+                "year_built_ce": 1857,
+                "address": "栃木県芳賀郡市貝町大字市塙",
+                "poi": "お堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1111,
+                    36.534777
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421343872689397760",
+                "tweet_date": "2021-07-31",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/HZ2PDnkxK1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7mggUqUYAc6AIE.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E7mghvoUYAgKtYw.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県芳賀郡市貝町大字市塙",
+                "poi": "お堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.107956,
+                    36.538428
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421344918207795200",
+                "tweet_date": "2021-07-31",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/am82BDhDLX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7mhYv_UYAEEbvI.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "栃木県芳賀郡市貝町大字市塙",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.106151,
+                    36.538235
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421345352980918274",
+                "tweet_date": "2021-07-31",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/LLXjghxCv2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7mhziJVkAQbEUX.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E7mh07bVcAM55FL.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政四年",
+                "year_built_ce": 1857,
+                "address": "栃木県芳賀郡市貝町大字市塙",
+                "poi": "薬師堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.106151,
+                    36.538235
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421345608502112263",
+                "tweet_date": "2021-07-31",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/DgShJRJzBc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7miHfAVcA0UtiN.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明和二年",
+                "year_built_ce": 1765,
+                "address": "栃木県芳賀郡市貝町大字市塙",
+                "poi": "薬師堂",
+                "ai_tags": null
+            }
         }
     ]
 }
