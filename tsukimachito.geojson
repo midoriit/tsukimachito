@@ -112430,6 +112430,552 @@
                 "poi": "薬師堂",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.954272,
+                    36.447786
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421685957871366147",
+                "tweet_date": "2021-08-01",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/NJ6Wibbxr5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7rXnqvUYAUXYk4.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政十二年",
+                "year_built_ce": 1800,
+                "address": "栃木県真岡市柳林",
+                "poi": "稲荷神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.953195,
+                    36.44858
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421686174318358529",
+                "tweet_date": "2021-08-01",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/NWwov4uhSP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7rX3vFVEAY-zFc.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明和三年",
+                "year_built_ce": 1766,
+                "address": "栃木県真岡市柳林",
+                "poi": "稲荷神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.953509,
+                    36.448844
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421686433702584323",
+                "tweet_date": "2021-08-01",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/gE65ZAGM3g",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7rYFvUVUAMydKe.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E7rYHX0VoAMolLf.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "三日月塔",
+                "year_built": "天保八",
+                "year_built_ce": 1837,
+                "address": "栃木県真岡市柳林",
+                "poi": "稲荷神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.345757,
+                    37.423832
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421816946161459202",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/nSW0yz94NK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tOx73VIAE8531.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政5年",
+                "year_built_ce": 1858,
+                "address": "福島県郡山市富田町池向",
+                "poi": "愛宕神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.345757,
+                    37.423832
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421817097168973825",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/KNPp7jJLXB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tPDDVVgAAK6Q6.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化4年",
+                "year_built_ce": 1847,
+                "address": "福島県郡山市富田町池向",
+                "poi": "愛宕神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.345757,
+                    37.423832
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421817290241155074",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/AOq0URMksr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tPNQlVoAIfosJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保6年",
+                "year_built_ce": 1835,
+                "address": "福島県郡山市富田町池向",
+                "poi": "愛宕神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.345757,
+                    37.423832
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421817536757174279",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/yXYuH0ngyd",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tPc3qUYAo3R5o.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保12年",
+                "year_built_ce": 1841,
+                "address": "福島県郡山市富田町池向",
+                "poi": "愛宕神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.345757,
+                    37.423832
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421817757289435137",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/oLncD6Pois",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tPplwVgAoePkz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市富田町池向",
+                "poi": "愛宕神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.345757,
+                    37.423832
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421817984771756037",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/TYEMMzmk1A",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tP2wxVoAI9T8F.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安政4年",
+                "year_built_ce": 1857,
+                "address": "福島県郡山市富田町池向",
+                "poi": "愛宕神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.345757,
+                    37.423832
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421818520183078914",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/4Lrl0uBIxu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tQV5YUcAQFoWJ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市富田町池向",
+                "poi": "愛宕神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.345757,
+                    37.423832
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421818643709526022",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/Du3XuwIyXR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tQeWqVEA8OEQs.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市富田町池向",
+                "poi": "愛宕神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.345757,
+                    37.423832
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421818810240180228",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/hQOooswiqp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tQnu7VIAAUSa0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市富田町池向",
+                "poi": "愛宕神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.454471,
+                    37.395581
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421819695322177539",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/llAQ3izpDc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tRGPmVIAMEPsI.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県田村郡三春町斎藤斎藤",
+                "poi": "安養寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.454471,
+                    37.395581
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421820336161517568",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/08TUBuvyGr",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tR-zqVIAE00Wx.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政5年",
+                "year_built_ce": 1793,
+                "address": "福島県田村郡三春町斎藤斎藤",
+                "poi": "安養寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.154445,
+                    35.747239
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421820443988619264",
+                "tweet_date": "2021-08-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/b6MQQGcikS",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tR-8SVIAQBC6M.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E7tR_vaUcA0Z6wP.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E7tSANAVoAAM0Hy.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/E7tSAqFUUAE6FaS.jpg",
+                "type": "二十三夜塔",
+                "year_built": "明治三十二年",
+                "year_built_ce": 1899,
+                "address": "千葉県佐倉市青菅",
+                "poi": "青菅会館",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.454471,
+                    37.395581
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421820478474264578",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/CBEEJyLQ8R",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tSH4NVgAMeHYQ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県田村郡三春町斎藤斎藤",
+                "poi": "安養寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.454471,
+                    37.395581
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421820644262506498",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/5oTACwJFSO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tSQLqVUAY5_KL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "弘化3年",
+                "year_built_ce": 1846,
+                "address": "福島県田村郡三春町斎藤斎藤",
+                "poi": "安養寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.454471,
+                    37.395581
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421820812902813698",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/5BZwO3728q",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tSbZAVUAAUSeE.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県田村郡三春町斎藤斎藤",
+                "poi": "安養寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.454471,
+                    37.395581
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421820943953920001",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/uh3Vd10h12",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tSjUPVcAYBCL0.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県田村郡三春町斎藤斎藤",
+                "poi": "安養寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.454471,
+                    37.395581
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421821071691419654",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/K0oTKKhl2c",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tSrTAUYAcvgCA.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県田村郡三春町斎藤斎藤",
+                "poi": "安養寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.454471,
+                    37.395581
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421821335588671496",
+                "tweet_date": "2021-08-01",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/wIaFdMRpVk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tS6byVUAQlL11.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県田村郡三春町斎藤斎藤",
+                "poi": "安養寺",
+                "ai_tags": null
+            }
         }
     ]
 }
