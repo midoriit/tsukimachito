@@ -112976,6 +112976,110 @@
                 "poi": "安養寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.155201,
+                    35.751367
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421830981305069573",
+                "tweet_date": "2021-08-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/nV6MVxAiXp",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tbtbTVIAcCCEf.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文政七年",
+                "year_built_ce": 1824,
+                "address": "千葉県佐倉市先崎",
+                "poi": "雲祥寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.155201,
+                    35.751367
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421831327679082499",
+                "tweet_date": "2021-08-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/rFShNgIXsP",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tb5xRVcAE3EQO.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦十年",
+                "year_built_ce": 1760,
+                "address": "千葉県佐倉市先崎",
+                "poi": "雲祥寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.145111,
+                    35.752502
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421840045623844866",
+                "tweet_date": "2021-08-01",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/OLjeVQqNVM",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tg_NoVUAQp5dc.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E7thIhLUcAUMqzj.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E7thLCWVUAIKzSq.jpg",
+                "media_url_4": "https:\/\/pbs.twimg.com\/media\/E7thLsBVIAAmCCS.jpg",
+                "type": "二十三夜塔",
+                "year_built": "文政二年",
+                "year_built_ce": 1819,
+                "address": "千葉県佐倉市先崎",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.143994,
+                    35.750431
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1421855498387611648",
+                "tweet_date": "2021-08-02",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/KpyU3A1aJ8",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7tx5LfUcAEBeX0.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E7tx5xhVIAM9I2d.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "令和三年",
+                "year_built_ce": 2021,
+                "address": "千葉県八千代市下高野",
+                "poi": "福蔵院",
+                "ai_tags": null
+            }
         }
     ]
 }
