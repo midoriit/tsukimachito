@@ -113080,6 +113080,162 @@
                 "poi": "福蔵院",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.151448,
+                    35.736787
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1422194332379979776",
+                "tweet_date": "2021-08-02",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/oyUD1As89z",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7yl_NNUUAMMcmg.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享保十四年",
+                "year_built_ce": 1729,
+                "address": "千葉県佐倉市井野",
+                "poi": "千手院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.151448,
+                    35.736787
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1422194823709085696",
+                "tweet_date": "2021-08-02",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/juMr0uFmVm",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7ymm5QVIAQvZHo.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "元文元年",
+                "year_built_ce": 1736,
+                "address": "千葉県佐倉市井野",
+                "poi": "千手院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.509644,
+                    35.743238
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1422219295606464515",
+                "tweet_date": "2021-08-03",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/S9P0d7IyB2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7y85QgVoAQD0fw.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "慶応元年",
+                "year_built_ce": 1865,
+                "address": "千葉県匝瑳市大堀",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.447432,
+                    35.754915
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1422226322617606150",
+                "tweet_date": "2021-08-03",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/wj7hiF5h0E",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7zDSt0VIAMOCXa.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "明和二乙酉年",
+                "year_built_ce": 1765,
+                "address": "千葉県香取郡多古町飯笹",
+                "poi": "如意山地福寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.482296,
+                    35.770324
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1422226345594028033",
+                "tweet_date": "2021-08-03",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/YqpUUoTqaC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7zDT6OVEAI0Mc8.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県香取郡多古町西古内",
+                "poi": "愛宕山地蔵院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.482296,
+                    35.770324
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1422226362874568709",
+                "tweet_date": "2021-08-03",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/zfXinGdG34",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7zDVKLVgAMN4pn.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和三癸亥年",
+                "year_built_ce": 1803,
+                "address": "千葉県香取郡多古町西古内",
+                "poi": "愛宕山地蔵院",
+                "ai_tags": null
+            }
         }
     ]
 }
