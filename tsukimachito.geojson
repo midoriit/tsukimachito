@@ -113912,6 +113912,32 @@
                 "poi": "大和神社",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.0249386,
+                    37.5139603
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1423120029239824384",
+                "tweet_date": "2021-08-05",
+                "contributor": "tsukimachi_low",
+                "tweet_url": "https:\/\/t.co\/Ensa2zYkYg",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E7_wGbnVoAImmxS.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "新潟県長岡市",
+                "poi": "妙円寺",
+                "ai_tags": null
+            }
         }
     ]
 }
