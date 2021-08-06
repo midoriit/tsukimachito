@@ -113938,6 +113938,136 @@
                 "poi": "妙円寺",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.146368,
+                    35.711886
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1423300180825153539",
+                "tweet_date": "2021-08-06",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/nmjgI7LVwl",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8CT4chVgAUFMG2.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享和元年",
+                "year_built_ce": 1801,
+                "address": "千葉県佐倉市上志津",
+                "poi": "交差点",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.146368,
+                    35.711886
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1423300526716850185",
+                "tweet_date": "2021-08-06",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/lqxYgLx3KZ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8CUMXzVIAU3YEE.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E8CUM92VIAQ8BLZ.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "嘉永六年",
+                "year_built_ce": 1853,
+                "address": "千葉県佐倉市上志津",
+                "poi": "交差点",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.176573,
+                    35.78857
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1423302214613815303",
+                "tweet_date": "2021-08-06",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/T8vjJAnitX",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8CVtiAVgAEUYiV.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "享保十三年",
+                "year_built_ce": 1728,
+                "address": "千葉県印西市造谷",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.176573,
+                    35.78857
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1423302621649989636",
+                "tweet_date": "2021-08-06",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/UqSQBQLwqO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8CWEGsVoAYEUS7.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政六年",
+                "year_built_ce": 1823,
+                "address": "千葉県印西市造谷",
+                "poi": "路傍",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.176573,
+                    35.78857
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1423302909572177920",
+                "tweet_date": "2021-08-06",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/K0p2lZ7JKO",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8CWaKNUcAIqHI8.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政五年",
+                "year_built_ce": 1793,
+                "address": "千葉県印西市造谷",
+                "poi": "路傍",
+                "ai_tags": null
+            }
         }
     ]
 }
