@@ -114068,6 +114068,136 @@
                 "poi": "路傍",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.176786,
+                    35.789482
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1423639236838772742",
+                "tweet_date": "2021-08-06",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/lXBqNGhGPG",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8HIPdpVoAYI1hy.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦十年",
+                "year_built_ce": 1760,
+                "address": "千葉県印西市造谷",
+                "poi": "真珠院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.176786,
+                    35.789482
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1423652296001429506",
+                "tweet_date": "2021-08-06",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/m2qY1aKXZ1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8HUKRzVIAEgOhj.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政十二年",
+                "year_built_ce": 1800,
+                "address": "千葉県印西市造谷",
+                "poi": "真珠院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.176786,
+                    35.789482
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1423721885242597379",
+                "tweet_date": "2021-08-07",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/eu97fglRk5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8ITfRNVEAIYr3Z.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天明七年",
+                "year_built_ce": 1787,
+                "address": "千葉県印西市造谷",
+                "poi": "真珠院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.176786,
+                    35.789482
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1423723909338173442",
+                "tweet_date": "2021-08-07",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/gZJJix6Q4O",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8IUx3dUUAUC5y5.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保年間",
+                "year_built_ce": "",
+                "address": "千葉県印西市造谷",
+                "poi": "真珠院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.176786,
+                    35.789482
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1423724348314030081",
+                "tweet_date": "2021-08-07",
+                "contributor": "wil_397",
+                "tweet_url": "https:\/\/t.co\/iTUCZ7kct4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8IVkfyUUAEIC96.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県印西市造谷",
+                "poi": "真珠院",
+                "ai_tags": null
+            }
         }
     ]
 }
