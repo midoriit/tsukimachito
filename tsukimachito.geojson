@@ -114198,6 +114198,370 @@
                 "poi": "真珠院",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.316242,
+                    36.254147
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1424921803655319552",
+                "tweet_date": "2021-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/xOoXuInR1u",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8ZWzsvVcAAw2nj.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E8ZW02CUUAEg9-c.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文久二年",
+                "year_built_ce": 1862,
+                "address": "群馬県太田市亀岡町",
+                "poi": "亀岡観音堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.316242,
+                    36.254147
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1424922262084362245",
+                "tweet_date": "2021-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/ceMF8c2yU2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8ZXPmZUUAQeGDy.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "宝暦十二年",
+                "year_built_ce": 1762,
+                "address": "群馬県太田市亀岡町",
+                "poi": "亀岡観音堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.316242,
+                    36.254147
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1424922961257975811",
+                "tweet_date": "2021-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/HhLHmAhTwU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8ZX4VqVIAEpTjV.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "寛政十三年",
+                "year_built_ce": 1801,
+                "address": "群馬県太田市亀岡町",
+                "poi": "亀岡観音堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.315671,
+                    36.254234
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1424923925482414082",
+                "tweet_date": "2021-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/VB2pMPOrL5",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8ZYwb2VcAE5Xyz.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "宝暦十一年",
+                "year_built_ce": 1761,
+                "address": "群馬県太田市亀岡町",
+                "poi": "亀岡観音堂",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.3178261,
+                    36.248945
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1424927405198614530",
+                "tweet_date": "2021-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/B0Gh6DwOe0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8Zb6_eVkAIGlLg.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文化十年",
+                "year_built_ce": 1813,
+                "address": "群馬県太田市前島町",
+                "poi": "墓地",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.319414,
+                    36.249272
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1424930015708258309",
+                "tweet_date": "2021-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/7z2HPoSqWq",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8ZeS7lVEAoGxLa.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "宝暦八年",
+                "year_built_ce": 1758,
+                "address": "群馬県太田市前島町",
+                "poi": "前島院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.319414,
+                    36.249272
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1424930107743899649",
+                "tweet_date": "2021-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/J32tw6l1v3",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8ZeYUiUUAERn-Q.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文久二年",
+                "year_built_ce": 1862,
+                "address": "群馬県太田市前島町",
+                "poi": "前島院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.321098,
+                    36.251952
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1424932424887066627",
+                "tweet_date": "2021-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/lpWmzD66hu",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8ZgfF_VoAgMWvu.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文化十二年",
+                "year_built_ce": 1815,
+                "address": "群馬県太田市亀岡町",
+                "poi": "儀源寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.321098,
+                    36.251952
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1424932484089667587",
+                "tweet_date": "2021-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/bc9vjGcDTR",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8ZgipFVoAcPkiF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "寛延二年",
+                "year_built_ce": 1749,
+                "address": "群馬県太田市亀岡町",
+                "poi": "儀源寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.303538,
+                    36.259315
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1424939338429702145",
+                "tweet_date": "2021-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/EULgYYRyUc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8ZmxmUVUAQPDHt.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "宝暦七年",
+                "year_built_ce": 1757,
+                "address": "群馬県太田市安養寺町",
+                "poi": "明王院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.303743,
+                    36.258374
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1424940048714113026",
+                "tweet_date": "2021-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/iV4SzttWfk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8Zna9pVIAglnLF.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "文政八年",
+                "year_built_ce": 1825,
+                "address": "群馬県太田市安養寺町",
+                "poi": "明王院",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.302967,
+                    36.264745
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1424943342199087106",
+                "tweet_date": "2021-08-10",
+                "contributor": "tk01k",
+                "tweet_url": "https:\/\/t.co\/nWfOpldCTz",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8Zqar5VEAA9GaM.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十二夜塔",
+                "year_built": "宝暦八年",
+                "year_built_ce": 1758,
+                "address": "群馬県太田市粕川町",
+                "poi": "成就院跡墓地",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.039444,
+                    36.623667
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1424947797057413126",
+                "tweet_date": "2021-08-10",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/oA3tPTc0es",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8ZuM99VgAIfOx8.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔 二十三夜塔",
+                "year_built": "大正四年",
+                "year_built_ce": 1915,
+                "address": "栃木県塩谷郡高根沢町大字太田",
+                "poi": "",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.031419,
+                    36.647206
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1424948240336646150",
+                "tweet_date": "2021-08-10",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/92EtIgdflK",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E8ZujdBUYAA6_kj.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E8ZulU5VoAAcvQO.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E8ZumRIVIAA_iu4.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "明治二十七年",
+                "year_built_ce": 1894,
+                "address": "栃木県塩谷郡高根沢町大字平田",
+                "poi": "熊野神社",
+                "ai_tags": null
+            }
         }
     ]
 }
