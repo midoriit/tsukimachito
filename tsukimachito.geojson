@@ -114562,6 +114562,136 @@
                 "poi": "熊野神社",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.390488,
+                    37.411189
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1426892556948832258",
+                "tweet_date": "2021-08-15",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/5MRIEkCjxk",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E81XBFNUcAEY0BL.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市富久山町久保田久保田",
+                "poi": "阿弥陀寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.328379,
+                    37.469654
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1426899357857501190",
+                "tweet_date": "2021-08-15",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/VHKdFJGpSc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E81cjhtUUAA2jRZ.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市喜久田町堀之内赤津",
+                "poi": "稲荷神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.328379,
+                    37.469654
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1426899836641550338",
+                "tweet_date": "2021-08-15",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/f8pxjX9Pnc",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E81dlE6VgAg_b-9.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "嘉永7年",
+                "year_built_ce": 1854,
+                "address": "福島県郡山市喜久田町堀之内赤津",
+                "poi": "稲荷神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.328379,
+                    37.469654
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1426900210249179136",
+                "tweet_date": "2021-08-15",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/ySyVT7o5hC",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E81eBumUYAUH0Yi.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "福島県郡山市喜久田町堀之内赤津",
+                "poi": "稲荷神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.328379,
+                    37.469654
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1426900683874177028",
+                "tweet_date": "2021-08-15",
+                "contributor": "strelitziaaugus",
+                "tweet_url": "https:\/\/t.co\/thfj8Oa6dh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E81eQliVcAU1D_N.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E81eWumVIAAMZer.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E81eZHGVUAYZkbS.jpg",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永3年",
+                "year_built_ce": 1774,
+                "address": "福島県郡山市喜久田町堀之内赤津",
+                "poi": "稲荷神社",
+                "ai_tags": null
+            }
         }
     ]
 }
