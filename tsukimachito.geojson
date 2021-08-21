@@ -114692,6 +114692,84 @@
                 "poi": "稲荷神社",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.943618,
+                    36.516839
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1428958800287911940",
+                "tweet_date": "2021-08-21",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/N28SyNDMhB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9SuLF6UcAcuNWG.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政十一年",
+                "year_built_ce": 1828,
+                "address": "栃木県宇都宮市上桑島町",
+                "poi": "高靇神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.943698,
+                    36.507142
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1428959161056784385",
+                "tweet_date": "2021-08-21",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/HFuME3nv6t",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9SugmaUUAAOQw5.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文化六年",
+                "year_built_ce": 1809,
+                "address": "栃木県宇都宮市上桑島町",
+                "poi": "高靇神社",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.943698,
+                    36.507142
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1428959428150059015",
+                "tweet_date": "2021-08-21",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/N2d25g1827",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9Su27-VoAQ5fYx.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E9Su4fHVgAkGh_N.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "寛政二年",
+                "year_built_ce": 1790,
+                "address": "栃木県宇都宮市上桑島町",
+                "poi": "高靇神社",
+                "ai_tags": null
+            }
         }
     ]
 }
