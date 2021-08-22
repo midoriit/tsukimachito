@@ -114770,6 +114770,110 @@
                 "poi": "高靇神社",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.898214,
+                    36.37844
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1429342962769547267",
+                "tweet_date": "2021-08-22",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/nC2ma28lI2",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9YLbd9UcAAFqjp.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E9YL0oNVoAU_ugo.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保七年",
+                "year_built_ce": 1722,
+                "address": "栃木県下野市磯部",
+                "poi": "塚越公民館",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.898214,
+                    36.37844
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1429343278852296707",
+                "tweet_date": "2021-08-22",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/cQUO8JWRN4",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9YL4hfVEAQaNvD.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "天明二年",
+                "year_built_ce": 1782,
+                "address": "栃木県下野市磯部",
+                "poi": "塚越公民館",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.898214,
+                    36.37844
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1429343535212335105",
+                "tweet_date": "2021-08-22",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/AB6rAJcmLB",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9YMK9eVIAE9fKO.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E9YMMALVEAcYhWX.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "弘化二年",
+                "year_built_ce": 1845,
+                "address": "栃木県下野市磯部",
+                "poi": "塚越公民館",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.898214,
+                    36.37844
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1429343744621387782",
+                "tweet_date": "2021-08-22",
+                "contributor": "QqaKko",
+                "tweet_url": "https:\/\/t.co\/caIAe0T4rh",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9YMZo1VgAE28HM.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E9YMayKVoAQpwtx.jpg",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "文政二年",
+                "year_built_ce": 1819,
+                "address": "栃木県下野市磯部",
+                "poi": "塚越公民館",
+                "ai_tags": null
+            }
         }
     ]
 }
