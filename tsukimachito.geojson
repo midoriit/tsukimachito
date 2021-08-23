@@ -114874,6 +114874,266 @@
                 "poi": "塚越公民館",
                 "ai_tags": null
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.36386,
+                    35.817708
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1429427357220147207",
+                "tweet_date": "2021-08-22",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/dhP1mrEeNQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9ZYl7uVEAMHV8Q.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "延宝元癸丑年",
+                "year_built_ce": 1673,
+                "address": "千葉県成田市小泉",
+                "poi": "自性院泉涌寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.36386,
+                    35.817708
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1429427382369230850",
+                "tweet_date": "2021-08-22",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/QQZ1qGq0wV",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9ZYnUbUcAEbL0x.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦十二壬午年",
+                "year_built_ce": 1762,
+                "address": "千葉県成田市小泉",
+                "poi": "自性院泉涌寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.36386,
+                    35.817708
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1429427403185541121",
+                "tweet_date": "2021-08-22",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/80LlfISAa9",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9ZYotvVcAMLt0X.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "宝暦十三未年",
+                "year_built_ce": 1763,
+                "address": "千葉県成田市小泉",
+                "poi": "自性院泉涌寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.36386,
+                    35.817708
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1429427423800561664",
+                "tweet_date": "2021-08-22",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/M5AzlyqzpU",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9ZYp8GVoAcnBhX.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "寛政三辛亥年",
+                "year_built_ce": 1791,
+                "address": "千葉県成田市小泉",
+                "poi": "自性院泉涌寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.36386,
+                    35.817708
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1429427446860845057",
+                "tweet_date": "2021-08-22",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/0pDUZah28V",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9ZYrJoUYAAfJ4R.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "文化二乙丑年",
+                "year_built_ce": 1805,
+                "address": "千葉県成田市小泉",
+                "poi": "自性院泉涌寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.36386,
+                    35.817708
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1429427468000059394",
+                "tweet_date": "2021-08-22",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/h0UnkJE1QQ",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9ZYsgzVgAEsWfB.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "",
+                "year_built_ce": "",
+                "address": "千葉県成田市小泉",
+                "poi": "自性院泉涌寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.36386,
+                    35.817708
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1429427488648663042",
+                "tweet_date": "2021-08-22",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/KsJUQPq3a7",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9ZYtsvVoAQu15F.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "安永十辛丑年",
+                "year_built_ce": 1781,
+                "address": "千葉県成田市小泉",
+                "poi": "自性院泉涌寺",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.36687,
+                    35.837118
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1429435250610819076",
+                "tweet_date": "2021-08-22",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/QmdxBTGtC1",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9ZfxdvUcAEVH6l.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "享保十一丙午年",
+                "year_built_ce": 1726,
+                "address": "千葉県成田市土室",
+                "poi": "集会所",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.36687,
+                    35.837118
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1429435276531621897",
+                "tweet_date": "2021-08-22",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/9W6cwiuYur",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9Zfyu0VUAE64sh.jpg",
+                "media_url_2": "",
+                "media_url_3": "",
+                "media_url_4": "",
+                "type": "十九夜塔",
+                "year_built": "安永六丁酉年",
+                "year_built_ce": 1777,
+                "address": "千葉県成田市土室",
+                "poi": "集会所",
+                "ai_tags": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.392882,
+                    35.874572
+                ]
+            },
+            "properties": {
+                "tweet_id": "T1429440800283238405",
+                "tweet_date": "2021-08-22",
+                "contributor": "nouveau_vent_tk",
+                "tweet_url": "https:\/\/t.co\/WtHd5lrkK0",
+                "media_url_1": "https:\/\/pbs.twimg.com\/media\/E9ZkyNOVkAAQhaN.jpg",
+                "media_url_2": "https:\/\/pbs.twimg.com\/media\/E9ZkzkhVEAIJdq-.jpg",
+                "media_url_3": "https:\/\/pbs.twimg.com\/media\/E9Zk0tmVUAQefny.jpg",
+                "media_url_4": "",
+                "type": "二十三夜塔",
+                "year_built": "天保九年",
+                "year_built_ce": 1838,
+                "address": "千葉県成田市名木",
+                "poi": "南城山常福寺",
+                "ai_tags": null
+            }
         }
     ]
 }
